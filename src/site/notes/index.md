@@ -26,3 +26,5 @@ wither & bloom is a post apocalyptic biopunk scientific romance written by two l
 - mutants
 - the brotherhood
 - shareholders
+- liquid dark
+- forging metal
