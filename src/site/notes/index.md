@@ -6,8 +6,8 @@
 wither & bloom is a post apocalyptic biopunk scientific romance written by two librarians.
 
 ## characters
-- violet
-- felix
+- [[violet\|violet]]
+- [[felix\|felix]]
 - rose
 - rosie the cat(?)
 - the ceo
