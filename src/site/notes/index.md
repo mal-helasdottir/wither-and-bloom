@@ -28,3 +28,9 @@ wither & bloom is a post apocalyptic biopunk scientific romance written by two l
 - shareholders
 - liquid dark
 - forging metal
+
+## recent snippets
+- [[snippets/The Assault on Battery City\|The Assault on Battery City]]
+- [[snippets/bethlehem 3\|bethlehem 3]]
+
+{ .block-language-dataview}
