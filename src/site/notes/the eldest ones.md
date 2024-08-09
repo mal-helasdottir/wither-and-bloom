@@ -11,4 +11,4 @@ a set of horrifying elder gods whose thirst for chaos has upended the universe m
 
 ## the infinite pattern
 
-## the diminished
+## [[The Cat, The Diminished One, The Little Chaos, Rosie\|the diminished]]
