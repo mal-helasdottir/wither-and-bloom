@@ -9,13 +9,12 @@ wither & bloom is a post apocalyptic biopunk scientific romance written by two l
 - [[violet\|violet]]
 - [[felix\|felix]]
 - rose
-- [[The Cat, The Diminished One, The Little Chaos, Rosie\|rosie the cat(?)]]
+- [[The Diminished One\|rosie the cat(?)]]
 - [[the ceo\|the ceo]]
 ## places
 - the garden of eden/bethlehem
 - zion
-- jericho
-- cana
+- [[franchise locations of the empire of zion\|franchise locations of the empire of zion]]
 - battery city
 - the wilds
 - the (demon)wastes
@@ -30,13 +29,13 @@ wither & bloom is a post apocalyptic biopunk scientific romance written by two l
 - [[the prodigy project\|the prodigy project]]
 
 ## recent pages
-| file                                                                                                              | tags      | modified time              |
-| ----------------------------------------------------------------------------------------------------------------- | --------- | -------------------------- |
-| [[The Cat, The Diminished One, The Little Chaos, Rosie\|The Cat, The Diminished One, The Little Chaos, Rosie]] | <ul></ul> | 10:57 PM - August 08, 2024 |
-| [[the eldest ones\|the eldest ones]]                                                                           | <ul></ul> | 10:56 PM - August 08, 2024 |
-| [[the ceo\|the ceo]]                                                                                           | <ul></ul> | 2:58 PM - August 08, 2024  |
-| [[powers of the flesh\|powers of the flesh]]                                                                   | <ul></ul> | 2:54 PM - August 08, 2024  |
-| [[the prodigy project\|the prodigy project]]                                                                   | <ul></ul> | 2:47 PM - August 08, 2024  |
+| file                                                                                        | tags      | modified time              |
+| ------------------------------------------------------------------------------------------- | --------- | -------------------------- |
+| [[franchise locations of the empire of zion\|franchise locations of the empire of zion]] | <ul></ul> | 12:37 PM - August 14, 2024 |
+| [[the eldest ones\|the eldest ones]]                                                     | <ul></ul> | 12:01 PM - August 12, 2024 |
+| [[The Diminished One\|The Diminished One]]                                               | <ul></ul> | 10:57 PM - August 08, 2024 |
+| [[the ceo\|the ceo]]                                                                     | <ul></ul> | 2:58 PM - August 08, 2024  |
+| [[powers of the flesh\|powers of the flesh]]                                             | <ul></ul> | 2:54 PM - August 08, 2024  |
 
 { .block-language-dataview}
 
