@@ -15,6 +15,7 @@ wither & bloom is a post apocalyptic biopunk scientific romance written by two l
 - the garden of eden/bethlehem
 - zion
 - [[franchise locations of the empire of zion\|franchise locations of the empire of zion]]
+- [[Frontier and Mute Towns\|Frontier and Mute Towns]]
 - battery city
 - the wilds
 - the (demon)wastes
@@ -31,11 +32,11 @@ wither & bloom is a post apocalyptic biopunk scientific romance written by two l
 ## recent pages
 | file                                                                                        | tags      | modified time              |
 | ------------------------------------------------------------------------------------------- | --------- | -------------------------- |
+| [[Frontier and Mute Towns\|Frontier and Mute Towns]]                                     | <ul></ul> | 2:59 PM - August 14, 2024  |
 | [[franchise locations of the empire of zion\|franchise locations of the empire of zion]] | <ul></ul> | 12:37 PM - August 14, 2024 |
 | [[the eldest ones\|the eldest ones]]                                                     | <ul></ul> | 12:01 PM - August 12, 2024 |
 | [[The Diminished One\|The Diminished One]]                                               | <ul></ul> | 10:57 PM - August 08, 2024 |
 | [[the ceo\|the ceo]]                                                                     | <ul></ul> | 2:58 PM - August 08, 2024  |
-| [[powers of the flesh\|powers of the flesh]]                                             | <ul></ul> | 2:54 PM - August 08, 2024  |
 
 { .block-language-dataview}
 
