@@ -30,11 +30,11 @@ wither & bloom is a post apocalyptic biopunk scientific romance written by two l
 ## recent pages
 | file                                                                                        | tags      | modified time              |
 | ------------------------------------------------------------------------------------------- | --------- | -------------------------- |
+| [[franchise locations of the empire of zion\|franchise locations of the empire of zion]] | <ul></ul> | 3:20 PM - August 15, 2024  |
+| [[violet\|violet]]                                                                       | <ul></ul> | 2:59 PM - August 15, 2024  |
 | [[rose\|rose]]                                                                           | <ul></ul> | 12:36 PM - August 15, 2024 |
-| [[franchise locations of the empire of zion\|franchise locations of the empire of zion]] | <ul></ul> | 4:56 PM - August 14, 2024  |
 | [[Frontier and Mute Towns\|Frontier and Mute Towns]]                                     | <ul></ul> | 2:59 PM - August 14, 2024  |
 | [[the eldest ones\|the eldest ones]]                                                     | <ul></ul> | 12:01 PM - August 12, 2024 |
-| [[The Diminished One\|The Diminished One]]                                               | <ul></ul> | 10:57 PM - August 08, 2024 |
 
 { .block-language-dataview}
 
