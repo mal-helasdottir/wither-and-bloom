@@ -39,6 +39,15 @@
 > - King Herod killed every boy child of two years or younger here and in the surrounding area in fear of a prophesied king of the jews
 
 ## magdala
+**THOUGHTS**:
+- mary has associations with fine ointments and perfumes, women in general, apothecaries, hairdressers, converts, pharmacists, sexual temptation, and penitent sinners
+- mary was considered the lead female follower as simon peter was for male followers. i like the idea of magdala and bethsaida (peter's birthplace) having a rivalry due to competing industries 
+- industry possibilities
+	- education, mary being the only disciple to truly understand Jesus
+	- death and burial, her association with penitence, oils, perfumes and her presence during the crucifixion. might be fun for a secret group of the brotherhood to hang here since everyone else there is dead
+	- luxury goods, oils, perfumes, and hairdressing 
+	- reeducation from her understanding but also her penitence
+	- medicine from her caring for Jesus feet, her own exorcism and possible miracle cure, apothecaries and pharmacists 
 
 > [!INFO]- bible reference
 > - the hometown or perhaps birthplace of mary magdalen, possible female apostle, possibly sugar mama, possibly exorcised by jc himself. by tradition a witness to the crucifixion, the burial, the empty tomb, and the resurrected christ
