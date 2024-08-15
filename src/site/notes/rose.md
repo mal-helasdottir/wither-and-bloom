@@ -21,4 +21,4 @@ decanted at the greenhouse facility in jericho
 
 ---
 ### links
-- [[https://www.britannica.com/plant/rose-of-Jericho\|the rose of jericho]], a resurrection plant common in desert climes
+- [the rose of jericho](https://www.britannica.com/plant/rose-of-Jericho), a resurrection plant common in desert climes
