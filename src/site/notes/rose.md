@@ -6,17 +6,22 @@
 
 ## stats
 hair:: white
-eyes:: one red, one black
+eyes:: one red, one black (complete)
 skin:: white (albino)
+height::
+weight::
+status:: dead, possessed
+## birth & youth
+decanted at the greenhouse facility in [[franchise locations of the empire of zion#jericho\|jericho]]. paired within a few days to her '*twin*' [[violet\|violet]] and both sent to the nursery facility at [[franchise locations of the empire of zion#bethlehem\|bethlehem]]
 
-## birth
-decanted at the greenhouse facility in jericho
+## prodigy subject and testing
 
-## life
 
 ## death
 
+
 ## as coo
+
 
 
 ---
