@@ -16,7 +16,7 @@
 ## cana
 *voted zion's number one getaway for a century running!*
 - corpo's idea of a fabulous resort: lots of sand and sun and tourist traps
-- nice but artificial and kind chintzy--like a cruise ship stop
+- nice but artificial and kinda chintzy--like a cruise ship stop
 
 > [!INFO]- bible reference
 > - the site of jesus christ's first miracle, wherein he turned water into wine and saved a wedding from being kind of shit. legend has it that mary specifically requested he do this so the bride and groom did not commit a party foul
