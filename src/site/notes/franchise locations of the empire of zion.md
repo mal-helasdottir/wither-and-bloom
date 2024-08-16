@@ -4,6 +4,30 @@
 
 # franchise locations of the empire of zion
 
+Industry suggestions:
+- intelligence
+- propaganda
+- war
+- technology
+- recreation
+- religion
+- education
+- space
+- commerce/trade
+- energy
+- health and human services
+- agriculture
+- administration/government
+- justice
+- construction/manufacture/masonry
+- luxury
+- fishing
+- transportation
+- textiles
+- livestock
+- mining
+- culture
+
 ## jericho
 *zion's military industrial complex*
 - walled city securing machines, manpower, and tech for the purposes of wrecking shit both internal and external

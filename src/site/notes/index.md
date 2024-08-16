@@ -30,7 +30,7 @@ wither & bloom is a post apocalyptic biopunk scientific romance written by two l
 ## recent pages
 | file                                                                                        | tags                                      | modified time              |
 | ------------------------------------------------------------------------------------------- | ----------------------------------------- | -------------------------- |
-| [[franchise locations of the empire of zion\|franchise locations of the empire of zion]] | <ul></ul>                                 | 1:35 PM - August 16, 2024  |
+| [[franchise locations of the empire of zion\|franchise locations of the empire of zion]] | <ul></ul>                                 | 3:23 PM - August 16, 2024  |
 | [[snippets/hello rosie\|hello rosie]]                                                    | <ul><li>#snippet</li><li>#waifu</li></ul> | 11:52 AM - August 16, 2024 |
 | [[snippets/dont get hurt\|dont get hurt]]                                                | <ul><li>#snippet</li><li>#waifu</li></ul> | 11:50 AM - August 16, 2024 |
 | [[snippets/bethlehem 2\|bethlehem 2]]                                                    | <ul><li>#snippet</li><li>#waifu</li></ul> | 11:45 AM - August 16, 2024 |
