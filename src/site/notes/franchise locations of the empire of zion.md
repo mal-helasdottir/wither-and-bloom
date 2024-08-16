@@ -54,10 +54,13 @@
 > - a fishing town on the western shore of the sea of galilee
 > - by the end of the first century it was renowned for "its inhabitants alleged vice and licentiousness"
 
-## tzipori
+## tzipori/zippori/sepphoris
 
-> [!INFO] block title goes here
-> content
+> [!INFO]- bible reference
+> - traditionally the birthplace of mary, mother of jesus, and the residence of anna and joachim, her parents (jesus' grandparents). mary comes from a long line of priests from the lineage of Aaron and the Tribe of Levi
+> - very close distance wise to nazareth and jesus may have made frequent trips here to do carpentry work
+> - *tzipor* is the hebrew word for **bird**
+> - famous across galilee for pomegranates, olives, and wheat before everything was replaced with animal feed plants
 ## capernaum
 
 > [!INFO] block title goes here
