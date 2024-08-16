@@ -28,18 +28,22 @@ wither & bloom is a post apocalyptic biopunk scientific romance written by two l
 - [[the prodigy project\|the prodigy project]]
 
 ## recent pages
-| file                                                                                        | tags      | modified time              |
-| ------------------------------------------------------------------------------------------- | --------- | -------------------------- |
-| [[franchise locations of the empire of zion\|franchise locations of the empire of zion]] | <ul></ul> | 3:20 PM - August 15, 2024  |
-| [[violet\|violet]]                                                                       | <ul></ul> | 2:59 PM - August 15, 2024  |
-| [[rose\|rose]]                                                                           | <ul></ul> | 12:36 PM - August 15, 2024 |
-| [[Frontier and Mute Towns\|Frontier and Mute Towns]]                                     | <ul></ul> | 2:59 PM - August 14, 2024  |
-| [[the eldest ones\|the eldest ones]]                                                     | <ul></ul> | 12:01 PM - August 12, 2024 |
+| file                                                                                        | tags                                      | modified time              |
+| ------------------------------------------------------------------------------------------- | ----------------------------------------- | -------------------------- |
+| [[snippets/hello rosie\|hello rosie]]                                                    | <ul><li>#snippet</li><li>#waifu</li></ul> | 11:52 AM - August 16, 2024 |
+| [[snippets/dont get hurt\|dont get hurt]]                                                | <ul><li>#snippet</li><li>#waifu</li></ul> | 11:50 AM - August 16, 2024 |
+| [[snippets/bethlehem 2\|bethlehem 2]]                                                    | <ul><li>#snippet</li><li>#waifu</li></ul> | 11:45 AM - August 16, 2024 |
+| [[snippets/bethlehem\|bethlehem]]                                                        | <ul><li>#snippet</li><li>#waifu</li></ul> | 11:43 AM - August 16, 2024 |
+| [[franchise locations of the empire of zion\|franchise locations of the empire of zion]] | <ul></ul>                                 | 10:04 PM - August 15, 2024 |
 
 { .block-language-dataview}
 
 ## recent snippets
 - [[snippets/bethlehem 3\|bethlehem 3]]
 - [[snippets/The Assault on Battery City\|The Assault on Battery City]]
+- [[snippets/bethlehem 2\|bethlehem 2]]
+- [[snippets/bethlehem\|bethlehem]]
+- [[snippets/dont get hurt\|dont get hurt]]
+- [[snippets/hello rosie\|hello rosie]]
 
 { .block-language-dataview}

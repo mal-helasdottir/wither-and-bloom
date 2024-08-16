@@ -52,6 +52,7 @@
 > [!INFO]- bible reference
 > - the hometown or perhaps birthplace of mary magdalen, possible female apostle, possibly sugar mama, possibly exorcised by jc himself. by tradition a witness to the crucifixion, the burial, the empty tomb, and the resurrected christ
 > - a fishing town on the western shore of the sea of galilee
+> - by the end of the first century it was renowned for "its inhabitants alleged vice and licentiousness"
 
 ## tzipori
 
