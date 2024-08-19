@@ -29,5 +29,5 @@ decanted at the greenhouse facility in [[franchise locations of the empire of zi
 
 ---
 ### links
-
-
+- archetype: [tsundere](https://tvtropes.org/pmwiki/pmwiki.php/Main/Tsundere)
+- as a couple with [[felix\|felix]]: [belligerent sexual tension](https://tvtropes.org/pmwiki/pmwiki.php/Main/BelligerentSexualTension)
