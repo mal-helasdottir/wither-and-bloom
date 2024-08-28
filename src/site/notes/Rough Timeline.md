@@ -21,3 +21,8 @@
 - ~2.8 MYA - One half of the Sundered Chaos, who will eventually become known as The Diminished One reaches earth.
 	- The Acolytes mark the Diminished One’s arrival, but their directive is related to that of the Flesh and so they only observe it and do not interfere or disturb the pattern about it.
 	- The Homo Habilis makes its first appearance around this time.
+# The Rise of Man
+
+- ~12,000 BCE The Natufian culture becomes the first semi-sedentary culture of man.  
+	- The Acolytes of the Pattern take Notice of this development, and determine that humanity will eventually become the dominate species of the planet and begin to focus their gaze upon them.
+- ~4000 BCE the Sumerians are visited by the Acolytes of the Pattern, The Sumerians refer to them as the Anunnaki, or beings from the sky.  The Anunnaki
