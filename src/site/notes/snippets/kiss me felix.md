@@ -17,7 +17,7 @@ Felix applies a fresh coat of his trademarked smirk, pleased he heard her correc
 
 She huffs, annoyed, "Not like that! Not all shitty for an escape…"
 
-*Shitty? An here a gentlemüte thought he’d planted a good one… * Certainly shut her up for a moment at the time, not that he looked back on it with pride or anything.
+*Shitty? An here a gentlemüte thought he’d planted a good one…* Certainly shut her up for a moment at the time, not that he looked back on it with pride or anything.
 
 Her eyes flick to the old movie clippings pasted all over the yute’s cabin and her cheeks darken. "A kiss like how real people kiss."
 

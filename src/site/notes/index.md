@@ -31,7 +31,7 @@ wither & bloom is a post apocalyptic biopunk scientific romance written by two l
 ## recent pages
 | file                                                                                        | tags                                      | modified time              |
 | ------------------------------------------------------------------------------------------- | ----------------------------------------- | -------------------------- |
-| [[snippets/kiss me felix\|kiss me felix]]                                                | <ul><li>#snippet</li><li>#waifu</li></ul> | 11:18 AM - August 29, 2024 |
+| [[snippets/kiss me felix\|kiss me felix]]                                                | <ul><li>#snippet</li><li>#waifu</li></ul> | 11:19 AM - August 29, 2024 |
 | [[Rough Timeline\|Rough Timeline]]                                                       | <ul></ul>                                 | 3:54 PM - August 27, 2024  |
 | [[violet\|violet]]                                                                       | <ul></ul>                                 | 8:06 PM - August 18, 2024  |
 | [[felix\|felix]]                                                                         | <ul></ul>                                 | 8:06 PM - August 18, 2024  |
