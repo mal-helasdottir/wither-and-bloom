@@ -29,3 +29,28 @@ This triggers a chain of chaotic events that lead to global nuclear war as no on
 Adam uses his newfound powers to erect a dome of flesh to protect Austin from the attack. The black dome remains in place for several years until the area around Austin is more safe to traverse.  
 
 In that time the people in the city being to revere the CEO as their god and savior and the religion around the Eden Energy is formed.  Austin is renamed Zion, and whent he dome comes down to reveal the wasteland around them the CEO and his forces are ready to move out and lay claim to what remains of civilization.
+
+## horcruxes (working name?)
+OK so Devils are all early versions of Violet and Rose. The CEO's failed experiments to create the protege.
+
+They were all at once point lab grown Children with the CEO's DNA and genetic manipulations in attempts to create a human host capable of holding the full might of the Fallen Flesh's godly power.
+
+The CEO's ultimate desire is to be able to retain both his own mind and his human form. its very much a hubris thing more than anything. he has already (mostly) held onto his mind (in large part due to the FF being brain dead but he doesn't know that) but he can't hold that tenuous grasps on his sanity with out like randomly fleshwarping into a monster or losing his grip on the power and basically exploding, which is why he has to devote like 98% of his godly powers to just keeping himself held together.
+
+He created the prodigy project to grow a body capable of holding the power while maintaining it's form and his plan is to then take over that body and be the "perfect form" (in his mind.)
+
+Well he has been at it a while. and each time has gotten a little better. As he raises these kids though he will have them consume various things to test their control. animals, other normal people, mutants, various types of Liquid night possibly, as well as demons. And when he thinks they are ready or when he grows impatient he will send them the final test.
+
+A piece of his own flesh that contains a portion of the Fallen Flesh's direct power, which he refers to as a "Sliver of Divinity."
+
+Until Rose, every one of his children who consumed this Sliver of Divinity would either immediately or very quickly Flesh Warp into a monster; no longer human. A failure in the CEO's eyes. They often experienced fits of insanity as well and tended to kill most inhabitants in the Garden before they could be expelled into a Demon Field (This is one of various reasons why Gardens of built near DFs in addition to having access to demons to study etc).
+
+These Children became the Devils of those fields at this point. some of the later versions fleshwarped less and might still look closer to human, other regain some of their sanity and can be spoken to and reasoned with. the earlier ones (like Cerberus) remain mostly unfeeling rage beast like many demons are but way stronger and more powerful because they have a part of god inside them.
+
+I think the Devils manipulate the fields and the demons in them to warp the environment and the creatures their to reflect themselves. Gluttony is constantly raining shit and blood and all the beasties there are eternally hungry because Cerberus is. (I also think Cerberus may have been an experiment where they had both twins or maybe even triplets eat the sliver at once rather than only the strongest of the batch and when they flesh warped together forming the three headed beastie and making them even less coherent. but that is just minor thought and aside) .
+
+So here was my thinking on the "horcrux" idea that I have shared before but will put it all in once place right now.
+
+The CEO, in his hubris, has laid the seeds for his own downfall within his failed experiments. He is taking a portion of his own godly power and placing it in other beings. This does slightly weaken him, but not that much really. Alone these Slivers of Divinity are no where near enough to face him. The Devils are too uncontrollable on their own to really unite against him as well, any alliance between Devils would be rife with betrayal and back stabbing most likely since they are all a little bit insane even the more sane ones. But if someone where to go around and collect all these Slivers and were able to hold them in one body this person might stand a chance against the CEO. Even if they couldn't out right kill him, they may be able to press him enough to where he is unable to fight back while also devoting enough of his own power to keep himself from exploding. (Which is what the grand final battle will be. Violet will have several slivers in her, and Felix will be given a sword or something possibly from the lanky boys or the Brotherhood that can hurt the CEO and the two of them basically wear him down until he can't hold himself together anymore. or at least that was my thought).
+
+So that was my original "horcrux" idea. its a bit different from like HP in that rather than the mcguffin like being what keeps him alive, its more like a power up for Violet making her just a little be more of a match for him, and when combined with the weapon Felix gets they can defeat him or at least get him to blow up.
