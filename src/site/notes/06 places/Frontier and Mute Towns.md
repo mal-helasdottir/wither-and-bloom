@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/06-places/frontier-and-mute-towns/"}
 ---
 
-# Frontier and Mute Towns
+# Frontier and [[05 groups/mutants\|Mute]] Towns
 
 ## Battery City
 Mute ”Capital“. Home of the Anti-Zion Resistance, AKA Babylon to the Corpos

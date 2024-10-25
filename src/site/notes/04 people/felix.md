@@ -4,7 +4,7 @@
 
 # felix
 
-a mutant
+a [[05 groups/mutants\|mutant]]
 a smuggler
 a con artist
 an idiot

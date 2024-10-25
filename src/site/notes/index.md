@@ -21,7 +21,7 @@ wither & bloom is a post apocalyptic biopunk scientific romance written by two l
 ## lore concepts
 - [[05 groups/the eldest ones\|the eldest ones]]
 - wither/bloom
-- mutants
+- [[05 groups/mutants\|mutants]]
 - [[05 groups/the brotherhood of gnosis\|the brotherhood]]
 - shareholders
 - liquid dark
@@ -29,13 +29,13 @@ wither & bloom is a post apocalyptic biopunk scientific romance written by two l
 - [[07 concepts/the prodigy project\|the prodigy project]]
 
 ## recent pages
-| file                                                                                | tags      | modified time               |
-| ----------------------------------------------------------------------------------- | --------- | --------------------------- |
-| [[04 people/the ceo\|the ceo]]                                                   | <ul></ul> | 12:44 PM - October 25, 2024 |
-| [[Rough Timeline\|Rough Timeline]]                                               | <ul></ul> | 12:43 PM - October 25, 2024 |
-| [[05 groups/the brotherhood of gnosis\|the brotherhood of gnosis]]               | <ul></ul> | 12:42 PM - October 25, 2024 |
-| [[05 groups/acolytes of the infinite pattern\|acolytes of the infinite pattern]] | <ul></ul> | 12:42 PM - October 25, 2024 |
-| [[06 places/Frontier and Mute Towns\|Frontier and Mute Towns]]                   | <ul></ul> | 12:41 PM - October 25, 2024 |
+| file                                                              | tags      | modified time              |
+| ----------------------------------------------------------------- | --------- | -------------------------- |
+| [[04 people/the ceo\|the ceo]]                                 | <ul></ul> | 3:53 PM - October 25, 2024 |
+| [[07 concepts/powers of the flesh\|powers of the flesh]]       | <ul></ul> | 3:53 PM - October 25, 2024 |
+| [[05 groups/mutants\|mutants]]                                 | <ul></ul> | 3:53 PM - October 25, 2024 |
+| [[06 places/Frontier and Mute Towns\|Frontier and Mute Towns]] | <ul></ul> | 3:52 PM - October 25, 2024 |
+| [[04 people/felix\|felix]]                                     | <ul></ul> | 3:52 PM - October 25, 2024 |
 
 { .block-language-dataview}
 

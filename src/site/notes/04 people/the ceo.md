@@ -12,7 +12,7 @@ This made Fischer Energy the richest and most powerful company in the world.  Th
 
 Unbeknownst to the mass population however, these remains of a “dead” god being spread and used as they were started spread its influence and awaken its power.  David as the first to discover it and become obsessed felt the pull first.  He had secretly uncovered a portion the Fallen Flesh’s skull and several petrified eyes of varying sizes.  A few sharp teeth as well.  He had several of these objects and splinters of bone transported to his office in Austin Texas.  He was the first human to ingest the flesh as well and began piercing his flesh with bone and as understanding grew so too did madness.  He locked himself away in his office and his only contact with the outside world for a time were rambling tweets and posts to social media often criticizing his detractors or rambling on about conspiracy theories.  His accounts are quickly silenced by tothers in his company/family.
 
-Its discovered during this isolation that Liquid Night also functions as a drug, its effects are similar to that of Meth, burst of energy and feeling unstoppable.  After a Decade of wide spread use the first mutants begin to be born.  
+Its discovered during this isolation that Liquid Night also functions as a drug, its effects are similar to that of Meth, burst of energy and feeling unstoppable.  After a Decade of wide spread use the first [[05 groups/mutants\|mutants]] begin to be born.  
 
 Panic ensues when its discovered Liquid Night is to blame for these strange births and other blizzard happenings as exposure to it has started to affect animals and plants as well
 
@@ -39,7 +39,7 @@ The CEO's ultimate desire is to be able to retain both his own mind and his huma
 
 He created the prodigy project to grow a body capable of holding the power while maintaining it's form and his plan is to then take over that body and be the "perfect form" (in his mind.)
 
-Well he has been at it a while. and each time has gotten a little better. As he raises these kids though he will have them consume various things to test their control. animals, other normal people, mutants, various types of Liquid night possibly, as well as demons. And when he thinks they are ready or when he grows impatient he will send them the final test.
+Well he has been at it a while. and each time has gotten a little better. As he raises these kids though he will have them consume various things to test their control. animals, other normal people, [[05 groups/mutants\|mutants]], various types of Liquid night possibly, as well as demons. And when he thinks they are ready or when he grows impatient he will send them the final test.
 
 A piece of his own flesh that contains a portion of the Fallen Flesh's direct power, which he refers to as a "Sliver of Divinity."
 

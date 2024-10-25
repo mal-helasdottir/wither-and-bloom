@@ -22,7 +22,7 @@ This is an offshoot of flesh warping, the brain is just another hunk of flesh an
 
  [[04 people/the ceo\|The CEO]]'s ability is hampered due to his limitations, but it is still difficult to resist his manipulations, especially for normal humans.  (proximity is key here, even though he should be able to reach across the globe but he can't. Any human living in Zion is completely under his control though) 
 
-Mutants are protected by [[04 people/The Diminished One\|the Diminished One]], which is why the Lanky Boys call the Mutants  DCs or Diminished Chosen.
+[[05 groups/mutants\|Mutants]] are protected by [[04 people/The Diminished One\|the Diminished One]], which is why the Lanky Boys call the [[05 groups/mutants\|Mutants]]  DCs or [[05 groups/mutants\|Diminished Chosen]].
 
 Demons can't do this.  Devils can control Demons, maybe like the most powerful ones can influence normal humans as well, but they require even closer proximity and probably have to have recently eaten Flesh to do so.
 
