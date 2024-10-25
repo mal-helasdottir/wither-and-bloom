@@ -13,12 +13,12 @@ weight::
 status:: alive
 
 ## birth & youth
-decanted at the greenhouse facility in [[05 places/franchise locations of the empire of zion#magdala\|magdala]]. paired within a few days to her '*twin*' [[04 people/rose\|rose]] and both sent to the nursery facility at [[05 places/franchise locations of the empire of zion#bethlehem\|bethlehem]]
+decanted at the greenhouse facility in [[06 places/franchise locations of the empire of zion#magdala\|magdala]]. paired within a few days to her '*twin*' [[04 people/rose\|rose]] and both sent to the nursery facility at [[06 places/franchise locations of the empire of zion#bethlehem\|bethlehem]]
 
 ## prodigy subject & testing
 
 
-## the death of rose
+## the death of [[04 people/rose\|rose]]
 
 
 ## exodus from eden
