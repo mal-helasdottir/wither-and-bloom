@@ -1,61 +1,65 @@
 ---
-{"dg-publish":true,"permalink":"/index/","title":"index","hideInGraph":true,"tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/index/","title":"index","tags":["gardenEntry"]}
 ---
 
 # welcome!
 wither & bloom is a post apocalyptic biopunk scientific romance written by two librarians.
 
+
+---
 ## history
-- [[03 history/Rough Timeline\|rough timeline]]
-- [[03 history/the revelation\|the revelation]]
+- [[02 history/Rough Timeline\|rough timeline]]
+- [[02 history/the revelation\|the revelation]]
 ## characters
-- [[04 people/violet\|violet]]
-- [[04 people/felix\|felix]]
-- [[04 people/rose\|rose]]
-- [[04 people/The Diminished One\|roswell the cat(?)]]
-- [[04 people/the ceo\|the ceo]]
-- [[04 people/cid\|cid]]
+- [[03 people/violet\|violet]]
+- [[03 people/felix\|felix]]
+- [[03 people/rose\|rose]]
+- [[03 people/The Diminished One\|roswell the cat(?)]]
+- [[03 people/the ceo\|the ceo]]
+- [[03 people/cid\|cid]]
 ## places
-- [[06 places/the most holy city of imperial zion\|zion]]
-- [[06 places/franchise locations of the empire of zion\|franchise locations of the empire of zion]]
-- [[06 places/Frontier and Mute Towns\|Frontier and Mute Towns]]
-- [[06 places/the wilds\|the wilds]]
-- [[06 places/the demonwastes\|the (demon)wastes]]
-- [[06 places/the gardens\|the gardens]]
+- [[05 places/the most holy city of imperial zion\|zion]]
+- [[05 places/franchise locations of the empire of zion\|franchise locations of the empire of zion]]
+- [[05 places/Frontier and Mute Towns\|Frontier and Mute Towns]]
+- [[05 places/the wilds\|the wilds]]
+- [[05 places/the demonwastes\|the (demon)wastes]]
+- [[05 places/the gardens\|the gardens]]
 ## groups
-- [[05 groups/acolytes of the infinite pattern\|acolytes of the infinite pattern]]
-- [[05 groups/the brotherhood of gnosis\|the brotherhood of gnosis]]
-- [[05 groups/the corporate fellowship\|the corporate fellowship]]
-- [[05 groups/the eldest ones\|the eldest ones]]
-- [[05 groups/the demon princes\|the demon princes]]
-- [[05 groups/shareholders\|shareholders]]
-- [[05 groups/devils\|devils]]
-- [[05 groups/mutants\|mutants]]
+- [[04 groups/acolytes of the infinite pattern\|acolytes of the infinite pattern]]
+- [[04 groups/the brotherhood of gnosis\|the brotherhood of gnosis]]
+- [[04 groups/the corporate fellowship\|the corporate fellowship]]
+- [[04 groups/the eldest ones\|the eldest ones]]
+- [[04 groups/the demon princes\|the demon princes]]
+- [[04 groups/shareholders\|shareholders]]
+- [[04 groups/devils\|devils]]
+- [[04 groups/mutants\|mutants]]
 ## lore concepts
-- [[07 concepts/wither and bloom\|wither/bloom]]
-- [[07 concepts/liquid dark\|liquid dark]]
-- [[07 concepts/the forging of metals\|forging metal]]
-- [[07 concepts/the prodigy project\|the prodigy project]]
-- [[07 concepts/currency and trade\|currency and trade]]
-- [[07 concepts/flesh warping\|flesh warping]]
-- [[07 concepts/powers of the flesh\|powers of the flesh]]
+- [[06 concepts/wither and bloom\|wither/bloom]]
+- [[06 concepts/liquid dark\|liquid dark]]
+- [[06 concepts/the forging of metals\|forging metal]]
+- [[06 concepts/the prodigy project\|the prodigy project]]
+- [[06 concepts/currency and trade\|currency and trade]]
+- [[06 concepts/flesh warping\|flesh warping]]
+- [[06 concepts/powers of the flesh\|powers of the flesh]]
 
 ## recent pages
-| file                                                                | tags                                      | modified time               |
-| ------------------------------------------------------------------- | ----------------------------------------- | --------------------------- |
-| [[02 snippets/terror billy\|terror billy]]                       | <ul><li>#snippet</li><li>#waifu</li></ul> | 10:00 AM - October 28, 2024 |
-| [[06 places/the gardens\|the gardens]]                           | <ul></ul>                                 | 9:36 AM - October 28, 2024  |
-| [[06 places/the demonwastes\|the demonwastes]]                   | <ul></ul>                                 | 9:35 AM - October 28, 2024  |
-| [[06 places/Frontier and Mute Towns\|Frontier and Mute Towns]]   | <ul></ul>                                 | 9:32 AM - October 28, 2024  |
-| [[05 groups/the corporate fellowship\|the corporate fellowship]] | <ul></ul>                                 | 9:32 AM - October 28, 2024  |
+| file                                                              | tags      | modified time               |
+| ----------------------------------------------------------------- | --------- | --------------------------- |
+| [[03 people/the ceo\|the ceo]]                                 | <ul></ul> | 10:19 AM - October 28, 2024 |
+| [[06 concepts/powers of the flesh\|powers of the flesh]]       | <ul></ul> | 10:19 AM - October 28, 2024 |
+| [[05 places/Frontier and Mute Towns\|Frontier and Mute Towns]] | <ul></ul> | 10:19 AM - October 28, 2024 |
+| [[02 history/Rough Timeline\|Rough Timeline]]                  | <ul></ul> | 10:19 AM - October 28, 2024 |
+| [[06 concepts/the prodigy project\|the prodigy project]]       | <ul></ul> | 10:19 AM - October 28, 2024 |
 
 { .block-language-dataview}
 
 ## recent snippets
-- [[02 snippets/The Assault on Battery City\|The Assault on Battery City]]
-- [[02 snippets/kiss me felix\|kiss me felix]]
-- [[02 snippets/dont get hurt\|dont get hurt]]
-- [[02 snippets/hello rosie\|hello rosie]]
-- [[02 snippets/bethlehem\|bethlehem]]
+- [[00-2 snippets/terror billy\|terror billy]]
+- [[00-2 snippets/kiss me felix\|kiss me felix]]
+- [[00-2 snippets/hello rosie\|hello rosie]]
+- [[00-2 snippets/dont get hurt\|dont get hurt]]
+- [[00-2 snippets/bethlehem 2\|bethlehem 2]]
+- [[00-2 snippets/bethlehem\|bethlehem]]
+- [[00-2 snippets/The Assault on Battery City\|The Assault on Battery City]]
 
 { .block-language-dataview}
