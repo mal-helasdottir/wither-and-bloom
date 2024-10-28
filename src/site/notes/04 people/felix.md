@@ -9,6 +9,10 @@ a smuggler
 a con artist
 an idiot
 
+born in [[06 places/franchise locations of the empire of zion#jericho\|jericho]] to mutant parents. his father one of the incredibly rare retired gladiators
+
+## gladiator days
+
 ---
 ### links
 - archetype: [jerk with a heart of gold](https://tvtropes.org/pmwiki/pmwiki.php/Main/JerkWithAHeartOfGold)

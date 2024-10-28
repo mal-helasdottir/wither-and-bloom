@@ -38,6 +38,6 @@ limited to Organic Flesh. Fleshnetic? Basically the ability to telekentically ma
 
 Some Devils and stronger Demons can do this, but probably require to have recently injested Flesh.  
 
-[[04 people/violet\|Violet]] can do this after withering something.
+[[04 people/violet\|Violet]] can do this after [[07 concepts/wither and bloom\|withering]] something.
 
 I think the Pattern would use lots of robots and tech to fight the Flesh in their war to counter act this.  This is the real reason smithing and metal working has died out.  Flesh could easily be burned hot enough to smelt, but [[04 people/the ceo\|the CEO]] doesn't allow it.  This is probably another reason nuts and bolts are currency, they can't be manipulated by [[04 people/the ceo\|the CEO]] and Devils.  A metal Sword would be a powerful relic in this world (potential thing to find in the story??? or maybe the monks like smith one with their knowledge!)

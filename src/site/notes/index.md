@@ -20,30 +20,30 @@ wither & bloom is a post apocalyptic biopunk scientific romance written by two l
 - the (demon)wastes
 ## lore concepts
 - [[05 groups/the eldest ones\|the eldest ones]]
-- wither/bloom
+- [[07 concepts/wither and bloom\|wither/bloom]]
 - [[05 groups/mutants\|mutants]]
 - [[05 groups/the brotherhood of gnosis\|the brotherhood]]
 - shareholders
-- liquid dark
+- [[07 concepts/liquid dark\|liquid dark]]
 - forging metal
 - [[07 concepts/the prodigy project\|the prodigy project]]
 
 ## recent pages
-| file                                                              | tags      | modified time              |
-| ----------------------------------------------------------------- | --------- | -------------------------- |
-| [[04 people/the ceo\|the ceo]]                                 | <ul></ul> | 3:53 PM - October 25, 2024 |
-| [[07 concepts/powers of the flesh\|powers of the flesh]]       | <ul></ul> | 3:53 PM - October 25, 2024 |
-| [[05 groups/mutants\|mutants]]                                 | <ul></ul> | 3:53 PM - October 25, 2024 |
-| [[06 places/Frontier and Mute Towns\|Frontier and Mute Towns]] | <ul></ul> | 3:52 PM - October 25, 2024 |
-| [[04 people/felix\|felix]]                                     | <ul></ul> | 3:52 PM - October 25, 2024 |
+| file                                                        | tags      | modified time              |
+| ----------------------------------------------------------- | --------- | -------------------------- |
+| [[03 history/the revelation\|the revelation]]            | <ul></ul> | 9:01 AM - October 28, 2024 |
+| [[04 people/the ceo\|the ceo]]                           | <ul></ul> | 8:56 AM - October 28, 2024 |
+| [[07 concepts/liquid dark\|liquid dark]]                 | <ul></ul> | 8:55 AM - October 28, 2024 |
+| [[07 concepts/wither and bloom\|wither and bloom]]       | <ul></ul> | 8:54 AM - October 28, 2024 |
+| [[07 concepts/powers of the flesh\|powers of the flesh]] | <ul></ul> | 8:54 AM - October 28, 2024 |
 
 { .block-language-dataview}
 
 ## recent snippets
 - [[02 snippets/The Assault on Battery City\|The Assault on Battery City]]
 - [[02 snippets/kiss me felix\|kiss me felix]]
-- [[02 snippets/hello rosie\|hello rosie]]
 - [[02 snippets/dont get hurt\|dont get hurt]]
+- [[02 snippets/hello rosie\|hello rosie]]
 - [[02 snippets/bethlehem\|bethlehem]]
 
 { .block-language-dataview}
