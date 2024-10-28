@@ -7,24 +7,24 @@ wither & bloom is a post apocalyptic biopunk scientific romance written by two l
 
 
 ---
-## history
+## 🏰 history
 - [[02 history/Rough Timeline\|rough timeline]]
 - [[02 history/the revelation\|the revelation]]
-## characters
+## 👫characters
 - [[03 people/violet\|violet]]
 - [[03 people/felix\|felix]]
 - [[03 people/rose\|rose]]
 - [[03 people/The Diminished One\|roswell the cat(?)]]
 - [[03 people/the ceo\|the ceo]]
 - [[03 people/cid\|cid]]
-## places
+## 🗺️ places
 - [[05 places/the most holy city of imperial zion\|zion]]
 - [[05 places/franchise locations of the empire of zion\|franchise locations of the empire of zion]]
 - [[05 places/Frontier and Mute Towns\|Frontier and Mute Towns]]
 - [[05 places/the wilds\|the wilds]]
 - [[05 places/the demonwastes\|the (demon)wastes]]
 - [[05 places/the gardens\|the gardens]]
-## groups
+## 🖇️ groups
 - [[04 groups/acolytes of the infinite pattern\|acolytes of the infinite pattern]]
 - [[04 groups/the brotherhood of gnosis\|the brotherhood of gnosis]]
 - [[04 groups/the corporate fellowship\|the corporate fellowship]]
@@ -33,7 +33,7 @@ wither & bloom is a post apocalyptic biopunk scientific romance written by two l
 - [[04 groups/shareholders\|shareholders]]
 - [[04 groups/devils\|devils]]
 - [[04 groups/mutants\|mutants]]
-## lore concepts
+## 📖 lore concepts
 - [[06 concepts/wither and bloom\|wither/bloom]]
 - [[06 concepts/liquid dark\|liquid dark]]
 - [[06 concepts/the forging of metals\|forging metal]]
@@ -42,7 +42,7 @@ wither & bloom is a post apocalyptic biopunk scientific romance written by two l
 - [[06 concepts/flesh warping\|flesh warping]]
 - [[06 concepts/powers of the flesh\|powers of the flesh]]
 
-## recent pages
+## 📌recent pages
 | file                                                              | tags      | modified time               |
 | ----------------------------------------------------------------- | --------- | --------------------------- |
 | [[03 people/the ceo\|the ceo]]                                 | <ul></ul> | 10:19 AM - October 28, 2024 |
@@ -53,7 +53,7 @@ wither & bloom is a post apocalyptic biopunk scientific romance written by two l
 
 { .block-language-dataview}
 
-## recent snippets
+## ✂️recent snippets
 - [[00 snippets/terror billy\|terror billy]]
 - [[00 snippets/kiss me felix\|kiss me felix]]
 - [[00 snippets/hello rosie\|hello rosie]]
