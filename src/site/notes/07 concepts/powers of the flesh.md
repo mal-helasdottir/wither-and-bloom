@@ -12,7 +12,7 @@ The forms  and functions of the flesh are mutable to the [[07 concepts/flesh war
 
 This power is the providence of [[04 people/the ceo\|the CEO]], who can flesh warp anything with with flesh with but a thought.  
 
-Most Demons are limited to Fleshwarping only their own flesh, and it usually requires them to have recently fed to do so.  Feeding on the Flesh makes his power stronger than feeding on like an animal or a human though they can get some power from that.
+Most Demons are limited to [[07 concepts/flesh warping\|Fleshwarping]] only their own flesh, and it usually requires them to have recently fed to do so.  Feeding on [[04 people/the fallen flesh\|the Flesh]] makes his power stronger than feeding on like an animal or a human though they can get some power from that.
 
 Some Devils can flesh warp other demons or like flesh of the land (their fields which are covered in Flesh), but I don't think any of them can flesh warp normal people unless maybe they injest a bunch of Flesh first.
 
@@ -34,7 +34,7 @@ The ability to divine the future through reading organs is how [[04 people/the c
 
 ## Telekenitc powers 
 
-limited to Organic Flesh. Fleshnetic? Basically the ability to telekentically manipulate the flesh by throwing it, lifting it, crushing it, moving it with a thought, etc.   This is in part why the Flesh hates metal and inorganic materals and moves towards having everything made form flesh so it can be controled by him.  
+limited to Organic Flesh. Fleshnetic? Basically the ability to telekentically manipulate the flesh by throwing it, lifting it, crushing it, moving it with a thought, etc.   This is in part why [[04 people/the fallen flesh\|the Flesh]] hates metal and inorganic materals and moves towards having everything made form flesh so it can be controled by him.  
 
 Some Devils and stronger Demons can do this, but probably require to have recently injested Flesh.  
 
