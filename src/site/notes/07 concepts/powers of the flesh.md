@@ -8,7 +8,7 @@
 
 Most of the other powers stem from this one. 
 
-The forms  and functions of the flesh are mutable to the Flesh Warper.  They can make spikes, tentacles, muscles, make it as hard a a diamond or as soft as a cloud. Whatever they want.  (like the Tsmichi in VTM kinda right?)  Flesh made into lamps and buildings etc.  
+The forms  and functions of the flesh are mutable to the [[07 concepts/flesh warping\|Flesh Warper]].  They can make spikes, tentacles, muscles, make it as hard a a diamond or as soft as a cloud. Whatever they want.  (like the Tsmichi in VTM kinda right?)  Flesh made into lamps and buildings etc.  
 
 This power is the providence of [[04 people/the ceo\|the CEO]], who can flesh warp anything with with flesh with but a thought.  
 
@@ -18,7 +18,7 @@ Some Devils can flesh warp other demons or like flesh of the land (their fields 
 
 ## Another power of the Flesh is emotional and mental control/manipulation.  
 
-This is an offshoot of flesh warping, the brain is just another hunk of flesh and so can be manipulated. 
+This is an offshoot of [[07 concepts/flesh warping\|flesh warping]], the brain is just another hunk of flesh and so can be manipulated. 
 
  [[04 people/the ceo\|The CEO]]'s ability is hampered due to his limitations, but it is still difficult to resist his manipulations, especially for normal humans.  (proximity is key here, even though he should be able to reach across the globe but he can't. Any human living in Zion is completely under his control though) 
 
@@ -40,4 +40,4 @@ Some Devils and stronger Demons can do this, but probably require to have recent
 
 [[04 people/violet\|Violet]] can do this after [[07 concepts/wither and bloom\|withering]] something.
 
-I think the Pattern would use lots of robots and tech to fight the Flesh in their war to counter act this.  This is the real reason smithing and metal working has died out.  Flesh could easily be burned hot enough to smelt, but [[04 people/the ceo\|the CEO]] doesn't allow it.  This is probably another reason nuts and bolts are currency, they can't be manipulated by [[04 people/the ceo\|the CEO]] and Devils.  A metal Sword would be a powerful relic in this world (potential thing to find in the story??? or maybe the monks like smith one with their knowledge!)
+I think [[04 people/the infinite pattern\|the Pattern]] would use lots of robots and tech to fight the Flesh in their war to counter act this.  This is the real reason smithing and metal working has died out.  Flesh could easily be burned hot enough to smelt, but [[04 people/the ceo\|the CEO]] doesn't allow it.  This is probably another reason [[07 concepts/currency and trade\|nuts and bolts]] are currency, they can't be manipulated by [[04 people/the ceo\|the CEO]] and Devils.  A metal Sword would be a powerful relic in this world (potential thing to find in the story??? or maybe the monks like smith one with their knowledge!)
