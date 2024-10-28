@@ -54,12 +54,12 @@ wither & bloom is a post apocalyptic biopunk scientific romance written by two l
 { .block-language-dataview}
 
 ## recent snippets
-- [[00-2 snippets/terror billy\|terror billy]]
-- [[00-2 snippets/kiss me felix\|kiss me felix]]
-- [[00-2 snippets/hello rosie\|hello rosie]]
-- [[00-2 snippets/dont get hurt\|dont get hurt]]
-- [[00-2 snippets/bethlehem 2\|bethlehem 2]]
-- [[00-2 snippets/bethlehem\|bethlehem]]
-- [[00-2 snippets/The Assault on Battery City\|The Assault on Battery City]]
+- [[00 snippets/terror billy\|terror billy]]
+- [[00 snippets/kiss me felix\|kiss me felix]]
+- [[00 snippets/hello rosie\|hello rosie]]
+- [[00 snippets/dont get hurt\|dont get hurt]]
+- [[00 snippets/bethlehem 2\|bethlehem 2]]
+- [[00 snippets/bethlehem\|bethlehem]]
+- [[00 snippets/The Assault on Battery City\|The Assault on Battery City]]
 
 { .block-language-dataview}
