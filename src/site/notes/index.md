@@ -29,7 +29,7 @@ wither & bloom is a post apocalyptic biopunk scientific romance written by two l
 - [[04 groups/the brotherhood of gnosis\|the brotherhood of gnosis]]
 - [[04 groups/the corporate fellowship\|the corporate fellowship]]
 - [[04 groups/the eldest ones\|the eldest ones]]
-- [[04 groups/the demon princes\|the demon princes]]
+- [[04 groups/the devil princes\|the devil princes]]
 - [[04 groups/shareholders\|shareholders]]
 - [[04 groups/devils\|devils]]
 - [[04 groups/mutants\|mutants]]
@@ -45,11 +45,11 @@ wither & bloom is a post apocalyptic biopunk scientific romance written by two l
 ## 📌recent pages
 | file                                                              | tags      | modified time               |
 | ----------------------------------------------------------------- | --------- | --------------------------- |
+| [[04 groups/the devil princes\|the devil princes]]             | <ul></ul> | 1:37 PM - October 28, 2024  |
 | [[03 people/the ceo\|the ceo]]                                 | <ul></ul> | 10:19 AM - October 28, 2024 |
 | [[06 concepts/powers of the flesh\|powers of the flesh]]       | <ul></ul> | 10:19 AM - October 28, 2024 |
 | [[05 places/Frontier and Mute Towns\|Frontier and Mute Towns]] | <ul></ul> | 10:19 AM - October 28, 2024 |
 | [[02 history/Rough Timeline\|Rough Timeline]]                  | <ul></ul> | 10:19 AM - October 28, 2024 |
-| [[06 concepts/the prodigy project\|the prodigy project]]       | <ul></ul> | 10:19 AM - October 28, 2024 |
 
 { .block-language-dataview}
 
