@@ -41,13 +41,13 @@ wither & bloom is a post apocalyptic biopunk scientific romance written by two l
 - [[07 concepts/powers of the flesh\|powers of the flesh]]
 
 ## recent pages
-| file                                                                | tags      | modified time              |
-| ------------------------------------------------------------------- | --------- | -------------------------- |
-| [[06 places/the gardens\|the gardens]]                           | <ul></ul> | 9:36 AM - October 28, 2024 |
-| [[06 places/the demonwastes\|the demonwastes]]                   | <ul></ul> | 9:35 AM - October 28, 2024 |
-| [[06 places/Frontier and Mute Towns\|Frontier and Mute Towns]]   | <ul></ul> | 9:32 AM - October 28, 2024 |
-| [[05 groups/the corporate fellowship\|the corporate fellowship]] | <ul></ul> | 9:32 AM - October 28, 2024 |
-| [[07 concepts/flesh warping\|flesh warping]]                     | <ul></ul> | 9:30 AM - October 28, 2024 |
+| file                                                                | tags                                      | modified time               |
+| ------------------------------------------------------------------- | ----------------------------------------- | --------------------------- |
+| [[02 snippets/terror billy\|terror billy]]                       | <ul><li>#snippet</li><li>#waifu</li></ul> | 10:00 AM - October 28, 2024 |
+| [[06 places/the gardens\|the gardens]]                           | <ul></ul>                                 | 9:36 AM - October 28, 2024  |
+| [[06 places/the demonwastes\|the demonwastes]]                   | <ul></ul>                                 | 9:35 AM - October 28, 2024  |
+| [[06 places/Frontier and Mute Towns\|Frontier and Mute Towns]]   | <ul></ul>                                 | 9:32 AM - October 28, 2024  |
+| [[05 groups/the corporate fellowship\|the corporate fellowship]] | <ul></ul>                                 | 9:32 AM - October 28, 2024  |
 
 { .block-language-dataview}
 
