@@ -44,13 +44,13 @@ wither & bloom is a post apocalyptic biopunk scientific romance written by two l
 - [[06 concepts/sliver of divinity\|sliver of divinity]]
 
 ## 📌recent pages
-| file                                                        | tags      | modified time               |
-| ----------------------------------------------------------- | --------- | --------------------------- |
-| [[03 people/felix\|felix]]                               | <ul></ul> | 10:41 AM - October 29, 2024 |
-| [[06 concepts/the prodigy project\|the prodigy project]] | <ul></ul> | 10:04 AM - October 29, 2024 |
-| [[03 people/the ceo\|the ceo]]                           | <ul></ul> | 10:04 AM - October 29, 2024 |
-| [[04 groups/the devil princes\|the devil princes]]       | <ul></ul> | 10:03 AM - October 29, 2024 |
-| [[06 concepts/sliver of divinity\|sliver of divinity]]   | <ul></ul> | 10:01 AM - October 29, 2024 |
+| file                                                            | tags      | modified time               |
+| --------------------------------------------------------------- | --------- | --------------------------- |
+| [[06 concepts/currency and trade\|currency and trade]]       | <ul></ul> | 3:17 PM - October 29, 2024  |
+| [[06 concepts/the forging of metals\|the forging of metals]] | <ul></ul> | 3:01 PM - October 29, 2024  |
+| [[03 people/felix\|felix]]                                   | <ul></ul> | 10:41 AM - October 29, 2024 |
+| [[06 concepts/the prodigy project\|the prodigy project]]     | <ul></ul> | 10:04 AM - October 29, 2024 |
+| [[03 people/the ceo\|the ceo]]                               | <ul></ul> | 10:04 AM - October 29, 2024 |
 
 { .block-language-dataview}
 

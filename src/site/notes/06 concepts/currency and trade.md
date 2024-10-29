@@ -1,5 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/06-concepts/currency-and-trade/","created":"2024-10-28T09:18:27.521-05:00","updated":"2024-10-28T09:19:43.673-05:00"}
+{"dg-publish":true,"permalink":"/06-concepts/currency-and-trade/","created":"2024-10-28T09:18:27.521-05:00","updated":"2024-10-29T15:17:33.584-05:00"}
 ---
 
 # currency and trade
+
+## the principles of a good currency
+- fungible
+- transportable
+- inherent value or easily assignable value (fiat)
+
+## corpos
+corpos conduct trade with credits, a type of fiat currency
+
+## mutants
+mutants conduct trade in one of two ways:
+- barter -- e.g. *a service for a service*
+- currency -- nuts and bolts
+	- standard hex nuts screwed onto bolts of various sizes (there is a preferred bolt length)
+	- value is decided by the size of the bolt and therefore the amount of nuts it takes to fill the bolt
+		- due to an [[06 concepts/the forging of metals\|inability to forge most metals]] in current days, this method has inherent value on top of every other reason for its use
