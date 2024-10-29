@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","title":"index","hide":true,"hideInGraph":true,"tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/index/","title":"index","hide":true,"hideInGraph":true,"tags":["gardenEntry"],"created":"2024-08-07T09:02:57.000-05:00","updated":"2024-10-29T10:29:32.508-05:00"}
 ---
 
 # welcome!
@@ -46,7 +46,7 @@ wither & bloom is a post apocalyptic biopunk scientific romance written by two l
 ## 📌recent pages
 | file                                                        | tags      | modified time               |
 | ----------------------------------------------------------- | --------- | --------------------------- |
-| [[03 people/felix\|felix]]                               | <ul></ul> | 10:31 AM - October 29, 2024 |
+| [[03 people/felix\|felix]]                               | <ul></ul> | 10:41 AM - October 29, 2024 |
 | [[06 concepts/the prodigy project\|the prodigy project]] | <ul></ul> | 10:04 AM - October 29, 2024 |
 | [[03 people/the ceo\|the ceo]]                           | <ul></ul> | 10:04 AM - October 29, 2024 |
 | [[04 groups/the devil princes\|the devil princes]]       | <ul></ul> | 10:03 AM - October 29, 2024 |

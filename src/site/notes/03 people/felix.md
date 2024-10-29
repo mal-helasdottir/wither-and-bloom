@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-people/felix/"}
+{"dg-publish":true,"permalink":"/03-people/felix/","created":"2024-08-08T14:00:17.276-05:00","updated":"2024-10-29T10:41:11.359-05:00"}
 ---
 
 # felix
@@ -9,14 +9,15 @@ a smuggler
 a con artist
 an ~~idiot~~ unconventionally *smarter* person
 
-# early days
+## early days
 
 Born in [[05 places/franchise locations of the empire of zion#jericho\|Jericho]] to mutant parents. His identifier barcode was 8942F5. His mother (5826N3 *Nikki*) and Father (4374A7 *Alex*) named in *Felix* in the corpo-born Mutant tradition of naming their children after the letter in their given identifier barcode.
 
-Felix's father was in the military and eventually made a gladiator. It was determined at his birth the Felix (like most Jericho born mutants).  Alex was such a formidable Gladiator he was eventually granted semi-retirement, something rarely done for Gladiators in the Holy Corporate Empire of Zion. He would only be occasionally called out for the rare exhibition matches (in hopes that he would finally die).
+Felix's father was in the military and eventually made a gladiator. ==It was determined at his birth the Felix (like most Jericho born mutants)==.  Alex was such a formidable Gladiator he was eventually granted semi-retirement, something rarely done for Gladiators in the Holy Corporate Empire of Zion. He would only be occasionally called out for the rare exhibition matches (in hopes that he would finally die).
 
 Felix's mother Nikki was a house servant and cook for a human military officer; Brigadier General Quintus Valens. He was in charge of the HCE's Gladiatorial games.  
 
+## military days
 Felix was raised on the military track, so he was only taught skills and abilities suited to becoming a solider.  This did not include much reading or math aside from the most basic of basics.  If Nikki hadn't taken some time to force him to learn at least a few of his words and numbers he would probably be completely illiterate.  
 
 He was an excellent fighter though.  So good that he most likely would have been fast tracked to MOT (Mutant Officer Training) had he not also been horribly insubordinate, obstinate, and stubborn all traits he picked up from dear old dad.

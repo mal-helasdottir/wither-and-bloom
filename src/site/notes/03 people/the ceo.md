@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-people/the-ceo/"}
+{"dg-publish":true,"permalink":"/03-people/the-ceo/","created":"2024-08-08T14:56:38.349-05:00","updated":"2024-10-29T10:04:16.150-05:00"}
 ---
 
 # the ceo

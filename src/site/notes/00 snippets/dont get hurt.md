@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-snippets/dont-get-hurt/"}
+{"dg-publish":true,"permalink":"/00-snippets/dont-get-hurt/","created":"2024-08-16T11:45:46.000-05:00","updated":"2024-08-16T11:50:50.000-05:00"}
 ---
 
 # don't get hurt >> feelings almost come out, a vibe check
