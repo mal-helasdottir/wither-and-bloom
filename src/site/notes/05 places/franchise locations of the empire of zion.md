@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-places/franchise-locations-of-the-empire-of-zion/","created":"2024-08-14T10:54:19.601-05:00","updated":"2024-10-25T12:24:00.550-05:00"}
+{"dg-publish":true,"permalink":"/05-places/franchise-locations-of-the-empire-of-zion/"}
 ---
 
 # franchise locations of the empire of zion

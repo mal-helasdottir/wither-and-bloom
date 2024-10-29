@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-history/rough-timeline/","created":"2024-08-21T14:33:28.000-05:00","updated":"2024-10-28T10:19:32.209-05:00"}
+{"dg-publish":true,"permalink":"/02-history/rough-timeline/"}
 ---
 
 # Ancient Times and [[04 groups/the eldest ones\|Old Gods]]

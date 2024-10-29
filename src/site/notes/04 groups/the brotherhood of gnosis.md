@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-groups/the-brotherhood-of-gnosis/","created":"2024-10-25T11:59:50.077-05:00","updated":"2024-10-25T12:42:24.739-05:00"}
+{"dg-publish":true,"permalink":"/04-groups/the-brotherhood-of-gnosis/"}
 ---
 
 # the brotherhood of gnosis

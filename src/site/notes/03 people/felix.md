@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-people/felix/","created":"2024-08-08T14:00:17.276-05:00","updated":"2024-10-29T10:29:41.075-05:00"}
+{"dg-publish":true,"permalink":"/03-people/felix/"}
 ---
 
 # felix
@@ -29,7 +29,7 @@ Training would sometimes actually hurt a soldier but often they would be conside
 
 He would also sometimes purposely ignore a *downed* human soldier (this is something he probably wouldn't actually do in the field but he did in training as a bit of a fuck you to his officers) which was also a big source of friction between himself and his human trainers.
 
-At 16 he was transferred to active duty.  The *problems* he exhibited in training carried over into active duty, and he was often scapegoated for failed missions because he tried to save the lives of fallen mutants, whether or not the mission was scuffed from the get go.  He was transferred around a bunch and by the time he was 18 the military was considering having him imprisoned or shot. (Dishonorable Discharge was rarely an option for Mutants.)  Because he was such a talented fighter, however, BG Valens intervened and decided to make him a gladiator as well.  Valens was unaware of Felix' 
+At 16 he was transferred to active duty.  The *problems* he exhibited in training carried over into active duty, and he was often scapegoated for failed missions because he tried to save the lives of fallen mutants, whether or not the mission was scuffed from the get go.  He was transferred around a bunch and by the time he was 18 the military was considering having him imprisoned or shot. (Dishonorable Discharge was rarely an option for Mutants.)  Because he was such a talented fighter, however, BG Valens intervened and decided to make him a gladiator. (He is probably unaware that Felix is related to his servant Nikki and his current best gladiator Alex as mutant affairs and what they do in their off-time is very much beneath him, he will find out later though. )  
 ## gladiator days
 
 ---
