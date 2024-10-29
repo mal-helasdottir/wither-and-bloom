@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-people/rose/"}
+{"dg-publish":true,"permalink":"/03-people/rose/","created":"2024-08-15T11:45:30.678-05:00","updated":"2024-10-25T12:26:12.245-05:00"}
 ---
 
 # rose of jericho
