@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06-concepts/powers-of-the-flesh/","created":"2024-08-08T14:51:16.899-05:00","updated":"2024-10-28T10:19:40.035-05:00"}
+{"dg-publish":true,"permalink":"/06-concepts/powers-of-the-flesh/","created":"2024-08-08T14:51:16.899-05:00","updated":"2024-10-29T15:26:41.042-05:00"}
 ---
 
 # powers of the flesh
@@ -30,13 +30,13 @@ I think the ability to manipulate minds allows [[03 people/the ceo\|the ceo]] an
 
 ## Haruspex
 
-The ability to divine the future through reading organs is how [[03 people/the ceo\|the ceo]] propheciesed [[03 people/felix\|the Whistleblower]] saga.  I think some Devils can do this too so we can have fun witchy ones.  This is a candidate for one of Violets "lesser" powers as well since its like awful and something she wouldn't want to do and they can do accidently
+The ability to divine the future through reading organs is how [[03 people/the ceo\|the ceo]] prophesied [[03 people/felix\|the Whistleblower]] saga.  I think some Devils can do this too so we can have fun witchy ones.  This is a candidate for one of Violets "lesser" powers as well since its like awful and something she wouldn't want to do and they can do accidently
 
-## Telekenitc powers 
+## Telekinetic powers 
 
-limited to Organic Flesh. Fleshnetic? Basically the ability to telekentically manipulate the flesh by throwing it, lifting it, crushing it, moving it with a thought, etc.   This is in part why [[03 people/the fallen flesh\|the Flesh]] hates metal and inorganic materals and moves towards having everything made form flesh so it can be controled by him.  
+limited to Organic Flesh. Fleshnetic? Basically the ability to telekentically manipulate the flesh by throwing it, lifting it, crushing it, moving it with a thought, etc.   This is in part why [[03 people/the fallen flesh\|the Flesh]] hates metal and inorganic materials and moves towards having everything made form flesh so it can be controlled by him.  
 
-Some Devils and stronger Demons can do this, but probably require to have recently injested Flesh.  
+Some Devils and stronger Demons can do this, but probably require to have recently ingested Flesh.  
 
 [[03 people/violet\|violet]] can do this after [[06 concepts/wither and bloom\|withering]] something.
 
