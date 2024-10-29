@@ -8,7 +8,7 @@ The Prodigy Project was designed to create a living human capable of hosting the
 
 This was done using [[03 people/the ceo\|the ceo]]'s DNA (this part was pure hubris, any human DNA would work Joshua's DNA is NOT special at all), The Flesh, genetic science and animal/plant Biology to create  this perfect host.  
 
-Joshua's plan was to create this perfect host (that he named the Prodigy) and then have them consume him bodily in a manner similar to how he consumed the vestiges of [[03 people/the fallen flesh\|the fallen flesh]] to become [[03 people/the ceo\|Adam]]. [[03 people/the ceo\|Adam]] would simultaneously consume  the Prodigy.  This would result in the two bodies merging to become one at which point [[03 people/the ceo\|Adam]] would be truly born to his full potential.  
+Joshua's plan was to create this perfect host (that he named the Prodigy) and then have them consume him bodily in a manner similar to how he consumed the vestiges of [[03 people/the fallen flesh\|the fallen flesh]] to become [[03 people/the ceo\|Adam]]. [[03 people/the ceo\|Adam]] would simultaneously consume the Prodigy.  This would result in the two bodies merging to become one at which point [[03 people/the ceo\|Adam]] would be truly born to his full potential.  
 
 Joshua truly believes that if this plan comes to fruition he will finally be the god he was always destined to be.   The reality probably is if this did happen, and the [[06 concepts/flesh warping\|Flesh Warper]]'s  power was held stably in a living body the god would re-awaken fully and go back to doing what it wants and both Joshua and the Prodigy would cease to exist.
 

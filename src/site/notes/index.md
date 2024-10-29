@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","title":"index","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/index/","title":"index","hideInGraph":true,"tags":["gardenEntry"]}
 ---
 
 # welcome!
@@ -41,15 +41,16 @@ wither & bloom is a post apocalyptic biopunk scientific romance written by two l
 - [[06 concepts/currency and trade\|currency and trade]]
 - [[06 concepts/flesh warping\|flesh warping]]
 - [[06 concepts/powers of the flesh\|powers of the flesh]]
+- [[06 concepts/sliver of divinity\|sliver of divinity]]
 
 ## 📌recent pages
-| file                                                              | tags      | modified time               |
-| ----------------------------------------------------------------- | --------- | --------------------------- |
-| [[04 groups/demons\|demons]]                                   | <ul></ul> | 1:37 PM - October 28, 2024  |
-| [[04 groups/the devil princes\|the devil princes]]             | <ul></ul> | 1:37 PM - October 28, 2024  |
-| [[03 people/the ceo\|the ceo]]                                 | <ul></ul> | 10:19 AM - October 28, 2024 |
-| [[06 concepts/powers of the flesh\|powers of the flesh]]       | <ul></ul> | 10:19 AM - October 28, 2024 |
-| [[05 places/Frontier and Mute Towns\|Frontier and Mute Towns]] | <ul></ul> | 10:19 AM - October 28, 2024 |
+| file                                                        | tags      | modified time               |
+| ----------------------------------------------------------- | --------- | --------------------------- |
+| [[03 people/felix\|felix]]                               | <ul></ul> | 10:05 AM - October 29, 2024 |
+| [[06 concepts/the prodigy project\|the prodigy project]] | <ul></ul> | 10:04 AM - October 29, 2024 |
+| [[03 people/the ceo\|the ceo]]                           | <ul></ul> | 10:04 AM - October 29, 2024 |
+| [[04 groups/the devil princes\|the devil princes]]       | <ul></ul> | 10:03 AM - October 29, 2024 |
+| [[06 concepts/sliver of divinity\|sliver of divinity]]   | <ul></ul> | 10:01 AM - October 29, 2024 |
 
 { .block-language-dataview}
 

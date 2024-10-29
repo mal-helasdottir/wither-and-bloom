@@ -31,13 +31,13 @@ Adam uses his newfound powers to erect a dome of flesh to protect Austin from th
 In that time the people in the city being to revere the CEO as their god and savior and the religion around the Eden Energy is formed.  Austin is renamed [[05 places/the most holy city of imperial zion\|Zion]], and whent he dome comes down to reveal the wasteland around them the CEO and his forces are ready to move out and lay claim to what remains of civilization.
 
 ## horcruxes (working name?)
-OK so Devils are all early versions of [[03 people/violet\|violet]] and [[03 people/rose\|rose]]. The CEO's failed experiments to create the protege.
+OK so Devils are all early versions of [[03 people/violet\|violet]] and [[03 people/rose\|rose]]. The CEO's failed experiments to create the [[06 concepts/the prodigy project\|protege]].
 
 They were all at once point lab grown Children with the CEO's DNA and genetic manipulations in attempts to create a human host capable of holding the full might of [[03 people/the fallen flesh\|the fallen flesh]]'s godly power.
 
 The CEO's ultimate desire is to be able to retain both his own mind and his human form. its very much a hubris thing more than anything. he has already (mostly) held onto his mind (in large part due to the [[03 people/the fallen flesh\|FF]] being brain dead but he doesn't know that) but he can't hold that tenuous grasps on his sanity with out like randomly [[06 concepts/flesh warping\|fleshwarping]] into a monster or losing his grip on the power and basically exploding, which is why he has to devote like 98% of his godly powers to just keeping himself held together.
 
-He created the prodigy project to grow a body capable of holding the power while maintaining it's form and his plan is to then take over that body and be the "perfect form" (in his mind.)
+He created [[06 concepts/the prodigy project\|the prodigy project]] to grow a body capable of holding the power while maintaining it's form and his plan is to then take over that body and be the "perfect form" (in his mind.)
 
 Well he has been at it a while. and each time has gotten a little better. As he raises these kids though he will have them consume various things to test their control. animals, other normal people, [[04 groups/mutants\|mutants]], various types of [[06 concepts/liquid dark\|Liquid night]] possibly, as well as demons. And when he thinks they are ready or when he grows impatient he will send them the final test.
 
