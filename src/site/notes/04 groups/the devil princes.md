@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-groups/the-devil-princes/","created":"2024-10-28T09:22:56.084-05:00","updated":"2024-10-29T10:03:56.691-05:00"}
+{"dg-publish":true,"permalink":"/04-groups/the-devil-princes/","created":"2024-10-28T09:22:56.084-05:00","updated":"2024-10-30T09:34:05.135-05:00"}
 ---
 
 # the devil princes
@@ -8,17 +8,17 @@ created by the ingestion of a [[06 concepts/sliver of divinity\|sliver of divini
 ---
 OK so Devils are all early versions of Violet and Rose. The CEO's failed experiments to create the [[06 concepts/the prodigy project\|protege]].
 
-They were all at once point lab grown Children with the CEO's DNA and genetic manipulations in attempts to create a human host capable of holding the full might of the Fallen Flesh's godly power.
+They were all at once point lab grown Children with the CEO's DNA and genetic manipulations in attempts to create a human host capable of holding the full might of [[03 people/the fallen flesh\|the Fallen Flesh]]'s godly power.
 
-The CEO's ultimate desire is to be able to retain both his own mind and his human form. its very much a hubris thing more than anything. he has already (mostly) held onto his mind (in large part due to the FF being brain dead but he doesn't know that) but he can't hold that tenuous grasps on his sanity with out like randomly fleshwarping into a monster or losing his grip on the power and basically exploding, which is why he has to devote like 98% of his godly powers to just keeping himself held together.
+The CEO's ultimate desire is to be able to retain both his own mind and his human form. its very much a hubris thing more than anything. he has already (mostly) held onto his mind (in large part due to the [[03 people/the fallen flesh\|FF]] being brain dead but he doesn't know that) but he can't hold that tenuous grasps on his sanity with out like randomly fleshwarping into a monster or losing his grip on the power and basically exploding, which is why he has to devote like 98% of his godly powers to just keeping himself held together.
 
 He created [[06 concepts/the prodigy project\|the prodigy project]] to grow a body capable of holding the power while maintaining its form and his plan is to then take over that body and be the "perfect form" (in his mind.)
 
 Well he has been at it a while. and each time has gotten a little better. As he raises these kids though he will have them consume various things to test their control. animals, other normal people, mutants, various types of Liquid night possibly, as well as demons. And when he thinks they are ready or when he grows impatient he will send them the final test.
 
-- A piece of his own flesh that contains a portion of the Fallen Flesh's direct power, which he refers to as a "Sliver of Divinity."
+- A piece of his own flesh that contains a portion of [[03 people/the fallen flesh\|the Fallen Flesh]]'s direct power, which he refers to as a "Sliver of Divinity."
 
-Until Rose, every one of his children who consumed this Sliver of Divinity would either immediately or very quickly Flesh Warp into a monster; no longer human. A failure in the CEO's eyes. They often experienced fits of insanity as well and tended to kill most inhabitants in the Garden before they could be expelled into a Demon Field (This is one of various reasons why Gardens of built near DFs in addition to having access to demons to study etc).
+Until Rose, every one of his children who consumed this Sliver of Divinity would either immediately or very quickly Flesh Warp into a monster; no longer human. A failure in the CEO's eyes. They often experienced fits of insanity as well and tended to kill most inhabitants in the [[05 places/the gardens\|Garden]] before they could be expelled into a Demon Field (This is one of various reasons why Gardens of built near DFs in addition to having access to demons to study etc).
 
 These Children became the Devils of those fields at this point. some of the later versions fleshwarped less and might still look closer to human, other regain some of their sanity and can be spoken to and reasoned with. the earlier ones (like Cerberus) remain mostly unfeeling rage beast like many demons are but way stronger and more powerful because they have a part of god inside them.
 
@@ -30,7 +30,7 @@ The CEO, in his hubris, has laid the seeds for his own downfall within his faile
 
 So that was my original "horcrux" idea. its a bit different from like HP in that rather than the mcguffin like being what keeps him alive, its more like a power up for Violet making her just a little be more of a match for him, and when combined with the weapon Felix gets they can defeat him or at least get him to blow up.
 
-ADDENDUM: this would imply that at least one or two gardens were not built near a field because they would have been built before that connection was sussed out
+ADDENDUM: this would imply that at least one or two [[05 places/the gardens\|gardens]] were not built near a field because they would have been built before that connection was sussed out
 
 yes i think the first one wasn't and it was a big problem.
 

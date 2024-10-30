@@ -1,14 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/02-history/rough-timeline/","created":"2024-08-21T14:33:28.000-05:00","updated":"2024-10-28T10:19:32.209-05:00"}
+{"dg-publish":true,"permalink":"/02-history/rough-timeline/","created":"2024-08-21T14:33:28.000-05:00","updated":"2024-10-30T09:29:32.909-05:00"}
 ---
 
 # Ancient Times and [[04 groups/the eldest ones\|Old Gods]]
 
-- ???? - [[03 people/the infinite pattern\|the infinite pattern]] and The Fleshwarper begin their eternal war
-- ???? - The Maw of Chaos joins the war.
-- ???? - [[03 people/the infinite pattern\|the infinite pattern]] strikes a killing blow against the Fleshwarper scattering its remains throughout the cosmos.
-	- The Maw of Chaos is caught in the attack and sundered into two halves.  
-- ???? - [[03 people/the infinite pattern\|the infinite pattern]] begins its long slumber in the depths of far space to recover and prepare for the Fleshwarper’s inevitable return.
+- ???? - [[03 people/the infinite pattern\|the infinite pattern]] and [[03 people/the fallen flesh\|The Fleshwarper]] begin their eternal war
+- ???? - [[03 people/The Diminished One\|The Maw of Chaos]] joins the war.
+- ???? - [[03 people/the infinite pattern\|the infinite pattern]] strikes a killing blow against [[03 people/the fallen flesh\|the Fleshwarper]] scattering its remains throughout the cosmos.
+	- [[03 people/The Diminished One\|The Maw of Chaos]] is caught in the attack and sundered into two halves.  
+- ???? - [[03 people/the infinite pattern\|the infinite pattern]] begins its long slumber in the depths of far space to recover and prepare for [[03 people/the fallen flesh\|the Fleshwarper]]’s inevitable return.
 - ~3.7 billion years ago (BYA) - A part of [[03 people/the fallen flesh\|the fallen flesh]] impacts with earth. It is a skull fragment featuring a myriad of eye sockets.
 	- Life starts to appear shortly after this. A forest eventually forms around the skull fragment.  Most fauna instinctively avoided the skull.
 - ~2.6 BYA - [[03 people/the infinite pattern\|the infinite pattern]] briefly rouses to establish watch points throughout the universes near locations parts of [[03 people/the fallen flesh\|the fallen flesh]] has landed. His followers are to keep vigil as it returns to its slumber.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06-concepts/powers-of-the-flesh/","created":"2024-08-08T14:51:16.899-05:00","updated":"2024-10-29T15:26:41.042-05:00"}
+{"dg-publish":true,"permalink":"/06-concepts/powers-of-the-flesh/","created":"2024-08-08T14:51:16.899-05:00","updated":"2024-10-30T09:32:08.696-05:00"}
 ---
 
 # powers of the flesh
@@ -24,7 +24,7 @@ This is an offshoot of [[06 concepts/flesh warping\|flesh warping]], the brain i
 
 [[04 groups/mutants\|mutants]] are protected by [[03 people/The Diminished One\|The Diminished One]], which is why the Lanky Boys call the [[04 groups/mutants\|mutants]]  DCs or [[04 groups/mutants\|Diminished Chosen]].
 
-Demons can't do this.  Devils can control Demons, maybe like the most powerful ones can influence normal humans as well, but they require even closer proximity and probably have to have recently eaten Flesh to do so.
+Demons can't do this.  Devils can control [[04 groups/demons\|Demons]], maybe like the most powerful ones can influence normal humans as well, but they require even closer proximity and probably have to have recently eaten Flesh to do so.
 
 I think the ability to manipulate minds allows [[03 people/the ceo\|the ceo]] and stronger Demons some limited Telepathy and mind reading as well.
 
@@ -36,7 +36,7 @@ The ability to divine the future through reading organs is how [[03 people/the c
 
 limited to Organic Flesh. Fleshnetic? Basically the ability to telekentically manipulate the flesh by throwing it, lifting it, crushing it, moving it with a thought, etc.   This is in part why [[03 people/the fallen flesh\|the Flesh]] hates metal and inorganic materials and moves towards having everything made form flesh so it can be controlled by him.  
 
-Some Devils and stronger Demons can do this, but probably require to have recently ingested Flesh.  
+Some Devils and stronger [[04 groups/demons\|Demons]] can do this, but probably require to have recently ingested Flesh.  
 
 [[03 people/violet\|violet]] can do this after [[06 concepts/wither and bloom\|withering]] something.
 

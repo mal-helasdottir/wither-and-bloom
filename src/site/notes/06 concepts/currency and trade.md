@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06-concepts/currency-and-trade/","created":"2024-10-28T09:18:27.521-05:00","updated":"2024-10-29T15:17:33.584-05:00"}
+{"dg-publish":true,"permalink":"/06-concepts/currency-and-trade/","created":"2024-10-28T09:18:27.521-05:00","updated":"2024-10-30T09:37:10.081-05:00"}
 ---
 
 # currency and trade
@@ -9,8 +9,8 @@
 - transportable
 - inherent value or easily assignable value (fiat)
 
-## corpos
-corpos conduct trade with credits, a type of fiat currency
+## [[04 groups/the corporate fellowship\|corpos]]
+[[04 groups/the corporate fellowship\|corpos]] conduct trade with credits, a type of fiat currency
 
 ## mutants
 mutants conduct trade in one of two ways:

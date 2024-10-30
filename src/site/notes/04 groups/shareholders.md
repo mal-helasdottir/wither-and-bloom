@@ -1,5 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/04-groups/shareholders/","created":"2024-10-28T09:12:50.605-05:00","updated":"2024-10-28T09:14:45.461-05:00"}
+{"dg-publish":true,"permalink":"/04-groups/shareholders/","created":"2024-10-28T09:12:50.605-05:00","updated":"2024-10-30T09:37:02.367-05:00"}
 ---
 
 # shareholders
+individuals who profess faith in [[03 people/the ceo\|the ceo]], the prodigy, and [[05 places/the most holy city of imperial zion\|the holy empire of zion]]
+not necessarily members of [[04 groups/the corporate fellowship\|the corporate fellowship]]
+- all [[04 groups/the corporate fellowship\|corpos]] are shareholders, but not all shareholders are corpos

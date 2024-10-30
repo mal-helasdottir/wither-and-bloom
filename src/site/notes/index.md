@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","title":"index","hide":true,"hideInGraph":true,"tags":["gardenEntry"],"created":"2024-08-07T09:02:57.000-05:00","updated":"2024-10-29T10:29:32.508-05:00"}
+{"dg-publish":true,"permalink":"/index/","title":"index","hide":true,"hideInGraph":true,"tags":["gardenEntry"],"created":"2024-08-07T09:02:57.000-05:00","updated":"2024-10-30T09:04:37.704-05:00"}
 ---
 
 # welcome!
@@ -44,13 +44,13 @@ wither & bloom is a post apocalyptic biopunk scientific romance written by two l
 - [[06 concepts/sliver of divinity\|sliver of divinity]]
 
 ## 📌recent pages
-| file                                                              | tags      | modified time              |
-| ----------------------------------------------------------------- | --------- | -------------------------- |
-| [[05 places/Frontier and Mute Towns\|Frontier and Mute Towns]] | <ul></ul> | 3:30 PM - October 29, 2024 |
-| [[05 places/the gardens\|the gardens]]                         | <ul></ul> | 3:28 PM - October 29, 2024 |
-| [[06 concepts/powers of the flesh\|powers of the flesh]]       | <ul></ul> | 3:26 PM - October 29, 2024 |
-| [[06 concepts/wither and bloom\|wither and bloom]]             | <ul></ul> | 3:23 PM - October 29, 2024 |
-| [[06 concepts/currency and trade\|currency and trade]]         | <ul></ul> | 3:17 PM - October 29, 2024 |
+| file                                                        | tags      | modified time               |
+| ----------------------------------------------------------- | --------- | --------------------------- |
+| [[05 places/the wilds\|the wilds]]                       | <ul></ul> | 10:53 AM - October 30, 2024 |
+| [[06 concepts/currency and trade\|currency and trade]]   | <ul></ul> | 9:37 AM - October 30, 2024  |
+| [[04 groups/shareholders\|shareholders]]                 | <ul></ul> | 9:37 AM - October 30, 2024  |
+| [[06 concepts/the prodigy project\|the prodigy project]] | <ul></ul> | 9:34 AM - October 30, 2024  |
+| [[04 groups/the devil princes\|the devil princes]]       | <ul></ul> | 9:34 AM - October 30, 2024  |
 
 { .block-language-dataview}
 
