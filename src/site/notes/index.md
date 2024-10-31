@@ -44,7 +44,7 @@ wither & bloom is a post apocalyptic biopunk scientific romance written by two l
 - [[06 concepts/sliver of divinity\|sliver of divinity]]
 
 ## 📌recent pages
-| file                                                        | tags      | modified time               |
+| page                                                        | tags      | modified time               |
 | ----------------------------------------------------------- | --------- | --------------------------- |
 | [[05 places/the wilds\|the wilds]]                       | <ul></ul> | 10:53 AM - October 30, 2024 |
 | [[06 concepts/currency and trade\|currency and trade]]   | <ul></ul> | 9:37 AM - October 30, 2024  |
