@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06-concepts/currency-and-trade/","created":"2024-10-28T09:18:27.521-05:00","updated":"2024-10-30T09:37:10.081-05:00"}
+{"dg-publish":true,"permalink":"/06-concepts/currency-and-trade/","created":"2024-10-28T09:18:27.521-05:00","updated":"2024-11-07T17:00:21.397-06:00"}
 ---
 
 # currency and trade
@@ -19,3 +19,5 @@ mutants conduct trade in one of two ways:
 	- standard hex nuts screwed onto bolts of various sizes (there is a preferred bolt length)
 	- value is decided by the size of the bolt and therefore the amount of nuts it takes to fill the bolt
 		- due to an [[06 concepts/the forging of metals\|inability to forge most metals]] in current days, this method has inherent value on top of every other reason for its use
+
+## the black market

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","title":"index","hide":true,"hideInGraph":true,"tags":["gardenEntry"],"created":"2024-08-07T09:02:57.000-05:00","updated":"2024-10-29T10:29:32.508-05:00"}
+{"dg-publish":true,"permalink":"/index/","title":"index","hide":true,"hideInGraph":true,"tags":["gardenEntry"],"created":"2024-08-07T09:02:57.000-05:00","updated":"2024-10-30T09:04:37.704-05:00"}
 ---
 
 # welcome!
@@ -46,11 +46,11 @@ wither & bloom is a post apocalyptic biopunk scientific romance written by two l
 ## 📌recent pages
 | page                                                      | tags      | modified time               |
 | --------------------------------------------------------- | --------- | --------------------------- |
-| [[06 concepts/liquid dark\|liquid dark]]               | <ul></ul> | 3:55 PM - November 07, 2024 |
+| [[06 concepts/liquid dark\|liquid dark]]               | <ul></ul> | 5:07 PM - November 07, 2024 |
+| [[04 groups/the devil princes\|the devil princes]]     | <ul></ul> | 5:05 PM - November 07, 2024 |
+| [[06 concepts/flesh warping\|flesh warping]]           | <ul></ul> | 5:03 PM - November 07, 2024 |
+| [[06 concepts/currency and trade\|currency and trade]] | <ul></ul> | 5:00 PM - November 07, 2024 |
 | [[03 people/felix\|felix]]                             | <ul></ul> | 2:31 PM - November 06, 2024 |
-| [[05 places/the wilds\|the wilds]]                     | <ul></ul> | 10:53 AM - October 30, 2024 |
-| [[06 concepts/currency and trade\|currency and trade]] | <ul></ul> | 9:37 AM - October 30, 2024  |
-| [[04 groups/shareholders\|shareholders]]               | <ul></ul> | 9:37 AM - October 30, 2024  |
 
 { .block-language-dataview}
 

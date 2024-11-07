@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-groups/the-devil-princes/","created":"2024-10-28T09:22:56.084-05:00","updated":"2024-10-30T09:34:05.135-05:00"}
+{"dg-publish":true,"permalink":"/04-groups/the-devil-princes/","created":"2024-10-28T09:22:56.084-05:00","updated":"2024-11-07T17:05:27.393-06:00"}
 ---
 
 # the devil princes
@@ -14,7 +14,7 @@ The CEO's ultimate desire is to be able to retain both his own mind and his huma
 
 He created [[06 concepts/the prodigy project\|the prodigy project]] to grow a body capable of holding the power while maintaining its form and his plan is to then take over that body and be the "perfect form" (in his mind.)
 
-Well he has been at it a while. and each time has gotten a little better. As he raises these kids though he will have them consume various things to test their control. animals, other normal people, mutants, various types of Liquid night possibly, as well as demons. And when he thinks they are ready or when he grows impatient he will send them the final test.
+Well he has been at it a while. and each time has gotten a little better. As he raises these kids though he will have them consume various things to test their control. animals, other normal people, mutants, various types of [[06 concepts/liquid dark\|Liquid night]] possibly, as well as demons. And when he thinks they are ready or when he grows impatient he will send them the final test.
 
 - A piece of his own flesh that contains a portion of [[03 people/the fallen flesh\|the Fallen Flesh]]'s direct power, which he refers to as a "Sliver of Divinity."
 
