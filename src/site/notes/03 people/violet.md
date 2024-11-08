@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-people/violet/","created":"2024-08-08T14:04:12.276-05:00","updated":"2024-10-25T12:27:07.107-05:00"}
+{"dg-publish":true,"permalink":"/03-people/violet/","created":"2024-08-08T14:04:12.276-05:00","updated":"2024-11-08T12:43:51.408-06:00"}
 ---
 
 # violet of magdala
@@ -11,9 +11,9 @@ skin:: [pale olive](https://images.app.goo.gl/4qniqgnecjUDpqpC6)
 height::
 weight::
 status:: alive
-
+the [[08 dynamics/felix x violet\|love of felix's life]] 
 ## birth & youth
-decanted at the greenhouse facility in [[05 places/franchise locations of the empire of zion#magdala\|magdala]]. paired within a few days to her '*twin*' [[03 people/rose\|rose]] and both sent to the nursery facility at [[05 places/franchise locations of the empire of zion#bethlehem\|bethlehem]]
+decanted at the greenhouse facility in [[05 places/franchise locations of the empire of zion#magdala\|magdala]]. paired within a few days to [[08 dynamics/rose x violet\|her 'twin']] [[03 people/rose\|rose]] and both sent to the nursery facility at [[05 places/franchise locations of the empire of zion#bethlehem\|bethlehem]]
 
 ## prodigy subject & testing
 
@@ -30,4 +30,3 @@ decanted at the greenhouse facility in [[05 places/franchise locations of the em
 ---
 ### links
 - archetype: [tsundere](https://tvtropes.org/pmwiki/pmwiki.php/Main/Tsundere)
-- as a couple with [[03 people/felix\|felix]]: [belligerent sexual tension](https://tvtropes.org/pmwiki/pmwiki.php/Main/BelligerentSexualTension)

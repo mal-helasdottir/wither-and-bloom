@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-people/felix/","created":"2024-08-08T14:00:17.276-05:00","updated":"2024-11-06T14:31:44.067-06:00"}
+{"dg-publish":true,"permalink":"/03-people/felix/","created":"2024-08-08T14:00:17.276-05:00","updated":"2024-11-08T12:47:46.506-06:00"}
 ---
 
 # felix
@@ -8,7 +8,14 @@ a [[04 groups/mutants\|mutant]]
 a smuggler
 a con artist
 an ~~idiot~~ unconventionally *smarter* person
-
+the [[08 dynamics/felix x violet\|love of violet's life]]
+## stats
+hair:: black
+eyes:: one green, one golden
+skin:: grey-blue
+height::
+weight::
+status:: alive
 ## early days
 
 Born in [[05 places/franchise locations of the empire of zion#jericho\|Jericho]] to mutant parents. His identifier barcode was 8942F5. His mother (5826N3 *Nikki*) and Father (4374A7 *Alex*) named in *Felix* in the corpo-born Mutant tradition of naming their children after the letter in their given identifier barcode.
