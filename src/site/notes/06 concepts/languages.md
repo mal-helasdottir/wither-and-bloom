@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06-concepts/languages/","created":"2024-11-12T10:17:23.847-06:00","updated":"2024-11-12T15:31:53.284-06:00"}
+{"dg-publish":true,"permalink":"/06-concepts/languages/","created":"2024-11-12T10:17:23.847-06:00","updated":"2024-11-12T15:41:29.945-06:00"}
 ---
 
 # languages
@@ -21,7 +21,7 @@
 - the pool of speakers is limited to the eldest three and the ceo
 
 ## screwtape
-*demonic communication*
+[^2]*demonic communication*
 - spoken by demons and devils amongst themselves
 - there is no accompanying written language, which makes sense considering the short gnat-like lives of most lesser demons
 	- if writing is required it in done in corporate, but few of the species have enough mental wherewithal or patience for the process of writing or even recalling letters
@@ -35,3 +35,4 @@
 ### footnotes
 
 [^1]: wikipedia entry for *cant (language)* https://en.wikipedia.org/wiki/Cant_(language)
+[^2]: wikipedia entry for *the screwtape letters* https://en.wikipedia.org/wiki/The_Screwtape_Letters
