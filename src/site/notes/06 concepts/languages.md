@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06-concepts/languages/","created":"2024-11-12T10:17:23.847-06:00","updated":"2024-11-12T15:55:12.479-06:00"}
+{"dg-publish":true,"permalink":"/06-concepts/languages/","created":"2024-11-12T10:17:23.847-06:00","updated":"2024-11-12T15:57:17.499-06:00"}
 ---
 
 # languages
@@ -10,7 +10,7 @@
 - any and all documents *not* written in corporate with at least 2 witnesses and accompanying seals affixed is considered void of any legal standing
 
 > [!FAQ]- suggested other names
-> legalese, 
+> legalese, mercantile
 ## mutant
 *a patois of many uncouth languages used only by rampant mutants*
 - constantly shifting tongue and flexible cant style[^1] writing system used only by mutants
