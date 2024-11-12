@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06-concepts/languages/","created":"2024-11-12T10:17:23.847-06:00","updated":"2024-11-12T15:31:25.124-06:00"}
+{"dg-publish":true,"permalink":"/06-concepts/languages/","created":"2024-11-12T10:17:23.847-06:00","updated":"2024-11-12T15:31:53.284-06:00"}
 ---
 
 # languages
@@ -30,6 +30,8 @@
 - normally found on ancient signage and other remnants of pre-[[02 history/the revelation\|revelation]] infrastructure
 - only high ranking members of the inner circle can communicate in english, along with [[03 people/the ceo\|the ceo]]
 	- used in their secret rituals and services
-# ## footnotes
+
+---
+### footnotes
 
 [^1]: wikipedia entry for *cant (language)* https://en.wikipedia.org/wiki/Cant_(language)
