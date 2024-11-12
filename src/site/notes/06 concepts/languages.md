@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06-concepts/languages/","created":"2024-11-12T10:17:23.847-06:00","updated":"2024-11-12T15:20:51.531-06:00"}
+{"dg-publish":true,"permalink":"/06-concepts/languages/","created":"2024-11-12T10:17:23.847-06:00","updated":"2024-11-12T15:31:25.124-06:00"}
 ---
 
 # languages
@@ -10,7 +10,7 @@
 - any and all documents *not* written in corporate with at least 2 witnesses and accompanying seals affixed is considered void of any legal standing
 ## mutant
 *a patois of many uncouth languages used only by rampant mutants*
-- constantly shifting tongue and flexible cant style writing system used only by mutants
+- constantly shifting tongue and flexible cant style[^1] writing system used only by mutants
 	- not because of any greater conspiracy to keep it away from reggies (regular corpos), but because outside groups refuse to show any interest in it whatsoever--that would give it credence and therefore power
 - even if a reggie decided to learn it would be difficult
 	- limited sounds and cyphers create a language of subtleties that relies heavily on body language, tone, and implication (like mandarin)
@@ -30,3 +30,6 @@
 - normally found on ancient signage and other remnants of pre-[[02 history/the revelation\|revelation]] infrastructure
 - only high ranking members of the inner circle can communicate in english, along with [[03 people/the ceo\|the ceo]]
 	- used in their secret rituals and services
+# ## footnotes
+
+[^1]: wikipedia entry for *cant (language)* https://en.wikipedia.org/wiki/Cant_(language)
