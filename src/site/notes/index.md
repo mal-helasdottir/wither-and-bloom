@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","title":"index","hide":true,"hideInGraph":true,"tags":["gardenEntry"],"created":"2024-08-07T09:02:57.000-05:00","updated":"2024-10-30T09:04:37.704-05:00"}
+{"dg-publish":true,"permalink":"/index/","title":"index","hide":true,"hideInGraph":true,"tags":["gardenEntry"],"created":"2024-08-07T09:02:57.000-05:00","updated":"2024-11-12T11:23:49.275-06:00"}
 ---
 
 # welcome!
@@ -42,6 +42,7 @@ wither & bloom is a post apocalyptic biopunk scientific romance written by two l
 - [[06 concepts/flesh warping\|flesh warping]]
 - [[06 concepts/powers of the flesh\|powers of the flesh]]
 - [[06 concepts/sliver of divinity\|sliver of divinity]]
+- [[06 concepts/languages\|languages]]
 
 ## 📌recent pages
 | page                                            | tags      | modified time                |
