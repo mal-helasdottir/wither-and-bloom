@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/06-concepts/languages/","created":"2024-11-12T10:17:23.847-06:00","updated":"2024-11-12T16:01:46.832-06:00"}
+{"dg-publish":true,"permalink":"/06-concepts/languages/","created":"2024-11-12T10:17:23.847-06:00","updated":"2024-11-12T16:04:03.318-06:00"}
 ---
 
 # languages
-
+---
 ## corporate
 *the official tongue of the holy empire of zion*
 - meant to be used in all official communications: marriage contracts, imperial notices, writs of bondage, etc.
@@ -11,6 +11,8 @@
 
 > [!FAQ]- suggested other names
 > legalese, mercantile, commerce
+
+---
 ## mutant
 *a patois of many uncouth languages used only by rampant mutants*
 - constantly shifting tongue and flexible cant style[^1] writing system used only by mutants
@@ -20,7 +22,8 @@
 	- no one would teach them
 
 > [!FAQ]- suggested other names
-> 
+
+---
 ## enochian
 *the sacred language of the elder ones*
 - totally alien method of communication consisting of unpronounceable syllables and mental imaging
@@ -28,6 +31,8 @@
 
 > [!FAQ]- suggested other names
 > 
+
+---
 ## screwtape
 [^2]*demonic communication*
 - spoken by demons and devils amongst themselves
@@ -36,6 +41,8 @@
 
 > [!FAQ]- suggested other names
 >
+
+---
 ## english
 *lost after the revelation*
 - normally found on ancient signage and other remnants of pre-[[02 history/the revelation\|revelation]] infrastructure
