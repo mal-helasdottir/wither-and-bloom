@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/02-history/rough-timeline/","created":"2024-08-21T14:33:28.000-05:00","updated":"2024-10-30T09:29:32.909-05:00"}
+{"dg-publish":true,"permalink":"/02-history/rough-timeline/","created":"2024-08-21T14:33:28.000-05:00","updated":"2024-12-05T15:40:21.200-06:00"}
 ---
 
+
+*[[00 snippets/in the beginning\|in the beginning]]*
 # Ancient Times and [[04 groups/the eldest ones\|Old Gods]]
 
 - ???? - [[03 people/the infinite pattern\|the infinite pattern]] and [[03 people/the fallen flesh\|The Fleshwarper]] begin their eternal war
