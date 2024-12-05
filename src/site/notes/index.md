@@ -45,23 +45,23 @@ wither & bloom is a post apocalyptic biopunk scientific romance written by two l
 - [[06 concepts/languages\|languages]]
 
 ## 📌recent pages
-| page                                                  | tags      | modified time                |
-| ----------------------------------------------------- | --------- | ---------------------------- |
-| [[00 snippets/in the beginning\|in the beginning]] | <ul></ul> | 3:38 PM - December 05, 2024  |
-| [[03 people/cid\|cid]]                             | <ul></ul> | 11:11 AM - November 19, 2024 |
-| [[06 concepts/languages\|languages]]               | <ul></ul> | 8:18 AM - November 13, 2024  |
-| [[04 groups/shareholders\|shareholders]]           | <ul></ul> | 4:02 PM - November 12, 2024  |
-| [[06 concepts/liquid dark\|liquid dark]]           | <ul></ul> | 3:23 PM - November 12, 2024  |
+| page                                                  | tags                                      | modified time                |
+| ----------------------------------------------------- | ----------------------------------------- | ---------------------------- |
+| [[00 snippets/in the beginning\|in the beginning]] | <ul><li>#snippet</li><li>#waifu</li></ul> | 3:39 PM - December 05, 2024  |
+| [[03 people/cid\|cid]]                             | <ul></ul>                                 | 11:11 AM - November 19, 2024 |
+| [[06 concepts/languages\|languages]]               | <ul></ul>                                 | 8:18 AM - November 13, 2024  |
+| [[04 groups/shareholders\|shareholders]]           | <ul></ul>                                 | 4:02 PM - November 12, 2024  |
+| [[06 concepts/liquid dark\|liquid dark]]           | <ul></ul>                                 | 3:23 PM - November 12, 2024  |
 
 { .block-language-dataview}
 
 ## ✂️recent snippets
+- [[00 snippets/in the beginning\|in the beginning]]
 - [[00 snippets/terror billy\|terror billy]]
 - [[00 snippets/kiss me felix\|kiss me felix]]
 - [[00 snippets/hello rosie\|hello rosie]]
 - [[00 snippets/dont get hurt\|dont get hurt]]
 - [[00 snippets/bethlehem 2\|bethlehem 2]]
 - [[00 snippets/bethlehem\|bethlehem]]
-- [[00 snippets/The Assault on Battery City\|The Assault on Battery City]]
 
 { .block-language-dataview}

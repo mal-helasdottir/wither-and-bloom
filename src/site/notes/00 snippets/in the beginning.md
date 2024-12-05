@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/00-snippets/in-the-beginning/","created":"2024-12-05T15:36:32.820-06:00","updated":"2024-12-05T15:38:02.930-06:00"}
+{"dg-publish":true,"permalink":"/00-snippets/in-the-beginning/","created":"2024-12-05T15:36:32.820-06:00","updated":"2024-12-05T15:39:10.241-06:00"}
 ---
 
 # in the beginning
-snippet waifu
+#snippet #waifu
 
 in the beginning there was matter and energy.
 
