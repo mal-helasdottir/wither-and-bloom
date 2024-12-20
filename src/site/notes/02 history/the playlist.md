@@ -1,12 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/02-history/the-playlist/","created":"2024-12-20T15:31:49.449-06:00","updated":"2024-12-20T15:52:56.034-06:00"}
+{"dg-publish":true,"permalink":"/02-history/the-playlist/","created":"2024-12-20T15:31:49.449-06:00","updated":"2024-12-20T16:01:25.640-06:00"}
 ---
 
 # the playlist
 link: 
 
 ## apocalypse now
-
+- *we are fucking fucked*, muse
+	- seems to be pretty much what it says on the tin. t
 ## the gods 
 ### the flesh
 ### the pattern
