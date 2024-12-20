@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-history/the-playlist/","created":"2024-12-20T15:31:49.449-06:00","updated":"2024-12-20T16:20:52.429-06:00"}
+{"dg-publish":true,"permalink":"/02-history/the-playlist/","created":"2024-12-20T15:31:49.449-06:00","updated":"2024-12-20T16:27:53.586-06:00"}
 ---
 
 # the playlist
@@ -16,7 +16,8 @@ link:
 - *starman*, david bowie
 	- extremely innocent take on the infinite pattern, making her seem gentle, interested, positive, etc. she's not any of those things but let the children boogie, as they say. t
 ### the diminished
-
+- *aspiring fires*, mother mother
+	- fire - chaotic, ravenous, uncontrollable, viral, nonsensical. *you wanna see me crazy? well i'll show you it's like and then i'll wave goodbye as you run for your life*. *a little advice for aspiring fires: you get put out if you don't get a little wild*. *because crazy in the box is everything that crazy's not*. t
 ## the ceo
 ## violet
 
