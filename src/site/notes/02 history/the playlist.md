@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-history/the-playlist/","created":"2024-12-20T15:31:49.449-06:00","updated":"2024-12-20T16:06:48.167-06:00"}
+{"dg-publish":true,"permalink":"/02-history/the-playlist/","created":"2024-12-20T15:31:49.449-06:00","updated":"2024-12-20T16:20:52.429-06:00"}
 ---
 
 # the playlist
@@ -10,6 +10,8 @@ link:
 	- seems to be pretty much what it says on the tin. t
 ## the gods 
 ### the flesh
+- *body*, mother mother
+	- the way the flesh is offered up and consumed by lesser beings after her power, the ceo's mirroring of these actions as he creates minions, he cannibalistic nature of demons and devils and a little tongue and cheek reference to catholic eucharist. t
 ### the pattern
 - *starman*, david bowie
 	- extremely innocent take on the infinite pattern, making her seem gentle, interested, positive, etc. she's not any of those things but let the children boogie, as they say. t
