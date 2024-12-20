@@ -1,10 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/02-history/the-playlist/","created":"2024-12-20T15:31:49.449-06:00","updated":"2024-12-20T16:44:39.369-06:00"}
+{"dg-publish":true,"permalink":"/02-history/the-playlist/","created":"2024-12-20T15:31:49.449-06:00","updated":"2024-12-20T16:49:40.586-06:00"}
 ---
 
 # the playlist
 link: 
 
+## vibe check
+### tunes to drive over the wastes to
+- *knights of cydonia*, muse
+### tunes to make out with your mutant boyfriend to
+### tunes to haunt zion to
+
+---
 ## apocalypse now
 - *we are fucking fucked*, muse
 	- seems to be pretty much what it says on the tin. t
