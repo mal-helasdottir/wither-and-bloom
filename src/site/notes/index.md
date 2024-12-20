@@ -47,11 +47,11 @@ wither & bloom is a post apocalyptic biopunk scientific romance written by two l
 ## 📌recent pages
 | page                                                  | tags                                      | modified time                |
 | ----------------------------------------------------- | ----------------------------------------- | ---------------------------- |
+| [[02 history/the playlist\|the playlist]]          | <ul></ul>                                 | 3:34 PM - December 20, 2024  |
 | [[02 history/Rough Timeline\|Rough Timeline]]      | <ul></ul>                                 | 3:40 PM - December 05, 2024  |
 | [[00 snippets/in the beginning\|in the beginning]] | <ul><li>#snippet</li><li>#waifu</li></ul> | 3:39 PM - December 05, 2024  |
 | [[03 people/cid\|cid]]                             | <ul></ul>                                 | 11:11 AM - November 19, 2024 |
 | [[06 concepts/languages\|languages]]               | <ul></ul>                                 | 8:18 AM - November 13, 2024  |
-| [[04 groups/shareholders\|shareholders]]           | <ul></ul>                                 | 4:02 PM - November 12, 2024  |
 
 { .block-language-dataview}
 
