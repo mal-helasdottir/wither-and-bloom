@@ -48,7 +48,7 @@ wither & bloom is a post apocalyptic biopunk scientific romance written by two l
 ## 📌recent pages
 | page                                                            | tags                                      | modified time                |
 | --------------------------------------------------------------- | ----------------------------------------- | ---------------------------- |
-| [[02 history/the playlist\|the playlist]]                    | <ul></ul>                                 | 4:01 PM - December 20, 2024  |
+| [[02 history/the playlist\|the playlist]]                    | <ul></ul>                                 | 4:06 PM - December 20, 2024  |
 | [[06 concepts/the forging of metals\|the forging of metals]] | <ul></ul>                                 | 3:51 PM - December 20, 2024  |
 | [[02 history/Rough Timeline\|Rough Timeline]]                | <ul></ul>                                 | 3:40 PM - December 05, 2024  |
 | [[00 snippets/in the beginning\|in the beginning]]           | <ul><li>#snippet</li><li>#waifu</li></ul> | 3:39 PM - December 05, 2024  |

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-history/the-playlist/","created":"2024-12-20T15:31:49.449-06:00","updated":"2024-12-20T16:01:25.640-06:00"}
+{"dg-publish":true,"permalink":"/02-history/the-playlist/","created":"2024-12-20T15:31:49.449-06:00","updated":"2024-12-20T16:06:48.167-06:00"}
 ---
 
 # the playlist
@@ -11,6 +11,8 @@ link:
 ## the gods 
 ### the flesh
 ### the pattern
+- *starman*, david bowie
+	- extremely innocent take on the infinite pattern, making her seem gentle, interested, positive, etc. she's not any of those things but let the children boogie, as they say. t
 ### the diminished
 
 ## the ceo
