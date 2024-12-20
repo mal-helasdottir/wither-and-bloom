@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06-concepts/the-forging-of-metals/","created":"2024-10-28T09:04:27.999-05:00","updated":"2024-10-29T15:01:46.237-05:00"}
+{"dg-publish":true,"permalink":"/06-concepts/the-forging-of-metals/","created":"2024-10-28T09:04:27.999-05:00","updated":"2024-12-20T15:51:30.063-06:00"}
 ---
 
 # the forging of metals (or lack thereof)
