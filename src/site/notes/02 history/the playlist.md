@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-history/the-playlist/","created":"2024-12-20T15:31:49.449-06:00","updated":"2024-12-20T16:27:53.586-06:00"}
+{"dg-publish":true,"permalink":"/02-history/the-playlist/","created":"2024-12-20T15:31:49.449-06:00","updated":"2024-12-20T16:33:40.494-06:00"}
 ---
 
 # the playlist
@@ -18,6 +18,8 @@ link:
 ### the diminished
 - *aspiring fires*, mother mother
 	- fire - chaotic, ravenous, uncontrollable, viral, nonsensical. *you wanna see me crazy? well i'll show you it's like and then i'll wave goodbye as you run for your life*. *a little advice for aspiring fires: you get put out if you don't get a little wild*. *because crazy in the box is everything that crazy's not*. t
+- *string break song*, charming disaster
+	- there is no living without destruction. nothing lasts forever. every day takes you one more closer to the last. *chaos is gonna win in the end, the universe is flying apart, there ain't nothing much you can do about it. burn up the candle or live in the dark*? t
 ## the ceo
 ## violet
 
