@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-history/rough-timeline/","created":"2024-08-21T14:33:28.000-05:00","updated":"2024-12-23T21:00:25.872-06:00"}
+{"dg-publish":true,"permalink":"/02-history/rough-timeline/","created":"2024-08-21T14:33:28.000-05:00","updated":"2024-12-23T21:01:47.814-06:00"}
 ---
 
 
@@ -43,7 +43,7 @@
 - Felix escapes the Garden, Violet in tow
 - Violet attains twilight consciousness and seizes the first opportunity to get away from Felix, directly into Gluttony
 	- Violet faces down several demons and defeats the last by withering from Felix shortly after he locates her within the field.
-
+---
 - felix loses an arm in a fight against a demon
 	- violet uses her suit material to staunch the bleeding, but she must stay connected in order to trickle bloom into felix, keeping him alive
 	- cid manages to heal them both
