@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-history/rough-timeline/","created":"2024-08-21T14:33:28.000-05:00","updated":"2024-12-23T21:01:47.814-06:00"}
+{"dg-publish":true,"permalink":"/02-history/rough-timeline/","created":"2024-08-21T14:33:28.000-05:00","updated":"2024-12-23T21:56:33.303-06:00"}
 ---
 
 
@@ -44,7 +44,8 @@
 - Violet attains twilight consciousness and seizes the first opportunity to get away from Felix, directly into Gluttony
 	- Violet faces down several demons and defeats the last by withering from Felix shortly after he locates her within the field.
 ---
-- felix loses an arm in a fight against a demon
+- felix loses an arm in a brief extremely one sided fight against rose
+	- rose consumes the arm granting her the ability to use felix's healing factor except she's better at it of course
 	- violet uses her suit material to staunch the bleeding, but she must stay connected in order to trickle bloom into felix, keeping him alive
 	- cid manages to heal them both
 		- felix's new arm is crafted from the earlier stolen spine, tweaked with anunnaki tech and gnosis know how
@@ -59,6 +60,7 @@
 	- rose, enfleshed and mad stalks the streets calling for Violet, who goes catatonic again
 		- to protect violet and what's left of battery city felix
 			- removes and consumes violet's black eye
+				- felix, unknowingly, can now pass energy back along a connection with violet
 			- surrenders himself to rose
 			- informs rose that violet is dead because felix ate her
 			- rose takes felix into custody to
