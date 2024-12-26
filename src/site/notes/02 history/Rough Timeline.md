@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-history/rough-timeline/","created":"2024-08-21T14:33:28.000-05:00","updated":"2024-12-26T12:47:37.399-06:00"}
+{"dg-publish":true,"permalink":"/02-history/rough-timeline/","created":"2024-08-21T14:33:28.000-05:00","updated":"2024-12-26T13:55:33.974-06:00"}
 ---
 
 
@@ -40,7 +40,7 @@
 - The Anunnaki, recognizing the Fallen Flesh is reawakening before their lord is able to return fall back on a contingency plan it is one meant to delay more than anything.  They drop several nuclear bombs on the Gulf of Mexico and several Key Cities in the Mid Western United States, including Austin.
 	- This triggers mass confusion and the launching of reactionary nukes by the US at several nations, who in turn launch their own triggering a global nuclear war. 
 - The meat dome closes over the city of Austin, TX
-	- The CEO seeing the attacks launched does this to savehimself and his assets from the nukes.  It also affords him to opportunity to go into a hibernation period while he learns to better control his new abilities. 
+	- The CEO seeing the attacks launched does this to save himself and his assets from the nukes.  It also affords him to opportunity to go into a hibernation period while he learns to better control his new abilities. 
 	- While he slumbers his form spreads into the earth beneath Austin and tendrils begin branching out.  
 	- The people of Austin being worshiping the CEO for saving them and as the sole source of the Flesh now, new technologies are bioengineered and delivered to the masses.  
 	- The Board of the Zion Corporation are made the first flesh warpers and the first clergy of this new religion.
