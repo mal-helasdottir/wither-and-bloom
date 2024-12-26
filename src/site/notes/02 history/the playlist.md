@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/02-history/the-playlist/","created":"2024-12-20T15:31:49.449-06:00","updated":"2024-12-20T16:49:40.586-06:00"}
+{"dg-publish":true,"permalink":"/02-history/the-playlist/","created":"2024-12-20T15:31:49.449-06:00","updated":"2024-12-26T08:40:36.779-06:00"}
 ---
 
 # the playlist
-link: 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0Y85LN2fvUb18sDXcLoc1m?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ## vibe check
 ### tunes to drive over the wastes to
