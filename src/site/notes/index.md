@@ -49,13 +49,13 @@ wither & bloom is a post apocalyptic biopunk scientific romance written by two l
 - [[06 concepts/cannibalism\|cannibalism]]
 
 ## 📌recent pages
-| page                                                                                                  | tags      | modified time                |
-| ----------------------------------------------------------------------------------------------------- | --------- | ---------------------------- |
-| [[02 history/Rough Timeline\|Rough Timeline]]                                                      | <ul></ul> | 4:21 PM - December 26, 2024  |
-| [[05 places/Frontier and Mute Towns\|Frontier and Mute Towns]]                                     | <ul></ul> | 2:39 PM - December 26, 2024  |
-| [[05 places/franchise locations of the empire of zion\|franchise locations of the empire of zion]] | <ul></ul> | 2:38 PM - December 26, 2024  |
-| [[02 history/the playlist\|the playlist]]                                                          | <ul></ul> | 2:33 PM - December 26, 2024  |
-| [[04 groups/acolytes of the infinite pattern\|acolytes of the infinite pattern]]                   | <ul></ul> | 12:47 PM - December 26, 2024 |
+| page                                                                                                  | tags      | modified time               |
+| ----------------------------------------------------------------------------------------------------- | --------- | --------------------------- |
+| [[05 places/the demonwastes\|the demonwastes]]                                                     | <ul></ul> | 4:34 PM - December 26, 2024 |
+| [[02 history/Rough Timeline\|Rough Timeline]]                                                      | <ul></ul> | 4:33 PM - December 26, 2024 |
+| [[05 places/Frontier and Mute Towns\|Frontier and Mute Towns]]                                     | <ul></ul> | 2:39 PM - December 26, 2024 |
+| [[05 places/franchise locations of the empire of zion\|franchise locations of the empire of zion]] | <ul></ul> | 2:38 PM - December 26, 2024 |
+| [[02 history/the playlist\|the playlist]]                                                          | <ul></ul> | 2:33 PM - December 26, 2024 |
 
 { .block-language-dataview}
 

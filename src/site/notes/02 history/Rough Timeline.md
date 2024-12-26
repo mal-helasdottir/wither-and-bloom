@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-history/rough-timeline/","created":"2024-08-21T14:33:28.000-05:00","updated":"2024-12-26T16:21:56.785-06:00"}
+{"dg-publish":true,"permalink":"/02-history/rough-timeline/","created":"2024-08-21T14:33:28.000-05:00","updated":"2024-12-26T16:33:12.098-06:00"}
 ---
 
 
@@ -57,7 +57,8 @@
 	- The world had become mostly reliant on LN products prior to the Revelation, so not having ready access to new sources (while LN power is long lasting it is still very finite outside of Zion) while the dome is closed causes lots of problems, some of the settlements are able to make use of other sources of power (dams, wind, etc.)  but these tend to be especially susceptible to the storms.
 	- Inter-settlement wars, and large bandit groups also serve to stagnate technological advances and slow the reformation of a united society outside of Zion as well.
 	- The Waste land is basically stuck in a old west kind of era with some pockets of more advanced civilization and tech here and there.
-- ~10-25 years ATD the Anunnaki firm up their foot hold on several of their key establishment in the American waste. UFO town (formerly Roswell NM), The Area (formerly Area 51), New Sherman (formerly Skinwalker Ranch/Ballard Utah) 
+- ~10-25 years ATD the Anunnaki firm up their foot hold on several of their key establishment in the American waste. UFO town (formerly Roswell NM), The Area (formerly Area 51), New Sherman (formerly Skinwalker Ranch/Ballard Utah) Cemetery (formerly Aurora Texas, named for the cemetery where the Anunnaki pilot was buried in 1896)  These become the most stable settlements over this time period due to the influence of the Anunnaki.
+	- Cemetery in particular is built up rather early due to its proximity to Austin/Zion  and is the main watch post for the dome.
 ## The Empire of Zion
 - Year 1 AR (**AR perhaps? for After Restoration?** YES)The meat dome reopens over Austin, TX  
 	- The City, now known as Zion, sets about expanding their reach in the wastelands.
