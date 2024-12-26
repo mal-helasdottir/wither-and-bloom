@@ -46,13 +46,13 @@ wither & bloom is a post apocalyptic biopunk scientific romance written by two l
 - [[06 concepts/languages\|languages]]
 
 ## 📌recent pages
-| page                                                            | tags                                      | modified time                |
-| --------------------------------------------------------------- | ----------------------------------------- | ---------------------------- |
-| [[02 history/Rough Timeline\|Rough Timeline]]                | <ul></ul>                                 | 9:56 PM - December 23, 2024  |
-| [[06 concepts/cannibalism\|cannibalism]]                     | <ul></ul>                                 | 11:25 AM - December 23, 2024 |
-| [[02 history/the playlist\|the playlist]]                    | <ul></ul>                                 | 4:49 PM - December 20, 2024  |
-| [[06 concepts/the forging of metals\|the forging of metals]] | <ul></ul>                                 | 3:51 PM - December 20, 2024  |
-| [[00 snippets/in the beginning\|in the beginning]]           | <ul><li>#snippet</li><li>#waifu</li></ul> | 3:39 PM - December 05, 2024  |
+| page                                                        | tags      | modified time               |
+| ----------------------------------------------------------- | --------- | --------------------------- |
+| [[06 concepts/the prodigy project\|the prodigy project]] | <ul></ul> | 8:31 AM - December 26, 2024 |
+| [[06 concepts/apotheosis\|apotheosis]]                   | <ul></ul> | 8:30 AM - December 26, 2024 |
+| [[06 concepts/cannibalism\|cannibalism]]                 | <ul></ul> | 8:30 AM - December 26, 2024 |
+| [[04 groups/the eldest ones\|the eldest ones]]           | <ul></ul> | 8:29 AM - December 26, 2024 |
+| [[06 concepts/languages\|languages]]                     | <ul></ul> | 8:29 AM - December 26, 2024 |
 
 { .block-language-dataview}
 

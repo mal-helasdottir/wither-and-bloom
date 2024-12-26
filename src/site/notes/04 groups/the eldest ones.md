@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-groups/the-eldest-ones/","created":"2024-08-08T14:49:18.150-05:00","updated":"2024-10-28T09:26:17.545-05:00"}
+{"dg-publish":true,"permalink":"/04-groups/the-eldest-ones/","created":"2024-08-08T14:49:18.150-05:00","updated":"2024-12-26T08:29:28.962-06:00"}
 ---
 
 # the eldest ones

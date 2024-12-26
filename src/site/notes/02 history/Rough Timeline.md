@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-history/rough-timeline/","created":"2024-08-21T14:33:28.000-05:00","updated":"2024-12-23T21:56:33.303-06:00"}
+{"dg-publish":true,"permalink":"/02-history/rough-timeline/","created":"2024-08-21T14:33:28.000-05:00","updated":"2024-12-26T08:29:06.368-06:00"}
 ---
 
 
@@ -34,12 +34,13 @@
 - The meat dome closes over the city of Austin, TX
 ## The Empire of Zion
 - The meat dome reopens over Austin, TX
-## book one
+## SERIES ONE
+### book one
 - Felix infiltrates a Garden concealed near Gluttony under direction from Acolytes of the Pattern.
 	- OBJECTIVES
 		- secure a spine, a LN biosuit implant device
 		- moar?
-	- Violet is discovered catatonic, having just withered the entire Garden in order to stop Rose's failed apotheosis? incarnation? Violet consumed a small part of Rose during these events, a side effect of the obliteration of all of Rose's flesh below the neck
+	- Violet is discovered catatonic, having just withered the entire Garden in order to stop Rose's failed [[06 concepts/apotheosis\|apotheosis]]? incarnation? Violet consumed a small part of Rose during these events, a side effect of the obliteration of all of Rose's flesh below the neck
 - Felix escapes the Garden, Violet in tow
 - Violet attains twilight consciousness and seizes the first opportunity to get away from Felix, directly into Gluttony
 	- Violet faces down several demons and defeats the last by withering from Felix shortly after he locates her within the field.
@@ -48,10 +49,10 @@
 	- rose consumes the arm granting her the ability to use felix's healing factor except she's better at it of course
 	- violet uses her suit material to staunch the bleeding, but she must stay connected in order to trickle bloom into felix, keeping him alive
 	- cid manages to heal them both
-		- felix's new arm is crafted from the earlier stolen spine, tweaked with anunnaki tech and gnosis know how
-- learn of the effects of star metal from cid of the brotherhood of gnosis
-- learn of the requirement to defeat or otherwise subdue the devil princes
-- learn of the connection between the devil princes, the ceo, the gardens, and apotheosis? incarnation?
+		- felix's new arm is crafted from the earlier stolen spine, tweaked with anunnaki tech and gnosis know how (one sliver? go on, you wouldn't)
+- learn of the effects of star metal from cid of the brotherhood of gnosis, (shards) required to kill the ceo/the flesh
+- learn of the requirement to defeat or otherwise subdue the devil princes, (slivers) required to kill the ceo/the flesh
+- learn of the connection between the devil princes, the ceo, the gardens, and [[06 concepts/apotheosis\|apotheosis]]? incarnation?
 - battery city to prepare for strike against zion
 	- meet ma
 	- meet opal?
@@ -68,7 +69,10 @@
 				- ascertain the status of violet, alive or dead
 					- perhaps they vivisection felix like they do with gators and sharks to see if they ate people recently
 				- if violet is alive, to determine the details of her location
-## book two
+### book two
 - 
-## book three
+### book three
 - 
+## SERIES TWO
+
+## SERIES THREE
