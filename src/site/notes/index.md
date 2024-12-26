@@ -49,13 +49,13 @@ wither & bloom is a post apocalyptic biopunk scientific romance written by two l
 - [[06 concepts/cannibalism\|cannibalism]]
 
 ## 📌recent pages
-| page                                                        | tags      | modified time                |
-| ----------------------------------------------------------- | --------- | ---------------------------- |
-| [[02 history/Rough Timeline\|Rough Timeline]]            | <ul></ul> | 12:40 PM - December 26, 2024 |
-| [[01 inbox/Lanky Boys\|Lanky Boys]]                      | <ul></ul> | 11:49 AM - December 26, 2024 |
-| [[02 history/the playlist\|the playlist]]                | <ul></ul> | 9:07 AM - December 26, 2024  |
-| [[06 concepts/the prodigy project\|the prodigy project]] | <ul></ul> | 8:31 AM - December 26, 2024  |
-| [[06 concepts/apotheosis\|apotheosis]]                   | <ul></ul> | 8:30 AM - December 26, 2024  |
+| page                                                                                | tags      | modified time                |
+| ----------------------------------------------------------------------------------- | --------- | ---------------------------- |
+| [[02 history/Rough Timeline\|Rough Timeline]]                                    | <ul></ul> | 12:47 PM - December 26, 2024 |
+| [[04 groups/acolytes of the infinite pattern\|acolytes of the infinite pattern]] | <ul></ul> | 12:47 PM - December 26, 2024 |
+| [[02 history/the playlist\|the playlist]]                                        | <ul></ul> | 9:07 AM - December 26, 2024  |
+| [[06 concepts/the prodigy project\|the prodigy project]]                         | <ul></ul> | 8:31 AM - December 26, 2024  |
+| [[06 concepts/apotheosis\|apotheosis]]                                           | <ul></ul> | 8:30 AM - December 26, 2024  |
 
 { .block-language-dataview}
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-history/rough-timeline/","created":"2024-08-21T14:33:28.000-05:00","updated":"2024-12-26T12:40:14.825-06:00"}
+{"dg-publish":true,"permalink":"/02-history/rough-timeline/","created":"2024-08-21T14:33:28.000-05:00","updated":"2024-12-26T12:47:37.399-06:00"}
 ---
 
 
@@ -59,7 +59,7 @@
 	- She is forced to grapple with and wither rose herself as its the only thing able to slow her down.  She is forced to hold her and wither for so long that Rose's body begins to desiccate into dust.
 		- Ordinarily when Violet wither's something she is unable to hold the energy and must release it at some point or it physically hurts her, but due to the nature of Rose being her twin and the CEO being her father she keeps some of Rose's essence as well as the Sliver of Infinity she consumed as those things become a part of Violet.  Violet essentially "consumes" them through withering.
 	- Upon realizing Rose is being destroyed Violet desperately tries to "bloom" energy back into Rose, which preserves her head only, and she enters a catatonic state cradling her sister's severed head.
-- Felix, desperate for bolts to pay off a bounty on his head due to a botched LN smuggling job meets with a pair of [[01 inbox/Lanky Boys\|Lanky Boys]] in the Mutant Slums of [[Jericho\|Jericho]] to accept a high paying job from them.  He is to meet with a corpo scientist contact of theirs in a secret facility outside of Gluttony under the guise of a corpo  courier to procure an experimental device they refer to as the spine. He is to then take the spine to UFO town where the Lanky Boys will collect it and pay him.
+- Felix, desperate for bolts to pay off a bounty on his head due to a botched LN smuggling job meets with a pair of [[04 groups/acolytes of the infinite pattern\|lanky boys]] in the Mutant Slums of [[Jericho\|Jericho]] to accept a high paying job from them.  He is to meet with a corpo scientist contact of theirs in a secret facility outside of Gluttony under the guise of a corpo  courier to procure an experimental device they refer to as the spine. He is to then take the spine to UFO town where the Lanky Boys will collect it and pay him.
 ### book one
 - Felix infiltrates a Garden concealed near Gluttony under direction from Acolytes of the Pattern.
 	- OBJECTIVES
