@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-history/rough-timeline/","created":"2024-08-21T14:33:28.000-05:00","updated":"2024-12-26T14:35:43.420-06:00"}
+{"dg-publish":true,"permalink":"/02-history/rough-timeline/","created":"2024-08-21T14:33:28.000-05:00","updated":"2024-12-26T16:21:56.785-06:00"}
 ---
 
 
@@ -33,9 +33,9 @@
 - 
 
 ## The Revelation
-- The CEO consumes the last intact eye of the Fallen Flesh in an [[06 concepts/apotheosis\|apotheosis]] ritual.  
+- 9/9/1991 The CEO consumes the last intact eye of the Fallen Flesh in an [[06 concepts/apotheosis\|apotheosis]] ritual.  
 	- The ritual is imperfect  Flesh begins to grow and multiply and shoot off of the CEO, spreading patches of it around the Western United States, these patches will eventually become the Demonfields as Flora and Fauna in these areas begin to undergo transformations of the Flesh.
-	- The CEO's form begins to fleshwarp wildly as well, as the Fallen Flesh takes root, a human body is an unsuitable vessel for the Fleshwarper.  The CEO feels himself begining to unravel.
+	- The CEO's form begins to fleshwarp wildly as well, as the Fallen Flesh takes root, a human body is an unsuitable vessel for the Fleshwarper.  The CEO feels himself beginning to unravel.
 	- The CEO, in a desperate bid to hold on to divinity is forced to use nearly 99% of his power to hold himself together and manages to somewhat stabilize his form and halt the uncontrolled flesh warping. 
 - The Anunnaki, recognizing the Fallen Flesh is reawakening before their lord is able to return fall back on a contingency plan it is one meant to delay more than anything.  They drop several nuclear bombs on the Gulf of Mexico and several Key Cities in the Mid Western United States, including Austin.
 	- This triggers mass confusion and the launching of reactionary nukes by the US at several nations, who in turn launch their own triggering a global nuclear war. 
@@ -44,10 +44,25 @@
 	- While he slumbers his form spreads into the earth beneath Austin and tendrils begin branching out.  
 	- The people of Austin being worshiping the CEO for saving them and as the sole source of the Flesh now, new technologies are bioengineered and delivered to the masses.  
 	- The Board of the Zion Corporation are made the first flesh warpers and the first clergy of this new religion.
+- The Anunnaki send a messenger ship on the long voyage through the portal on Saturn to inform the Pattern of the begun reawakening of the Fleshwarper.  They are not expected to hear a response for several hundred years.  In the meantime they continue to monitor and manipulate the situation where they can.
+## The Restoration
+- The period while the dome remains closed over Zion has become known as the restoration.  
+	- This period lasts for ~4 generations (400 year give or take) long enough for myths to form in and outside the dome.  
+- ~2 years after the dome (ATD) closes humans outside of Zion begin to birth the first mutants.  It is assumed this is an unforeseen side effect of the radioactive fall out, but it's due to the manipulations of the Diminished One.  
+	- Humans probably were awful to their mutant children at first.  many were probably killed shortly after birth until it became obvious the problem wasn't going away.
+- ~3-4 years ATD Demons are thriving in the areas covered by the Flesh during the CEO's Apotheosis.  The sky around these areas bein to warp and change turning green as the atmosphere shifts to favor that of the Flesh.  Winds begin blowing Chlorine Storms about, deadly to non-mutants and highly oxidizing to metal, these storms are usually preceded by the sky turning Green before a thick burning mist rolls in.  **we need a colloquial name for these storms**  
+- There are early attempts at reestablishing the US Government and old Cities or States as well, but they all fail to war or rebellion. Eventually new Cities, and sometime city-states will rise and fall during this time period. Some of the larger Cities doe have some longer term success where infrastructure was still mostly intact.
+	- Cities closest to Demon Fields tend to be overrun by demons
+	- Its not unheard of for a thriving City to get hit with a bad fall out or chlorine storm wiping it out or severely setting back any progress
+	- The world had become mostly reliant on LN products prior to the Revelation, so not having ready access to new sources (while LN power is long lasting it is still very finite outside of Zion) while the dome is closed causes lots of problems, some of the settlements are able to make use of other sources of power (dams, wind, etc.)  but these tend to be especially susceptible to the storms.
+	- Inter-settlement wars, and large bandit groups also serve to stagnate technological advances and slow the reformation of a united society outside of Zion as well.
+	- The Waste land is basically stuck in a old west kind of era with some pockets of more advanced civilization and tech here and there.
+- ~10-25 years ATD the Anunnaki firm up their foot hold on several of their key establishment in the American waste. UFO town (formerly Roswell NM), The Area (formerly Area 51), New Sherman (formerly Skinwalker Ranch/Ballard Utah) 
 ## The Empire of Zion
-- Year 1 AZ (age of Zion? open to suggestion)The meat dome reopens over Austin, TX  
+- Year 1 AR (**AR perhaps? for After Restoration?** YES)The meat dome reopens over Austin, TX  
 	- The City, now known as Zion, sets about expanding their reach in the wastelands.
-- 4 AZ Jericho is established on what remains of the San Antonio, TX becoming the military hub of the Corporate Empire of Zion
+	- Each house sends representatives out into the wastes in order to establish [[05 places/franchise locations of the empire of zion\|franchises]]
+- 4 AR Jericho is established on what remains of the San Antonio, TX becoming the military hub of the Corporate Empire of Zion
 - The Prodigy initiative is started and the first Garden is created near to a Demon Field in former Las Vegas.
 ## SERIES ONE
 ### prologue book one
@@ -59,7 +74,7 @@
 	- She is forced to grapple with and wither rose herself as its the only thing able to slow her down.  She is forced to hold her and wither for so long that Rose's body begins to desiccate into dust.
 		- Ordinarily when Violet wither's something she is unable to hold the energy and must release it at some point or it physically hurts her, but due to the nature of Rose being her twin and the CEO being her father she keeps some of Rose's essence as well as the Sliver of Infinity she consumed as those things become a part of Violet.  Violet essentially "consumes" them through withering.
 	- Upon realizing Rose is being destroyed Violet desperately tries to "bloom" energy back into Rose, which preserves her head only, and she enters a catatonic state cradling her sister's severed head.
-- Felix, desperate for bolts to pay off a bounty on his head due to a botched LN smuggling job meets with a pair of [[04 groups/acolytes of the infinite pattern\|lanky boys]] in the Mutant Slums of [[Jericho\|Jericho]] to accept a high paying job from them.  He is to meet with a corpo scientist contact of theirs in a secret facility outside of Gluttony under the guise of a corpo  courier to procure an experimental device they refer to as the spine. He is to then take the spine to UFO town where the Lanky Boys will collect it and pay him.
+- Felix, desperate for bolts to pay off a bounty on his head due to a botched LN smuggling job meets with a pair of [[04 groups/acolytes of the infinite pattern\|lanky boys]] in the Mutant Slums of [[05 places/franchise locations of the empire of zion#jericho\|Jericho]] to accept a high paying job from them.  He is to meet with a corpo scientist contact of theirs in a secret facility outside of Gluttony under the guise of a corpo  courier to procure an experimental device they refer to as the spine. He is to then take the spine to UFO town where the Lanky Boys will collect it and pay him.
 ### book one
 - Felix infiltrates a Garden concealed near Gluttony under direction from Acolytes of the Pattern.
 	- OBJECTIVES
