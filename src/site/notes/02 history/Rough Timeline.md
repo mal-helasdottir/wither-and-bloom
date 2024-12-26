@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-history/rough-timeline/","created":"2024-08-21T14:33:28.000-05:00","updated":"2024-12-26T08:29:06.368-06:00"}
+{"dg-publish":true,"permalink":"/02-history/rough-timeline/","created":"2024-08-21T14:33:28.000-05:00","updated":"2024-12-26T12:40:14.825-06:00"}
 ---
 
 
@@ -29,12 +29,37 @@
 - ~12,000 BCE The Natufian culture becomes the first semi-sedentary culture of man.  
 	- The [[04 groups/acolytes of the infinite pattern\|Acolytes of the Pattern]] take Notice of this development, and determine that humanity will eventually become the dominate species of the planet and begin to focus their gaze upon them.
 - ~4000 BCE the Sumerians are visited by the [[04 groups/acolytes of the infinite pattern\|Acolytes of the Pattern]], The Sumerians refer to them as the Anunnaki, or beings from the sky.  The [[04 groups/acolytes of the infinite pattern\|Anunnaki]]
+	- The Anunnaki do their best to influence and study early human civilization which they recognize as not only creatures spawned of Flesh, but also influenced by the Diminished One.
+- 
 
 ## The Revelation
+- The CEO consumes the last intact eye of the Fallen Flesh in an [[06 concepts/apotheosis\|apotheosis]] ritual.  
+	- The ritual is imperfect  Flesh begins to grow and multiply and shoot off of the CEO, spreading patches of it around the Western United States, these patches will eventually become the Demonfields as Flora and Fauna in these areas begin to undergo transformations of the Flesh.
+	- The CEO's form begins to fleshwarp wildly as well, as the Fallen Flesh takes root, a human body is an unsuitable vessel for the Fleshwarper.  The CEO feels himself begining to unravel.
+	- The CEO, in a desperate bid to hold on to divinity is forced to use nearly 99% of his power to hold himself together and manages to somewhat stabilize his form and halt the uncontrolled flesh warping. 
+- The Anunnaki, recognizing the Fallen Flesh is reawakening before their lord is able to return fall back on a contingency plan it is one meant to delay more than anything.  They drop several nuclear bombs on the Gulf of Mexico and several Key Cities in the Mid Western United States, including Austin.
+	- This triggers mass confusion and the launching of reactionary nukes by the US at several nations, who in turn launch their own triggering a global nuclear war. 
 - The meat dome closes over the city of Austin, TX
+	- The CEO seeing the attacks launched does this to savehimself and his assets from the nukes.  It also affords him to opportunity to go into a hibernation period while he learns to better control his new abilities. 
+	- While he slumbers his form spreads into the earth beneath Austin and tendrils begin branching out.  
+	- The people of Austin being worshiping the CEO for saving them and as the sole source of the Flesh now, new technologies are bioengineered and delivered to the masses.  
+	- The Board of the Zion Corporation are made the first flesh warpers and the first clergy of this new religion.
 ## The Empire of Zion
-- The meat dome reopens over Austin, TX
+- Year 1 AZ (age of Zion? open to suggestion)The meat dome reopens over Austin, TX  
+	- The City, now known as Zion, sets about expanding their reach in the wastelands.
+- 4 AZ Jericho is established on what remains of the San Antonio, TX becoming the military hub of the Corporate Empire of Zion
+- The Prodigy initiative is started and the first Garden is created near to a Demon Field in former Las Vegas.
 ## SERIES ONE
+### prologue book one
+(some of this may be told in flashbacks, etc.)
+- Rose eats an arm of the CEO in an [[06 concepts/apotheosis\|apotheosis]] ritual.
+	- Rose maintains her human form (does not undergo demonifcation) but her mind breaks and she beings systematically killing and devouring everyone in the Garden.
+	- A distress signal is sent to Zion, but the attack happens so suddenly that lockdown is only partially initiated.  
+	- Violet tries to reason with Rose at first when she learns of the attack, but is forced to fight her instead.  She withers the entirety of the Garden's botanical research lab to fight her, but its not enough.
+	- She is forced to grapple with and wither rose herself as its the only thing able to slow her down.  She is forced to hold her and wither for so long that Rose's body begins to desiccate into dust.
+		- Ordinarily when Violet wither's something she is unable to hold the energy and must release it at some point or it physically hurts her, but due to the nature of Rose being her twin and the CEO being her father she keeps some of Rose's essence as well as the Sliver of Infinity she consumed as those things become a part of Violet.  Violet essentially "consumes" them through withering.
+	- Upon realizing Rose is being destroyed Violet desperately tries to "bloom" energy back into Rose, which preserves her head only, and she enters a catatonic state cradling her sister's severed head.
+- Felix, desperate for bolts to pay off a bounty on his head due to a botched LN smuggling job meets with a pair of [[01 inbox/Lanky Boys\|Lanky Boys]] in the Mutant Slums of [[Jericho\|Jericho]] to accept a high paying job from them.  He is to meet with a corpo scientist contact of theirs in a secret facility outside of Gluttony under the guise of a corpo  courier to procure an experimental device they refer to as the spine. He is to then take the spine to UFO town where the Lanky Boys will collect it and pay him.
 ### book one
 - Felix infiltrates a Garden concealed near Gluttony under direction from Acolytes of the Pattern.
 	- OBJECTIVES
