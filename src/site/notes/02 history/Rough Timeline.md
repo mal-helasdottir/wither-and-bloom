@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-history/rough-timeline/","created":"2024-08-21T14:33:28.000-05:00","updated":"2024-12-26T16:33:12.098-06:00"}
+{"dg-publish":true,"permalink":"/02-history/rough-timeline/","created":"2024-08-21T14:33:28.000-05:00","updated":"2024-12-26T16:36:09.667-06:00"}
 ---
 
 
@@ -34,7 +34,7 @@
 
 ## The Revelation
 - 9/9/1991 The CEO consumes the last intact eye of the Fallen Flesh in an [[06 concepts/apotheosis\|apotheosis]] ritual.  
-	- The ritual is imperfect  Flesh begins to grow and multiply and shoot off of the CEO, spreading patches of it around the Western United States, these patches will eventually become the Demonfields as Flora and Fauna in these areas begin to undergo transformations of the Flesh.
+	- The ritual is imperfect  Flesh begins to grow and multiply and shoot off of the CEO, spreading patches of it around the Western United States, these patches will eventually become the [[05 places/the demonwastes\|Demonfields]] as Flora and Fauna in these areas begin to undergo transformations of the Flesh.
 	- The CEO's form begins to fleshwarp wildly as well, as the Fallen Flesh takes root, a human body is an unsuitable vessel for the Fleshwarper.  The CEO feels himself beginning to unravel.
 	- The CEO, in a desperate bid to hold on to divinity is forced to use nearly 99% of his power to hold himself together and manages to somewhat stabilize his form and halt the uncontrolled flesh warping. 
 - The Anunnaki, recognizing the Fallen Flesh is reawakening before their lord is able to return fall back on a contingency plan it is one meant to delay more than anything.  They drop several nuclear bombs on the Gulf of Mexico and several Key Cities in the Mid Western United States, including Austin.
