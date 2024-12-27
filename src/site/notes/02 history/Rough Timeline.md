@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-history/rough-timeline/","created":"2024-08-21T14:33:28.000-05:00","updated":"2024-12-26T16:36:09.667-06:00"}
+{"dg-publish":true,"permalink":"/02-history/rough-timeline/","created":"2024-08-21T14:33:28.000-05:00","updated":"2024-12-27T08:50:05.658-06:00"}
 ---
 
 
@@ -69,22 +69,24 @@
 ### prologue book one
 (some of this may be told in flashbacks, etc.)
 - Rose eats an arm of the CEO in an [[06 concepts/apotheosis\|apotheosis]] ritual.
-	- Rose maintains her human form (does not undergo demonifcation) but her mind breaks and she beings systematically killing and devouring everyone in the Garden.
+	- Rose maintains her human form (does not undergo demonifcation) but her mind breaks and she begins systematically killing and devouring everyone in the Garden.
 	- A distress signal is sent to Zion, but the attack happens so suddenly that lockdown is only partially initiated.  
 	- Violet tries to reason with Rose at first when she learns of the attack, but is forced to fight her instead.  She withers the entirety of the Garden's botanical research lab to fight her, but its not enough.
 	- She is forced to grapple with and wither rose herself as its the only thing able to slow her down.  She is forced to hold her and wither for so long that Rose's body begins to desiccate into dust.
 		- Ordinarily when Violet wither's something she is unable to hold the energy and must release it at some point or it physically hurts her, but due to the nature of Rose being her twin and the CEO being her father she keeps some of Rose's essence as well as the Sliver of Infinity she consumed as those things become a part of Violet.  Violet essentially "consumes" them through withering.
 	- Upon realizing Rose is being destroyed Violet desperately tries to "bloom" energy back into Rose, which preserves her head only, and she enters a catatonic state cradling her sister's severed head.
-- Felix, desperate for bolts to pay off a bounty on his head due to a botched LN smuggling job meets with a pair of [[04 groups/acolytes of the infinite pattern\|lanky boys]] in the Mutant Slums of [[05 places/franchise locations of the empire of zion#jericho\|Jericho]] to accept a high paying job from them.  He is to meet with a corpo scientist contact of theirs in a secret facility outside of Gluttony under the guise of a corpo  courier to procure an experimental device they refer to as the spine. He is to then take the spine to UFO town where the Lanky Boys will collect it and pay him.
+- Felix, desperate for bolts to pay off a bounty on his head due to a botched LN smuggling job meets with a pair of [[04 groups/acolytes of the infinite pattern\|lanky boys]] in the Mutant Slums of [[05 places/franchise locations of the empire of zion#jericho\|Jericho]] to accept a high paying job from them.  He is to meet with a corpo scientist contact of theirs in a secret facility outside of Gluttony under the guise of a corpo courier to procure an experimental device they refer to as the spine. He is to then take the spine to UFO town where the Lanky Boys will collect it and pay him.
 ### book one
 - Felix infiltrates a Garden concealed near Gluttony under direction from Acolytes of the Pattern.
-	- OBJECTIVES
+	- OBJECTIVE
 		- secure a spine, a LN biosuit implant device
-		- moar?
-	- Violet is discovered catatonic, having just withered the entire Garden in order to stop Rose's failed [[06 concepts/apotheosis\|apotheosis]]? incarnation? Violet consumed a small part of Rose during these events, a side effect of the obliteration of all of Rose's flesh below the neck
+	- Violet is discovered catatonic, having just survived the prologue events
 - Felix escapes the Garden, Violet in tow
 - Violet attains twilight consciousness and seizes the first opportunity to get away from Felix, directly into Gluttony
 	- Violet faces down several demons and defeats the last by withering from Felix shortly after he locates her within the field.
+---
+- SHIT HAPPENS IN HERE I DUNNO MAN?
+
 ---
 - felix loses an arm in a brief extremely one sided fight against rose
 	- rose consumes the arm granting her the ability to use felix's healing factor except she's better at it of course
