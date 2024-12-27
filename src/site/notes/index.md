@@ -50,13 +50,13 @@ wither & bloom is a post apocalyptic biopunk scientific romance written by two l
 - [[06 concepts/cannibalism\|cannibalism]]
 
 ## 📌recent pages
-| page                                                    | tags      | modified time               |
-| ------------------------------------------------------- | --------- | --------------------------- |
-| [[02 history/Rough Timeline\|Rough Timeline]]        | <ul></ul> | 8:51 AM - December 27, 2024 |
-| [[06 concepts/languages\|languages]]                 | <ul></ul> | 8:51 AM - December 27, 2024 |
-| [[02 history/the revelation\|the revelation]]        | <ul></ul> | 8:47 AM - December 27, 2024 |
-| [[02 history/the restoration\|the restoration]]      | <ul></ul> | 8:40 AM - December 27, 2024 |
-| [[03 people/The Diminished One\|The Diminished One]] | <ul></ul> | 8:35 AM - December 27, 2024 |
+| page                                                  | tags      | modified time               |
+| ----------------------------------------------------- | --------- | --------------------------- |
+| [[99 meta/templates/basic publish\|basic publish]] | <ul></ul> | 8:55 AM - December 27, 2024 |
+| [[02 history/Rough Timeline\|Rough Timeline]]      | <ul></ul> | 8:51 AM - December 27, 2024 |
+| [[06 concepts/languages\|languages]]               | <ul></ul> | 8:51 AM - December 27, 2024 |
+| [[02 history/the revelation\|the revelation]]      | <ul></ul> | 8:47 AM - December 27, 2024 |
+| [[02 history/the restoration\|the restoration]]    | <ul></ul> | 8:40 AM - December 27, 2024 |
 
 { .block-language-dataview}
 
