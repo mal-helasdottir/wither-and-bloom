@@ -8,7 +8,7 @@ a [[04 groups/mutants\|mutant]]
 a smuggler
 a con artist
 an ~~idiot~~ unconventionally *smarter* person
-the [[08 dynamics/felix x violet\|love of violet's life]]
+the [[09 dynamics/felix x violet\|love of violet's life]]
 ## stats
 hair:: black
 eyes:: one green, one golden

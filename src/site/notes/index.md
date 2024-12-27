@@ -55,13 +55,13 @@ wither & bloom is a post apocalyptic biopunk scientific romance written by two l
 - [[06 concepts/indentured servitude\|indentured servitude]]
 
 ## 📌recent pages
-| page                                                                                      | tags      | modified time                |
-| ----------------------------------------------------------------------------------------- | --------- | ---------------------------- |
-| [[index\|index]]                                                                       | <ul></ul> | 12:37 PM - December 27, 2024 |
-| [[05 places/the most holy city of imperial zion\|the most holy city of imperial zion]] | <ul></ul> | 12:17 PM - December 27, 2024 |
-| [[04 groups/corporate empire of zion\|corporate empire of zion]]                       | <ul></ul> | 12:16 PM - December 27, 2024 |
-| [[03 people/felix\|felix]]                                                             | <ul></ul> | 12:15 PM - December 27, 2024 |
-| [[02 history/Rough Timeline\|Rough Timeline]]                                          | <ul></ul> | 12:14 PM - December 27, 2024 |
+| page                                             | tags                                                                                       | modified time                |
+| ------------------------------------------------ | ------------------------------------------------------------------------------------------ | ---------------------------- |
+| [[07 miscellaneous/lepidoptera\|lepidoptera]] | <ul><li>#misc</li><li>#animals</li></ul>                                                   | 3:05 PM - December 27, 2024  |
+| [[07 miscellaneous/artemisia\|artemisia]]     | <ul><li>#misc</li><li>#plants</li></ul>                                                    | 3:04 PM - December 27, 2024  |
+| [[07 miscellaneous/mugwort\|mugwort]]         | <ul><li>#misc</li><li>#plants</li><li>#drugs</li></ul>                                     | 3:03 PM - December 27, 2024  |
+| [[07 miscellaneous/absynth\|absynth]]         | <ul><li>#misc</li><li>#richpeople</li><li>#drinks</li><li>#drugs</li><li>#plants</li></ul> | 3:03 PM - December 27, 2024  |
+| [[index\|index]]                              | <ul></ul>                                                                                  | 12:37 PM - December 27, 2024 |
 
 { .block-language-dataview}
 

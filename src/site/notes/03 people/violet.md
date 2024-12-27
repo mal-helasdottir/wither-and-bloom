@@ -11,9 +11,9 @@ skin:: [pale olive](https://images.app.goo.gl/4qniqgnecjUDpqpC6)
 height::
 weight::
 status:: alive
-the [[08 dynamics/felix x violet\|love of felix's life]] 
+the [[09 dynamics/felix x violet\|love of felix's life]] 
 ## birth & youth
-decanted at the greenhouse facility in [[05 places/franchise locations of the empire of zion#magdala\|magdala]]. paired within a few days to [[08 dynamics/rose x violet\|her 'twin']] [[03 people/rose\|rose]] and both sent to the nursery facility at [[05 places/franchise locations of the empire of zion#bethlehem\|bethlehem]]
+decanted at the greenhouse facility in [[05 places/franchise locations of the empire of zion#magdala\|magdala]]. paired within a few days to [[09 dynamics/rose x violet\|her 'twin']] [[03 people/rose\|rose]] and both sent to the nursery facility at [[05 places/franchise locations of the empire of zion#bethlehem\|bethlehem]]
 
 ## prodigy subject & testing
 

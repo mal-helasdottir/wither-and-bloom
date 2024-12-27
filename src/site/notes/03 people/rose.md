@@ -12,7 +12,7 @@ height::
 weight::
 status:: dead, possessed
 ## birth & youth
-decanted at the greenhouse facility in [[05 places/franchise locations of the empire of zion#jericho\|jericho]]. paired within a few days to [[08 dynamics/rose x violet\|her 'twin']] [[03 people/violet\|violet]] and both sent to the nursery facility at [[05 places/franchise locations of the empire of zion#bethlehem\|bethlehem]]
+decanted at the greenhouse facility in [[05 places/franchise locations of the empire of zion#jericho\|jericho]]. paired within a few days to [[09 dynamics/rose x violet\|her 'twin']] [[03 people/violet\|violet]] and both sent to the nursery facility at [[05 places/franchise locations of the empire of zion#bethlehem\|bethlehem]]
 
 ## prodigy subject and testing
 

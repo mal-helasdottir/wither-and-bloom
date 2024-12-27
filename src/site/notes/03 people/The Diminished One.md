@@ -8,4 +8,4 @@ aka:: roz, roswell
 titles:: the cat, the diminished one, the little chaos, the remnant
 
 - has particular affection/interest/hunger for mutants, their creations via *tweaking* during the long decades of the [[02 history/Rough Timeline#The Restoration\|restoration]]
-- maintains a complicated/antagonistic/sibling [[08 dynamics/felix x roswell\|relationship]] with [[03 people/felix\|felix]], their chosen and herald
+- maintains a complicated/antagonistic/sibling [[09 dynamics/felix x roswell\|relationship]] with [[03 people/felix\|felix]], their chosen and herald
