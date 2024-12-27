@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-history/rough-timeline/","created":"2024-08-21T14:33:28.000-05:00","updated":"2024-12-27T08:51:36.323-06:00"}
+{"dg-publish":true,"permalink":"/02-history/rough-timeline/","created":"2024-08-21T14:33:28.000-05:00","updated":"2024-12-27T10:51:18.836-06:00"}
 ---
 
 
@@ -30,6 +30,7 @@
 	- The [[04 groups/acolytes of the infinite pattern\|Acolytes of the Pattern]] take Notice of this development, and determine that humanity will eventually become the dominate species of the planet and begin to focus their gaze upon them.
 - ~4000 BCE the Sumerians are visited by the [[04 groups/acolytes of the infinite pattern\|Acolytes of the Pattern]], The Sumerians refer to them as the Anunnaki, or beings from the sky.  The [[04 groups/acolytes of the infinite pattern\|Anunnaki]]
 	- The Anunnaki do their best to influence and study early human civilization which they recognize as not only creatures spawned of Flesh, but also influenced by the Diminished One.
+	- The Anunnaki, especially in the early days when they were worshiped as gods, would take humans for breeding programs, and to populate/work their colonies on Mars, within the Moon, and any other establishment they created, and so human populations and even other proto-human subgroups (Neanderthals', etc.) can be found on these stations.
 - 
 
 ## [[02 history/the revelation\|The Revelation]]
@@ -57,8 +58,18 @@
 	- The world had become mostly reliant on LN products prior to [[02 history/the revelation\|the Revelation]], so not having ready access to new sources (while LN power is long lasting it is still very finite outside of Zion) while the dome is closed causes lots of problems, some of the settlements are able to make use of other sources of power (dams, wind, etc.)  but these tend to be especially susceptible to the storms.
 	- Inter-settlement wars, and large bandit groups also serve to stagnate technological advances and slow the reformation of a united society outside of Zion as well.
 	- The Waste land is basically stuck in a old west kind of era with some pockets of more advanced civilization and tech here and there.
-- ~10-25 years ATD the Anunnaki firm up their foot hold on several of their key establishment in the American waste. UFO town (formerly Roswell NM), The Area (formerly Area 51), New Sherman (formerly Skinwalker Ranch/Ballard Utah) Cemetery (formerly Aurora Texas, named for the cemetery where the Anunnaki pilot was buried in 1896)  These become the most stable settlements over this time period due to the influence of the Anunnaki.
+- ~10-25 years ATD the Anunnaki firm up their foot hold on several of their key establishment in the American waste. UFO town (formerly Roswell NM), The Area (formerly Area 51), New Sherman (formerly Skinwalker Ranch/Ballard Utah) Cemetery (formerly Aurora Texas, named for the cemetery where the Anunnaki pilot was buried in 1896)  These become the most stable wasteland settlements over this time period due to the influence of the Anunnaki.
 	- Cemetery in particular is built up rather early due to its proximity to Austin/Zion  and is the main watch post for the dome.
+	- These Anunnaki run settlements are on the surface run by humans.  Most government reps are puppets put in place by the Anunnaki who are human or mostly human (can pass as full human), but each settlement has a bunker system under it where the Anunnaki live and run their operations though Men in Black/hybrid operatives. Full Anunnaki are rarely found on Earth, and those that are never leave the underground bunkers.  Because Anunnaki hybrids tend to be tall and long limbed, and give up incredibly uncanny valley vibes **there may also be some subtle psychic manipulation or masking as well**,  these operatives have become known as Lanky Boys/Girls and most humans and Mutes avoid working with them when possible. 
+	- The Anunnaki tend to ignore the plights of humans and mutants in the waste considering it their priority is to observe and study until word is received from the pattern these settlements are very insular as a result and unwelcoming of most outsiders.  
+- ~100 years ATD the mutant population is roughly equal to the human population in the waste.  They are becoming less shunned and more accepted as part of life in the new world.  Mutant run or mutant majority communities and settlements begin to appear along with Mutant run raiders and bandits.  
+- ~120 years ATD  a faction of Hybrid Anunnaki and Humans living in the Area begin collecting and cataloging all the remains of human history prior to the bombs dropping.  They justify this is part of their observation and recording keeping, but it is never fully sanctioned and merely tolerated as long as it doesn't interfere with the true works.  
+	- This faction eventually begins reaching out to non-anunnaki communities and venturing into ruins and even demon fields in search of lost histories of the human race. Most of these expeditions are unsanctioned.
+	- The faction names itself the Brotherhood of Gnosis and after a few years most residents of the Area are either members of the brotherhood or sympathetic to their cause.  
+	- The Anunnaki grudgingly put up with the brotherhood for about a decade, but when they learn they have been recruiting members outside of the Area, including mutants and humans from non-Anunnaki settlements and bands, it is decide the faction would be made illegal.
+	- ~135 ATD there is a rebellion/coup in the Area led by the Brotherhood of Gnosis, who declare themselves full citizens of earth, a neutral faction in the old god war and no longer Acolytes of the Pattern.  The Brotherhood is successful in expelling the remnant of the Anunnaki faithful by capturing the pureblood leader of the Area.  They are granted their freedom in exchange for their release.
+	- The Area is repurposed into the great library of the Brotherhood of Gnosis.
+	- The Anunnaki continue to harbor a grudge against the Brotherhood, but with the more pressing matters of the Flesh returning they tend to ignore the faction for now, but most Brotherhood members found by those loyal to the pattern tend to be fought or killed.
 ## The Empire of Zion
 - Year 1 AR (**AR perhaps? for After Restoration?** YES)The meat dome reopens over Austin, TX  
 	- The City, now known as Zion, sets about expanding their reach in the wastelands.
