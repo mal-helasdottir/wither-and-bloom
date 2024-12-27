@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","title":"index","hide":true,"hideInGraph":true,"tags":["gardenEntry"],"created":"2024-08-07T09:02:57.000-05:00","updated":"2024-12-27T08:58:59.657-06:00"}
+{"dg-publish":true,"permalink":"/index/","title":"index","hide":true,"hideInGraph":true,"tags":["gardenEntry"],"created":"2024-08-07T09:02:57.000-05:00","updated":"2024-12-27T12:37:59.526-06:00"}
 ---
 
 # welcome!
@@ -36,6 +36,10 @@ wither & bloom is a post apocalyptic biopunk scientific romance written by two l
 - [[04 groups/shareholders\|shareholders]]
 - [[04 groups/demons\|demons]]
 - [[04 groups/mutants\|mutants]]
+- [[04 groups/anunnaki\|anunnaki]]
+- [[04 groups/lanky boys\|lanky boys]]
+- [[04 groups/the board\|the board]]
+- [[04 groups/corporate empire of zion\|corporate empire of zion]]
 ## 📖 lore concepts
 - [[06 concepts/wither and bloom\|wither/bloom]]
 - [[06 concepts/liquid dark\|liquid dark]]
@@ -48,15 +52,16 @@ wither & bloom is a post apocalyptic biopunk scientific romance written by two l
 - [[06 concepts/languages\|languages]]
 - [[06 concepts/apotheosis\|apotheosis]]
 - [[06 concepts/cannibalism\|cannibalism]]
+- [[06 concepts/indentured servitude\|indentured servitude]]
 
 ## 📌recent pages
 | page                                                                                      | tags      | modified time                |
 | ----------------------------------------------------------------------------------------- | --------- | ---------------------------- |
+| [[index\|index]]                                                                       | <ul></ul> | 12:37 PM - December 27, 2024 |
 | [[05 places/the most holy city of imperial zion\|the most holy city of imperial zion]] | <ul></ul> | 12:17 PM - December 27, 2024 |
 | [[04 groups/corporate empire of zion\|corporate empire of zion]]                       | <ul></ul> | 12:16 PM - December 27, 2024 |
 | [[03 people/felix\|felix]]                                                             | <ul></ul> | 12:15 PM - December 27, 2024 |
 | [[02 history/Rough Timeline\|Rough Timeline]]                                          | <ul></ul> | 12:14 PM - December 27, 2024 |
-| [[04 groups/the eldest ones\|the eldest ones]]                                         | <ul></ul> | 12:09 PM - December 27, 2024 |
 
 { .block-language-dataview}
 
