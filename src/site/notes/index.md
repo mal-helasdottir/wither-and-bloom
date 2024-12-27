@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","title":"index","hide":true,"hideInGraph":true,"tags":["gardenEntry"],"created":"2024-08-07T09:02:57.000-05:00","updated":"2024-12-27T08:58:36.476-06:00"}
+{"dg-publish":true,"permalink":"/index/","title":"index","hide":true,"hideInGraph":true,"tags":["gardenEntry"],"created":"2024-08-07T09:02:57.000-05:00","updated":"2024-12-27T08:58:59.657-06:00"}
 ---
 
 # welcome!
@@ -66,7 +66,5 @@ wither & bloom is a post apocalyptic biopunk scientific romance written by two l
 - [[00 snippets/kiss me felix\|kiss me felix]]
 - [[00 snippets/hello rosie\|hello rosie]]
 - [[00 snippets/dont get hurt\|dont get hurt]]
-- [[00 snippets/bethlehem 2\|bethlehem 2]]
-- [[00 snippets/bethlehem\|bethlehem]]
 
 { .block-language-dataview}
