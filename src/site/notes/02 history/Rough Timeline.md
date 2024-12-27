@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-history/rough-timeline/","created":"2024-08-21T14:33:28.000-05:00","updated":"2024-12-27T10:51:18.836-06:00"}
+{"dg-publish":true,"permalink":"/02-history/rough-timeline/","created":"2024-08-21T14:33:28.000-05:00","updated":"2024-12-27T11:16:00.369-06:00"}
 ---
 
 
@@ -46,14 +46,14 @@
 	- The people of Austin being worshiping the CEO for saving them and as the sole source of the Flesh now, new technologies are bioengineered and delivered to the masses.  
 	- The Board of the Zion Corporation are made the first flesh warpers and the first clergy of this new religion.
 - The Anunnaki send a messenger ship on the long voyage through the portal on Saturn to inform the Pattern of the begun reawakening of the Fleshwarper.  They are not expected to hear a response for several hundred years.  In the meantime they continue to monitor and manipulate the situation where they can.
-## The Restoration
+## [[02 history/the restoration\|The Restoration]]
 - The period while the dome remains closed over Zion has become known as [[02 history/the restoration\|the restoration]].  
 	- This period lasts for ~4 generations (400 year give or take) long enough for myths to form in and outside the dome.  
 - ~2 years after the dome (ATD) closes humans outside of Zion begin to birth the first mutants.  It is assumed this is an unforeseen side effect of the radioactive fall out, but it's due to the manipulations of the Diminished One.  
 	- Humans probably were awful to their mutant children at first.  many were probably killed shortly after birth until it became obvious the problem wasn't going away.
 - ~3-4 years ATD Demons are thriving in the areas covered by the Flesh during the CEO's Apotheosis.  The sky around these areas bein to warp and change turning green as the atmosphere shifts to favor that of the Flesh.  Winds begin blowing Chlorine Storms about, deadly to non-mutants and highly oxidizing to metal, these storms are usually preceded by the sky turning Green before a thick burning mist rolls in.  **we need a colloquial name for these storms**  
 - There are early attempts at reestablishing the US Government and old Cities or States as well, but they all fail to war or rebellion. Eventually new Cities, and sometime city-states will rise and fall during this time period. Some of the larger Cities doe have some longer term success where infrastructure was still mostly intact.
-	- Cities closest to Demon Fields tend to be overrun by demons
+	- Cities closest to [[05 places/the demonwastes\|Demon Fields]] tend to be overrun by demons
 	- Its not unheard of for a thriving City to get hit with a bad fall out or chlorine storm wiping it out or severely setting back any progress
 	- The world had become mostly reliant on LN products prior to [[02 history/the revelation\|the Revelation]], so not having ready access to new sources (while LN power is long lasting it is still very finite outside of Zion) while the dome is closed causes lots of problems, some of the settlements are able to make use of other sources of power (dams, wind, etc.)  but these tend to be especially susceptible to the storms.
 	- Inter-settlement wars, and large bandit groups also serve to stagnate technological advances and slow the reformation of a united society outside of Zion as well.
@@ -64,10 +64,10 @@
 	- The Anunnaki tend to ignore the plights of humans and mutants in the waste considering it their priority is to observe and study until word is received from the pattern these settlements are very insular as a result and unwelcoming of most outsiders.  
 - ~100 years ATD the mutant population is roughly equal to the human population in the waste.  They are becoming less shunned and more accepted as part of life in the new world.  Mutant run or mutant majority communities and settlements begin to appear along with Mutant run raiders and bandits.  
 - ~120 years ATD  a faction of Hybrid Anunnaki and Humans living in the Area begin collecting and cataloging all the remains of human history prior to the bombs dropping.  They justify this is part of their observation and recording keeping, but it is never fully sanctioned and merely tolerated as long as it doesn't interfere with the true works.  
-	- This faction eventually begins reaching out to non-anunnaki communities and venturing into ruins and even demon fields in search of lost histories of the human race. Most of these expeditions are unsanctioned.
+	- This faction eventually begins reaching out to non-anunnaki communities and venturing into ruins and even [[05 places/the demonwastes\|demon fields]] in search of lost histories of the human race. Most of these expeditions are unsanctioned.
 	- The faction names itself the Brotherhood of Gnosis and after a few years most residents of the Area are either members of the brotherhood or sympathetic to their cause.  
 	- The Anunnaki grudgingly put up with the brotherhood for about a decade, but when they learn they have been recruiting members outside of the Area, including mutants and humans from non-Anunnaki settlements and bands, it is decide the faction would be made illegal.
-	- ~135 ATD there is a rebellion/coup in the Area led by the Brotherhood of Gnosis, who declare themselves full citizens of earth, a neutral faction in the old god war and no longer Acolytes of the Pattern.  The Brotherhood is successful in expelling the remnant of the Anunnaki faithful by capturing the pureblood leader of the Area.  They are granted their freedom in exchange for their release.
+	- ~135 ATD there is a rebellion/coup in the Area led by the Brotherhood of Gnosis, who declare themselves full citizens of earth, a neutral faction in the old god war and no longer Acolytes of the Pattern.  The Brotherhood is successful in expelling the remnant of the Anunnaki faithful by capturing the pureblood leader of the Area.  They are granted their freedom in exchange for their release.  They are also fully banned from other Anunnaki settlements/territories.
 	- The Area is repurposed into the great library of the Brotherhood of Gnosis.
 	- The Anunnaki continue to harbor a grudge against the Brotherhood, but with the more pressing matters of the Flesh returning they tend to ignore the faction for now, but most Brotherhood members found by those loyal to the pattern tend to be fought or killed.
 ## The Empire of Zion
@@ -75,38 +75,38 @@
 	- The City, now known as Zion, sets about expanding their reach in the wastelands.
 	- Each house sends representatives out into the wastes in order to establish [[05 places/franchise locations of the empire of zion\|franchises]]
 - 4 AR Jericho is established on what remains of the San Antonio, TX becoming the military hub of the Corporate Empire of Zion
-- The Prodigy initiative is started and the first Garden is created near to a Demon Field in former Las Vegas.
+- The [[06 concepts/the prodigy project\|Prodigy]] initiative is started and the first Garden is created near to a [[05 places/the demonwastes\|Demon Field]] in former Las Vegas.
 ## SERIES ONE
 ### prologue book one
 (some of this may be told in flashbacks, etc.)
-- Rose eats an arm of the CEO in an [[06 concepts/apotheosis\|apotheosis]] ritual.
+- [[03 people/rose\|Rose]] eats an arm of the CEO in an [[06 concepts/apotheosis\|apotheosis]] ritual.
 	- Rose maintains her human form (does not undergo demonifcation) but her mind breaks and she begins systematically killing and devouring everyone in the Garden.
 	- A distress signal is sent to Zion, but the attack happens so suddenly that lockdown is only partially initiated.  
 	- Violet tries to reason with Rose at first when she learns of the attack, but is forced to fight her instead.  She withers the entirety of the Garden's botanical research lab to fight her, but its not enough.
-	- She is forced to grapple with and wither rose herself as its the only thing able to slow her down.  She is forced to hold her and wither for so long that Rose's body begins to desiccate into dust.
-		- Ordinarily when Violet wither's something she is unable to hold the energy and must release it at some point or it physically hurts her, but due to the nature of Rose being her twin and the CEO being her father she keeps some of Rose's essence as well as the Sliver of Infinity she consumed as those things become a part of Violet.  Violet essentially "consumes" them through withering.
-	- Upon realizing Rose is being destroyed Violet desperately tries to "bloom" energy back into Rose, which preserves her head only, and she enters a catatonic state cradling her sister's severed head.
-- Felix, desperate for bolts to pay off a bounty on his head due to a botched LN smuggling job meets with a pair of [[04 groups/acolytes of the infinite pattern\|lanky boys]] in the Mutant Slums of [[05 places/franchise locations of the empire of zion#jericho\|Jericho]] to accept a high paying job from them.  He is to meet with a corpo scientist contact of theirs in a secret facility outside of Gluttony under the guise of a corpo courier to procure an experimental device they refer to as the spine. He is to then take the spine to UFO town where the Lanky Boys will collect it and pay him.
+	- She is forced to grapple with and [[06 concepts/wither and bloom\|wither]] rose herself as its the only thing able to slow her down.  She is forced to hold her and wither for so long that [[03 people/rose\|Rose]]'s body begins to desiccate into dust.
+		- Ordinarily when Violet [[06 concepts/wither and bloom\|wither]]'s something she is unable to hold the energy and must release it at some point or it physically hurts her, but due to the nature of Rose being her twin and the CEO being her father she keeps some of Rose's essence as well as the [[06 concepts/sliver of divinity\|Sliver of Infinity]] she consumed as those things become a part of Violet.  Violet essentially "consumes" them through [[06 concepts/wither and bloom\|withering]].
+	- Upon realizing [[03 people/rose\|Rose]] is being destroyed Violet desperately tries to "[[06 concepts/wither and bloom\|bloom]]" energy back into Rose, which preserves her head only, and she enters a catatonic state cradling her sister's severed head.
+- [[03 people/felix\|Felix]], desperate for bolts to pay off a bounty on his head due to a botched LN smuggling job meets with a pair of [[04 groups/acolytes of the infinite pattern\|lanky boys]] in the Mutant Slums of [[05 places/franchise locations of the empire of zion#jericho\|Jericho]] to accept a high paying job from them.  He is to meet with a corpo scientist contact of theirs in a secret facility outside of Gluttony under the guise of a corpo courier to procure an experimental device they refer to as the spine. He is to then take the spine to UFO town where the Lanky Boys will collect it and pay him.
 ### book one
-- Felix infiltrates a Garden concealed near Gluttony under direction from Acolytes of the Pattern.
+- [[03 people/felix\|Felix]] infiltrates a Garden concealed near Gluttony under direction from Acolytes of the Pattern.
 	- OBJECTIVE
 		- secure a spine, a LN biosuit implant device
 	- Violet is discovered catatonic, having just survived the prologue events
-- Felix escapes the Garden, Violet in tow
+- [[03 people/felix\|Felix]] escapes the Garden, Violet in tow
 - Violet attains twilight consciousness and seizes the first opportunity to get away from Felix, directly into Gluttony
-	- Violet faces down several demons and defeats the last by withering from Felix shortly after he locates her within the field.
+	- Violet faces down several demons and defeats the last by [[06 concepts/wither and bloom\|withering]] from Felix shortly after he locates her within the field.
 ---
 - SHIT HAPPENS IN HERE I DUNNO MAN?
 
 ---
-- felix loses an arm in a brief extremely one sided fight against rose
+- [[03 people/felix\|felix]] loses an arm in a brief extremely one sided fight against rose
 	- rose consumes the arm granting her the ability to use felix's healing factor except she's better at it of course
-	- violet uses her suit material to staunch the bleeding, but she must stay connected in order to trickle bloom into felix, keeping him alive
-	- cid manages to heal them both
-		- felix's new arm is crafted from the earlier stolen spine, tweaked with anunnaki tech and gnosis know how (one sliver? go on, you wouldn't)
-- learn of the effects of star metal from cid of the brotherhood of gnosis, (shards) required to kill the ceo/the flesh
-- learn of the requirement to defeat or otherwise subdue the devil princes, (slivers) required to kill the ceo/the flesh
-- learn of the connection between the devil princes, the ceo, the gardens, and [[06 concepts/apotheosis\|apotheosis]]? incarnation?
+	- violet uses her suit material to staunch the bleeding, but she must stay connected in order to trickle [[06 concepts/wither and bloom\|bloom]] into felix, keeping him alive
+	- [[03 people/cid\|cid]] manages to heal them both
+		- felix's new arm is crafted from the earlier stolen spine, tweaked with anunnaki tech and gnosis know how (one [[06 concepts/sliver of divinity\|sliver]]? go on, you wouldn't)
+- learn of the effects of star metal from [[03 people/cid\|cid]] of the brotherhood of gnosis, (shards) required to kill the ceo/the flesh
+- learn of the requirement to defeat or otherwise subdue [[04 groups/the devil princes\|the devil princes]], (slivers) required to kill the ceo/the flesh
+- learn of the connection between [[04 groups/the devil princes\|the devil princes]], the ceo, the gardens, and [[06 concepts/apotheosis\|apotheosis]]? incarnation?
 - battery city to prepare for strike against zion
 	- meet ma
 	- meet opal?

@@ -1,12 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/04-groups/the-devil-princes/","created":"2024-10-28T09:22:56.084-05:00","updated":"2024-11-07T17:05:27.393-06:00"}
+{"dg-publish":true,"permalink":"/04-groups/the-devil-princes/","created":"2024-10-28T09:22:56.084-05:00","updated":"2024-12-27T11:16:11.614-06:00"}
 ---
 
 # the devil princes
 created by the ingestion of a [[06 concepts/sliver of divinity\|sliver of divinity]]
 
+known princes:
+- cerberus
+- baba yaga
+
 ---
-OK so Devils are all early versions of Violet and Rose. The CEO's failed experiments to create the [[06 concepts/the prodigy project\|protege]].
+OK so Devils are all early versions of Violet and [[03 people/rose\|Rose]]. The CEO's failed experiments to create the [[06 concepts/the prodigy project\|protege]].
 
 They were all at once point lab grown Children with the CEO's DNA and genetic manipulations in attempts to create a human host capable of holding the full might of [[03 people/the fallen flesh\|the Fallen Flesh]]'s godly power.
 
@@ -16,19 +20,19 @@ He created [[06 concepts/the prodigy project\|the prodigy project]] to grow a bo
 
 Well he has been at it a while. and each time has gotten a little better. As he raises these kids though he will have them consume various things to test their control. animals, other normal people, mutants, various types of [[06 concepts/liquid dark\|Liquid night]] possibly, as well as demons. And when he thinks they are ready or when he grows impatient he will send them the final test.
 
-- A piece of his own flesh that contains a portion of [[03 people/the fallen flesh\|the Fallen Flesh]]'s direct power, which he refers to as a "Sliver of Divinity."
+- A piece of his own flesh that contains a portion of [[03 people/the fallen flesh\|the Fallen Flesh]]'s direct power, which he refers to as a "[[06 concepts/sliver of divinity\|Sliver of Divinity]]."
 
-Until Rose, every one of his children who consumed this Sliver of Divinity would either immediately or very quickly Flesh Warp into a monster; no longer human. A failure in the CEO's eyes. They often experienced fits of insanity as well and tended to kill most inhabitants in the [[05 places/the gardens\|Garden]] before they could be expelled into a Demon Field (This is one of various reasons why Gardens of built near DFs in addition to having access to demons to study etc).
+Until Rose, every one of his children who consumed this [[06 concepts/sliver of divinity\|Sliver of Divinity]] would either immediately or very quickly Flesh Warp into a monster; no longer human. A failure in the CEO's eyes. They often experienced fits of insanity as well and tended to kill most inhabitants in the [[05 places/the gardens\|Garden]] before they could be expelled into a [[05 places/the demonwastes\|Demon Field]] (This is one of various reasons why Gardens of built near DFs in addition to having access to demons to study etc).
 
 These Children became the Devils of those fields at this point. some of the later versions fleshwarped less and might still look closer to human, other regain some of their sanity and can be spoken to and reasoned with. the earlier ones (like Cerberus) remain mostly unfeeling rage beast like many demons are but way stronger and more powerful because they have a part of god inside them.
 
-- I think the Devils manipulate the fields and the demons in them to warp the environment and the creatures their to reflect themselves. Gluttony is constantly raining shit and blood and all the beasties there are eternally hungry because Cerberus is. (I also think Cerberus may have been an experiment where they had both twins or maybe even triplets eat the sliver at once rather than only the strongest of the batch and when they flesh warped together forming the three headed beastie and making them even less coherent. but that is just minor thought and aside) .
+- I think the Devils manipulate the fields and the demons in them to warp the environment and the creatures their to reflect themselves. Gluttony is constantly raining shit and blood and all the beasties there are eternally hungry because Cerberus is. (I also think Cerberus may have been an experiment where they had both twins or maybe even triplets eat the [[06 concepts/sliver of divinity\|sliver]] at once rather than only the strongest of the batch and when they flesh warped together forming the three headed beastie and making them even less coherent. but that is just minor thought and aside) .
 
 So here was my thinking on the "horcrux" idea that I have shared before but will put it all in once place right now.
 
-The CEO, in his hubris, has laid the seeds for his own downfall within his failed experiments. He is taking a portion of his own godly power and placing it in other beings. This does slightly weaken him, but not that much really. Alone these Slivers of Divinity are no where near enough to face him. The Devils are too uncontrollable on their own to really unite against him as well, any alliance between Devils would be rife with betrayal and back stabbing most likely since they are all a little bit insane even the more sane ones. But if someone where to go around and collect all these Slivers and were able to hold them in one body this person might stand a chance against the CEO. Even if they couldn't out right kill him, they may be able to press him enough to where he is unable to fight back while also devoting enough of his own power to keep himself from exploding. (Which is what the grand final battle will be. Violet will have several slivers in her, and Felix will be given a sword or something (possibly from the lanky boys or the Brotherhood) that can hurt the CEO and the two of them basically wear him down until he can't hold himself together anymore. or at least that was my thought).
+The CEO, in his hubris, has laid the seeds for his own downfall within his failed experiments. He is taking a portion of his own godly power and placing it in other beings. This does slightly weaken him, but not that much really. Alone these Slivers of Divinity are no where near enough to face him. The Devils are too uncontrollable on their own to really unite against him as well, any alliance between Devils would be rife with betrayal and back stabbing most likely since they are all a little bit insane even the more sane ones. But if someone where to go around and collect all these Slivers and were able to hold them in one body this person might stand a chance against the CEO. Even if they couldn't out right kill him, they may be able to press him enough to where he is unable to fight back while also devoting enough of his own power to keep himself from exploding. (Which is what the grand final battle will be. Violet will have several slivers in her, and [[03 people/felix\|Felix]] will be given a sword or something (possibly from the lanky boys or the Brotherhood) that can hurt the CEO and the two of them basically wear him down until he can't hold himself together anymore. or at least that was my thought).
 
-So that was my original "horcrux" idea. its a bit different from like HP in that rather than the mcguffin like being what keeps him alive, its more like a power up for Violet making her just a little be more of a match for him, and when combined with the weapon Felix gets they can defeat him or at least get him to blow up.
+So that was my original "horcrux" idea. its a bit different from like HP in that rather than the mcguffin like being what keeps him alive, its more like a power up for Violet making her just a little be more of a match for him, and when combined with the weapon [[03 people/felix\|Felix]] gets they can defeat him or at least get him to blow up.
 
 ADDENDUM: this would imply that at least one or two [[05 places/the gardens\|gardens]] were not built near a field because they would have been built before that connection was sussed out
 

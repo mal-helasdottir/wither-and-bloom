@@ -50,13 +50,13 @@ wither & bloom is a post apocalyptic biopunk scientific romance written by two l
 - [[06 concepts/cannibalism\|cannibalism]]
 
 ## 📌recent pages
-| page                                               | tags      | modified time                |
-| -------------------------------------------------- | --------- | ---------------------------- |
-| [[02 history/Rough Timeline\|Rough Timeline]]   | <ul></ul> | 10:51 AM - December 27, 2024 |
-| [[index\|index]]                                | <ul></ul> | 8:58 AM - December 27, 2024  |
-| [[06 concepts/languages\|languages]]            | <ul></ul> | 8:51 AM - December 27, 2024  |
-| [[02 history/the revelation\|the revelation]]   | <ul></ul> | 8:47 AM - December 27, 2024  |
-| [[02 history/the restoration\|the restoration]] | <ul></ul> | 8:40 AM - December 27, 2024  |
+| page                                                      | tags      | modified time                |
+| --------------------------------------------------------- | --------- | ---------------------------- |
+| [[04 groups/the devil princes\|the devil princes]]     | <ul></ul> | 11:16 AM - December 27, 2024 |
+| [[02 history/Rough Timeline\|Rough Timeline]]          | <ul></ul> | 11:16 AM - December 27, 2024 |
+| [[02 history/the playlist\|the playlist]]              | <ul></ul> | 11:15 AM - December 27, 2024 |
+| [[06 concepts/sliver of divinity\|sliver of divinity]] | <ul></ul> | 11:11 AM - December 27, 2024 |
+| [[03 people/the ceo\|the ceo]]                         | <ul></ul> | 11:11 AM - December 27, 2024 |
 
 { .block-language-dataview}
 

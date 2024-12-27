@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-people/the-ceo/","created":"2024-08-08T14:56:38.349-05:00","updated":"2024-10-30T09:33:41.961-05:00"}
+{"dg-publish":true,"permalink":"/03-people/the-ceo/","created":"2024-08-08T14:56:38.349-05:00","updated":"2024-12-27T11:11:24.560-06:00"}
 ---
 
 # the ceo
@@ -41,13 +41,13 @@ He created [[06 concepts/the prodigy project\|the prodigy project]] to grow a bo
 
 Well he has been at it a while. and each time has gotten a little better. As he raises these kids though he will have them consume various things to test their control. animals, other normal people, [[04 groups/mutants\|mutants]], various types of [[06 concepts/liquid dark\|Liquid night]] possibly, as well as demons. And when he thinks they are ready or when he grows impatient he will send them the final test.
 
-A piece of his own flesh that contains a portion of [[03 people/the fallen flesh\|the fallen flesh]]'s direct power, which he refers to as a "Sliver of Divinity."
+A piece of his own flesh that contains a portion of [[03 people/the fallen flesh\|the fallen flesh]]'s direct power, which he refers to as a "[[06 concepts/sliver of divinity\|Sliver of Divinity]]."
 
-Until [[03 people/rose\|rose]], every one of his children who consumed this Sliver of Divinity would either immediately or very quickly Flesh Warp into a monster; no longer human. A failure in the CEO's eyes. They often experienced fits of insanity as well and tended to kill most inhabitants in the [[05 places/the gardens\|Garden]] before they could be expelled into a [[05 places/the demonwastes\|Demon Field]] (This is one of various reasons why [[05 places/the gardens\|Gardens]] of built near DFs in addition to having access to demons to study etc).
+Until [[03 people/rose\|rose]], every one of his children who consumed this [[06 concepts/sliver of divinity\|Sliver of Divinity]] would either immediately or very quickly Flesh Warp into a monster; no longer human. A failure in the CEO's eyes. They often experienced fits of insanity as well and tended to kill most inhabitants in the [[05 places/the gardens\|Garden]] before they could be expelled into a [[05 places/the demonwastes\|Demon Field]] (This is one of various reasons why [[05 places/the gardens\|Gardens]] of built near DFs in addition to having access to demons to study etc).
 
 These Children became the Devils of those fields at this point. some of the later versions fleshwarped less and might still look closer to human, other regain some of their sanity and can be spoken to and reasoned with. the earlier ones (like Cerberus) remain mostly unfeeling rage beast like many demons are but way stronger and more powerful because they have a part of god inside them.
 
-I think the Devils manipulate the fields and the [[04 groups/demons\|demons]] in them to warp the environment and the creatures their to reflect themselves. Gluttony is constantly raining shit and blood and all the beasties there are eternally hungry because Cerberus is. (I also think Cerberus may have been an experiment where they had both twins or maybe even triplets eat the sliver at once rather than only the strongest of the batch and when they flesh warped together forming the three headed beastie and making them even less coherent. but that is just minor thought and aside) .
+I think the Devils manipulate the fields and the [[04 groups/demons\|demons]] in them to warp the environment and the creatures their to reflect themselves. Gluttony is constantly raining shit and blood and all the beasties there are eternally hungry because Cerberus is. (I also think Cerberus may have been an experiment where they had both twins or maybe even triplets eat the [[06 concepts/sliver of divinity\|sliver]] at once rather than only the strongest of the batch and when they flesh warped together forming the three headed beastie and making them even less coherent. but that is just minor thought and aside) .
 
 So here was my thinking on the "horcrux" idea that I have shared before but will put it all in once place right now.
 

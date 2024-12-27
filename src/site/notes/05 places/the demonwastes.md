@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-places/the-demonwastes/","created":"2024-10-28T09:20:59.178-05:00","updated":"2024-12-26T16:34:30.020-06:00"}
+{"dg-publish":true,"permalink":"/05-places/the-demonwastes/","created":"2024-10-28T09:20:59.178-05:00","updated":"2024-12-27T11:04:28.347-06:00"}
 ---
 
 # the demonwastes
@@ -7,15 +7,15 @@
 ## limbo
 *location*:
 *vibe*:
-*prince*:
+*prince*: [[04 groups/the devil princes\|baba yaga]]
 ## lust
 *location*:
 *vibe*:
 *prince*:
 ## gluttony
 *location*: outside el paso ([[05 places/franchise locations of the empire of zion#bethlehem\|bethlehem]])
-*vibe*:
-*prince*: cerberus
+*vibe*: 
+*prince*: [[04 groups/the devil princes\|cerberus]]
 ## greed/avarice
 *location*:
 *vibe*:
@@ -34,7 +34,7 @@
 *prince*:
 ## fraud
 *location*:
-*vibe*:
+*vibe*: big capitalist, oligarch run, bank office
 *prince*:
 ## betrayal
 *location*:

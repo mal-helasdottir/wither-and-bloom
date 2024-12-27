@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-history/the-playlist/","created":"2024-12-20T15:31:49.449-06:00","updated":"2024-12-26T14:33:15.771-06:00"}
+{"dg-publish":true,"permalink":"/02-history/the-playlist/","created":"2024-12-20T15:31:49.449-06:00","updated":"2024-12-27T11:15:28.775-06:00"}
 ---
 
 # the playlist
@@ -40,6 +40,6 @@
 - *anything like me*, poppy
 	- *i feel her heart beating in me. get her out of me.* the experience of having rose for a sister and then absorbing part of her. *i'm everything she never was now everyone's out for my blood. stop you're making a scene. you're coming at me with blood in your teeth*. t
 
-## felix
+## [[03 people/felix\|felix]]
 - *i wanna be yours*, arctic monkeys
 	- bro wants to be her electric meter and her ford cortina because he won't ever rust. particularly cute because *secrets i have held in my heart* the prevalence of [[06 concepts/the forging of metals\|rust]] in this universe makes him never doing as such particularly valuable. t
