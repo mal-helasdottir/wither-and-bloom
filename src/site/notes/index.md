@@ -57,10 +57,10 @@ wither & bloom is a post apocalyptic biopunk scientific romance written by two l
 ## 📌recent pages
 | page                                             | tags                                                                                       | modified time                |
 | ------------------------------------------------ | ------------------------------------------------------------------------------------------ | ---------------------------- |
-| [[07 miscellaneous/lepidoptera\|lepidoptera]] | <ul><li>#misc</li><li>#animals</li></ul>                                                   | 3:05 PM - December 27, 2024  |
-| [[07 miscellaneous/artemisia\|artemisia]]     | <ul><li>#misc</li><li>#plants</li></ul>                                                    | 3:04 PM - December 27, 2024  |
-| [[07 miscellaneous/mugwort\|mugwort]]         | <ul><li>#misc</li><li>#plants</li><li>#drugs</li></ul>                                     | 3:03 PM - December 27, 2024  |
-| [[07 miscellaneous/absynth\|absynth]]         | <ul><li>#misc</li><li>#richpeople</li><li>#drinks</li><li>#drugs</li><li>#plants</li></ul> | 3:03 PM - December 27, 2024  |
+| [[07 miscellaneous/lepidoptera\|lepidoptera]] | <ul><li>#misc</li><li>#animals</li></ul>                                                   | 3:49 PM - December 27, 2024  |
+| [[07 miscellaneous/mugwort\|mugwort]]         | <ul><li>#misc</li><li>#plants</li><li>#drugs</li></ul>                                     | 3:48 PM - December 27, 2024  |
+| [[07 miscellaneous/absynth\|absynth]]         | <ul><li>#misc</li><li>#richpeople</li><li>#drinks</li><li>#drugs</li><li>#plants</li></ul> | 3:35 PM - December 27, 2024  |
+| [[07 miscellaneous/artemisia\|artemisia]]     | <ul><li>#misc</li><li>#plants</li></ul>                                                    | 3:21 PM - December 27, 2024  |
 | [[index\|index]]                              | <ul></ul>                                                                                  | 12:37 PM - December 27, 2024 |
 
 { .block-language-dataview}
