@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06-concepts/languages/","created":"2024-11-12T10:17:23.847-06:00","updated":"2024-12-27T08:51:26.574-06:00"}
+{"dg-publish":true,"permalink":"/06-concepts/languages/","created":"2024-11-12T10:17:23.847-06:00","updated":"2024-12-27T11:31:06.017-06:00"}
 ---
 
 # languages
@@ -27,7 +27,7 @@
 ## enochian
 *the sacred language of the [[04 groups/the eldest ones\|elder]] ones*
 - totally alien method of communication consisting of unpronounceable syllables and mental imaging
-- the pool of speakers is limited to the eldest three and the ceo
+- the pool of speakers is limited to the eldest three and [[03 people/the ceo\|the ceo]]
 
 > [!FAQ]- suggested other names
 > 
@@ -35,7 +35,7 @@
 ---
 ## screwtape
 [^2]*demonic communication*
-- spoken by demons and devils amongst themselves
+- spoken by [[04 groups/demons\|demons]] and devils amongst themselves
 - there is no accompanying written language, which makes sense considering the short gnat-like lives of most lesser demons
 	- if writing is required it in done in corporate, but few of the species have enough mental wherewithal or patience for the process of writing or even recalling letters
 

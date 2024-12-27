@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/06-concepts/powers-of-the-flesh/","created":"2024-08-08T14:51:16.899-05:00","updated":"2024-10-30T09:32:08.696-05:00"}
+{"dg-publish":true,"permalink":"/06-concepts/powers-of-the-flesh/","created":"2024-08-08T14:51:16.899-05:00","updated":"2024-12-27T11:31:13.714-06:00"}
 ---
 
 # powers of the flesh
 
-### The primary power of the Flesh is Flesh Warping. 
+### The primary power of [[03 people/the fallen flesh\|the Flesh]] is Flesh Warping. 
 
 Most of the other powers stem from this one. 
 
@@ -12,7 +12,7 @@ The forms  and functions of the flesh are mutable to the [[06 concepts/flesh war
 
 This power is the providence of [[03 people/the ceo\|the ceo]], who can flesh warp anything with with flesh with but a thought.  
 
-Most Demons are limited to [[06 concepts/flesh warping\|Fleshwarping]] only their own flesh, and it usually requires them to have recently fed to do so.  Feeding on [[03 people/the fallen flesh\|the Flesh]] makes his power stronger than feeding on like an animal or a human though they can get some power from that.
+Most [[04 groups/demons\|Demons]] are limited to [[06 concepts/flesh warping\|Fleshwarping]] only their own flesh, and it usually requires them to have recently fed to do so.  Feeding on [[03 people/the fallen flesh\|the Flesh]] makes his power stronger than feeding on like an animal or a human though they can get some power from that.
 
 Some Devils can flesh warp other demons or like flesh of the land (their fields which are covered in Flesh), but I don't think any of them can flesh warp normal people unless maybe they injest a bunch of Flesh first.
 
@@ -22,7 +22,7 @@ This is an offshoot of [[06 concepts/flesh warping\|flesh warping]], the brain i
 
  [[03 people/the ceo\|the ceo]]'s ability is hampered due to his limitations, but it is still difficult to resist his manipulations, especially for normal humans.  (proximity is key here, even though he should be able to reach across the globe but he can't. Any human living in Zion is completely under his control though) 
 
-[[04 groups/mutants\|mutants]] are protected by [[03 people/The Diminished One\|The Diminished One]], which is why the Lanky Boys call the [[04 groups/mutants\|mutants]]  DCs or [[04 groups/mutants\|Diminished Chosen]].
+[[04 groups/mutants\|mutants]] are protected by [[03 people/The Diminished One\|The Diminished One]], which is why the [[04 groups/acolytes of the infinite pattern\|Lanky Boys]] call the [[04 groups/mutants\|mutants]]  DCs or [[04 groups/mutants\|Diminished Chosen]].
 
 Demons can't do this.  Devils can control [[04 groups/demons\|Demons]], maybe like the most powerful ones can influence normal humans as well, but they require even closer proximity and probably have to have recently eaten Flesh to do so.
 

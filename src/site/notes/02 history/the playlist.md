@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-history/the-playlist/","created":"2024-12-20T15:31:49.449-06:00","updated":"2024-12-27T11:15:28.775-06:00"}
+{"dg-publish":true,"permalink":"/02-history/the-playlist/","created":"2024-12-20T15:31:49.449-06:00","updated":"2024-12-27T11:32:09.507-06:00"}
 ---
 
 # the playlist
@@ -22,10 +22,10 @@
 
 ---
 ## the gods 
-### the flesh
+### [[03 people/the fallen flesh\|the flesh]]
 - *body*, mother mother
-	- the way the flesh is offered up and consumed by lesser beings after her power, the ceo's mirroring of these actions as he creates minions, the cannibalistic nature of demons and devils and a little tongue and cheek reference to catholic eucharist. t
-### the pattern
+	- the way the flesh is offered up and consumed by lesser beings after her power, [[03 people/the ceo\|the ceo]]'s mirroring of these actions as he creates minions, the cannibalistic nature of [[04 groups/demons\|demons]] and devils and a little tongue and cheek reference to catholic eucharist. t
+### [[03 people/the infinite pattern\|the pattern]]
 - *starman*, david bowie
 	- extremely innocent take on the infinite pattern, making her seem gentle, interested, positive, etc. she's not any of those things but *let the children boogie*, as they say. t
 ### the diminished
@@ -35,10 +35,10 @@
 	- there is no living without destruction. nothing lasts forever. every day takes you one more closer to the last. *chaos is gonna win in the end, the universe is flying apart, there ain't nothing much you can do about it. burn up the candle or live in the dark*? t
 
 ---
-## the ceo
-## violet
+## [[03 people/the ceo\|the ceo]]
+## [[03 people/violet\|violet]]
 - *anything like me*, poppy
-	- *i feel her heart beating in me. get her out of me.* the experience of having rose for a sister and then absorbing part of her. *i'm everything she never was now everyone's out for my blood. stop you're making a scene. you're coming at me with blood in your teeth*. t
+	- *i feel her heart beating in me. get her out of me.* the experience of having [[03 people/rose\|rose]] for a sister and then absorbing part of her. *i'm everything she never was now everyone's out for my blood. stop you're making a scene. you're coming at me with blood in your teeth*. t
 
 ## [[03 people/felix\|felix]]
 - *i wanna be yours*, arctic monkeys

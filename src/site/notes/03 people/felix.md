@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-people/felix/","created":"2024-08-08T14:00:17.276-05:00","updated":"2024-11-08T12:47:46.506-06:00"}
+{"dg-publish":true,"permalink":"/03-people/felix/","created":"2024-08-08T14:00:17.276-05:00","updated":"2024-12-27T12:15:30.846-06:00"}
 ---
 
 # felix
@@ -20,7 +20,7 @@ status:: alive
 
 Born in [[05 places/franchise locations of the empire of zion#jericho\|Jericho]] to mutant parents. His identifier barcode was 8942F5. His mother (5826N3 *Nikki*) and Father (4374A7 *Alex*) named in *Felix* in the corpo-born Mutant tradition of naming their children after the letter in their given identifier barcode.
 
-Felix's father was in the military and eventually made a gladiator. ==It was determined at his birth the Felix (like most Jericho born mutants)==.  Alex was such a formidable Gladiator he was eventually granted semi-retirement, something rarely done for Gladiators in the Holy Corporate Empire of Zion. He would only be occasionally called out for the rare exhibition matches (in hopes that he would finally die).
+Felix's father was in the military and eventually made a gladiator. ==It was determined at his birth the Felix (like most Jericho born mutants)==.  Alex was such a formidable Gladiator he was eventually granted semi-retirement, something rarely done for Gladiators in the [[04 groups/corporate empire of zion\|Holy Corporate Empire of Zion]]. He would only be occasionally called out for the rare exhibition matches (in hopes that he would finally die).
 
 Felix's mother Nikki was a house servant and cook for a human military officer; Brigadier General Quintus Valens. He was in charge of the HCE's Gladiatorial games.  
 

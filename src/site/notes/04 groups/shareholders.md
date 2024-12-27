@@ -1,10 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/04-groups/shareholders/","created":"2024-10-28T09:12:50.605-05:00","updated":"2024-12-27T10:57:33.378-06:00"}
+{"dg-publish":true,"permalink":"/04-groups/shareholders/","created":"2024-10-28T09:12:50.605-05:00","updated":"2024-12-27T12:02:41.261-06:00"}
 ---
 
 # shareholders
-individuals who profess faith in [[03 people/the ceo\|the ceo]], the [[06 concepts/the prodigy project\|prodigy]], and [[05 places/the most holy city of imperial zion\|the holy empire of zion]]
+individuals who profess faith in [[03 people/the ceo\|the ceo]], the [[06 concepts/the prodigy project\|prodigy]], and the [[04 groups/corporate empire of zion\|corporate empire of zion]]
 not necessarily members of [[04 groups/the corporate fellowship\|the corporate fellowship]]
 - all [[04 groups/the corporate fellowship\|corpos]] are shareholders, but not all shareholders are corpos
-
-is this the board? or is this group in addition to the board?
+- tend to be merchants or "middle class" and run their businesses with [[06 concepts/indentured servitude\|indents]] rented from the [[04 groups/corporate empire of zion\|corporate empire of zion]]
