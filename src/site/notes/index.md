@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","title":"index","hide":true,"hideInGraph":true,"tags":["gardenEntry"],"created":"2024-08-07T09:02:57.000-05:00","updated":"2024-12-26T08:41:22.660-06:00"}
+{"dg-publish":true,"permalink":"/index/","title":"index","hide":true,"hideInGraph":true,"tags":["gardenEntry"],"created":"2024-08-07T09:02:57.000-05:00","updated":"2024-12-27T08:52:46.867-06:00"}
 ---
 
 # welcome!
@@ -11,16 +11,17 @@ wither & bloom is a post apocalyptic biopunk scientific romance written by two l
 ## 🏰 history
 - [[02 history/Rough Timeline\|rough timeline]]
 - [[02 history/the revelation\|the revelation]]
+- [[02 history/the restoration\|the restoration]]
 - [[02 history/the playlist\|the playlist]] for vibes
 ## 👫characters
 - [[03 people/violet\|violet]]
 - [[03 people/felix\|felix]]
 - [[03 people/rose\|rose]]
-- [[03 people/The Diminished One\|roswell the cat(?)]]
+- [[03 people/The Diminished One\|roswell the cat]]
 - [[03 people/the ceo\|the ceo]]
 - [[03 people/cid\|cid]]
 ## 🗺️ places
-- [[05 places/the most holy city of imperial zion\|zion]]
+- [[05 places/the most holy city of imperial zion\|the most holy city of imperial zion]]
 - [[05 places/franchise locations of the empire of zion\|franchise locations of the empire of zion]]
 - [[05 places/Frontier and Mute Towns\|Frontier and Mute Towns]]
 - [[05 places/the wilds\|the wilds]]
@@ -51,11 +52,11 @@ wither & bloom is a post apocalyptic biopunk scientific romance written by two l
 ## 📌recent pages
 | page                                                    | tags      | modified time               |
 | ------------------------------------------------------- | --------- | --------------------------- |
-| [[02 history/Rough Timeline\|Rough Timeline]]        | <ul></ul> | 8:50 AM - December 27, 2024 |
+| [[02 history/Rough Timeline\|Rough Timeline]]        | <ul></ul> | 8:51 AM - December 27, 2024 |
+| [[06 concepts/languages\|languages]]                 | <ul></ul> | 8:51 AM - December 27, 2024 |
 | [[02 history/the revelation\|the revelation]]        | <ul></ul> | 8:47 AM - December 27, 2024 |
 | [[02 history/the restoration\|the restoration]]      | <ul></ul> | 8:40 AM - December 27, 2024 |
 | [[03 people/The Diminished One\|The Diminished One]] | <ul></ul> | 8:35 AM - December 27, 2024 |
-| [[05 places/the demonwastes\|the demonwastes]]       | <ul></ul> | 4:34 PM - December 26, 2024 |
 
 { .block-language-dataview}
 

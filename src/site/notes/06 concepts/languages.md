@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06-concepts/languages/","created":"2024-11-12T10:17:23.847-06:00","updated":"2024-12-26T08:29:15.885-06:00"}
+{"dg-publish":true,"permalink":"/06-concepts/languages/","created":"2024-11-12T10:17:23.847-06:00","updated":"2024-12-27T08:51:26.574-06:00"}
 ---
 
 # languages
@@ -44,7 +44,7 @@
 
 ---
 ## english
-*lost after the revelation*
+*lost after [[02 history/the revelation\|the revelation]]*
 - normally found on ancient signage and other remnants of pre-[[02 history/the revelation\|revelation]] infrastructure
 - only high ranking members of the inner circle can communicate in english, along with [[03 people/the ceo\|the ceo]]
 	- used in their secret rituals and services

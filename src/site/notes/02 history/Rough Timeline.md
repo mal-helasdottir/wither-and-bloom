@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-history/rough-timeline/","created":"2024-08-21T14:33:28.000-05:00","updated":"2024-12-27T08:50:05.658-06:00"}
+{"dg-publish":true,"permalink":"/02-history/rough-timeline/","created":"2024-08-21T14:33:28.000-05:00","updated":"2024-12-27T08:51:36.323-06:00"}
 ---
 
 
@@ -32,7 +32,7 @@
 	- The Anunnaki do their best to influence and study early human civilization which they recognize as not only creatures spawned of Flesh, but also influenced by the Diminished One.
 - 
 
-## The Revelation
+## [[02 history/the revelation\|The Revelation]]
 - 9/9/1991 The CEO consumes the last intact eye of the Fallen Flesh in an [[06 concepts/apotheosis\|apotheosis]] ritual.  
 	- The ritual is imperfect  Flesh begins to grow and multiply and shoot off of the CEO, spreading patches of it around the Western United States, these patches will eventually become the [[05 places/the demonwastes\|Demonfields]] as Flora and Fauna in these areas begin to undergo transformations of the Flesh.
 	- The CEO's form begins to fleshwarp wildly as well, as the Fallen Flesh takes root, a human body is an unsuitable vessel for the Fleshwarper.  The CEO feels himself beginning to unravel.
@@ -46,7 +46,7 @@
 	- The Board of the Zion Corporation are made the first flesh warpers and the first clergy of this new religion.
 - The Anunnaki send a messenger ship on the long voyage through the portal on Saturn to inform the Pattern of the begun reawakening of the Fleshwarper.  They are not expected to hear a response for several hundred years.  In the meantime they continue to monitor and manipulate the situation where they can.
 ## The Restoration
-- The period while the dome remains closed over Zion has become known as the restoration.  
+- The period while the dome remains closed over Zion has become known as [[02 history/the restoration\|the restoration]].  
 	- This period lasts for ~4 generations (400 year give or take) long enough for myths to form in and outside the dome.  
 - ~2 years after the dome (ATD) closes humans outside of Zion begin to birth the first mutants.  It is assumed this is an unforeseen side effect of the radioactive fall out, but it's due to the manipulations of the Diminished One.  
 	- Humans probably were awful to their mutant children at first.  many were probably killed shortly after birth until it became obvious the problem wasn't going away.
@@ -54,7 +54,7 @@
 - There are early attempts at reestablishing the US Government and old Cities or States as well, but they all fail to war or rebellion. Eventually new Cities, and sometime city-states will rise and fall during this time period. Some of the larger Cities doe have some longer term success where infrastructure was still mostly intact.
 	- Cities closest to Demon Fields tend to be overrun by demons
 	- Its not unheard of for a thriving City to get hit with a bad fall out or chlorine storm wiping it out or severely setting back any progress
-	- The world had become mostly reliant on LN products prior to the Revelation, so not having ready access to new sources (while LN power is long lasting it is still very finite outside of Zion) while the dome is closed causes lots of problems, some of the settlements are able to make use of other sources of power (dams, wind, etc.)  but these tend to be especially susceptible to the storms.
+	- The world had become mostly reliant on LN products prior to [[02 history/the revelation\|the Revelation]], so not having ready access to new sources (while LN power is long lasting it is still very finite outside of Zion) while the dome is closed causes lots of problems, some of the settlements are able to make use of other sources of power (dams, wind, etc.)  but these tend to be especially susceptible to the storms.
 	- Inter-settlement wars, and large bandit groups also serve to stagnate technological advances and slow the reformation of a united society outside of Zion as well.
 	- The Waste land is basically stuck in a old west kind of era with some pockets of more advanced civilization and tech here and there.
 - ~10-25 years ATD the Anunnaki firm up their foot hold on several of their key establishment in the American waste. UFO town (formerly Roswell NM), The Area (formerly Area 51), New Sherman (formerly Skinwalker Ranch/Ballard Utah) Cemetery (formerly Aurora Texas, named for the cemetery where the Anunnaki pilot was buried in 1896)  These become the most stable settlements over this time period due to the influence of the Anunnaki.
