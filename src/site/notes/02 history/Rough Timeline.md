@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-history/rough-timeline/","created":"2024-08-21T14:33:28.000-05:00","updated":"2024-12-27T12:14:40.577-06:00"}
+{"dg-publish":true,"permalink":"/02-history/rough-timeline/","created":"2024-08-21T14:33:28.000-05:00","updated":"2024-12-30T11:07:11.637-06:00"}
 ---
 
 
@@ -109,7 +109,7 @@
 - learn of the connection between [[04 groups/the devil princes\|the devil princes]], [[03 people/the ceo\|the ceo]], the gardens, and [[06 concepts/apotheosis\|apotheosis]]? incarnation?
 - battery city to prepare for strike against zion
 	- meet ma
-	- meet opal?
+	- meet [[03 people/opal\|opal]]?
 - the siege of battery city begins before the strike team can leave
 	- corpo forces unleash a new, devastating LN fueled weapon that when dropped exposes a portion of battery city to the sky, allowing the dust storm currently passing overhead into town, stoking fires to apocalyptic levels and leveling structures in seconds 
 	- [[03 people/rose\|rose]], enfleshed and mad stalks the streets calling for Violet, who goes catatonic again
