@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/07-miscellaneous/absynth/","tags":["misc","richpeople","drinks","drugs","plants"],"created":"2024-12-27T14:47:01.869-06:00","updated":"2024-12-27T15:35:09.352-06:00"}
+{"dg-publish":true,"permalink":"/07-miscellaneous/absynth/","tags":["misc","richpeople","drinks","drugs","plants"],"created":"2024-12-27T14:47:01.869-06:00","updated":"2024-12-30T10:01:09.655-06:00"}
 ---
 
 # absynth
-- what high class corpo fucks drink to get trashed
+- what high class [[04 groups/the corporate fellowship\|corpo]] fucks drink to get trashed
 
 - made with one of the few plants that still grow naturally [artemesia absinthium](https://en.wikipedia.org/wiki/Artemisia_absinthium) better known as *common wormwood*[^1]
 
