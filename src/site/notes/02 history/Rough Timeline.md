@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-history/rough-timeline/","created":"2024-08-21T14:33:28.000-05:00","updated":"2024-12-30T11:07:11.637-06:00"}
+{"dg-publish":true,"permalink":"/02-history/rough-timeline/","created":"2024-08-21T14:33:28.000-05:00","updated":"2024-12-31T11:01:13.385-06:00"}
 ---
 
 
@@ -70,6 +70,15 @@
 	- ~135 ATD there is a rebellion/coup in the Area led by [[04 groups/the brotherhood of gnosis\|the Brotherhood of Gnosis]], who declare themselves full citizens of earth, a neutral faction in the old god war and no longer Acolytes of the Pattern.  The Brotherhood is successful in expelling the remnant of the Anunnaki faithful by capturing the pureblood leader of the Area.  They are granted their freedom in exchange for their release.  They are also fully banned from other Anunnaki settlements/territories.
 	- The Area is repurposed into the great library of [[04 groups/the brotherhood of gnosis\|the Brotherhood of Gnosis]].
 	- The Anunnaki continue to harbor a grudge against the [[04 groups/the brotherhood of gnosis\|Brotherhood]], but with the more pressing matters of the Flesh returning they tend to ignore the faction for now, but most [[04 groups/the brotherhood of gnosis\|Brotherhood]] members found by those loyal to [[03 people/the infinite pattern\|the pattern]] tend to be fought or killed.
+- ~140 years ATD Several roving bands of gangs and highwaymen in the waste lands undergo a forced unification by a bandit lord **NAME HERE**  For a period of time they roam the waste in a Mad Max style caravan, assimilating other bandit groups and raiding settlements for supplies, people, and riches.  
+	- Many smaller settlements are completely wiped out by this group and the people not killed made slaves or forced to join the gang.  
+	- The group avoids the larger settlements for the most part in its early days, but as the group grows they become more bold.
+	- At the height of their mad max era the gang sets up outside of Alien town with an intent to raid/siege the town, but the Anunnaki leaders parlay with **BANDIT LEADER** and demonstrate their superior tech in a closed door meeting.  He is warned to avoid the other Anunnaki settlements as well.  
+	- As the group grows, it becomes unwieldy to control as a nomadic group and parts begin to splinter and crack and infighting and murder sprees between old rivalries grows more common.
+	- **BANDIT LEADER** decides it is time the group founds its own city state instead as a central location would make it easier to manage.  
+	- It is decided the gang will take over the Palo Verde Nuclear Power Plant in Arizona, which has become a rare powered settlement thanks to the efforts the **NAME HERE** family who has maintained and kept the plant running for generations.
+	- **BANDIT LEADER** is savvy enough to know that they need the **FAMILY** to run the place, and though the current patriarch wants to fight the bandits off or scuttle the plant to keep it being used he cuts a deal with one of the man's greedy sons, who with the bandits murders his father and of his family loyal to him and secures his family a seat of power in this new bandit run settlement.
+	- A citystate dedicated to sin and vice is built around Palo Verde with loose laws and looser morals.  Gambling, Booze, Drugs, Sex Work, and Slave Trade make the city work.  It is called **NAME HERE, maybe after the bandit leader?** and it pesist into the modern age as one of the bigger waste land settlements.
 ## The Empire of Zion
 - Year 1 AR (**AR perhaps? for After Restoration?** YES)The meat dome reopens over Austin, TX  
 	- The City, now known as Zion, sets about expanding their reach in the wastelands.
