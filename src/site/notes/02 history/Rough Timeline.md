@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-history/rough-timeline/","created":"2024-08-21T14:33:28.000-05:00","updated":"2024-12-31T11:01:13.385-06:00"}
+{"dg-publish":true,"permalink":"/02-history/rough-timeline/","created":"2024-08-21T14:33:28.000-05:00","updated":"2024-12-31T11:49:26.794-06:00"}
 ---
 
 
@@ -30,7 +30,7 @@
 	- The [[04 groups/acolytes of the infinite pattern\|Acolytes of the Pattern]] take Notice of this development, and determine that humanity will eventually become the dominate species of the planet and begin to focus their gaze upon them.
 - ~4000 BCE the Sumerians are visited by the [[04 groups/acolytes of the infinite pattern\|Acolytes of the Pattern]], The Sumerians refer to them as the Anunnaki, or beings from the sky. 
 	- The Anunnaki do their best to influence and study early human civilization which they recognize as not only creatures spawned of Flesh, but also influenced by [[03 people/The Diminished One\|the Diminished One]].
-	- The Anunnaki, especially in the early days when they were worshiped as gods, would take humans for breeding programs, and to populate/work their colonies on Mars, within the Moon, and any other establishment they created, and so human populations and even other proto-human subgroups (Neanderthals', etc.) can be found on these stations.
+	- The Anunnaki, especially in the early days when they were worshiped as gods, would take humans for breeding programs, and to populate/work their colonies on Mars, within the Moon, and any other establishment they created, and so human populations and even other proto-human subgroups (Neanderthals', etc.) can be found on these stations, even in present day.
 - 
 
 ## [[02 history/the revelation\|The Revelation]]
