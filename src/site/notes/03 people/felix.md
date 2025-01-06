@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-people/felix/","created":"2024-08-08T14:00:17.276-05:00","updated":"2025-01-06T08:22:15.399-06:00"}
+{"dg-publish":true,"permalink":"/03-people/felix/","created":"2024-08-08T14:00:17.276-05:00","updated":"2025-01-06T11:20:04.307-06:00"}
 ---
 
 # felix
@@ -16,7 +16,9 @@ skin:: grey-blue
 height::
 weight::
 status:: alive
-
+## literary description
+>
+---
 ## personality
 ### possible diagnoses:
 
