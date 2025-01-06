@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-people/violet/","created":"2024-08-08T14:04:12.276-05:00","updated":"2025-01-03T09:39:14.767-06:00"}
+{"dg-publish":true,"permalink":"/03-people/violet/","created":"2024-08-08T14:04:12.276-05:00","updated":"2025-01-06T08:26:04.954-06:00"}
 ---
 
 # violet of magdala
@@ -8,11 +8,14 @@
 hair:: black
 eyes:: one purple, one black (complete)
 skin:: [pale olive](https://images.app.goo.gl/4qniqgnecjUDpqpC6)
-height::
+height:: 5' 6"
 weight::
 status:: alive
 the [[09 dynamics/felix x violet\|love of felix's life]] 
 
+## literary description
+>
+---
 ## personality
 ### possible diagnoses:
 - avoidant personality disorder, "the hedgehog's dilemma"
