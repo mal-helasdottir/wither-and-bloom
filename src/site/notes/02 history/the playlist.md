@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-history/the-playlist/","created":"2024-12-20T15:31:49.449-06:00","updated":"2025-01-15T16:14:23.068-06:00"}
+{"dg-publish":true,"permalink":"/02-history/the-playlist/","created":"2024-12-20T15:31:49.449-06:00","updated":"2025-01-15T16:33:11.642-06:00"}
 ---
 
 # the playlist
@@ -11,6 +11,7 @@
 - *s/c/a/r/e/c/r/o/w*, my chemical romance
 - *na na na (na na na na na na na na na)*, my chemical romance
 - *shoulder to the wheel*, saves the day
+- *far from any road*, the handsome family
 ### tunes to make out with your mutant boyfriend to
 - *the light behind your eyes*, my chemical romance
 - *rain*, sleep token
@@ -25,12 +26,12 @@
 ### tunes to start a fight to
 - *dance the night away*, the mavericks
 - *chop suey*, system of a down
-
 ### tunes that are felix x violet (other than just kissing)
 - *bleed magic*, i don't know how but they found me
 - *save yourself, ill hold them back*, mcr
 - *bulletproof heart*, mcr
 - *you know what they do to guys like us in prison*, mcr
+- *demolition lovers*, mcr
 ---
 ## apocalypse now
 - *we are fucking fucked*, muse
@@ -38,8 +39,7 @@
 - *the future is a foreign land*, ghost
 - *sirens*, bear ghost
 - *that funny feeling*, bo burnham
-- 
-
+- *five years*, david bowie
 ---
 ## it's revolution, baby!
 - *aenima*, tool
@@ -47,8 +47,6 @@
 - *will of the people*, muse
 - *welcome to the black parade*, mcr
 - *the ballad of buck ravers*, samurai (refused)
-
-
 ---
 ## the gods 
 ### [[03 people/the fallen flesh\|the flesh]]
@@ -79,13 +77,14 @@
 - *you'd be paranoid too*, water parks
 - *enemy*, imagine dragons
 - *modern day cain*, i don't know how but they found me
+- *pet*, a perfect circle
 ## [[03 people/violet\|violet]]
 - *anything like me*, poppy
 	- *i feel her heart beating in me. get her out of me.* the experience of having [[03 people/rose\|rose]] for a sister and then absorbing part of her. *i'm everything she never was now everyone's out for my blood. stop you're making a scene. you're coming at me with blood in your teeth*. t
 - *bleed magic*, i don't know how but they found me
 - *build god, then we'll talk*, panic! at the disco
 - *delicate weapon*, grimes
-
+- *magdalena*, a perfect circle
 ## [[03 people/felix\|felix]]
 - *i wanna be yours*, arctic monkeys
 	- bro wants to be her electric meter and her ford cortina because he won't ever rust. particularly cute because *secrets i have held in my heart* the prevalence of [[06 concepts/the forging of metals\|rust]] in this universe makes him never doing as such particularly valuable. t
