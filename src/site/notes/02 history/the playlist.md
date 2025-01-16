@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-history/the-playlist/","created":"2024-12-20T15:31:49.449-06:00","updated":"2025-01-16T10:35:36.823-06:00"}
+{"dg-publish":true,"permalink":"/02-history/the-playlist/","created":"2024-12-20T15:31:49.449-06:00","updated":"2025-01-16T10:37:14.726-06:00"}
 ---
 
 # the playlist
@@ -45,11 +45,12 @@
 ---
 ## it's revolution, baby!
 - *aenima*, tool
-	- in regards to the way mutants view violet through prophecy. *mom please flush it all away*.
+	- in regards to the way mutants view violet through prophecy. *mom please flush it all away*. t
 - *get up and fight*, muse
 - *will of the people*, muse
 - *welcome to the black parade*, mcr
 - *this fffire*, franz ferdinand
+	- *this fire is out of control. we're gonna burn this city, burn this city*. t
 - *the ballad of buck ravers*, samurai (refused)
 ---
 ## the gods 
@@ -57,7 +58,7 @@
 - *body*, mother mother
 	- the way the flesh is offered up and consumed by lesser beings after her power, [[03 people/the ceo\|the ceo]]'s mirroring of these actions as he creates minions, the cannibalistic nature of [[04 groups/demons\|demons]] and devils and a little tongue and cheek reference to catholic eucharist. t
 - *vore*, sleep token
-	- 
+	- this entire song is fucking peak flesh and its very hard to choose a bit to focus on
 ### [[03 people/the infinite pattern\|the pattern]]
 - *starman*, david bowie
 	- extremely innocent take on the infinite pattern, making her seem gentle, interested, positive, etc. she's not any of those things but *let the children boogie*, as they say. t
