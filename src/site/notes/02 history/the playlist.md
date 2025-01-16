@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-history/the-playlist/","created":"2024-12-20T15:31:49.449-06:00","updated":"2025-01-16T10:37:14.726-06:00"}
+{"dg-publish":true,"permalink":"/02-history/the-playlist/","created":"2024-12-20T15:31:49.449-06:00","updated":"2025-01-16T10:54:48.060-06:00"}
 ---
 
 # the playlist
@@ -58,7 +58,7 @@
 - *body*, mother mother
 	- the way the flesh is offered up and consumed by lesser beings after her power, [[03 people/the ceo\|the ceo]]'s mirroring of these actions as he creates minions, the cannibalistic nature of [[04 groups/demons\|demons]] and devils and a little tongue and cheek reference to catholic eucharist. t
 - *vore*, sleep token
-	- this entire song is fucking peak flesh and its very hard to choose a bit to focus on
+	- this entire song is fucking peak flesh and its very hard to choose a bit to focus on but i think it's worth mentioning there's just as much material here for the [[02 history/the playlist#the ceo\|ceo]] as there is for the flesh. i think the ceo has always felt lonely and misunderstood. power as a way to get attention and validation and in a way the flesh is the same? *your viscera welcome me in, welcome me in. my life is torn, my bones, they bleed. my metaphors fall short in the end. your flesh and bone welcome me in, welcome me in. are you in pain like I am?* perhaps becoming a horrible tetsuo-like fleshgamation is a comfort to both of them--pity they chose violence after that tho. t
 ### [[03 people/the infinite pattern\|the pattern]]
 - *starman*, david bowie
 	- extremely innocent take on the infinite pattern, making her seem gentle, interested, positive, etc. she's not any of those things but *let the children boogie*, as they say. t
