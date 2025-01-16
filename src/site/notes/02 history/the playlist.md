@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-history/the-playlist/","created":"2024-12-20T15:31:49.449-06:00","updated":"2025-01-16T11:02:39.522-06:00"}
+{"dg-publish":true,"permalink":"/02-history/the-playlist/","created":"2024-12-20T15:31:49.449-06:00","updated":"2025-01-16T11:06:05.909-06:00"}
 ---
 
 # the playlist
@@ -107,6 +107,6 @@
 ## miscellaneous
 ## rose
 - *anything like me*, poppy
-	- *you'll never be anything like me. you shouldn't be anything like me.*
+	- *you'll never be anything like me. you shouldn't be anything like me.* t
 ## demons
 ## devil princes
