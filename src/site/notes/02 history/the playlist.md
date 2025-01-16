@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-history/the-playlist/","created":"2024-12-20T15:31:49.449-06:00","updated":"2025-01-16T11:06:05.909-06:00"}
+{"dg-publish":true,"permalink":"/02-history/the-playlist/","created":"2024-12-20T15:31:49.449-06:00","updated":"2025-01-16T11:07:04.146-06:00"}
 ---
 
 # the playlist
@@ -24,7 +24,7 @@
 - *gr4ves*, gr4ves
 - *no save point*, run the jewels
 - *absinthe*, i don't know how but they found us
-	- the excesses of the corporate upper class in their ivory (bone) towers while their masked mute "servants" serve them [[07 miscellaneous/absynth\|absynth]] and they droning on about how the only way to keep the poors from getting out of line is cutting off the poors feet. t
+	- the excesses of the corporate upper class in their ivory (bone) towers while their masked mute [[06 concepts/indentured servitude\|"servants"]] serve them [[07 miscellaneous/absynth\|absynth]] and they droning on about how the only way to keep the poors from getting out of line is cutting off the poors feet. t
 ### tunes to start a fight to
 - *dance the night away*, the mavericks
 - *chop suey*, system of a down
