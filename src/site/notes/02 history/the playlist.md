@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-history/the-playlist/","created":"2024-12-20T15:31:49.449-06:00","updated":"2025-01-16T10:54:48.060-06:00"}
+{"dg-publish":true,"permalink":"/02-history/the-playlist/","created":"2024-12-20T15:31:49.449-06:00","updated":"2025-01-16T11:02:14.326-06:00"}
 ---
 
 # the playlist
@@ -93,6 +93,7 @@
 - *build god, then we'll talk*, panic! at the disco
 - *delicate weapon*, grimes
 - *magdalena*, a perfect circle
+	- yes it's a song about a stripper or prostitute and that usually what violet/stel is but hear me out. it's also an explicit reference to mary of [[05 places/franchise locations of the empire of zion#magdala\|magdala]] (was she a prostitute or the favorite disciple? to the asshole men who wrote and translated the bible whats even the difference?), who violet is specifically modeled after in w&b. further it's about giving anything beyond reason in service of earthly pleasure, which violet has had done to her and engaged in herself--greed is her worst sin. *i'd sell my soul, my self-esteem, a dollar at a time. one chance, one kiss, one taste of you my magdalena*. t
 ## [[03 people/felix\|felix]]
 - *i wanna be yours*, arctic monkeys
 	- *secrets i have held in my heart are harder to hide than i thought*. bro wants to be her electric meter and her ford cortina because he won't ever rust. particularly cute because the prevalence of [[06 concepts/the forging of metals\|rust]] in this universe makes him never doing as such particularly valuable. t
