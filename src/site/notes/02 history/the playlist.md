@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-history/the-playlist/","created":"2024-12-20T15:31:49.449-06:00","updated":"2025-01-16T11:07:04.146-06:00"}
+{"dg-publish":true,"permalink":"/02-history/the-playlist/","created":"2024-12-20T15:31:49.449-06:00","updated":"2025-01-17T09:18:33.740-06:00"}
 ---
 
 # the playlist
@@ -28,6 +28,7 @@
 ### tunes to start a fight to
 - *dance the night away*, the mavericks
 - *chop suey*, system of a down
+- *keine lust - bozz remix*, rammstein & azad
 ### tunes that are felix x violet (other than just kissing)
 - *bleed magic*, i don't know how but they found me
 - *save yourself, ill hold them back*, mcr
