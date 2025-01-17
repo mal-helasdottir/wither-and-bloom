@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-history/the-playlist/","created":"2024-12-20T15:31:49.449-06:00","updated":"2025-01-17T09:18:33.740-06:00"}
+{"dg-publish":true,"permalink":"/02-history/the-playlist/","created":"2024-12-20T15:31:49.449-06:00","updated":"2025-01-17T11:08:26.167-06:00"}
 ---
 
 # the playlist
@@ -53,6 +53,7 @@
 - *this fffire*, franz ferdinand
 	- *this fire is out of control. we're gonna burn this city, burn this city*. t
 - *the ballad of buck ravers*, samurai (refused)
+- *close our eyes (and count to fuck)*, run the jewels
 ---
 ## the gods 
 ### [[03 people/the fallen flesh\|the flesh]]
@@ -104,6 +105,7 @@
 - *whose ready for tomorrow*, ibdy and rat boy
 - *do it all the time*, i don't know how but they found me
 	- we're talomg over the world one kiss at a time and then i'm taking your girl and i'm making her mine. *fel's fuck you to the ceo*
+- *panther like a panther*, run the jewels
 
 ## miscellaneous
 ## rose
