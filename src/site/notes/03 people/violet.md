@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-people/violet/","created":"2024-08-08T14:04:12.276-05:00","updated":"2025-01-06T08:26:04.954-06:00"}
+{"dg-publish":true,"permalink":"/03-people/violet/","created":"2024-08-08T14:04:12.276-05:00","updated":"2025-01-23T08:56:02.341-06:00"}
 ---
 
 # violet of magdala
@@ -14,7 +14,7 @@ status:: alive
 the [[09 dynamics/felix x violet\|love of felix's life]] 
 
 ## literary description
->
+> small and lithe
 ---
 ## personality
 ### possible diagnoses:
@@ -25,7 +25,6 @@ the [[09 dynamics/felix x violet\|love of felix's life]]
 - stubborn
 - pessimistic
 - self-loathing
-
 ### positive traits:
 - empathetic
 - stubborn
@@ -70,7 +69,7 @@ decanted at the greenhouse facility in [[05 places/franchise locations of the em
 ### prodigy subject & testing
 
 
-### the death of [[03 people/rose\|rose]]
+### the "death" of [[03 people/rose\|rose]]
 
 
 ### exodus from eden
