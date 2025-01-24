@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","title":"index","hide":true,"hideInGraph":true,"tags":["gardenEntry"],"created":"2024-08-07T09:02:57.000-05:00","updated":"2024-12-30T10:07:41.260-06:00"}
+{"dg-publish":true,"permalink":"/index/","title":"index","hide":true,"hideInGraph":true,"tags":["gardenEntry"],"created":"2024-08-07T09:02:57.000-05:00","updated":"2025-01-24T11:45:48.251-06:00"}
 ---
 
 # welcome!
@@ -41,6 +41,7 @@ wither & bloom is a post apocalyptic biopunk scientific romance written by two l
 - [[04 groups/the board\|the board]]
 - [[04 groups/corporate empire of zion\|corporate empire of zion]]
 ## 📖 lore concepts
+- [[06 concepts/glossary\|vocabulary]]
 - [[06 concepts/wither and bloom\|wither/bloom]]
 - [[06 concepts/liquid dark\|liquid dark]]
 - [[06 concepts/the forging of metals\|forging metal]]
@@ -64,13 +65,13 @@ wither & bloom is a post apocalyptic biopunk scientific romance written by two l
 { .block-language-dataview}
 
 ## 📌recent pages
-| page                                             | tags      | modified time                |
-| ------------------------------------------------ | --------- | ---------------------------- |
-| [[02 history/the playlist\|the playlist]]     | <ul></ul> | 11:09 AM - January 24, 2025  |
-| [[03 people/violet\|violet]]                  | <ul></ul> | 10:58 AM - January 24, 2025  |
-| [[06 concepts/liquid dark\|liquid dark]]      | <ul></ul> | 2:58 PM - January 08, 2025   |
-| [[03 people/felix\|felix]]                    | <ul></ul> | 11:20 AM - January 06, 2025  |
-| [[02 history/Rough Timeline\|Rough Timeline]] | <ul></ul> | 11:49 AM - December 31, 2024 |
+| page                                         | tags      | modified time               |
+| -------------------------------------------- | --------- | --------------------------- |
+| [[index\|index]]                          | <ul></ul> | 11:45 AM - January 24, 2025 |
+| [[06 concepts/glossary\|glossary]]        | <ul></ul> | 11:44 AM - January 24, 2025 |
+| [[02 history/the playlist\|the playlist]] | <ul></ul> | 11:09 AM - January 24, 2025 |
+| [[03 people/violet\|violet]]              | <ul></ul> | 10:58 AM - January 24, 2025 |
+| [[06 concepts/liquid dark\|liquid dark]]  | <ul></ul> | 2:58 PM - January 08, 2025  |
 
 { .block-language-dataview}
 
