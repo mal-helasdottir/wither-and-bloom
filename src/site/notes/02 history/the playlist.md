@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-history/the-playlist/","created":"2024-12-20T15:31:49.449-06:00","updated":"2025-01-24T11:09:08.964-06:00"}
+{"dg-publish":true,"permalink":"/02-history/the-playlist/","created":"2024-12-20T15:31:49.449-06:00","updated":"2025-01-24T11:55:28.320-06:00"}
 ---
 
 # the playlist
@@ -12,6 +12,7 @@
 - *na na na (na na na na na na na na na)*, my chemical romance
 - *shoulder to the wheel*, saves the day
 - *far from any road*, the handsome family
+	- *from the dusty mesa her looming shadow grows, hidden in the branches of the poison creosote. she twines her spines up slowly towards the boiling sun and when i touched her skin my fingers ran with blood.* the wastes really do be like that bro. t
 ### tunes to make out with your mutant boyfriend to
 - *the light behind your eyes*, my chemical romance
 - *rain*, sleep token
