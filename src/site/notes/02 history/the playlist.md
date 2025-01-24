@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-history/the-playlist/","created":"2024-12-20T15:31:49.449-06:00","updated":"2025-01-17T16:11:33.597-06:00"}
+{"dg-publish":true,"permalink":"/02-history/the-playlist/","created":"2024-12-20T15:31:49.449-06:00","updated":"2025-01-24T10:56:25.368-06:00"}
 ---
 
 # the playlist
@@ -25,6 +25,7 @@
 - *no save point*, run the jewels
 - *absinthe*, i don't know how but they found us
 	- the excesses of the corporate upper class in their ivory (bone) towers while their masked mute [[06 concepts/indentured servitude\|"servants"]] serve them [[07 miscellaneous/absynth\|absynth]] and they droning on about how the only way to keep the poors from getting out of line is cutting off the poors feet. t
+- *every day is exactly the same*, nine inch nails
 ### tunes to start a fight to
 - *dance the night away*, the mavericks
 - *chop suey*, system of a down
