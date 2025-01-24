@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-history/the-playlist/","created":"2024-12-20T15:31:49.449-06:00","updated":"2025-01-24T10:56:25.368-06:00"}
+{"dg-publish":true,"permalink":"/02-history/the-playlist/","created":"2024-12-20T15:31:49.449-06:00","updated":"2025-01-24T11:09:08.964-06:00"}
 ---
 
 # the playlist
@@ -55,6 +55,8 @@
 	- *this fire is out of control. we're gonna burn this city, burn this city*. t
 - *the ballad of buck ravers*, samurai (refused)
 - *close your eyes (and count to fuck)*, run the jewels
+- *caminando en la nieve*, run the jewels, akapellah, apache, pawmps, orestes gomes, nick hook's version
+	- this place is a fucking police state purely to make corpses and prisoners but nobody fucking cares. we hate that. t
 ---
 ## the gods 
 ### [[03 people/the fallen flesh\|the flesh]]
