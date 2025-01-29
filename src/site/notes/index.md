@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","title":"index","hide":true,"hideInGraph":true,"tags":["gardenEntry"],"created":"2024-08-07T09:02:57.000-05:00","updated":"2025-01-24T11:45:48.251-06:00"}
+{"dg-publish":true,"permalink":"/index/","title":"index","hide":true,"hideInGraph":true,"tags":["gardenEntry"],"created":"2024-08-07T09:02:57.000-05:00","updated":"2025-01-29T08:34:22.729-06:00"}
 ---
 
 # welcome!
@@ -13,6 +13,8 @@ wither & bloom is a post apocalyptic biopunk scientific romance written by two l
 - [[02 history/the revelation\|the revelation]]
 - [[02 history/the restoration\|the restoration]]
 - [[02 history/the playlist\|the playlist]] for vibes
+- [[07 miscellaneous/glossary\|vocabulary]] you might need to know
+- [[07 miscellaneous/a list of literary references\|a list of literary references]] to assist in coming up with names for things
 ## 👫characters
 - [[03 people/violet\|violet]]
 - [[03 people/felix\|felix]]
@@ -41,7 +43,6 @@ wither & bloom is a post apocalyptic biopunk scientific romance written by two l
 - [[04 groups/the board\|the board]]
 - [[04 groups/corporate empire of zion\|corporate empire of zion]]
 ## 📖 lore concepts
-- [[06 concepts/glossary\|vocabulary]]
 - [[06 concepts/wither and bloom\|wither/bloom]]
 - [[06 concepts/liquid dark\|liquid dark]]
 - [[06 concepts/the forging of metals\|forging metal]]
@@ -65,13 +66,13 @@ wither & bloom is a post apocalyptic biopunk scientific romance written by two l
 { .block-language-dataview}
 
 ## 📌recent pages
-| page                                         | tags      | modified time               |
-| -------------------------------------------- | --------- | --------------------------- |
-| [[02 history/the playlist\|the playlist]] | <ul></ul> | 11:55 AM - January 24, 2025 |
-| [[index\|index]]                          | <ul></ul> | 11:45 AM - January 24, 2025 |
-| [[06 concepts/glossary\|glossary]]        | <ul></ul> | 11:44 AM - January 24, 2025 |
-| [[03 people/violet\|violet]]              | <ul></ul> | 10:58 AM - January 24, 2025 |
-| [[06 concepts/liquid dark\|liquid dark]]  | <ul></ul> | 2:58 PM - January 08, 2025  |
+| page                                                                                 | tags      | modified time               |
+| ------------------------------------------------------------------------------------ | --------- | --------------------------- |
+| [[index\|index]]                                                                  | <ul></ul> | 8:34 AM - January 29, 2025  |
+| [[07 miscellaneous/a list of literary references\|a list of literary references]] | <ul></ul> | 8:32 AM - January 29, 2025  |
+| [[02 history/the playlist\|the playlist]]                                         | <ul></ul> | 11:55 AM - January 24, 2025 |
+| [[07 miscellaneous/glossary\|glossary]]                                           | <ul></ul> | 11:44 AM - January 24, 2025 |
+| [[03 people/violet\|violet]]                                                      | <ul></ul> | 10:58 AM - January 24, 2025 |
 
 { .block-language-dataview}
 
