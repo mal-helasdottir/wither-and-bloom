@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/04-groups/the-board/","created":"2024-12-27T11:52:08.025-06:00","updated":"2025-02-14T15:12:57.281-06:00"}
+{"dg-publish":true,"permalink":"/04-groups/the-board/","created":"2024-12-27T11:52:08.025-06:00","updated":"2025-02-14T15:14:41.252-06:00"}
 ---
 
 # the board
-the ceo's original fanboys
+[[03 people/the ceo\|the ceo]]'s original fanboys
 his closest confidants
-the leaders and progenitors of the great houses of zion
-closest to the ceo in age and power, but without being puppeted by an elder god
+the leaders and progenitors of the great houses of [[04 groups/corporate empire of zion\|imperial zion]]
+closest to the ceo in age and power, but without being puppeted by [[04 groups/the eldest ones#the fallen flesh\|an elder god]]
 
 ## ideas?
 - 12 because there were 12 apostles
