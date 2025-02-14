@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-miscellaneous/a-list-of-literary-references/","created":"2025-01-29T08:23:12.950-06:00","updated":"2025-01-31T12:04:03.082-06:00"}
+{"dg-publish":true,"permalink":"/07-miscellaneous/a-list-of-literary-references/","created":"2025-01-29T08:23:12.950-06:00","updated":"2025-02-11T09:12:39.692-06:00"}
 ---
 
 # a list of literary references
@@ -16,6 +16,7 @@
 ## h
 ## i
 ## j
+**jabberwocky**
 ## k
 ## l
 ## m
