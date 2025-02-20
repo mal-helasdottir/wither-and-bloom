@@ -68,7 +68,7 @@ wither & bloom is a post apocalyptic biopunk scientific romance written by two l
 ## 📌recent pages
 | page                                                                                                  | tags      | modified time                |
 | ----------------------------------------------------------------------------------------------------- | --------- | ---------------------------- |
-| [[05 places/franchise locations of the empire of zion\|franchise locations of the empire of zion]] | <ul></ul> | 4:19 PM - February 20, 2025  |
+| [[05 places/franchise locations of the empire of zion\|franchise locations of the empire of zion]] | <ul></ul> | 4:25 PM - February 20, 2025  |
 | [[05 places/the demonwastes\|the demonwastes]]                                                     | <ul></ul> | 4:10 PM - February 20, 2025  |
 | [[08 plot structure/quest list\|quest list]]                                                       | <ul></ul> | 10:43 AM - February 20, 2025 |
 | [[04 groups/corporate empire of zion\|corporate empire of zion]]                                   | <ul></ul> | 3:30 PM - February 14, 2025  |

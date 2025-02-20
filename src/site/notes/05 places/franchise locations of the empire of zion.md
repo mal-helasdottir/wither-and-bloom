@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-places/franchise-locations-of-the-empire-of-zion/","created":"2024-08-14T10:54:19.601-05:00","updated":"2025-02-20T16:19:37.469-06:00"}
+{"dg-publish":true,"permalink":"/05-places/franchise-locations-of-the-empire-of-zion/","created":"2024-08-14T10:54:19.601-05:00","updated":"2025-02-20T16:25:49.338-06:00"}
 ---
 
 # franchise locations of the empire of zion
@@ -55,6 +55,9 @@ Industry suggestions:
 > - said to be where the archangel gabriel appeared to mary and announced the impending birth of christ
 
 ## bethlehem
+*the birthplace of kings*
+- thought to be the birthplace of the ceo
+- a quiet, sleepy almost suburb by corpo standards though it is maintained to a rigorous standard for nostalgia purposes and no other reason. consider it a living history museum featuring heavily sanitized retellings and reenactments of major moments from the life of the ceo and his disciples
 
 > [!INFO]- bible reference
 > - the birthplace of both king David and Jesus of Nazareth
@@ -69,7 +72,7 @@ Industry suggestions:
 - "magdalena" is a perfect circle [[02 history/the playlist\|song]] about being romantically obsessed with an exotic dancer
 - industry possibilities
 	- education, mary being the only disciple to truly understand Jesus
-	- death and burial, her association with penitence, oils, perfumes and her presence during the crucifixion. might be fun for a secret group of the [[04 groups/the brotherhood of gnosis\|brotherhood]] to hang here since everyone else there is dead
+	- death and burial, her association with penitence, oils, perfumes and her presence during the crucifixion. might be fun for a secret group of the [[04 groups/the brotherhood of gnosis\|brotherhood]] to hang here since everyone else there is dead (she was by tradition part of the group headed to anoint him in his tomb when he had actually risen)
 	- luxury goods, oils, perfumes, and hairdressing 
 	- reeducation from her understanding but also her penitence
 	- medicine from her caring for Jesus feet, her own exorcism and possible miracle cure, apothecaries and pharmacists 
