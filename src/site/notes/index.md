@@ -68,7 +68,7 @@ wither & bloom is a post apocalyptic biopunk scientific romance written by two l
 ## 📌recent pages
 | page                                                                                 | tags      | modified time               |
 | ------------------------------------------------------------------------------------ | --------- | --------------------------- |
-| [[08 plot structure/quest list\|quest list]]                                      | <ul></ul> | 9:39 AM - February 20, 2025 |
+| [[08 plot structure/quest list\|quest list]]                                      | <ul></ul> | 9:48 AM - February 20, 2025 |
 | [[04 groups/corporate empire of zion\|corporate empire of zion]]                  | <ul></ul> | 3:30 PM - February 14, 2025 |
 | [[04 groups/the corporate fellowship\|the corporate fellowship]]                  | <ul></ul> | 3:19 PM - February 14, 2025 |
 | [[04 groups/the board\|the board]]                                                | <ul></ul> | 3:14 PM - February 14, 2025 |
