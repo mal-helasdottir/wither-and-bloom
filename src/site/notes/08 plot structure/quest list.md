@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-plot-structure/quest-list/","created":"2025-02-20T09:36:19.848-06:00","updated":"2025-02-20T10:41:30.628-06:00"}
+{"dg-publish":true,"permalink":"/08-plot-structure/quest-list/","created":"2025-02-20T09:36:19.848-06:00","updated":"2025-02-20T10:43:05.460-06:00"}
 ---
 
 # quest list
@@ -8,6 +8,7 @@
 		1. defeat the ceo
 			1. assemble the starmetal sword
 			2. shonen manga the devil princes
+				1. jailbreak violet's suit in jericho
 	2. defeat the pattern
 		1. find the flesh's failsafe weapon against the pattern
 	3. defeat chaos
