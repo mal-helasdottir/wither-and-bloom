@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-places/franchise-locations-of-the-empire-of-zion/","created":"2024-08-14T10:54:19.601-05:00","updated":"2024-12-27T11:37:24.929-06:00"}
+{"dg-publish":true,"permalink":"/05-places/franchise-locations-of-the-empire-of-zion/","created":"2024-08-14T10:54:19.601-05:00","updated":"2025-02-20T16:19:37.469-06:00"}
 ---
 
 # franchise locations of the empire of zion
@@ -65,13 +65,15 @@ Industry suggestions:
 ## magdala
 **THOUGHTS**:
 - mary has associations with fine ointments and perfumes, women in general, apothecaries, hairdressers, converts, pharmacists, sexual temptation, and penitent sinners
-- mary was considered the lead female follower as simon peter was for male followers. i like the idea of magdala and bethsaida (peter's birthplace) having a rivalry due to competing industries 
+- mary was considered the lead female follower as simon peter was for male followers. i like the idea of magdala and [[05 places/franchise locations of the empire of zion#bethsaida\|bethsaida]] (peter's birthplace) having a rivalry due to competing industries 
+- "magdalena" is a perfect circle [[02 history/the playlist\|song]] about being romantically obsessed with an exotic dancer
 - industry possibilities
 	- education, mary being the only disciple to truly understand Jesus
 	- death and burial, her association with penitence, oils, perfumes and her presence during the crucifixion. might be fun for a secret group of the [[04 groups/the brotherhood of gnosis\|brotherhood]] to hang here since everyone else there is dead
 	- luxury goods, oils, perfumes, and hairdressing 
 	- reeducation from her understanding but also her penitence
 	- medicine from her caring for Jesus feet, her own exorcism and possible miracle cure, apothecaries and pharmacists 
+- i believe the garden where violet was grown and decanted is the garden closest to magdala, hence her full moniker "*violet of magdala*".
 
 > [!INFO]- bible reference
 > - the hometown or perhaps birthplace of mary magdalen, possible female apostle, possibly sugar mama, possibly exorcised by jc himself. by tradition a witness to the crucifixion, the burial, the empty tomb, and the resurrected christ
@@ -90,10 +92,14 @@ Industry suggestions:
 > [!INFO] block title goes here
 > content
 ## meggido
+- a place from which is derived the original word for the apocalypse: *armageddon*
+- 
 
 > [!INFO] block title goes here
 > content
 ## bethsaida
+- the hometown of simon peter, foremost among christ's male disciples and the rock upon which the church was built (ie, the first pope)
+- might be in a rivalry with [[05 places/franchise locations of the empire of zion#magdala\|magdala]]
 
 > [!INFO] block title goes here
 > content
