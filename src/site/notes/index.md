@@ -66,13 +66,13 @@ wither & bloom is a post apocalyptic biopunk scientific romance written by two l
 { .block-language-dataview}
 
 ## 📌recent pages
-| page                                                                                                  | tags      | modified time                |
-| ----------------------------------------------------------------------------------------------------- | --------- | ---------------------------- |
-| [[07 miscellaneous/a list of literary references\|a list of literary references]]                  | <ul></ul> | 1:28 PM - February 21, 2025  |
-| [[05 places/franchise locations of the empire of zion\|franchise locations of the empire of zion]] | <ul></ul> | 4:25 PM - February 20, 2025  |
-| [[05 places/the demonwastes\|the demonwastes]]                                                     | <ul></ul> | 4:10 PM - February 20, 2025  |
-| [[08 plot structure/quest list\|quest list]]                                                       | <ul></ul> | 10:43 AM - February 20, 2025 |
-| [[04 groups/corporate empire of zion\|corporate empire of zion]]                                   | <ul></ul> | 3:30 PM - February 14, 2025  |
+| page                                                                                                  | tags      | modified time               |
+| ----------------------------------------------------------------------------------------------------- | --------- | --------------------------- |
+| [[07 miscellaneous/a list of literary references\|a list of literary references]]                  | <ul></ul> | 1:59 PM - February 21, 2025 |
+| [[04 groups/the board\|the board]]                                                                 | <ul></ul> | 1:34 PM - February 21, 2025 |
+| [[04 groups/anunnaki\|anunnaki]]                                                                   | <ul></ul> | 1:32 PM - February 21, 2025 |
+| [[05 places/franchise locations of the empire of zion\|franchise locations of the empire of zion]] | <ul></ul> | 4:25 PM - February 20, 2025 |
+| [[05 places/the demonwastes\|the demonwastes]]                                                     | <ul></ul> | 4:10 PM - February 20, 2025 |
 
 { .block-language-dataview}
 
@@ -80,7 +80,7 @@ wither & bloom is a post apocalyptic biopunk scientific romance written by two l
 - [[00 snippets/in the beginning\|in the beginning]]
 - [[00 snippets/terror billy\|terror billy]]
 - [[00 snippets/kiss me felix\|kiss me felix]]
-- [[snippets/kiss me felix\|kiss me felix]]
 - [[00 snippets/hello rosie\|hello rosie]]
+- [[00 snippets/dont get hurt\|dont get hurt]]
 
 { .block-language-dataview}
