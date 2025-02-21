@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-miscellaneous/glossary/","created":"2025-01-24T11:39:11.295-06:00","updated":"2025-01-31T12:06:59.101-06:00"}
+{"dg-publish":true,"permalink":"/07-miscellaneous/glossary/","created":"2025-01-24T11:39:11.295-06:00","updated":"2025-02-21T16:36:06.520-06:00"}
 ---
 
 # glossary
@@ -10,6 +10,7 @@
 ## b
 ## c
 **caffe** - the receptacle for daily servings of **feen**. meant to keep the drink at its appropriate temperature for the time of day. bastardized from the modern *carafe*. not necessarily a *mug*-like object but frequently is such.
+**chimkin** - 
 ## d
 ## e
 ## f
