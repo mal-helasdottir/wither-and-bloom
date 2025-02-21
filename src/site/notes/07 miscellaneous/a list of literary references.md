@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-miscellaneous/a-list-of-literary-references/","created":"2025-01-29T08:23:12.950-06:00","updated":"2025-02-11T09:12:39.692-06:00"}
+{"dg-publish":true,"permalink":"/07-miscellaneous/a-list-of-literary-references/","created":"2025-01-29T08:23:12.950-06:00","updated":"2025-02-21T13:28:43.952-06:00"}
 ---
 
 # a list of literary references
@@ -9,24 +9,35 @@
 ## a
 ## b
 ## c
+**cheshire cat** - alice in wonderland
 ## d
 ## e
 ## f
 ## g
 ## h
+**hatter, mad** - alice in wonderland
 ## i
 ## j
-**jabberwocky**
+**jabberwocky** - alice in wonderland
 ## k
 ## l
 ## m
 ## n
 ## o
+**oz** - the wizard of oz
 ## p
 ## q
+**queen** - alice in wonderland
+	- queen, white
+	- queen, red
 ## r
 ## s
+**scarecrow** - the wizard of oz
+**snicker-snack** - alice in wonderland
 ## t
+**tinman** - the wizard of oz
+**tulgy** - alice in wonderland
+**tweedledee/tweedledum** - alice in wonderland
 ## u
 ## v
 ## w
