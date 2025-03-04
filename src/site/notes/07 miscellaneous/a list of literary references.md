@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-miscellaneous/a-list-of-literary-references/","created":"2025-01-29T08:23:12.950-06:00","updated":"2025-02-21T13:59:46.078-06:00"}
+{"dg-publish":true,"permalink":"/07-miscellaneous/a-list-of-literary-references/","created":"2025-01-29T08:23:12.950-06:00","updated":"2025-03-04T09:14:02.882-06:00"}
 ---
 
 # a list of literary references
@@ -12,12 +12,14 @@
 ## c
 **cheshire cat** - alice in wonderland
 ## d
+**draugr** - classical mythology
 **dunedain** - the lord of the rings
 ## e
 ## f
 ## g
 ## h
 **hatter, mad** - alice in wonderland
+**huldra** - classical mythology
 **hyperboreans** - classical mythology
 ## i
 ## j
