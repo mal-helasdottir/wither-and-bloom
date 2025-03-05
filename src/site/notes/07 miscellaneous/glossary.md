@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-miscellaneous/glossary/","created":"2025-01-24T11:39:11.295-06:00","updated":"2025-02-21T16:36:06.520-06:00"}
+{"dg-publish":true,"permalink":"/07-miscellaneous/glossary/","created":"2025-01-24T11:39:11.295-06:00","updated":"2025-03-05T13:14:28.228-06:00"}
 ---
 
 # glossary
@@ -32,6 +32,7 @@
 ## u
 ## v
 ## w
+**wyrmwind** - the slow moving ground-hugging cloud of chlorine gas that tends to form in the wastes under certain weather conditions. it is highly toxic to all biological tissue and can kill (painfully) in mere seconds. doesn't *need* to be inhaled to kill, but it certainly works faster if you do. akin to the shrinking death wall in battlegrounds style video games.
 ## x
 ## y
 ## z
