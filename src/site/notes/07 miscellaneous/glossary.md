@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-miscellaneous/glossary/","created":"2025-01-24T11:39:11.295-06:00","updated":"2025-03-05T13:14:28.228-06:00"}
+{"dg-publish":true,"permalink":"/07-miscellaneous/glossary/","created":"2025-01-24T11:39:11.295-06:00","updated":"2025-03-12T09:10:35.621-05:00"}
 ---
 
 # glossary
@@ -22,11 +22,13 @@
 ## k
 ## l
 ## m
+**mist, red** - see [[07 miscellaneous/glossary#r\|red, the]]
 ## n
 ## o
 ## p
 ## q
 ## r
+**red, the** - a blood mist common in the wastes, thicker around the presence of the flesh. literally made of blood. it is a factor in triggering the subtle madness amongst the populace, but no more than a gentle nudge (lack of empathy, tendency to violence, etc. the groupthink is just human nature though). exposure increases the chances of demoniac possession, like how exposure to rads begets higher incidences of cancer over time.
 ## s
 ## t
 ## u
