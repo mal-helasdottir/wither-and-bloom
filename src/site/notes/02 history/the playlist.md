@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-history/the-playlist/","created":"2024-12-20T15:31:49.449-06:00","updated":"2025-03-05T14:43:00.667-06:00"}
+{"dg-publish":true,"permalink":"/02-history/the-playlist/","created":"2024-12-20T15:31:49.449-06:00","updated":"2025-03-12T08:50:04.699-05:00"}
 ---
 
 # the playlist
@@ -15,6 +15,7 @@
 	- *from the dusty mesa her looming shadow grows, hidden in the branches of the poison creosote. she twines her spines up slowly towards the boiling sun and when i touched her skin my fingers ran with blood.* the wastes really do be like that bro. t
 ### tunes to make out with your mutant boyfriend to
 - *the light behind your eyes*, my chemical romance
+	- *we'll say goodbye today and i'm sorry how it ends this way. if you promise not to cry then i'll tell just what i would say if i could be with you tonight. i would sing you to sleep. never let them take the light behind your eyes. i failed and lost this fight; never fade in the dark. just remember you will always burn as bright.* felix thinks he'll let her down one day and he will be taken from her. but she's strong and she'll grow stronger, because the light inside her will never die. he's going to make sure of it before that day comes. t
 - *rain*, sleep token
 	- each feels as if the only redeeming thing about themselves is they love the other fiercely, to the death. that the other person is their reason to breathe and keeping them safe is a path to redemption and salvation. *just like the rain you cast the dust into nothing and wash out the salt from my hands. so touch me again i feel my shadow dissolving. will you cleanse me with pleasure?* there's shades of being undeserving of this grace too, perhaps being a bad person becase of doing bad things, but somehow this lover stays and makes them happy. *im coiled up like the venomous serpent, tandgled in your trance and i'm certain you have got your hooks in me. i know, i know the way that it goes. you get what you get, you reap what you sow, and i can see you in my fate. i know, i know i am what i am, the mouth of the wolf, the eyes of the lamb. so darling, will you saturate? when i open my eyes to the future i can hear you say my name.* t
 - *i really wanna stay at your house*, rosa walton and hallie coggins
