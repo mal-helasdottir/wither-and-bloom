@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-places/battery-city/","created":"2025-03-17T10:45:46.665-05:00","updated":"2025-03-17T12:50:36.141-05:00"}
+{"dg-publish":true,"permalink":"/05-places/battery-city/","created":"2025-03-17T10:45:46.665-05:00","updated":"2025-03-17T13:01:32.752-05:00"}
 ---
 
 # [[05 places/battery city\|battery city]]
@@ -30,7 +30,15 @@
 - deep, stable areas feature many many many mushrooms and lichens of all colors, shapes, and sizes. they often glow. most are edible. some have hallucinogenic properties.
 ## demographics
 ---
+polyethnic, descended from a smorgasbord of poor, immigrant, disabled, *untermensch*
+- mexico
+- south america
+- south east asia [^1]
+- india and surrounds (south asia)
+- africans
+- indigenous americans, first nations, metis, sami, etc.
 
+skin color, ethnic background, and so on matter little to most modern mutants because most old world ties are lost to time. for example it doesn't matter that bob has copper colored skin, straight black hair, and dark eyes because he *also* has gills, webbed fingers and toes, and patches of skin with scales like a fish (where it isnt copper).
 ## politics & government
 ---
 
@@ -52,3 +60,6 @@
 ### related people
 ---
 - [[03 people/felix\|felix]]
+### footnotes
+
+[^1]: https://en.wikipedia.org/wiki/Southeast_Asia
