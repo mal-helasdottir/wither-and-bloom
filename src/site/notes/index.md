@@ -68,7 +68,7 @@ wither & bloom is a post apocalyptic biopunk scientific romance written by two l
 ## 📌recent pages
 | page                                                              | tags      | modified time             |
 | ----------------------------------------------------------------- | --------- | ------------------------- |
-| [[05 places/battery city\|battery city]]                       | <ul></ul> | 12:33 PM - March 17, 2025 |
+| [[05 places/battery city\|battery city]]                       | <ul></ul> | 12:39 PM - March 17, 2025 |
 | [[05 places/Frontier and Mute Towns\|Frontier and Mute Towns]] | <ul></ul> | 10:47 AM - March 17, 2025 |
 | [[05 places/the gardens\|the gardens]]                         | <ul></ul> | 10:23 AM - March 17, 2025 |
 | [[07 miscellaneous/glossary\|glossary]]                        | <ul></ul> | 8:55 AM - March 12, 2025  |
