@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-places/battery-city/","created":"2025-03-17T10:45:46.665-05:00","updated":"2025-03-17T14:46:17.418-05:00"}
+{"dg-publish":true,"permalink":"/05-places/battery-city/","created":"2025-03-17T10:45:46.665-05:00","updated":"2025-03-17T15:15:52.266-05:00"}
 ---
 
 # [[05 places/battery city\|battery city]]
@@ -58,7 +58,11 @@ skin color, ethnic background, and so on matter little to most modern mutants be
 		- locating adjacent systems into which battery city can expand
 ## infrastructure & transportation
 ---
-
+- bc could be considered a *walkable city* if it didnt sprawl infinitely beneath a large portion of the old continental united states and mexico, thereby making it impossible to walk
+- mutants prefer mass transport where possible, in order to maximize available space for living, working, and caring for themselves
+	- subways with magnetic rails
+	- trolleys
+- personal transportation consists of old junker cars, motorcycles, and smaller trucks refitted to burn ld fuel and/or bio mash. cars must be coated thoroughly and regularly if they spend any time outside the battery city megalopolis. they must also be small enough to pass through a standard bc tunnel
 ## education
 ---
 
