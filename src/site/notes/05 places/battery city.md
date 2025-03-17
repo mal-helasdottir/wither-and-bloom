@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-places/battery-city/","created":"2025-03-17T10:45:46.665-05:00","updated":"2025-03-17T14:36:04.802-05:00"}
+{"dg-publish":true,"permalink":"/05-places/battery-city/","created":"2025-03-17T10:45:46.665-05:00","updated":"2025-03-17T14:46:17.418-05:00"}
 ---
 
 # [[05 places/battery city\|battery city]]
@@ -50,6 +50,12 @@ skin color, ethnic background, and so on matter little to most modern mutants be
 - the powdered rock that *was* the area where battery city now stands is required to make a special type of ceramics
 	- only mutants have the formula, and even then only a small subset of mutes at that
 	- capable of being fired to any hardness (moh's scale), from diamond to soft breakaway casings for capsules of medicine or poison
+- stonecutting, carving, architectural design, etc.
+	- mutes are great builders, with a wealth of real world knowledge gained after generations spent managing the sprawling battery city megalopolis and its various tunnels, mines, stockpiles, etc.
+		- sinkhole/collapse prevention
+		- sealing/opening tunnels for defense or logistics
+		- creating new passageways
+		- locating adjacent systems into which battery city can expand
 ## infrastructure & transportation
 ---
 
