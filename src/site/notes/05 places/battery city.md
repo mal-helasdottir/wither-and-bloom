@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-places/battery-city/","created":"2025-03-17T10:45:46.665-05:00","updated":"2025-03-17T12:32:52.219-05:00"}
+{"dg-publish":true,"permalink":"/05-places/battery-city/","created":"2025-03-17T10:45:46.665-05:00","updated":"2025-03-17T12:33:24.149-05:00"}
 ---
 
 # [[05 places/battery city\|battery city]]
@@ -15,7 +15,7 @@
 	- see: [[05 places/Frontier and Mute Towns\|Frontier and Mute Towns]]
 
 - battery city was founded by a group of aforementioned undesirables who sought shelter from the bombs in cave systems. pollution accelerated cave expansion, linking systems together and allowing cultural exchange, mutual protection, and networking
-- mutation begins and not long after the restoration, zion begins attempts to systematically exterminate those with mutations who lives outside the empire's authority
+- mutation begins and not long after the restoration, zion begins attempts to systematically exterminate those with mutations who live outside the empire's authority
 ## geography
 ---
 - a sprawling irradiated cave system that seems to expand exponentially as time passes (acid pollution in the water cycle has accelerated the processes by which caves are made)
