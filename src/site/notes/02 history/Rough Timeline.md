@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-history/rough-timeline/","created":"2024-08-21T14:33:28.000-05:00","updated":"2024-12-31T11:49:26.794-06:00"}
+{"dg-publish":true,"permalink":"/02-history/rough-timeline/","created":"2024-08-21T14:33:28.000-05:00","updated":"2025-03-17T14:27:03.197-05:00"}
 ---
 
 
@@ -113,16 +113,16 @@
 	- violet uses her suit material to staunch the bleeding, but she must stay connected in order to trickle [[06 concepts/wither and bloom\|bloom]] into felix, keeping him alive
 	- [[03 people/cid\|cid]] manages to heal them both
 		- felix's new arm is crafted from the earlier stolen spine, tweaked with anunnaki tech and gnosis know how (one [[06 concepts/sliver of divinity\|sliver]]? go on, you wouldn't)
-- learn of the effects of star metal from [[03 people/cid\|cid]] of [[04 groups/the brotherhood of gnosis\|the brotherhood of gnosis]], (shards) required to kill the ceo/[[03 people/the fallen flesh\|the flesh]]
+- learn of the effects of [[06 concepts/the forging of metals\|star metal]] from [[03 people/cid\|cid]] of [[04 groups/the brotherhood of gnosis\|the brotherhood of gnosis]], (shards) required to kill the ceo/[[03 people/the fallen flesh\|the flesh]]
 - learn of the requirement to defeat or otherwise subdue [[04 groups/the devil princes\|the devil princes]], (slivers) required to kill the ceo/[[03 people/the fallen flesh\|the flesh]]
 - learn of the connection between [[04 groups/the devil princes\|the devil princes]], [[03 people/the ceo\|the ceo]], the gardens, and [[06 concepts/apotheosis\|apotheosis]]? incarnation?
-- battery city to prepare for strike against zion
+- [[05 places/battery city\|battery city]] to prepare for strike against zion
 	- meet ma
 	- meet [[03 people/opal\|opal]]?
-- the siege of battery city begins before the strike team can leave
-	- corpo forces unleash a new, devastating LN fueled weapon that when dropped exposes a portion of battery city to the sky, allowing the dust storm currently passing overhead into town, stoking fires to apocalyptic levels and leveling structures in seconds 
+- the siege of [[05 places/battery city\|battery city]] begins before the strike team can leave
+	- corpo forces unleash a new, devastating LN fueled weapon that when dropped exposes a portion of [[05 places/battery city\|battery city]] to the sky, allowing the dust storm currently passing overhead into town, stoking fires to apocalyptic levels and leveling structures in seconds 
 	- [[03 people/rose\|rose]], enfleshed and mad stalks the streets calling for Violet, who goes catatonic again
-		- to protect violet and what's left of battery city felix
+		- to protect violet and what's left of [[05 places/battery city\|battery city]] felix
 			- removes and consumes violet's black eye
 				- felix, unknowingly, can now pass energy back along a connection with violet
 			- surrenders himself to rose

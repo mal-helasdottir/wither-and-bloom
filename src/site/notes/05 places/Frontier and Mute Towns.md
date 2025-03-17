@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/05-places/frontier-and-mute-towns/","created":"2024-08-14T14:24:29.000-05:00","updated":"2025-03-17T10:47:46.499-05:00"}
+{"dg-publish":true,"permalink":"/05-places/frontier-and-mute-towns/","created":"2024-08-14T14:24:29.000-05:00","updated":"2025-03-17T13:02:53.410-05:00"}
 ---
 
 # Frontier and [[04 groups/mutants\|Mute]] Towns
 
 ## [[05 places/battery city\|battery city]]
-[[04 groups/mutants\|mutant]] ”Capital“. Home of the Anti-Zion Resistance, AKA Babylon to the [[04 groups/the corporate fellowship\|Corpos]]
+[[04 groups/mutants\|mutant]] ”Capital“. Home of the Anti-Zion Resistance, AKA [[05 places/battery city\|Babylon]] to the [[04 groups/the corporate fellowship\|Corpos]]
 
 location needs: underground so caves, water supply. multiple entrances and exits that are all concealable/destructible
 ## UFO Town
