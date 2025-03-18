@@ -1,12 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/05-places/franchise-locations-of-the-empire-of-zion/","created":"2024-08-14T10:54:19.601-05:00","updated":"2025-02-20T16:25:49.338-06:00"}
+{"dg-publish":true,"permalink":"/05-places/franchise-locations-of-the-empire-of-zion/","created":"2024-08-14T10:54:19.601-05:00","updated":"2025-03-18T15:07:29.948-05:00"}
 ---
 
 # franchise locations of the empire of zion
 
 Industry suggestions:
 - intelligence
-- propaganda
 - war
 - technology
 - recreation
@@ -43,11 +42,11 @@ Industry suggestions:
 - nice but artificial and kinda chintzy--like a cruise ship stop
 
 > [!INFO]- bible reference
-> - the site of jesus christ's first miracle, wherein he turned water into wine and saved a wedding from being kind of shit. legend has it that mary specifically requested he do this so the bride and groom did not commit a party foul
+> - the site of jesus christ's first miracle, wherein he turned water into wine and saved a wedding from being kind of shit. legend has it that mary, his mom, specifically requested he do this so the bride and groom did not commit a party foul
 > - *John 2* contains the details
 
 ## nazareth
-*the home of zion's entertainment and communication networks*
+*the home of zion's syndicated entertainment and official communication networks*
 - the propaganda machine is headquartered here
 
 > [!INFO]- bible reference
@@ -63,9 +62,10 @@ Industry suggestions:
 > - the birthplace of both king David and Jesus of Nazareth
 > - destroyed by emperor hadrian but rebuilt by Constantine the great and then again by justinian I after it was conquered by byzantium
 > - Both the Gospel of Luke and the Gospel of Matthew contain details
-> - King Herod killed every boy child of two years or younger here and in the surrounding area in fear of a prophesied king of the jews
+> - King Herod *supposedly* killed every boy child of two years or younger here and in the surrounding area in fear of a prophesied king of the jews
 
 ## magdala
+*zion's amsterdam*
 **THOUGHTS**:
 - mary has associations with fine ointments and perfumes, women in general, apothecaries, hairdressers, converts, pharmacists, sexual temptation, and penitent sinners
 - mary was considered the lead female follower as simon peter was for male followers. i like the idea of magdala and [[05 places/franchise locations of the empire of zion#bethsaida\|bethsaida]] (peter's birthplace) having a rivalry due to competing industries 
@@ -84,6 +84,8 @@ Industry suggestions:
 > - by the end of the first century it was renowned for "its inhabitants alleged vice and licentiousness"
 
 ## tzipori/zippori/sepphoris
+*zion's breadbasket and deli aisle*
+- most of the empire's foodstuffs come from here
 
 > [!INFO]- bible reference
 > - traditionally the birthplace of mary, mother of jesus, and the residence of anna and joachim, her parents (jesus' grandparents). mary comes from a long line of priests from the lineage of Aaron and the Tribe of Levi
@@ -101,6 +103,7 @@ Industry suggestions:
 > [!INFO] block title goes here
 > content
 ## bethsaida
+*the empire's vatican, the seat of the religion of zion - capitalism*
 - the hometown of simon peter, foremost among christ's male disciples and the rock upon which the church was built (ie, the first pope)
 - might be in a rivalry with [[05 places/franchise locations of the empire of zion#magdala\|magdala]]
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-history/rough-timeline/","created":"2024-08-21T14:33:28.000-05:00","updated":"2025-03-17T14:27:03.197-05:00"}
+{"dg-publish":true,"permalink":"/02-history/rough-timeline/","created":"2024-08-21T14:33:28.000-05:00","updated":"2025-03-18T14:57:44.891-05:00"}
 ---
 
 
@@ -44,7 +44,7 @@
 	- The CEO seeing the attacks launched does this to save himself and his assets from the nukes.  It also affords him to opportunity to go into a hibernation period while he learns to better control his new abilities. 
 	- While he slumbers his form spreads into the earth beneath Austin and tendrils begin branching out.  
 	- The people of Austin being worshiping the CEO for saving them and as the sole source of the Flesh now, new technologies are bioengineered and delivered to the masses.  
-	- [[04 groups/the board\|The Board]] of the Zion Corporation are made the first flesh warpers and the first clergy of this new religion.
+	- [[04 groups/the board\|the board]] of the Zion Corporation are made the first flesh warpers and the first clergy of this new religion.
 - The Anunnaki send a messenger ship on the long voyage through the portal on Saturn to inform [[03 people/the infinite pattern\|the Pattern]] of the begun reawakening of the Fleshwarper.  They are not expected to hear a response for several hundred years.  In the meantime they continue to monitor and manipulate the situation where they can.
 ## [[02 history/the restoration\|The Restoration]]
 - The period while the dome remains closed over Zion has become known as [[02 history/the restoration\|the restoration]].  
