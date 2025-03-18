@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-places/battery-city/","created":"2025-03-17T10:45:46.665-05:00","updated":"2025-03-17T15:15:52.266-05:00"}
+{"dg-publish":true,"permalink":"/05-places/battery-city/","created":"2025-03-17T10:45:46.665-05:00","updated":"2025-03-18T08:51:07.441-05:00"}
 ---
 
 # [[05 places/battery city\|battery city]]
@@ -63,6 +63,16 @@ skin color, ethnic background, and so on matter little to most modern mutants be
 	- subways with magnetic rails
 	- trolleys
 - personal transportation consists of old junker cars, motorcycles, and smaller trucks refitted to burn ld fuel and/or bio mash. cars must be coated thoroughly and regularly if they spend any time outside the battery city megalopolis. they must also be small enough to pass through a standard bc tunnel
+
+#### bc tunnel system
+- tunnels come in multiple sizes, standardized to accommodate certain types of transport for certain purposes
+	- supersize
+	- trenta
+	- grande
+	- venti
+	- tall
+	- medium
+	- small
 ## education
 ---
 
