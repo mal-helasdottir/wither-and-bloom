@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-miscellaneous/glossary/","created":"2025-01-24T11:39:11.295-06:00","updated":"2025-03-18T13:00:18.397-05:00"}
+{"dg-publish":true,"permalink":"/07-miscellaneous/glossary/","created":"2025-01-24T11:39:11.295-06:00","updated":"2025-03-18T13:07:58.259-05:00"}
 ---
 
 # glossary
@@ -45,6 +45,7 @@
 ## s
 **shabtai** - the hebrew name of planet saturn
 ## t
+**terra** - latin name for the earth under our feet
 **tiferet/tiphareth** - meaning: *beauty* ; the sephirot (kabbalah) which corresponds to the sun and to the solar plexus
 **tzedek** - the hebrew name of planet jupiter
 ## u

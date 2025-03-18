@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-places/battery-city/","created":"2025-03-17T10:45:46.665-05:00","updated":"2025-03-18T08:51:07.441-05:00"}
+{"dg-publish":true,"permalink":"/05-places/battery-city/","created":"2025-03-17T10:45:46.665-05:00","updated":"2025-03-18T13:12:19.806-05:00"}
 ---
 
 # [[05 places/battery city\|battery city]]
@@ -65,7 +65,7 @@ skin color, ethnic background, and so on matter little to most modern mutants be
 - personal transportation consists of old junker cars, motorcycles, and smaller trucks refitted to burn ld fuel and/or bio mash. cars must be coated thoroughly and regularly if they spend any time outside the battery city megalopolis. they must also be small enough to pass through a standard bc tunnel
 
 #### bc tunnel system
-- tunnels come in multiple sizes, standardized to accommodate certain types of transport for certain purposes
+- tunnels come in multiple sizes, standardized to accommodate certain types of transport for certain purposes (not in size order)
 	- supersize
 	- trenta
 	- grande
@@ -78,13 +78,17 @@ skin color, ethnic background, and so on matter little to most modern mutants be
 
 ## culture & daily life
 ---
-
+- throw hinduism, paganism, islam, and all of SEA into a blender and you will get mutant culture
+- they have their own [[06 concepts/languages#mutant\|language]]
 ## recreation
 ---
+### holidays and feast days
+
 
 ### related people
 ---
 - [[03 people/felix\|felix]]
+- [[03 people/opal\|opal]]
 ### footnotes
 
 [^1]: https://en.wikipedia.org/wiki/Southeast_Asia
