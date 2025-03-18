@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06-concepts/languages/","created":"2024-11-12T10:17:23.847-06:00","updated":"2024-12-27T11:31:06.017-06:00"}
+{"dg-publish":true,"permalink":"/06-concepts/languages/","created":"2024-11-12T10:17:23.847-06:00","updated":"2025-03-18T13:14:03.564-05:00"}
 ---
 
 # languages
@@ -16,7 +16,7 @@
 ## mutant
 *a patois of many uncouth languages used only by rampant mutants*
 - constantly shifting tongue and flexible cant style[^1] writing system used only by mutants
-	- not because of any greater conspiracy to keep it away from reggies (regular corpos), but because outside groups refuse to show any interest in it whatsoever--that would give it credence and therefore power
+	- not because of any greater conspiracy to keep it away from reggies (regular [[04 groups/the corporate fellowship\|corpos]]), but because outside groups refuse to show any interest in it whatsoever--that would give it credence and therefore power
 - even if a reggie decided to learn it would be difficult
 	- limited sounds and cyphers create a language of subtleties that relies heavily on body language, tone, and implication (like mandarin)
 	- no one would teach them

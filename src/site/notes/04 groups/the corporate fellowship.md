@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-groups/the-corporate-fellowship/","created":"2024-10-28T09:31:24.095-05:00","updated":"2025-02-14T15:19:32.281-06:00"}
+{"dg-publish":true,"permalink":"/04-groups/the-corporate-fellowship/","created":"2024-10-28T09:31:24.095-05:00","updated":"2025-03-18T13:14:17.906-05:00"}
 ---
 
 # the corporate fellowship
@@ -8,4 +8,4 @@
 ### subgroups
 - the [[04 groups/shareholders\|shareholders]]
 - the [[06 concepts/indentured servitude\|indents]]
-- rank and file corporate employees
+- rank and file corporate employees (reggies)
