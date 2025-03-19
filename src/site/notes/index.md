@@ -68,11 +68,11 @@ wither & bloom is a post apocalyptic biopunk scientific romance written by two l
 ## 📌recent pages
 | page                                                                                                  | tags      | modified time            |
 | ----------------------------------------------------------------------------------------------------- | --------- | ------------------------ |
-| [[05 places/the gardens\|the gardens]]                                                             | <ul></ul> | 8:44 AM - March 19, 2025 |
+| [[05 places/the gardens\|the gardens]]                                                             | <ul></ul> | 3:17 PM - March 19, 2025 |
+| [[04 groups/the devil princes\|the devil princes]]                                                 | <ul></ul> | 2:56 PM - March 19, 2025 |
+| [[07 miscellaneous/a list of literary references\|a list of literary references]]                  | <ul></ul> | 2:42 PM - March 19, 2025 |
 | [[05 places/franchise locations of the empire of zion\|franchise locations of the empire of zion]] | <ul></ul> | 3:07 PM - March 18, 2025 |
 | [[04 groups/the houses of zion\|the houses of zion]]                                               | <ul></ul> | 2:58 PM - March 18, 2025 |
-| [[index\|index]]                                                                                   | <ul></ul> | 2:57 PM - March 18, 2025 |
-| [[04 groups/the eldest ones\|the eldest ones]]                                                     | <ul></ul> | 2:57 PM - March 18, 2025 |
 
 { .block-language-dataview}
 

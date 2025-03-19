@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-places/the-gardens/","created":"2024-10-28T09:35:42.859-05:00","updated":"2025-03-19T08:44:54.728-05:00"}
+{"dg-publish":true,"permalink":"/05-places/the-gardens/","created":"2024-10-28T09:35:42.859-05:00","updated":"2025-03-19T15:17:32.772-05:00"}
 ---
 
 # the gardens
@@ -13,16 +13,26 @@ more biobeast than structure. in a very real way the prodigy candidates are the 
 - the garden where the most promising candidates were transferred, trained, and tested
 ### gethsemane
 - biblically, the garden where christ wrestled with his destiny as the lamb of god shortly before being crucified
+### golgotha
+- biblically, the area where christ was crucified and buried. his tomb was located in the garden there
 ### elysium
 - mythologically, where great heroes of greece and rome go when they die
 ### kremastós
 - historically, the greek word for *hanging* or *overhanging*, referring to the hanging gardens of babylon which were likely built on elevated terraces
-### 
+### erythrai
+- "western maidens" or "daughters of the evening", a group of nymphs who gave their name to the garden of the goddess hera.
+
 ---
 ## possibilities
 - versailles, as in *palace of's* gardens
 - giverny, where monet's water lilies are
-- 
+- asgard
+- olympus
+- pleroma, the abode of gnostic aeons
+- hy-brasil, a magical island from irish folklore
+- avalon, from arthurian legend
+- tír na nÓg, the irish otherworld
+- mag mell, the irish underworld, reached vis death or glory and filled with hedonism
 
 ### footnotes
 

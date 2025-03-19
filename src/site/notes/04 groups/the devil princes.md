@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-groups/the-devil-princes/","created":"2024-10-28T09:22:56.084-05:00","updated":"2024-12-27T12:07:27.368-06:00"}
+{"dg-publish":true,"permalink":"/04-groups/the-devil-princes/","created":"2024-10-28T09:22:56.084-05:00","updated":"2025-03-19T14:56:31.419-05:00"}
 ---
 
 # the devil princes
@@ -10,6 +10,10 @@ technically, yet more siblings of [[03 people/violet\|violet]] and [[03 people/r
 known princes:
 - cerberus
 - baba yaga
+
+prince suggestions:
+- ladon
+- geryon
 
 ---
 OK so Devils are all early versions of [[03 people/violet\|Violet]] and [[03 people/rose\|Rose]]. [[03 people/the ceo\|The CEO]]'s failed experiments to create the [[06 concepts/the prodigy project\|protege]].
