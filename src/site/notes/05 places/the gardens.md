@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-places/the-gardens/","created":"2024-10-28T09:35:42.859-05:00","updated":"2025-03-19T15:17:32.772-05:00"}
+{"dg-publish":true,"permalink":"/05-places/the-gardens/","created":"2024-10-28T09:35:42.859-05:00","updated":"2025-03-19T15:21:36.736-05:00"}
 ---
 
 # the gardens
@@ -21,6 +21,8 @@ more biobeast than structure. in a very real way the prodigy candidates are the 
 - historically, the greek word for *hanging* or *overhanging*, referring to the hanging gardens of babylon which were likely built on elevated terraces
 ### erythrai
 - "western maidens" or "daughters of the evening", a group of nymphs who gave their name to the garden of the goddess hera.
+### dilmun
+- a sumerian paradise where sickness and death are unknown
 
 ---
 ## possibilities
