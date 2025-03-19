@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-places/the-gardens/","created":"2024-10-28T09:35:42.859-05:00","updated":"2025-03-19T15:21:36.736-05:00"}
+{"dg-publish":true,"permalink":"/05-places/the-gardens/","created":"2024-10-28T09:35:42.859-05:00","updated":"2025-03-19T15:32:16.959-05:00"}
 ---
 
 # the gardens
@@ -23,6 +23,8 @@ more biobeast than structure. in a very real way the prodigy candidates are the 
 - "western maidens" or "daughters of the evening", a group of nymphs who gave their name to the garden of the goddess hera.
 ### dilmun
 - a sumerian paradise where sickness and death are unknown
+### arcadia
+- a pastoral paradise and the home of the god pan
 
 ---
 ## possibilities
