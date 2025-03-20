@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-places/battery-city/","created":"2025-03-17T10:45:46.665-05:00","updated":"2025-03-18T13:12:19.806-05:00"}
+{"dg-publish":true,"permalink":"/05-places/battery-city/","created":"2025-03-17T10:45:46.665-05:00","updated":"2025-03-20T17:10:59.755-05:00"}
 ---
 
 # [[05 places/battery city\|battery city]]
@@ -83,7 +83,11 @@ skin color, ethnic background, and so on matter little to most modern mutants be
 ## recreation
 ---
 ### holidays and feast days
-
+- *ghost dance*, or *all-martyr's*
+	- a festival for ancestor worship after the style of eastern religions
+		- party with dancing, food, carnival games, etc.
+		- pelt your friends and loved ones with a lightly colored powder meant to confuse angry ghosts into believing you are also a ghost--it keeps you safe, stupid
+		- meals and gifts prepared and left out for the dead, which are later burned.
 
 ### related people
 ---
