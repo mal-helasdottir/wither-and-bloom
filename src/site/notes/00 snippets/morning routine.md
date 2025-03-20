@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-snippets/morning-routine/","created":"2025-03-20T14:09:40.795-05:00","updated":"2025-03-20T16:40:32.645-05:00"}
+{"dg-publish":true,"permalink":"/00-snippets/morning-routine/","created":"2025-03-20T14:09:40.795-05:00","updated":"2025-03-20T16:42:00.229-05:00"}
 ---
 
 # morning routine
@@ -23,7 +23,7 @@ the light that woke her slants cherrily across the sofa, the bed, and an unholy 
 
 has she been abandoned? surely not? felix wouldn't leave winnie, an item with value, behind would he? he doesn't strike her as that kind of person.
 
-thinking about it makes her feel strange again in a way that's difficult to parse--her stomach flops, her skin prickles, and her skin feels cold.
+thinking about it makes her feel strange again in a way that's difficult to parse--her stomach flops, her skin prickles, and her hands feel cold.
 
 perhaps not the last though, it is somewhat cool in here.
 
