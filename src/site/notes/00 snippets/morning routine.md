@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-snippets/morning-routine/","created":"2025-03-20T14:09:40.795-05:00","updated":"2025-03-20T15:08:29.811-05:00"}
+{"dg-publish":true,"permalink":"/00-snippets/morning-routine/","created":"2025-03-20T14:09:40.795-05:00","updated":"2025-03-20T16:40:32.645-05:00"}
 ---
 
 # morning routine
@@ -9,7 +9,7 @@ a sickly sunbeam creeps into violet's eyes, slow and deliberate, as if determine
 
 then she remembers. 
 
-driving all day across the wastes, outrunning the wyrmwind, then the men in black. felix maintaining a steady prattle about the merits of a "mikal jacksim" as opposed to one "david bowhee," as if either of concepts mean anything to her. her eyelids growing heavy even though her instincts scream that she must stay awake and vigilant. falling asleep on this bed anyway, while watching roswell lazily dart a little pink tongue between spread toe beans without a care in the world.
+driving all day across the wastes, outrunning the wyrmwind, then the men in black. felix maintaining a steady prattle about the merits of a "mikal jacksim" as opposed to one "david bowhee," as if either of those concepts mean anything to her. her eyelids growing heavy even though her instincts scream that she must stay awake and vigilant. falling asleep on this bed anyway, while watching roswell lazily dart a little pink tongue between spread toe beans without a care in the world.
 
 she remains still in the bed, fighting the inexorable pull of consciousness. she isn't in eden anymore. she may never be again. thinking on it makes her throat hurt and her nose run, so she stops.
 
