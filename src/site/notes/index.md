@@ -66,21 +66,21 @@ wither & bloom is a post apocalyptic biopunk scientific romance written by two l
 { .block-language-dataview}
 
 ## 📌recent pages
-| page                                                                                                  | tags      | modified time            |
-| ----------------------------------------------------------------------------------------------------- | --------- | ------------------------ |
-| [[05 places/the gardens\|the gardens]]                                                             | <ul></ul> | 3:32 PM - March 19, 2025 |
-| [[04 groups/the devil princes\|the devil princes]]                                                 | <ul></ul> | 2:56 PM - March 19, 2025 |
-| [[07 miscellaneous/a list of literary references\|a list of literary references]]                  | <ul></ul> | 2:42 PM - March 19, 2025 |
-| [[05 places/franchise locations of the empire of zion\|franchise locations of the empire of zion]] | <ul></ul> | 3:07 PM - March 18, 2025 |
-| [[04 groups/the houses of zion\|the houses of zion]]                                               | <ul></ul> | 2:58 PM - March 18, 2025 |
+| page                                                                                                  | tags                                      | modified time            |
+| ----------------------------------------------------------------------------------------------------- | ----------------------------------------- | ------------------------ |
+| [[00 snippets/morning routine\|morning routine]]                                                   | <ul><li>#snippet</li><li>#waifu</li></ul> | 3:08 PM - March 20, 2025 |
+| [[07 miscellaneous/a list of literary references\|a list of literary references]]                  | <ul></ul>                                 | 8:25 AM - March 20, 2025 |
+| [[05 places/the gardens\|the gardens]]                                                             | <ul></ul>                                 | 3:32 PM - March 19, 2025 |
+| [[04 groups/the devil princes\|the devil princes]]                                                 | <ul></ul>                                 | 2:56 PM - March 19, 2025 |
+| [[05 places/franchise locations of the empire of zion\|franchise locations of the empire of zion]] | <ul></ul>                                 | 3:07 PM - March 18, 2025 |
 
 { .block-language-dataview}
 
 ## ✂️recent snippets
+- [[00 snippets/morning routine\|morning routine]]
 - [[00 snippets/in the beginning\|in the beginning]]
 - [[00 snippets/terror billy\|terror billy]]
 - [[00 snippets/kiss me felix\|kiss me felix]]
 - [[00 snippets/hello rosie\|hello rosie]]
-- [[00 snippets/dont get hurt\|dont get hurt]]
 
 { .block-language-dataview}
