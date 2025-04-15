@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-places/the-gardens/","created":"2024-10-28T09:35:42.859-05:00","updated":"2025-03-19T15:32:16.959-05:00"}
+{"dg-publish":true,"permalink":"/05-places/the-gardens/","created":"2024-10-28T09:35:42.859-05:00","updated":"2025-04-09T09:31:22.381-05:00"}
 ---
 
 # the gardens
@@ -36,7 +36,7 @@ more biobeast than structure. in a very real way the prodigy candidates are the 
 - hy-brasil, a magical island from irish folklore
 - avalon, from arthurian legend
 - tír na nÓg, the irish otherworld
-- mag mell, the irish underworld, reached vis death or glory and filled with hedonism
+- mag mell, the irish underworld, reached via death or glory and filled with hedonism
 
 ### footnotes
 

@@ -66,21 +66,21 @@ wither & bloom is a post apocalyptic biopunk scientific romance written by two l
 { .block-language-dataview}
 
 ## 📌recent pages
-| page                                                                                 | tags                                      | modified time            |
-| ------------------------------------------------------------------------------------ | ----------------------------------------- | ------------------------ |
-| [[05 places/battery city\|battery city]]                                          | <ul></ul>                                 | 5:10 PM - March 20, 2025 |
-| [[00 snippets/morning routine\|morning routine]]                                  | <ul><li>#snippet</li><li>#waifu</li></ul> | 4:42 PM - March 20, 2025 |
-| [[07 miscellaneous/a list of literary references\|a list of literary references]] | <ul></ul>                                 | 8:25 AM - March 20, 2025 |
-| [[05 places/the gardens\|the gardens]]                                            | <ul></ul>                                 | 3:32 PM - March 19, 2025 |
-| [[04 groups/the devil princes\|the devil princes]]                                | <ul></ul>                                 | 2:56 PM - March 19, 2025 |
+| page                                                                                 | tags                                      | modified time             |
+| ------------------------------------------------------------------------------------ | ----------------------------------------- | ------------------------- |
+| [[00 snippets/firsts\|firsts]]                                                    | <ul><li>#snippet</li><li>#waifu</li></ul> | 11:38 AM - April 15, 2025 |
+| [[07 miscellaneous/a list of literary references\|a list of literary references]] | <ul></ul>                                 | 9:33 AM - April 09, 2025  |
+| [[05 places/the gardens\|the gardens]]                                            | <ul></ul>                                 | 9:31 AM - April 09, 2025  |
+| [[03 people/felix\|felix]]                                                        | <ul></ul>                                 | 8:40 AM - March 25, 2025  |
+| [[05 places/battery city\|battery city]]                                          | <ul></ul>                                 | 5:10 PM - March 20, 2025  |
 
 { .block-language-dataview}
 
 ## ✂️recent snippets
+- [[00 snippets/firsts\|firsts]]
 - [[00 snippets/morning routine\|morning routine]]
 - [[00 snippets/in the beginning\|in the beginning]]
 - [[00 snippets/terror billy\|terror billy]]
 - [[00 snippets/kiss me felix\|kiss me felix]]
-- [[00 snippets/hello rosie\|hello rosie]]
 
 { .block-language-dataview}

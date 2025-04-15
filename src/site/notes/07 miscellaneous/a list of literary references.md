@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-miscellaneous/a-list-of-literary-references/","created":"2025-01-29T08:23:12.950-06:00","updated":"2025-03-20T08:25:48.475-05:00"}
+{"dg-publish":true,"permalink":"/07-miscellaneous/a-list-of-literary-references/","created":"2025-01-29T08:23:12.950-06:00","updated":"2025-04-09T09:33:03.337-05:00"}
 ---
 
 # a list of literary, folklore, and pop culture references
@@ -16,6 +16,7 @@
 **draugr** - classical mythology
 **dunedain** - the lord of the rings
 ## e
+**eden** - the bible. the garden of creation
 ## f
 ## g
 ## h
