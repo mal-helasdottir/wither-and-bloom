@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-snippets/firsts/","created":"2025-04-15T11:35:15.046-05:00","updated":"2025-04-15T13:57:09.452-05:00"}
+{"dg-publish":true,"permalink":"/00-snippets/firsts/","created":"2025-04-15T11:35:15.046-05:00","updated":"2025-04-15T14:42:57.819-05:00"}
 ---
 
 # firsts
@@ -8,7 +8,7 @@
 **battery city, feast of the all-martyr's**
 *violet*
 
-there's something about him, she thinks, for what must be the twentieth time just today.
+there's something about [[03 people/felix\|him]], [[03 people/violet\|she]] thinks, for what must be the twentieth time just today.
 
 something special.
 
