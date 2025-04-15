@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-snippets/firsts/","created":"2025-04-15T11:35:15.046-05:00","updated":"2025-04-15T14:42:57.819-05:00"}
+{"dg-publish":true,"permalink":"/00-snippets/firsts/","created":"2025-04-15T11:35:15.046-05:00","updated":"2025-04-15T15:48:08.624-05:00"}
 ---
 
 # firsts
@@ -7,7 +7,6 @@
 
 **battery city, feast of the all-martyr's**
 *violet*
-
 there's something about [[03 people/felix\|him]], [[03 people/violet\|she]] thinks, for what must be the twentieth time just today.
 
 something special.
@@ -27,3 +26,5 @@ he strides over, still grinning in that sly, smug way of his, but she swears she
 "ya need somethin'?" impossibly, his expression becomes smarmier and her stomach does a flopping dance of betrayal. "ya awful clean... i can help with that."
 
 before she can ask what he means, he lobs a hidden handful of bright blue dust in her face and *runs*.
+
+*felix*
