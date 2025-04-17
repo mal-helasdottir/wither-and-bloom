@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-places/the-gardens/","created":"2024-10-28T09:35:42.859-05:00","updated":"2025-04-09T09:31:22.381-05:00"}
+{"dg-publish":true,"permalink":"/05-places/the-gardens/","created":"2024-10-28T09:35:42.859-05:00","updated":"2025-04-17T12:17:16.433-05:00"}
 ---
 
 # the gardens
@@ -12,7 +12,7 @@ more biobeast than structure. in a very real way the prodigy candidates are the 
 - biblically, where creation began and adam and eve fell from grace
 - the garden where the most promising candidates were transferred, trained, and tested
 ### gethsemane
-- biblically, the garden where christ wrestled with his destiny as the lamb of god shortly before being crucified
+- biblically, the garden where christ wrestled with his destiny as the lamb of god shortly before being crucified. also where judas leads the soldiers in order to betray jesus with a kiss, after jesus specifically asked the apostles in his company to remain awake and keep watch (they fail whomp whomp)
 ### golgotha
 - biblically, the area where christ was crucified and buried. his tomb was located in the garden there
 ### elysium
