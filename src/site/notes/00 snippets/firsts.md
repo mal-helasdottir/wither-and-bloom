@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-snippets/firsts/","created":"2025-04-15T11:35:15.046-05:00","updated":"2025-04-16T12:01:10.066-05:00"}
+{"dg-publish":true,"permalink":"/00-snippets/firsts/","created":"2025-04-15T11:35:15.046-05:00","updated":"2025-04-22T17:04:49.294-05:00"}
 ---
 
 # firsts
@@ -44,4 +44,16 @@ the warmth again. likely hungry. or heartburn.
 
 she's still moving through the edges, a dark needle slipping between the thick weft of mutants at play. her hood is down and her long braid is coated with blue powder, as though she wiped the color off her face with it.
 
-he finds a spot beneath the broad gills of a softly luminescing lilac bonnet and sits to wait
+he finds a spot beneath the broad gills of a softly luminescing lilac bonnet and sits, awaiting her inevitable approach.
+
+*violet* --
+likely, he's noticed her, but she finds the spark of irritation that lead to the chase has sputtered out. now the grilled and spiced kebab in his hand looks almost as appealing as the empty seat beside him.
+
+she slides into the open spot, taking the kebab and brushing her lips softly along his scruffy jaw with a "thanks."
+
+he chuckles. "i was expectin' somethin' a little more violent."
+
+violet sets to work upon her dinner with a noncommittal sort of grunt.
+
+felix leans away, his tail finding her waist, to hand her a cup of some fermented beverage. he has one too, violet watching his throat bob from the corner of her eye.
+
