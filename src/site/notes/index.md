@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","title":"index","hide":true,"hideInGraph":true,"tags":["gardenEntry"],"created":"2024-08-07T09:02:57.000-05:00","updated":"2025-03-18T14:57:44.908-05:00"}
+{"dg-publish":true,"permalink":"/index/","title":"index","hide":true,"hideInGraph":true,"tags":["gardenEntry"],"created":"2024-08-07T09:02:57.000-05:00","updated":"2025-01-29T08:34:22.729-06:00"}
 ---
 
 # welcome!
@@ -68,11 +68,11 @@ wither & bloom is a post apocalyptic biopunk scientific romance written by two l
 ## 📌recent pages
 | page                                                                                 | tags                                      | modified time             |
 | ------------------------------------------------------------------------------------ | ----------------------------------------- | ------------------------- |
+| [[04 groups/anunnaki\|anunnaki]]                                                  | <ul></ul>                                 | 12:56 PM - April 24, 2025 |
 | [[00 snippets/firsts\|firsts]]                                                    | <ul><li>#snippet</li><li>#waifu</li></ul> | 11:07 PM - April 22, 2025 |
 | [[05 places/the gardens\|the gardens]]                                            | <ul></ul>                                 | 12:17 PM - April 17, 2025 |
 | [[07 miscellaneous/a list of literary references\|a list of literary references]] | <ul></ul>                                 | 9:33 AM - April 09, 2025  |
 | [[03 people/felix\|felix]]                                                        | <ul></ul>                                 | 8:40 AM - March 25, 2025  |
-| [[05 places/battery city\|battery city]]                                          | <ul></ul>                                 | 5:10 PM - March 20, 2025  |
 
 { .block-language-dataview}
 
