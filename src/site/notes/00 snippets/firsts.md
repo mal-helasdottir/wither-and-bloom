@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-snippets/firsts/","created":"2025-04-15T11:35:15.046-05:00","updated":"2025-04-28T14:16:22.401-05:00"}
+{"dg-publish":true,"permalink":"/00-snippets/firsts/","created":"2025-04-15T11:35:15.046-05:00","updated":"2025-04-28T15:50:37.480-05:00"}
 ---
 
 # firsts
@@ -66,3 +66,4 @@ and yet he's here. making sure she eats, sleeps, and knows the right people. in 
 it's... nice. violet curls against him as she finishes her dinner, fidgeting with the soft, warm fur beneath her fingertips.
 
 *felix* --
+his skin heats, a tingle racing up his spine at her gentle touch. he fights to keep his pulse steady and breathing even, covering anything he cant control by popping one of her candies in his mouth.
