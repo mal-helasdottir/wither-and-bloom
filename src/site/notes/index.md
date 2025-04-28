@@ -68,7 +68,7 @@ wither & bloom is a post apocalyptic biopunk scientific romance written by two l
 ## 📌recent pages
 | page                                                                                 | tags                                      | modified time             |
 | ------------------------------------------------------------------------------------ | ----------------------------------------- | ------------------------- |
-| [[00 snippets/firsts\|firsts]]                                                    | <ul><li>#snippet</li><li>#waifu</li></ul> | 12:29 PM - April 28, 2025 |
+| [[00 snippets/firsts\|firsts]]                                                    | <ul><li>#snippet</li><li>#waifu</li></ul> | 1:04 PM - April 28, 2025  |
 | [[04 groups/anunnaki\|anunnaki]]                                                  | <ul></ul>                                 | 12:56 PM - April 24, 2025 |
 | [[05 places/the gardens\|the gardens]]                                            | <ul></ul>                                 | 12:17 PM - April 17, 2025 |
 | [[07 miscellaneous/a list of literary references\|a list of literary references]] | <ul></ul>                                 | 9:33 AM - April 09, 2025  |
