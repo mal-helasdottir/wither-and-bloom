@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-snippets/firsts/","created":"2025-04-15T11:35:15.046-05:00","updated":"2025-04-28T15:50:37.480-05:00"}
+{"dg-publish":true,"permalink":"/00-snippets/firsts/","created":"2025-04-15T11:35:15.046-05:00","updated":"2025-04-28T16:19:04.195-05:00"}
 ---
 
 # firsts
@@ -66,4 +66,12 @@ and yet he's here. making sure she eats, sleeps, and knows the right people. in 
 it's... nice. violet curls against him as she finishes her dinner, fidgeting with the soft, warm fur beneath her fingertips.
 
 *felix* --
-his skin heats, a tingle racing up his spine at her gentle touch. he fights to keep his pulse steady and breathing even, covering anything he cant control by popping one of her candies in his mouth.
+his skin heats, a tingle racing up his spine at her gentle touch. he fights to keep his pulse steady and breathing even, covering anything he cant control by popping one of her candies in his mouth. "ya want one?"
+
+she tilts her head and lets her mouth fall open, sticking out her pink tongue in expectation of a sweet.
+
+he could unwrap one and place it on her tongue with reverence the way the corpos do in their holy mysteries. he'd never have to think too deeply about the consequences of feelings unspoken or needs unrequited.
+
+or--
+
+felix presses his mouth to hers, softly, tracing his tongue along her plump bottom lip. his thumb caresses the side of her throat where the skin is smoother than silk. she opens to him with a low murmur and the city fades away to nothing as she tentatively curls her tongue against his own. he groans at the intimate stroke, at the weight of her in his arms. then she steals the candy before he has the chance to slip it to her.
