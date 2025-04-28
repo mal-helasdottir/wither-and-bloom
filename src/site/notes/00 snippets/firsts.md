@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-snippets/firsts/","created":"2025-04-15T11:35:15.046-05:00","updated":"2025-04-22T23:07:44.232-05:00"}
+{"dg-publish":true,"permalink":"/00-snippets/firsts/","created":"2025-04-15T11:35:15.046-05:00","updated":"2025-04-28T12:28:21.637-05:00"}
 ---
 
 # firsts
@@ -57,6 +57,8 @@ violet sets to work upon her dinner with a noncommittal sort of grunt.
 
 felix leans away, his tail finding her waist, to hand her a cup of some fermented beverage. he has one too and violet watches from the corner of her eye as he lifts it to his lips, throat bobbing with each swallow.
 
-he's fascinating to her and she cannot recall when felix moved from *necessary annoyance* to *indespensable partner*. circumstances haven't changed: her father still believes he will become a god; rose is still lost in the wastes somewhere; demons, ankai, and psychopaths prowl relentlessly in search of fulfillment; everything is fucked and no one is safe -- least of all her.
+he's fascinating to her. 
+
+she cannot recall when felix moved from *necessary annoyance* to *indespensable partner*. circumstances haven't changed: her father still believes he will become a god; rose is still lost in the wastes somewhere; demons, ankai, and psychopaths prowl relentlessly in search of fulfillment; everything is fucked and no one is safe -- least of all her.
 
 and yet he's here. making sure she eats, sleeps, and knows the right people. in a fight, he's in her blind spots, keeping trouble at bay. right now the solid, slim loop of his tufted tail around her is comfortable. companionable. she's warm and safe. 
