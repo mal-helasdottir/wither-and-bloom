@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-groups/the-houses-of-zion/","created":"2025-03-18T14:57:52.152-05:00","updated":"2025-04-29T13:40:20.644-05:00"}
+{"dg-publish":true,"permalink":"/04-groups/the-houses-of-zion/","created":"2025-03-18T14:57:52.152-05:00","updated":"2025-04-29T13:42:39.231-05:00"}
 ---
 
 # [[04 groups/the houses of zion\|the houses of zion]]
@@ -9,7 +9,6 @@ each house is ostensibly headed by a board member, one of the apostles
 each house is primarily composed of shareholders and/or plebians
 
 domains left:
-- food, farming, animal husbandry
 - communications, propaganda, entertainment (24 hours news, films, etc.)
 - vacation destination, resort town, las vegas/costa del sol
 - spirituality, magisterium, priesthood, the majority house of the corporate fellowship (one of the top three)
@@ -21,11 +20,13 @@ domains left:
 - majority indents, a few down on their luck plebians
 ## house malkuth
  - *[[07 miscellaneous/glossary#m\|the kingdom]]*, the lowest house
- - personnel, merchants, the zion better business bureau
+ - food, farming, and animal husbandry
+ - associated city: [[05 places/franchise locations of the empire of zion#bethlehem\|bethlehem]]
 ## house yesod
  - *[[07 miscellaneous/glossary#y\|the foundation]]*
  - infrastructure
 	 - housing, roads, repairs, janitors
+- associated city: [[05 places/franchise locations of the empire of zion#nazareth\|nazareth]]
 ## house hod
 - *[[07 miscellaneous/glossary#h\|the glory]]*
 ## house netzach
@@ -41,7 +42,7 @@ domains left:
 - associated city: [[05 places/franchise locations of the empire of zion#jericho\|jericho]]
 ## house chesed
 - *the mercy*
-- judges, lawyers, etc. the administration of corporate justice
+- judges, lawyers, etc. the administration of corporate justice?
 ## house da'at
 - *the knowledge*
 - the house of secrets
