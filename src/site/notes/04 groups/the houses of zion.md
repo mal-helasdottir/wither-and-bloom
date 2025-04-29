@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-groups/the-houses-of-zion/","created":"2025-03-18T14:57:52.152-05:00","updated":"2025-04-29T12:19:59.975-05:00"}
+{"dg-publish":true,"permalink":"/04-groups/the-houses-of-zion/","created":"2025-03-18T14:57:52.152-05:00","updated":"2025-04-29T12:21:53.055-05:00"}
 ---
 
 # [[04 groups/the houses of zion\|the houses of zion]]
@@ -23,6 +23,7 @@
 - military
 ## house chesed
 - *the mercy*
+- judges, lawyers, etc. the administration of corporate justice
 ## house da'at
 - *the knowledge*
 - the house of secrets
