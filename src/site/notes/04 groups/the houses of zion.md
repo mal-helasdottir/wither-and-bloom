@@ -1,9 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/04-groups/the-houses-of-zion/","created":"2025-03-18T14:57:52.152-05:00","updated":"2025-04-29T12:21:53.055-05:00"}
+{"dg-publish":true,"permalink":"/04-groups/the-houses-of-zion/","created":"2025-03-18T14:57:52.152-05:00","updated":"2025-04-29T13:16:16.058-05:00"}
 ---
 
 # [[04 groups/the houses of zion\|the houses of zion]]
 *in ascending order of political and spiritual influence within the [[04 groups/corporate empire of zion\|empire of zion]]*
+
+domains left:
+- food, farming, animal husbandry
+- communications, propaganda, entertainment
 ## house malkuth
  - *[[07 miscellaneous/glossary#m\|the kingdom]]*, the lowest house
  - personnel, merchants, the zion better business bureau
