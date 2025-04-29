@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-groups/the-houses-of-zion/","created":"2025-03-18T14:57:52.152-05:00","updated":"2025-04-29T13:42:39.231-05:00"}
+{"dg-publish":true,"permalink":"/04-groups/the-houses-of-zion/","created":"2025-03-18T14:57:52.152-05:00","updated":"2025-04-29T13:43:04.805-05:00"}
 ---
 
 # [[04 groups/the houses of zion\|the houses of zion]]
@@ -38,7 +38,7 @@ domains left:
 - associated city: [[05 places/franchise locations of the empire of zion#magdala\|magdala]]
 ## house geburah
 - *the severity*
-- military
+- military, gladiator training, the supplier of bodyguards
 - associated city: [[05 places/franchise locations of the empire of zion#jericho\|jericho]]
 ## house chesed
 - *the mercy*
