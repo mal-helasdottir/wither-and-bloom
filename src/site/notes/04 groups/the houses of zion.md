@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-groups/the-houses-of-zion/","created":"2025-03-18T14:57:52.152-05:00","updated":"2025-04-29T13:32:43.217-05:00"}
+{"dg-publish":true,"permalink":"/04-groups/the-houses-of-zion/","created":"2025-03-18T14:57:52.152-05:00","updated":"2025-04-29T13:33:22.434-05:00"}
 ---
 
 # [[04 groups/the houses of zion\|the houses of zion]]
@@ -47,3 +47,4 @@ domains left:
 ## house kether
 - *the crown*, the house of the ceo, the most powerful house
 	- alternatively the ceo may not have an associated house, which makes the number of houses 12--one for each apostle
+		- in this case it could be the financial house or the house of the fellowship?
