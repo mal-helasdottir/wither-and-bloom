@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-groups/the-houses-of-zion/","created":"2025-03-18T14:57:52.152-05:00","updated":"2025-04-29T15:13:12.913-05:00"}
+{"dg-publish":true,"permalink":"/04-groups/the-houses-of-zion/","created":"2025-03-18T14:57:52.152-05:00","updated":"2025-04-29T15:14:16.728-05:00"}
 ---
 
 # [[04 groups/the houses of zion\|the houses of zion]]
@@ -13,7 +13,7 @@ you can be a member of more than one house
 - majority indents, a few down on their luck shareholders, the disfellowshipped 
 ## house malkuth
  - *[[07 miscellaneous/glossary#m\|the kingdom]]*, the lowest house
- - food, farming, and animal husbandry
+ - food, farming, animal husbandry, mining, fishing, etc. raw resources
  - associated city: [[05 places/franchise locations of the empire of zion#tzipori/zippori/sepphoris\|tzipori/zippori/sepphoris]]
 ## house yesod
  - *[[07 miscellaneous/glossary#y\|the foundation]]*

@@ -1,31 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/05-places/franchise-locations-of-the-empire-of-zion/","created":"2024-08-14T10:54:19.601-05:00","updated":"2025-03-18T15:07:29.948-05:00"}
+{"dg-publish":true,"permalink":"/05-places/franchise-locations-of-the-empire-of-zion/","created":"2024-08-14T10:54:19.601-05:00","updated":"2025-04-29T15:13:48.695-05:00"}
 ---
 
 # franchise locations of the empire of zion
-
-Industry suggestions:
-- intelligence
-- war
-- technology
-- recreation
-- religion
-- education
-- space
-- commerce/trade
-- energy
-- health and human services
-- agriculture
-- administration/government
-- justice
-- construction/manufacture/masonry
-- luxury
-- fishing
-- transportation
-- textiles
-- livestock
-- mining
-- culture
 
 ## jericho
 *zion's military industrial complex*
