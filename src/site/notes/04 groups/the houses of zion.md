@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-groups/the-houses-of-zion/","created":"2025-03-18T14:57:52.152-05:00","updated":"2025-04-29T13:51:01.151-05:00"}
+{"dg-publish":true,"permalink":"/04-groups/the-houses-of-zion/","created":"2025-03-18T14:57:52.152-05:00","updated":"2025-04-29T14:36:36.677-05:00"}
 ---
 
 # [[04 groups/the houses of zion\|the houses of zion]]
@@ -50,10 +50,12 @@ domains left:
 - spies, misinformation, counterintelligence, and re-education
 ## house binah
 - *[[07 miscellaneous/glossary#b\|the understanding]]*
-- medicine, health, hospitals, sepulchers, and graveyards
+- "medicine", health, hospitals, sepulchers, and graveyards
+- research and education for the advancement of flesh shaping, controlled breeding, mutant dissection, and other crimes against the geneva convention
+- this is the house in charge of [[05 places/the gardens\|the gardens]], and by extension [[06 concepts/the prodigy project\|the prodigy project]]
 ## house chokhmah
 - *[[07 miscellaneous/glossary#c\|the wisdom]]*
 ## house kether
-- *[[07 miscellaneous/glossary#k\|the crown]], the house of the ceo, the most powerful house*
-	- alternatively the ceo may not have an associated house, which makes the number of houses 12--one for each apostle
-		- in this case it could be the financial house or the house of the board as a cohesive unit?
+- *[[07 miscellaneous/glossary#k\|the crown]], the most powerful house*
+	- the financial house
+		- debt and asset tracking, wages (or lack thereof), time remaining on indent contracts, perks for the fellowship and some higher ranked shareholders, and paying for all of the aforementioned. whether with coin or other concepts of value
