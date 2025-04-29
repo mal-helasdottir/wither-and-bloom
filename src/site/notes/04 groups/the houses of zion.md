@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-groups/the-houses-of-zion/","created":"2025-03-18T14:57:52.152-05:00","updated":"2025-04-29T14:40:58.517-05:00"}
+{"dg-publish":true,"permalink":"/04-groups/the-houses-of-zion/","created":"2025-03-18T14:57:52.152-05:00","updated":"2025-04-29T14:44:23.025-05:00"}
 ---
 
 # [[04 groups/the houses of zion\|the houses of zion]]
@@ -30,6 +30,8 @@ domains left:
 - associated city: [[05 places/franchise locations of the empire of zion#nazareth\|nazareth]]
 ## house hod
 - *[[07 miscellaneous/glossary#h\|the glory]]*
+- hospitality? the resort town, chintzy and unglamourous
+- associated city: [[05 places/franchise locations of the empire of zion#cana\|cana]]
 ## house netzach
 - *[[07 miscellaneous/glossary#n\|the victory]]*
 ## house tiphareth
@@ -50,7 +52,7 @@ domains left:
 - spies, misinformation, counterintelligence, and re-education
 ## house binah
 - *[[07 miscellaneous/glossary#b\|the understanding]]*
-- "medicine", health, hospitals, sepulchers, and graveyards
+- "medicine", health, hospitals, sepulchers, graveyards
 - research and education for the advancement of flesh shaping, controlled breeding, mutant dissection, and other crimes against the geneva convention
 - this is the house in charge of [[05 places/the gardens\|the gardens]], and by extension [[06 concepts/the prodigy project\|the prodigy project]]
 ## house chokhmah
