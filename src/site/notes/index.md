@@ -66,13 +66,13 @@ wither & bloom is a post apocalyptic biopunk scientific romance written by two l
 { .block-language-dataview}
 
 ## 📌recent pages
-| page                                                                                 | tags                                      | modified time             |
-| ------------------------------------------------------------------------------------ | ----------------------------------------- | ------------------------- |
-| [[00 snippets/firsts\|firsts]]                                                    | <ul><li>#snippet</li><li>#waifu</li></ul> | 11:43 AM - April 29, 2025 |
-| [[04 groups/anunnaki\|anunnaki]]                                                  | <ul></ul>                                 | 12:56 PM - April 24, 2025 |
-| [[05 places/the gardens\|the gardens]]                                            | <ul></ul>                                 | 12:17 PM - April 17, 2025 |
-| [[07 miscellaneous/a list of literary references\|a list of literary references]] | <ul></ul>                                 | 9:33 AM - April 09, 2025  |
-| [[03 people/felix\|felix]]                                                        | <ul></ul>                                 | 8:40 AM - March 25, 2025  |
+| page                                                    | tags                                      | modified time             |
+| ------------------------------------------------------- | ----------------------------------------- | ------------------------- |
+| [[04 groups/the houses of zion\|the houses of zion]] | <ul></ul>                                 | 12:11 PM - April 29, 2025 |
+| [[07 miscellaneous/glossary\|glossary]]              | <ul></ul>                                 | 11:47 AM - April 29, 2025 |
+| [[00 snippets/firsts\|firsts]]                       | <ul><li>#snippet</li><li>#waifu</li></ul> | 11:43 AM - April 29, 2025 |
+| [[04 groups/anunnaki\|anunnaki]]                     | <ul></ul>                                 | 12:56 PM - April 24, 2025 |
+| [[05 places/the gardens\|the gardens]]               | <ul></ul>                                 | 12:17 PM - April 17, 2025 |
 
 { .block-language-dataview}
 
