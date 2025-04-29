@@ -68,7 +68,7 @@ wither & bloom is a post apocalyptic biopunk scientific romance written by two l
 ## 📌recent pages
 | page                                                                | tags                                      | modified time             |
 | ------------------------------------------------------------------- | ----------------------------------------- | ------------------------- |
-| [[04 groups/the houses of zion\|the houses of zion]]             | <ul></ul>                                 | 2:51 PM - April 29, 2025  |
+| [[04 groups/the houses of zion\|the houses of zion]]             | <ul></ul>                                 | 3:01 PM - April 29, 2025  |
 | [[04 groups/corporate empire of zion\|corporate empire of zion]] | <ul></ul>                                 | 1:34 PM - April 29, 2025  |
 | [[07 miscellaneous/glossary\|glossary]]                          | <ul></ul>                                 | 11:47 AM - April 29, 2025 |
 | [[00 snippets/firsts\|firsts]]                                   | <ul><li>#snippet</li><li>#waifu</li></ul> | 11:43 AM - April 29, 2025 |

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-groups/the-houses-of-zion/","created":"2025-03-18T14:57:52.152-05:00","updated":"2025-04-29T14:51:24.131-05:00"}
+{"dg-publish":true,"permalink":"/04-groups/the-houses-of-zion/","created":"2025-03-18T14:57:52.152-05:00","updated":"2025-04-29T15:01:28.338-05:00"}
 ---
 
 # [[04 groups/the houses of zion\|the houses of zion]]
@@ -30,8 +30,8 @@ you can be a member of more than one house
 - associated city: [[05 places/franchise locations of the empire of zion#bethlehem\|bethlehem]]
 ## house tiphareth
 - *[[07 miscellaneous/glossary#t\|the beauty]]*
-- flesh shapers
-- luxury goods
+- flesh shapers (aesthetics)
+- luxury and artisan goods, art, design, etc. the closest thing possible to
 - associated city: [[05 places/franchise locations of the empire of zion#magdala\|magdala]]
 ## house geburah
 - *[[07 miscellaneous/glossary#g\|the severity]]*
@@ -54,6 +54,7 @@ you can be a member of more than one house
 - traditionally, the house of the fellowship
 - the magisterium, the priesthood, structure, doctrine, etc all comes from here.
 - there is also an inquisitorial unit, culled from exemplar members of [[04 groups/the houses of zion#house geburah\|house geburah]]
+- associated city: [[05 places/franchise locations of the empire of zion#bethsaida\|bethsaida]]
 ## house kether
 - *[[07 miscellaneous/glossary#k\|the crown]], the most powerful house*
 	- the financial house
