@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-groups/the-houses-of-zion/","created":"2025-03-18T14:57:52.152-05:00","updated":"2025-04-29T13:26:28.845-05:00"}
+{"dg-publish":true,"permalink":"/04-groups/the-houses-of-zion/","created":"2025-03-18T14:57:52.152-05:00","updated":"2025-04-29T13:28:19.138-05:00"}
 ---
 
 # [[04 groups/the houses of zion\|the houses of zion]]
@@ -15,7 +15,7 @@ domains left:
  - *[[07 miscellaneous/glossary#m\|the kingdom]]*, the lowest house
  - personnel, merchants, the zion better business bureau
 ## house yesod
- - *the foundation*
+ - *[[07 miscellaneous/glossary#y\|the foundation]]*
  - infrastructure
 	 - housing, roads, repairs, janitors
 ## house hod
@@ -25,6 +25,8 @@ domains left:
 ## house tiphareth
 - *the beauty*
 - flesh shapers
+- luxury goods
+- associated city: [[05 places/franchise locations of the empire of zion#magdala\|magdala]]
 ## house geburah
 - *the severity*
 - military
