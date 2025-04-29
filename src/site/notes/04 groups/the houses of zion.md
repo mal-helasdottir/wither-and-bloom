@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-groups/the-houses-of-zion/","created":"2025-03-18T14:57:52.152-05:00","updated":"2025-04-29T13:16:16.058-05:00"}
+{"dg-publish":true,"permalink":"/04-groups/the-houses-of-zion/","created":"2025-03-18T14:57:52.152-05:00","updated":"2025-04-29T13:23:08.927-05:00"}
 ---
 
 # [[04 groups/the houses of zion\|the houses of zion]]
@@ -8,6 +8,8 @@
 domains left:
 - food, farming, animal husbandry
 - communications, propaganda, entertainment
+- vacation destination, resort town, las vegas/costa del sol
+- spirituality, magisterium, priesthood
 ## house malkuth
  - *[[07 miscellaneous/glossary#m\|the kingdom]]*, the lowest house
  - personnel, merchants, the zion better business bureau
@@ -25,6 +27,7 @@ domains left:
 ## house geburah
 - *the severity*
 - military
+- associated city: [[05 places/franchise locations of the empire of zion#jericho\|jericho]]
 ## house chesed
 - *the mercy*
 - judges, lawyers, etc. the administration of corporate justice
