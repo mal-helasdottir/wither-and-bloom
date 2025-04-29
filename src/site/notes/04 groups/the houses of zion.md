@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-groups/the-houses-of-zion/","created":"2025-03-18T14:57:52.152-05:00","updated":"2025-04-29T15:14:16.728-05:00"}
+{"dg-publish":true,"permalink":"/04-groups/the-houses-of-zion/","created":"2025-03-18T14:57:52.152-05:00","updated":"2025-04-29T15:15:05.116-05:00"}
 ---
 
 # [[04 groups/the houses of zion\|the houses of zion]]
@@ -17,8 +17,8 @@ you can be a member of more than one house
  - associated city: [[05 places/franchise locations of the empire of zion#tzipori/zippori/sepphoris\|tzipori/zippori/sepphoris]]
 ## house yesod
  - *[[07 miscellaneous/glossary#y\|the foundation]]*
- - infrastructure?
-	 - housing, roads, repairs, janitors, trashmen, mailmen, liquid night delivery guys
+ - infrastructure, manufacture. the folks who take the stuff of malkuth and change or deliver it to the rest of the empire
+	 - housing, roads, repairs, janitors, trashmen, mailmen, liquid night delivery guys, etc.
 - associated city: [[05 places/franchise locations of the empire of zion#nazareth\|nazareth]]
 ## house hod
 - *[[07 miscellaneous/glossary#h\|the glory]]*
