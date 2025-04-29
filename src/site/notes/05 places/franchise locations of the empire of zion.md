@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-places/franchise-locations-of-the-empire-of-zion/","created":"2024-08-14T10:54:19.601-05:00","updated":"2025-04-29T15:35:24.856-05:00"}
+{"dg-publish":true,"permalink":"/05-places/franchise-locations-of-the-empire-of-zion/","created":"2024-08-14T10:54:19.601-05:00","updated":"2025-04-29T15:47:21.346-05:00"}
 ---
 
 # franchise locations of the empire of zion
@@ -77,15 +77,16 @@
 > - [Jesus](https://en.wikipedia.org/wiki/Jesus "Jesus") spent time teaching and healing there. On a [Sabbath](https://en.wikipedia.org/wiki/Biblical_Sabbath "Biblical Sabbath") day, Jesus taught in the [synagogue](https://en.wikipedia.org/wiki/Synagogue "Synagogue") in Capernaum and healed a man who was possessed by an [unclean spirit](https://en.wikipedia.org/wiki/Devil "Devil") ([Luke 4:31–36](https://bible.oremus.org/?passage=Luke%204:31–36&version=nrsv) and [Mark 1:21–28](https://bible.oremus.org/?passage=Mark%201:21–28&version=nrsv)). This story is notable as the only one that is common to the gospels of [Mark](https://en.wikipedia.org/wiki/Gospel_of_Mark "Gospel of Mark") and [Luke](https://en.wikipedia.org/wiki/Gospel_of_Luke "Gospel of Luke") but not contained in the [Gospel of Matthew](https://en.wikipedia.org/wiki/Gospel_of_Matthew "Gospel of Matthew"). Afterward, Jesus [healed Simon Peter's mother-in-law](https://en.wikipedia.org/wiki/Healing_the_mother_of_Peter%27s_wife "Healing the mother of Peter's wife") of a fever ([Luke 4:38–39](https://bible.oremus.org/?passage=Luke%204:38–39&version=nrsv)). According to [Luke 7:1–10](https://bible.oremus.org/?passage=Luke%207:1–10&version=nrsv) and [Matthew 8:5](https://www.biblegateway.com/passage/?search=Matthew+8:5&version=nkjv), this is also the place where Jesus healed the servant of a Roman [centurion](https://en.wikipedia.org/wiki/Centurion "Centurion") who had asked for his help. Capernaum is the location of the [healing of the paralytic](https://en.wikipedia.org/wiki/Healing_the_paralytic_at_Capernaum "Healing the paralytic at Capernaum") lowered by friends through the roof to reach Jesus, as described in [Mark 2:1–12](https://bible.oremus.org/?passage=Mark%202:1–12&version=nrsv) and [Luke 5:17–26](https://bible.oremus.org/?passage=Luke%205:17–26&version=nrsv)
 ## meggido
 - a place from which is derived the original word for the apocalypse: *armageddon*
-- 
+- in 2023 a bronze age tomb was discovered containing two brothers showing signs of trepanning: ritualistic manipulation of the skull in this case a square hole
 
-> [!INFO] block title goes here
-> content
+> [!INFO]- bible reference
+> - mentioned in revelation as the location of a future final battle between good and evil
+> - old testament records many historical battles at the location
 ## bethsaida
 - the plains nearby may be where the loaves and the fishes happened
 
-> [!INFO] block title goes here
-> content
+> [!INFO]- bible reference
+> - 
 ## emmaus
 
 > [!INFO] block title goes here
@@ -142,4 +143,5 @@
 ---
 ### rejects list
 - gethsemane
+	- a garden, not a city
 - 
