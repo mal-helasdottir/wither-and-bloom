@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-groups/the-houses-of-zion/","created":"2025-03-18T14:57:52.152-05:00","updated":"2025-04-29T13:25:23.943-05:00"}
+{"dg-publish":true,"permalink":"/04-groups/the-houses-of-zion/","created":"2025-03-18T14:57:52.152-05:00","updated":"2025-04-29T13:26:28.845-05:00"}
 ---
 
 # [[04 groups/the houses of zion\|the houses of zion]]
@@ -10,6 +10,7 @@ domains left:
 - communications, propaganda, entertainment
 - vacation destination, resort town, las vegas/costa del sol
 - spirituality, magisterium, priesthood
+- education, higher learning, research
 ## house malkuth
  - *[[07 miscellaneous/glossary#m\|the kingdom]]*, the lowest house
  - personnel, merchants, the zion better business bureau
@@ -34,7 +35,7 @@ domains left:
 ## house da'at
 - *the knowledge*
 - the house of secrets
-- spies, misinformation, and counterintelligence
+- spies, misinformation, counterintelligence, and re-education
 ## house binah
 - *the understanding*
 - medicine, health, hospitals, sepulchers, and graveyards
