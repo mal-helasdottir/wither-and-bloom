@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-groups/the-houses-of-zion/","created":"2025-03-18T14:57:52.152-05:00","updated":"2025-04-29T15:09:04.258-05:00"}
+{"dg-publish":true,"permalink":"/04-groups/the-houses-of-zion/","created":"2025-03-18T14:57:52.152-05:00","updated":"2025-04-29T15:10:56.770-05:00"}
 ---
 
 # [[04 groups/the houses of zion\|the houses of zion]]
@@ -18,7 +18,7 @@ you can be a member of more than one house
 ## house yesod
  - *[[07 miscellaneous/glossary#y\|the foundation]]*
  - infrastructure?
-	 - housing, roads, repairs, janitors
+	 - housing, roads, repairs, janitors, trashmen, mailmen
 - associated city: [[05 places/franchise locations of the empire of zion#nazareth\|nazareth]]
 ## house hod
 - *[[07 miscellaneous/glossary#h\|the glory]]*
