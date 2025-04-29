@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-groups/the-houses-of-zion/","created":"2025-03-18T14:57:52.152-05:00","updated":"2025-04-29T13:39:11.133-05:00"}
+{"dg-publish":true,"permalink":"/04-groups/the-houses-of-zion/","created":"2025-03-18T14:57:52.152-05:00","updated":"2025-04-29T13:40:20.644-05:00"}
 ---
 
 # [[04 groups/the houses of zion\|the houses of zion]]
@@ -10,11 +10,11 @@ each house is primarily composed of shareholders and/or plebians
 
 domains left:
 - food, farming, animal husbandry
-- communications, propaganda, entertainment
+- communications, propaganda, entertainment (24 hours news, films, etc.)
 - vacation destination, resort town, las vegas/costa del sol
-- spirituality, magisterium, priesthood, the majority house of the corporate fellowship
+- spirituality, magisterium, priesthood, the majority house of the corporate fellowship (one of the top three)
 - education, higher learning, research
-- banking, financing, loans, accounting, etc
+- banking, financing, loans, accounting, etc (capitalism makes this one of the most powerful houses, if not the most powerful?)
 
 ## the houseless
 - anyone who doesn't rise to a rank high enough to attain membership within a house
