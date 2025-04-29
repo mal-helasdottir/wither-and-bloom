@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/04-groups/the-houses-of-zion/","created":"2025-03-18T14:57:52.152-05:00","updated":"2025-04-29T13:43:04.805-05:00"}
+{"dg-publish":true,"permalink":"/04-groups/the-houses-of-zion/","created":"2025-03-18T14:57:52.152-05:00","updated":"2025-04-29T13:46:19.392-05:00"}
 ---
 
 # [[04 groups/the houses of zion\|the houses of zion]]
 *in ascending order of political and spiritual influence within the [[04 groups/corporate empire of zion\|empire of zion]]*
 
 each house is ostensibly headed by a board member, one of the apostles
-each house is primarily composed of shareholders and/or plebians
+each house is majority composed of the fellowshipped, shareholders, and some higher ranked (like an honorary degree) indents
 
 domains left:
 - communications, propaganda, entertainment (24 hours news, films, etc.)
@@ -17,7 +17,7 @@ domains left:
 
 ## the houseless
 - anyone who doesn't rise to a rank high enough to attain membership within a house
-- majority indents, a few down on their luck plebians
+- majority indents, a few down on their luck shareholders, the disfellowshipped 
 ## house malkuth
  - *[[07 miscellaneous/glossary#m\|the kingdom]]*, the lowest house
  - food, farming, and animal husbandry
