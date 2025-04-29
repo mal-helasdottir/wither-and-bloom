@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-snippets/firsts/","created":"2025-04-15T11:35:15.046-05:00","updated":"2025-04-29T11:42:36.775-05:00"}
+{"dg-publish":true,"permalink":"/00-snippets/firsts/","created":"2025-04-15T11:35:15.046-05:00","updated":"2025-04-29T11:43:50.043-05:00"}
 ---
 
 # firsts
@@ -80,7 +80,7 @@ felix presses his mouth to hers, softly, tracing his tongue along her plump bott
 
 he doesn't let her go, but then she doesn't pull away either, even as he fishes around in his pocket.
 
-"rogue," she replies, knitting her fingers over the slopes of his shoulders.
+"rogue," she replies, candy clacking against her teeth, fingers knitting over the slopes of his shoulders.
 
 "ya love it though," he says, popping a replacement candy into his mouth.
 
