@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-groups/the-houses-of-zion/","created":"2025-03-18T14:57:52.152-05:00","updated":"2025-04-29T13:46:19.392-05:00"}
+{"dg-publish":true,"permalink":"/04-groups/the-houses-of-zion/","created":"2025-03-18T14:57:52.152-05:00","updated":"2025-04-29T13:51:01.151-05:00"}
 ---
 
 # [[04 groups/the houses of zion\|the houses of zion]]
@@ -7,6 +7,7 @@
 
 each house is ostensibly headed by a board member, one of the apostles
 each house is majority composed of the fellowshipped, shareholders, and some higher ranked (like an honorary degree) indents
+you can be a member of more than one house
 
 domains left:
 - communications, propaganda, entertainment (24 hours news, films, etc.)
@@ -24,7 +25,7 @@ domains left:
  - associated city: [[05 places/franchise locations of the empire of zion#bethlehem\|bethlehem]]
 ## house yesod
  - *[[07 miscellaneous/glossary#y\|the foundation]]*
- - infrastructure
+ - infrastructure?
 	 - housing, roads, repairs, janitors
 - associated city: [[05 places/franchise locations of the empire of zion#nazareth\|nazareth]]
 ## house hod
@@ -37,22 +38,22 @@ domains left:
 - luxury goods
 - associated city: [[05 places/franchise locations of the empire of zion#magdala\|magdala]]
 ## house geburah
-- *the severity*
+- *[[07 miscellaneous/glossary#g\|the severity]]*
 - military, gladiator training, the supplier of bodyguards
 - associated city: [[05 places/franchise locations of the empire of zion#jericho\|jericho]]
 ## house chesed
-- *the mercy*
+- *[[07 miscellaneous/glossary#c\|the mercy]]*
 - judges, lawyers, etc. the administration of corporate justice?
 ## house da'at
-- *the knowledge*
+- *[[07 miscellaneous/glossary#d\|the knowledge]]*
 - the house of secrets
 - spies, misinformation, counterintelligence, and re-education
 ## house binah
-- *the understanding*
+- *[[07 miscellaneous/glossary#b\|the understanding]]*
 - medicine, health, hospitals, sepulchers, and graveyards
-## house chokmah
-- *the wisdom*
+## house chokhmah
+- *[[07 miscellaneous/glossary#c\|the wisdom]]*
 ## house kether
-- *the crown*, the house of the ceo, the most powerful house
+- *[[07 miscellaneous/glossary#k\|the crown]], the house of the ceo, the most powerful house*
 	- alternatively the ceo may not have an associated house, which makes the number of houses 12--one for each apostle
-		- in this case it could be the financial house or the house of the fellowship?
+		- in this case it could be the financial house or the house of the board as a cohesive unit?
