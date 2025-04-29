@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-groups/the-houses-of-zion/","created":"2025-03-18T14:57:52.152-05:00","updated":"2025-04-29T13:28:19.138-05:00"}
+{"dg-publish":true,"permalink":"/04-groups/the-houses-of-zion/","created":"2025-03-18T14:57:52.152-05:00","updated":"2025-04-29T13:32:43.217-05:00"}
 ---
 
 # [[04 groups/the houses of zion\|the houses of zion]]
@@ -11,6 +11,7 @@ domains left:
 - vacation destination, resort town, las vegas/costa del sol
 - spirituality, magisterium, priesthood
 - education, higher learning, research
+- banking, financing, loans, accounting, etc
 ## house malkuth
  - *[[07 miscellaneous/glossary#m\|the kingdom]]*, the lowest house
  - personnel, merchants, the zion better business bureau
@@ -19,11 +20,11 @@ domains left:
  - infrastructure
 	 - housing, roads, repairs, janitors
 ## house hod
-- *the glory*
+- *[[07 miscellaneous/glossary#h\|the glory]]*
 ## house netzach
-- *the victory*
+- *[[07 miscellaneous/glossary#n\|the victory]]*
 ## house tiphareth
-- *the beauty*
+- *[[07 miscellaneous/glossary#t\|the beauty]]*
 - flesh shapers
 - luxury goods
 - associated city: [[05 places/franchise locations of the empire of zion#magdala\|magdala]]
