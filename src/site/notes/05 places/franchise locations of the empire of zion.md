@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-places/franchise-locations-of-the-empire-of-zion/","created":"2024-08-14T10:54:19.601-05:00","updated":"2025-04-29T15:13:48.695-05:00"}
+{"dg-publish":true,"permalink":"/05-places/franchise-locations-of-the-empire-of-zion/","created":"2024-08-14T10:54:19.601-05:00","updated":"2025-04-29T15:18:33.853-05:00"}
 ---
 
 # franchise locations of the empire of zion
@@ -98,10 +98,6 @@
 
 > [!INFO] block title goes here
 > content
-## gethsemane
-
-> [!INFO] block title goes here
-> content
 ## ascalon
 
 > [!INFO] block title goes here
@@ -145,3 +141,5 @@
 
 ---
 ### rejects list
+- gethsemane
+- 

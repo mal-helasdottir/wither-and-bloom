@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-groups/the-houses-of-zion/","created":"2025-03-18T14:57:52.152-05:00","updated":"2025-04-29T15:15:32.313-05:00"}
+{"dg-publish":true,"permalink":"/04-groups/the-houses-of-zion/","created":"2025-03-18T14:57:52.152-05:00","updated":"2025-04-29T15:20:33.611-05:00"}
 ---
 
 # [[04 groups/the houses of zion\|the houses of zion]]
@@ -28,6 +28,7 @@ you can be a member of more than one house
 - *[[07 miscellaneous/glossary#n\|the victory]]*
 - communications, propaganda, 24 hour news, phone networks, radio networks, etc.
 - also responsible for electric power
+- handshakey, wink wink with [[04 groups/the houses of zion#house da'at\|house da'at]]
 - associated city: [[05 places/franchise locations of the empire of zion#bethlehem\|bethlehem]]
 ## house tiphareth
 - *[[07 miscellaneous/glossary#t\|the beauty]]*
@@ -47,6 +48,7 @@ you can be a member of more than one house
 - *[[07 miscellaneous/glossary#d\|the knowledge]]*
 - the house of secrets
 - spies, misinformation, counterintelligence, and re-education
+- handshakey, wink wink with [[04 groups/the houses of zion#house netzach\|house netzach]]
 ## house binah
 - *[[07 miscellaneous/glossary#b\|the understanding]]*
 - "medicine", health, hospitals, sepulchers, graveyards
@@ -57,6 +59,7 @@ you can be a member of more than one house
 - traditionally, the house of the fellowship
 - the magisterium, the priesthood, structure, doctrine, etc all comes from here.
 - there is also an inquisitorial unit, culled from exemplar members of [[04 groups/the houses of zion#house geburah\|house geburah]]
+- has a bitter rivalry with [[04 groups/the houses of zion#house tiphareth\|house tiphareth]]
 - associated city: [[05 places/franchise locations of the empire of zion#bethsaida\|bethsaida]]
 ## house kether
 - *[[07 miscellaneous/glossary#k\|the crown]], the most powerful house*
