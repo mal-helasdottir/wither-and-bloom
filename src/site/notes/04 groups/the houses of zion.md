@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-groups/the-houses-of-zion/","created":"2025-03-18T14:57:52.152-05:00","updated":"2025-04-29T15:06:04.641-05:00"}
+{"dg-publish":true,"permalink":"/04-groups/the-houses-of-zion/","created":"2025-03-18T14:57:52.152-05:00","updated":"2025-04-29T15:09:04.258-05:00"}
 ---
 
 # [[04 groups/the houses of zion\|the houses of zion]]
@@ -40,7 +40,8 @@ you can be a member of more than one house
 - associated city: [[05 places/franchise locations of the empire of zion#jericho\|jericho]]
 ## house chesed
 - *[[07 miscellaneous/glossary#c\|the mercy]]*
-- judges, lawyers, etc. the administration of corporate justice?
+- judges, lawyers, etc. the administration of corporate justice (eg shrink is a crime)
+- human resources, risk management, and corporate security. responsible for loss prevention
 ## house da'at
 - *[[07 miscellaneous/glossary#d\|the knowledge]]*
 - the house of secrets
