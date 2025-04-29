@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/04-groups/the-houses-of-zion/","created":"2025-03-18T14:57:52.152-05:00","updated":"2025-04-29T12:11:06.548-05:00"}
+{"dg-publish":true,"permalink":"/04-groups/the-houses-of-zion/","created":"2025-03-18T14:57:52.152-05:00","updated":"2025-04-29T12:15:25.150-05:00"}
 ---
 
 # [[04 groups/the houses of zion\|the houses of zion]]
 *in ascending order of political and spiritual influence*
 ## house malkuth
  - *the kingdom*, the lowest house
- - personnel
+ - personnel, merchants, the zion better business bureau
 ## house yesod
  - *the foundation*
  - infrastructure
