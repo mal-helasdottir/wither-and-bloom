@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-groups/the-houses-of-zion/","created":"2025-03-18T14:57:52.152-05:00","updated":"2025-04-29T15:15:05.116-05:00"}
+{"dg-publish":true,"permalink":"/04-groups/the-houses-of-zion/","created":"2025-03-18T14:57:52.152-05:00","updated":"2025-04-29T15:15:32.313-05:00"}
 ---
 
 # [[04 groups/the houses of zion\|the houses of zion]]
@@ -22,7 +22,7 @@ you can be a member of more than one house
 - associated city: [[05 places/franchise locations of the empire of zion#nazareth\|nazareth]]
 ## house hod
 - *[[07 miscellaneous/glossary#h\|the glory]]*
-- hospitality? the resort town, chintzy and unglamourous
+- hospitality. tourism. the resort town, chintzy and unglamourous
 - associated city: [[05 places/franchise locations of the empire of zion#cana\|cana]]
 ## house netzach
 - *[[07 miscellaneous/glossary#n\|the victory]]*
