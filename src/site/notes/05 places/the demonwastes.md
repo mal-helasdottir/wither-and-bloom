@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-places/the-demonwastes/","created":"2024-10-28T09:20:59.000-05:00","updated":"2025-02-20T16:10:28.548-06:00"}
+{"dg-publish":true,"permalink":"/05-places/the-demonwastes/","created":"2024-10-28T09:20:59.178-05:00","updated":"2025-02-20T16:10:28.548-06:00"}
 ---
 
 # the demonwastes

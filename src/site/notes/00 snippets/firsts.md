@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-snippets/firsts/","created":"2025-04-15T11:35:15.046-05:00","updated":"2025-04-28T22:37:29.455-05:00"}
+{"dg-publish":true,"permalink":"/00-snippets/firsts/","created":"2025-04-15T11:35:15.046-05:00","updated":"2025-04-29T11:38:29.321-05:00"}
 ---
 
 # firsts
@@ -84,4 +84,4 @@ he doesn't let her go, but then she doesn't pull away either.
 
 "ya love it though," he says, popping a replacement candy into his mouth.
 
-she just watches him, her eyes wide and beautiful under the soft neon shrooms, the colors reflecting back at him like moonbeams on still water.
+she just watches him, thoughtful, her eyes wide and beautiful under the soft neon shrooms, the colors reflecting back at him like moonbeams on still water.
