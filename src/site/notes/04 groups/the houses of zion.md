@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-groups/the-houses-of-zion/","created":"2025-03-18T14:57:52.152-05:00","updated":"2025-04-29T14:44:23.025-05:00"}
+{"dg-publish":true,"permalink":"/04-groups/the-houses-of-zion/","created":"2025-03-18T14:57:52.152-05:00","updated":"2025-04-29T14:51:24.131-05:00"}
 ---
 
 # [[04 groups/the houses of zion\|the houses of zion]]
@@ -8,21 +8,13 @@
 each house is ostensibly headed by a board member, one of the apostles
 each house is majority composed of the fellowshipped, shareholders, and some higher ranked (like an honorary degree) indents
 you can be a member of more than one house
-
-domains left:
-- communications, propaganda, entertainment (24 hours news, films, etc.)
-- vacation destination, resort town, las vegas/costa del sol
-- spirituality, magisterium, priesthood, the majority house of the corporate fellowship (one of the top three)
-- education, higher learning, research
-- banking, financing, loans, accounting, etc (capitalism makes this one of the most powerful houses, if not the most powerful?)
-
 ## the houseless
 - anyone who doesn't rise to a rank high enough to attain membership within a house
 - majority indents, a few down on their luck shareholders, the disfellowshipped 
 ## house malkuth
  - *[[07 miscellaneous/glossary#m\|the kingdom]]*, the lowest house
  - food, farming, and animal husbandry
- - associated city: [[05 places/franchise locations of the empire of zion#bethlehem\|bethlehem]]
+ - associated city: [[05 places/franchise locations of the empire of zion#tzipori/zippori/sepphoris\|tzipori/zippori/sepphoris]]
 ## house yesod
  - *[[07 miscellaneous/glossary#y\|the foundation]]*
  - infrastructure?
@@ -34,6 +26,8 @@ domains left:
 - associated city: [[05 places/franchise locations of the empire of zion#cana\|cana]]
 ## house netzach
 - *[[07 miscellaneous/glossary#n\|the victory]]*
+- communications, propaganda, 24 hour news, phone networks, radio networks, etc.
+- associated city: [[05 places/franchise locations of the empire of zion#bethlehem\|bethlehem]]
 ## house tiphareth
 - *[[07 miscellaneous/glossary#t\|the beauty]]*
 - flesh shapers
@@ -63,5 +57,5 @@ domains left:
 ## house kether
 - *[[07 miscellaneous/glossary#k\|the crown]], the most powerful house*
 	- the financial house
-		- debt and asset tracking, wages (or lack thereof), time remaining on indent contracts, perks for the fellowship and some higher ranked shareholders, and paying for all of the aforementioned. whether with coin or other concepts of value
-			- yes, they are also in the flesh trade
+	- debt and asset tracking, wages (or lack thereof), time remaining on indent contracts, perks for the fellowship and some higher ranked shareholders, banking, financing, loans, accounting, and paying for all of the aforementioned. whether with coin or other concepts of value
+		- yes, they are also in the flesh trade
