@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-places/franchise-locations-of-the-empire-of-zion/","created":"2024-08-14T10:54:19.601-05:00","updated":"2025-04-29T15:59:20.992-05:00"}
+{"dg-publish":true,"permalink":"/05-places/franchise-locations-of-the-empire-of-zion/","created":"2024-08-14T10:54:19.601-05:00","updated":"2025-04-29T16:20:42.633-05:00"}
 ---
 
 # franchise locations of the empire of zion
@@ -100,22 +100,25 @@
 > - a similar event is mentioned in mark but the destination isnt mentioned
 > - nobody actually knows where this place was for certain
 
-## ascalon
-
-> [!INFO] block title goes here
-> content
-## gezer
-
-> [!INFO] block title goes here
-> content
 ## beersheba
+- the old testament is chock full of references. a bfd back in abraham and sarai days
+- i hate this spelling tho. how about be'er sheva? thats the modern spelling
 
-> [!INFO] block title goes here
-> content
+> [!INFO]- bible reference
+> - in the old testament, abraham--originally from mesopotamia--was told by god to leave his home and family to wander in order to found a great nation. this is where he pitched his tent and dug a well in the end
+> - Abraham and his wife Sarah evicted her slave-girl **Hagar** and Hagar’s son Ishmael (fathered by Abraham) to wander in the wilderness. But God promised Hagar he would also make Ishmael’s descendants a great nation. (Genesis 21:8-21)
+> -  It was from Beersheba that **Abraham** journeyed with his son Isaac to Mount Moriah at Jerusalem, where God had ordered him to sacrifice the boy as a burnt offering. (Genesis 22:1-19)
+> - **Isaac**, who built an altar to the Lord at Beersheba, also had a dispute with the Philistines over water, and he too resolved it in a covenant with Abimelech. (Genesis 26:18-31)
+> - Isaac’s son **Jacob** stole the birthright from his brother Esau while the family camped at Beersheba (Genesis 27:1-40). Fleeing from Esau, Jacob had a dream about angels on a ladder reaching up to heaven (Genesis 28:1017)
+> - When the elderly **Israel** (formerly Jacob) was on his way to Egypt, he stopped at Beersheba to offer sacrifice to the God of his father Isaac. God spoke to him “in visions of the night” and encouraged him on his journey. (Genesis 46:1-7)
+
 ## bethel
+- another super popular old testament town
+- the word means "house of god"
 
-> [!INFO] block title goes here
-> content
+> [!INFO]- bible reference
+> - where jacob, fleeing from esau, stopped to take a nap and dreamed of a ladder to heaven thronged with angels. after this vision he anointed his stone pillow and gave the place the name bethel and himself the name israel
+
 ## carmel
 
 > [!INFO] block title goes here
@@ -149,3 +152,5 @@
 	- they have a mosaic i guess
 - ephraim
 	- a dude, who founded one the tribes. hes got a lot of shit named after him
+- ascalon
+- gezer
