@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-groups/corporate-empire-of-zion/","created":"2024-12-27T11:38:49.164-06:00","updated":"2025-04-29T13:18:01.653-05:00"}
+{"dg-publish":true,"permalink":"/04-groups/corporate-empire-of-zion/","created":"2024-12-27T11:38:49.164-06:00","updated":"2025-04-29T13:34:16.914-05:00"}
 ---
 
 # corporate empire of zion
@@ -19,7 +19,7 @@
 2. [[04 groups/the board\|the board]]
 	1. the fellowship upon which the modern fellowship is based
 	2. shareholders in the way that someone who owns a 70% controlling stake and is also chairman, cfo, ceo, cto, coo, etc. is a 'shareholder'. definitely used in their case to describe what we're familiar with, where quarterly profits and infinite growth are more important than human lives or the health of the planet
-	3. indents, bitch please
+	3. indents, bitch please *absolutely not*
 3. [[04 groups/the houses of zion\|the houses]]
 	1. fellowshipped, usually
 	2. shareholders, always
