@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-snippets/firsts/","created":"2025-04-15T11:35:15.046-05:00","updated":"2025-04-28T16:34:29.597-05:00"}
+{"dg-publish":true,"permalink":"/00-snippets/firsts/","created":"2025-04-15T11:35:15.046-05:00","updated":"2025-04-28T22:37:29.455-05:00"}
 ---
 
 # firsts
@@ -75,3 +75,13 @@ he could unwrap one and place it on her tongue with reverence the way the corpos
 or--
 
 felix presses his mouth to hers, softly, tracing his tongue along her plump bottom lip. his thumb caresses the side of her throat where the skin is smoother than silk. she opens to him with a low murmur and the city fades away to nothing as she tentatively curls her tongue against his own. he groans at the intimate stroke, at the weight of her in his arms. then she steals the candy before he has the chance to slip it to her.
+
+"thief," he grumbles, without heat. 
+
+he doesn't let her go, but then she doesn't pull away either. 
+
+"rogue," she replies, knitting her fingers over the slopes of his shoulders.
+
+"ya love it though," he says, popping a replacement candy into his mouth.
+
+she just watches him, her eyes wide and beautiful under the soft neon shrooms, the colors reflecting back at him like moonbeams on still water.

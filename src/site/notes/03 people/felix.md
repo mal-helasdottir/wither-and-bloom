@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-people/felix/","created":"2024-08-08T14:00:17.276-05:00","updated":"2025-03-25T08:40:24.267-05:00"}
+{"dg-publish":true,"permalink":"/03-people/felix/","created":"2024-08-08T14:00:17.000-05:00","updated":"2025-03-25T08:40:24.267-05:00"}
 ---
 
 # felix
