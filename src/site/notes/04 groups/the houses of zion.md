@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-groups/the-houses-of-zion/","created":"2025-03-18T14:57:52.152-05:00","updated":"2025-04-29T15:01:28.338-05:00"}
+{"dg-publish":true,"permalink":"/04-groups/the-houses-of-zion/","created":"2025-03-18T14:57:52.152-05:00","updated":"2025-04-29T15:06:04.641-05:00"}
 ---
 
 # [[04 groups/the houses of zion\|the houses of zion]]
@@ -31,7 +31,8 @@ you can be a member of more than one house
 ## house tiphareth
 - *[[07 miscellaneous/glossary#t\|the beauty]]*
 - flesh shapers (aesthetics)
-- luxury and artisan goods, art, design, etc. the closest thing possible to
+- luxury and artisan goods, art, design, etc. the closest thing possible to a paris salon in a hypercapitalist fascistic hellscape
+- has a bitter rivalry with [[04 groups/the houses of zion#house chokhmah\|house chokhmah]]
 - associated city: [[05 places/franchise locations of the empire of zion#magdala\|magdala]]
 ## house geburah
 - *[[07 miscellaneous/glossary#g\|the severity]]*
