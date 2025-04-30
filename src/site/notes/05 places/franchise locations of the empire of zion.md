@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-places/franchise-locations-of-the-empire-of-zion/","created":"2024-08-14T10:54:19.601-05:00","updated":"2025-04-29T16:20:42.633-05:00"}
+{"dg-publish":true,"permalink":"/05-places/franchise-locations-of-the-empire-of-zion/","created":"2024-08-14T10:54:19.601-05:00","updated":"2025-04-29T16:53:49.411-05:00"}
 ---
 
 # franchise locations of the empire of zion
@@ -118,19 +118,20 @@
 
 > [!INFO]- bible reference
 > - where jacob, fleeing from esau, stopped to take a nap and dreamed of a ladder to heaven thronged with angels. after this vision he anointed his stone pillow and gave the place the name bethel and himself the name israel
+> - originally the royal seat of the caananites, given to the tribe of benjamin after it was captured
 
 ## carmel
+- mount carmel, symbolically used to denote beauty and fertility
+- at the western edge of Mount Carmel is Stella Maris Monastery, the world headquarters of the **Carmelites**, a Catholic religious order. (nuns and friars)
 
-> [!INFO] block title goes here
-> content
-## nob
+> [!INFO]- bible reference
+> - the location for elijah's contest against the baal worshippers and the site of his victory. he called down fire from the sky: 1 Kings 18:1-40
 
-> [!INFO] block title goes here
-> content
 ## shiloh
+- another word for the messiah [link](https://christiananswers.net/dictionary/shiloh.html)
 
-> [!INFO] block title goes here
-> content
+> [!INFO]- bible reference
+> - the spiritual capital of the ancient israelites for 300 years, housing the tabernacle and the ark of the covenant, before those holy relics were lost to the philistines [link](https://christiananswers.net/dictionary/tabernacle.html#THE_HOLY_TABERNACLE)
 ## gennesaret
 
 > [!INFO] block title goes here
@@ -154,3 +155,5 @@
 	- a dude, who founded one the tribes. hes got a lot of shit named after him
 - ascalon
 - gezer
+- nob
+- 
