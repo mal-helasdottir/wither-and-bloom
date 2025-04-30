@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","title":"index","hide":true,"hideInGraph":true,"tags":["gardenEntry"],"created":"2024-08-07T09:02:57.000-05:00","updated":"2025-04-30T11:15:28.378-05:00"}
+{"dg-publish":true,"permalink":"/index/","title":"index","hide":true,"hideInGraph":true,"tags":["gardenEntry"],"created":"2024-08-07T09:02:57.000-05:00","updated":"2025-04-30T11:26:14.889-05:00"}
 ---
 
 # welcome!
@@ -8,6 +8,11 @@ wither & bloom is a post apocalyptic biopunk scientific romance written by two l
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0Y85LN2fvUb18sDXcLoc1m?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ---
+<html>
+<head>
+<style>
+<body>
+<div class="span">
 --- multi-column-start: contents\
 ```column-settings
 number of columns: 3
@@ -49,6 +54,12 @@ title: 🗺️ places
 ```
 
 ---multi-column-end
+</div>
+</body>
+</style>
+</head>
+</html>
+
 <html> 
 <head> <style> { box-sizing: border-box; } /* Set additional styling options for the columns*/ .column { float: left; width: 50%; } .row:after { content: ""; display: table; clear: both; } </style> </head> 
 <body> 
@@ -170,7 +181,7 @@ title:  ✂️ recent snippets
 ## 📌recent pages
 | page                                                                                                  | tags      | modified time             |
 | ----------------------------------------------------------------------------------------------------- | --------- | ------------------------- |
-| [[index\|index]]                                                                                   | <ul></ul> | 11:15 AM - April 30, 2025 |
+| [[index\|index]]                                                                                   | <ul></ul> | 11:26 AM - April 30, 2025 |
 | [[05 places/franchise locations of the empire of zion\|franchise locations of the empire of zion]] | <ul></ul> | 4:53 PM - April 29, 2025  |
 | [[04 groups/the houses of zion\|the houses of zion]]                                               | <ul></ul> | 3:20 PM - April 29, 2025  |
 | [[04 groups/corporate empire of zion\|corporate empire of zion]]                                   | <ul></ul> | 1:34 PM - April 29, 2025  |
