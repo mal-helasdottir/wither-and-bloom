@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","title":"index","hide":true,"hideInGraph":true,"tags":["gardenEntry"],"created":"2024-08-07T09:02:57.000-05:00","updated":"2025-04-30T13:54:34.841-05:00"}
+{"dg-publish":true,"permalink":"/index/","title":"index","hide":true,"hideInGraph":true,"tags":["gardenEntry"],"created":"2024-08-07T09:02:57.000-05:00","updated":"2025-04-30T14:01:42.334-05:00"}
 ---
 
 # welcome!
@@ -7,28 +7,26 @@ wither & bloom is a post apocalyptic biopunk scientific romance written by two l
 
 ---
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0Y85LN2fvUb18sDXcLoc1m?utm_source=generator" width="100%" height="325" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0Y85LN2fvUb18sDXcLoc1m?utm_source=generator" width="100%" height="325" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy">
+</iframe>
 ---
 
 ## 📌recent page changes
 | page                                                                                                  | tags      | modified time             |
 | ----------------------------------------------------------------------------------------------------- | --------- | ------------------------- |
-| [[index\|index]]                                                                                   | <ul></ul> | 1:54 PM - April 30, 2025  |
+| [[index\|index]]                                                                                   | <ul></ul> | 2:01 PM - April 30, 2025  |
 | [[05 places/franchise locations of the empire of zion\|franchise locations of the empire of zion]] | <ul></ul> | 4:53 PM - April 29, 2025  |
 | [[04 groups/the houses of zion\|the houses of zion]]                                               | <ul></ul> | 3:20 PM - April 29, 2025  |
 | [[04 groups/corporate empire of zion\|corporate empire of zion]]                                   | <ul></ul> | 1:34 PM - April 29, 2025  |
 | [[07 miscellaneous/glossary\|glossary]]                                                            | <ul></ul> | 11:47 AM - April 29, 2025 |
 
 { .block-language-dataview}
-
 ## ✂️recent snippets
 ``` dataview
 LIST FROM #snippet
 SORT file.ctime DESC
 LIMIT 5 
 ```
-
 >[!starred-red]- 🏰 a history of the world
 > - [[02 history/Rough Timeline\|rough timeline]]
 >- [[02 history/the revelation\|the revelation]]
@@ -81,12 +79,11 @@ LIMIT 5
 >- [[06 concepts/cannibalism\|cannibalism]]
 >- [[06 concepts/indentured servitude\|indentured servitude]]
 
->[!starred-purple] 📌recent pages in which we flesh out the world
-```DATAVIEW
+##  📌recent pages in which we flesh out the world
+
+``` DATAVIEW
 TABLE file.title AS "page", file.mtime AS "modified time"
 FROM "07 miscellaneous"
 SORT file.mtime DESC
 limit 5
 ```
-
-
