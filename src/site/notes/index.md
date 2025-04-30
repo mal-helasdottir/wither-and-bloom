@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","title":"index","hide":true,"hideInGraph":true,"tags":["gardenEntry"],"created":"2024-08-07T09:02:57.000-05:00","updated":"2025-04-30T14:16:19.929-05:00"}
+{"dg-publish":true,"permalink":"/index/","title":"index","hide":true,"hideInGraph":true,"tags":["gardenEntry"],"created":"2024-08-07T09:02:57.000-05:00","updated":"2025-04-30T14:18:53.983-05:00"}
 ---
 
 # welcome!
@@ -9,7 +9,7 @@ wither & bloom is a post apocalyptic biopunk scientific romance written by two l
 ## 📌recent page changes
 | page                                                                                                  | tags      | modified time             |
 | ----------------------------------------------------------------------------------------------------- | --------- | ------------------------- |
-| [[index\|index]]                                                                                   | <ul></ul> | 2:16 PM - April 30, 2025  |
+| [[index\|index]]                                                                                   | <ul></ul> | 2:18 PM - April 30, 2025  |
 | [[05 places/franchise locations of the empire of zion\|franchise locations of the empire of zion]] | <ul></ul> | 4:53 PM - April 29, 2025  |
 | [[04 groups/the houses of zion\|the houses of zion]]                                               | <ul></ul> | 3:20 PM - April 29, 2025  |
 | [[04 groups/corporate empire of zion\|corporate empire of zion]]                                   | <ul></ul> | 1:34 PM - April 29, 2025  |
@@ -24,7 +24,7 @@ SORT file.ctime DESC
 LIMIT 5 
 ```
 
----
+
 >[!starred-red]- 🏰 a history of the world
 > - [[02 history/Rough Timeline\|rough timeline]]
 >- [[02 history/the revelation\|the revelation]]
