@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","title":"index","hide":true,"hideInGraph":true,"tags":["gardenEntry"],"created":"2024-08-07T09:02:57.000-05:00","updated":"2025-04-30T11:13:18.540-05:00"}
+{"dg-publish":true,"permalink":"/index/","title":"index","hide":true,"hideInGraph":true,"tags":["gardenEntry"],"created":"2024-08-07T09:02:57.000-05:00","updated":"2025-04-30T11:15:28.378-05:00"}
 ---
 
 # welcome!
@@ -81,6 +81,8 @@ title: 👫characters
 ```
 
 </p> </div> 
+</div>
+<div class="row"> 
 <div class="column" style="background-color:yellow;"> 
 <p>
 
@@ -95,8 +97,6 @@ title: 🗺️ places
 ```
 
 </p> </div> 
-</div> 
-<div class="row"> 
 <div class="column" style="background-color:green;"> 
 <p>
 
@@ -117,6 +117,8 @@ title: 🖇️ groups
 ``` 
 
 </p> </div> 
+</div>
+<div class="row"> 
 <div class="column" style="background-color:blue;"> 
 <p>
 
@@ -168,7 +170,7 @@ title:  ✂️ recent snippets
 ## 📌recent pages
 | page                                                                                                  | tags      | modified time             |
 | ----------------------------------------------------------------------------------------------------- | --------- | ------------------------- |
-| [[index\|index]]                                                                                   | <ul></ul> | 11:13 AM - April 30, 2025 |
+| [[index\|index]]                                                                                   | <ul></ul> | 11:15 AM - April 30, 2025 |
 | [[05 places/franchise locations of the empire of zion\|franchise locations of the empire of zion]] | <ul></ul> | 4:53 PM - April 29, 2025  |
 | [[04 groups/the houses of zion\|the houses of zion]]                                               | <ul></ul> | 3:20 PM - April 29, 2025  |
 | [[04 groups/corporate empire of zion\|corporate empire of zion]]                                   | <ul></ul> | 1:34 PM - April 29, 2025  |
