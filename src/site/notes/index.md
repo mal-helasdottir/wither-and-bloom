@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","title":"index","hide":true,"hideInGraph":true,"tags":["gardenEntry"],"created":"2024-08-07T09:02:57.000-05:00","updated":"2025-04-30T11:40:56.915-05:00"}
+{"dg-publish":true,"permalink":"/index/","title":"index","hide":true,"hideInGraph":true,"tags":["gardenEntry"],"created":"2024-08-07T09:02:57.000-05:00","updated":"2025-04-30T11:53:30.979-05:00"}
 ---
 
 # welcome!
@@ -11,6 +11,7 @@ wither & bloom is a post apocalyptic biopunk scientific romance written by two l
 ```ad-history 
 title: 🏰 history
 collapse: closed
+color: rgb(223, 90, 90)
 - [[Rough Timeline|rough timeline]]
 - [[the revelation]]
 - [[the restoration]]
@@ -22,6 +23,7 @@ collapse: closed
 ```ad-characters
 title: 👫characters
 collapse: closed
+color :rgb(231, 130, 63)
 - [[violet]]
 - [[felix]]
 - [[rose]]
@@ -33,6 +35,7 @@ collapse: closed
  ```ad-places
 title: 🗺️ places
 collapse: closed
+color: rgb(248, 197, 46)
 - [[the most holy city of imperial zion]]
 - [[franchise locations of the empire of zion]]
 - [[Frontier and Mute Towns]]
@@ -44,6 +47,7 @@ collapse: closed
 ```ad-groups
 title: 🖇️ groups
 collapse: closed
+color: rgb(87, 185, 132)
 - [[acolytes of the infinite pattern]]
 - [[the brotherhood of gnosis]]
 - [[the corporate fellowship]]
@@ -61,6 +65,7 @@ collapse: closed
 ```ad-lore
 title: 📖 lore concepts
 collapse: closed
+color: rgb(99, 164, 198)
 - [[wither and bloom|wither/bloom]]
 - [[liquid dark]]
 - [[the forging of metals|forging metal]]
@@ -78,6 +83,7 @@ collapse: closed
 ```ad-snippets
 title:  ✂️ recent snippets
 collapse: closed
+color: rgb(135, 106, 193)
 - [[00 snippets/firsts\|firsts]]
 - [[00 snippets/morning routine\|morning routine]]
 - [[00 snippets/in the beginning\|in the beginning]]
@@ -104,7 +110,7 @@ title: 📌recent pages
 collapse: closed
 | page                                                                                                  | tags      | modified time             |
 | ----------------------------------------------------------------------------------------------------- | --------- | ------------------------- |
-| [[index.md\|index]]                                                                                   | <ul></ul> | 11:40 AM - April 30, 2025 |
+| [[index.md\|index]]                                                                                   | <ul></ul> | 11:53 AM - April 30, 2025 |
 | [[05 places/franchise locations of the empire of zion.md\|franchise locations of the empire of zion]] | <ul></ul> | 4:53 PM - April 29, 2025  |
 | [[04 groups/the houses of zion.md\|the houses of zion]]                                               | <ul></ul> | 3:20 PM - April 29, 2025  |
 | [[04 groups/corporate empire of zion.md\|corporate empire of zion]]                                   | <ul></ul> | 1:34 PM - April 29, 2025  |
