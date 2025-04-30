@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-snippets/firsts/","created":"2025-04-15T11:35:15.046-05:00","updated":"2025-04-29T11:43:50.043-05:00"}
+{"dg-publish":true,"permalink":"/00-snippets/firsts/","created":"2025-04-15T11:35:15.046-05:00","updated":"2025-04-30T15:37:00.245-05:00"}
 ---
 
 # firsts
@@ -85,3 +85,27 @@ he doesn't let her go, but then she doesn't pull away either, even as he fishes 
 "ya love it though," he says, popping a replacement candy into his mouth.
 
 she just watches him, thoughtful, her eyes wide and beautiful under the soft neon shrooms, the colors reflecting back at him like moonbeams on still water.
+
+he lets the silence hang in the air, interested to see what she does with the reins in her hands.
+
+"kiss me again, felix," she breathes and her voice is so soft and sweet he cannot help but oblige.
+
+once.
+
+twice.
+
+more.
+
+now that he's started he can't stop. the taste of her is liquid night and the headiest absynth. his kisses turn frantic, heavy, greedy, as though he needs his mouth against her to live. his heart flutters as she responds in kind for every groan and every murmur and sigh. he's panting hard, but so is she. her fingers locked into his messy hair. his hands skimming along the curves of her backside.
+
+he wants her close. wants to make her his. wants --
+
+"felix," she manages. 
+
+he places more kisses along the side of her throat as he waits.
+
+"i need you," she says, words ending in a whimper that electrifies his entire body. "i need you to touch me. i need you to--"
+
+another kiss, this time to quiet her.
+
+"sure," he says, leading her by the hand away from the festival and towards the quiet of the rest park. "anythin' ya need." she pads close behind and he pauses for yet another touch of her lips on his own. he's shocked and horrified he managed to live this long without kissing violet senseless. if that can even be called *living*.  "anythin' ya want buttercup. it's yours."
