@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","title":"index","hide":true,"hideInGraph":true,"tags":["gardenEntry"],"created":"2024-08-07T09:02:57.000-05:00","updated":"2025-04-30T10:59:13.073-05:00"}
+{"dg-publish":true,"permalink":"/index/","title":"index","hide":true,"hideInGraph":true,"tags":["gardenEntry"],"created":"2024-08-07T09:02:57.000-05:00","updated":"2025-04-30T11:04:22.675-05:00"}
 ---
 
 # welcome!
@@ -55,6 +55,7 @@ title: 🗺️ places
 <div class="row"> 
 <div class="column" style="background-color:red;"> 
 <p>
+
 ```ad-history 
 title: 🏰 history
 - [[Rough Timeline|rough timeline]]
@@ -64,9 +65,11 @@ title: 🏰 history
 - [[glossary|vocabulary]] you might need to know
 - [[a list of literary references]] to assist in coming up with names for things
 ``` 
+
 </p> </div> 
 <div class="column" style="background-color:orange;"> 
 <p>
+
 ```ad-characters
 title: 👫characters
 - [[violet]]
@@ -76,6 +79,7 @@ title: 👫characters
 - [[the ceo]]
 - [[cid]]
 ```
+
 </p> </div> 
 </div> 
 </body> 
@@ -93,7 +97,7 @@ title: 👫characters
 ## 📌recent pages
 | page                                                                                                  | tags      | modified time             |
 | ----------------------------------------------------------------------------------------------------- | --------- | ------------------------- |
-| [[index\|index]]                                                                                   | <ul></ul> | 10:59 AM - April 30, 2025 |
+| [[index\|index]]                                                                                   | <ul></ul> | 11:04 AM - April 30, 2025 |
 | [[05 places/franchise locations of the empire of zion\|franchise locations of the empire of zion]] | <ul></ul> | 4:53 PM - April 29, 2025  |
 | [[04 groups/the houses of zion\|the houses of zion]]                                               | <ul></ul> | 3:20 PM - April 29, 2025  |
 | [[04 groups/corporate empire of zion\|corporate empire of zion]]                                   | <ul></ul> | 1:34 PM - April 29, 2025  |
