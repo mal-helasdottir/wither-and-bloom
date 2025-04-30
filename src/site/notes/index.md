@@ -1,13 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/index/","title":"index","hide":true,"hideInGraph":true,"tags":["gardenEntry"],"created":"2024-08-07T09:02:57.000-05:00","updated":"2025-04-30T12:02:23.960-05:00"}
+{"dg-publish":true,"permalink":"/index/","title":"index","hide":true,"hideInGraph":true,"tags":["gardenEntry"],"created":"2024-08-07T09:02:57.000-05:00","updated":"2025-04-30T12:06:37.330-05:00"}
 ---
 
 # welcome!
 wither & bloom is a post apocalyptic biopunk scientific romance written by two librarians.
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0Y85LN2fvUb18sDXcLoc1m?utm_source=generator" width="100%" height="200px" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
----
-
 
 ```ad-history 
 title: 🏰 history
@@ -99,10 +97,6 @@ color: rgb(135, 106, 193)
 
 { .block-language-dataview}
 
-
----
-
-
 ```ad-quote
 title: 📌some misc pages in which we flesh out the world
 collapse: closed
@@ -119,7 +113,7 @@ title: 📌recent pages
 collapse: closed
 | page                                                                                                  | tags      | modified time             |
 | ----------------------------------------------------------------------------------------------------- | --------- | ------------------------- |
-| [[index.md\|index]]                                                                                   | <ul></ul> | 12:02 PM - April 30, 2025 |
+| [[index.md\|index]]                                                                                   | <ul></ul> | 12:06 PM - April 30, 2025 |
 | [[05 places/franchise locations of the empire of zion.md\|franchise locations of the empire of zion]] | <ul></ul> | 4:53 PM - April 29, 2025  |
 | [[04 groups/the houses of zion.md\|the houses of zion]]                                               | <ul></ul> | 3:20 PM - April 29, 2025  |
 | [[04 groups/corporate empire of zion.md\|corporate empire of zion]]                                   | <ul></ul> | 1:34 PM - April 29, 2025  |
