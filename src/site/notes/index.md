@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","title":"index","hide":true,"hideInGraph":true,"tags":["gardenEntry"],"created":"2024-08-07T09:02:57.000-05:00","updated":"2025-04-30T10:37:07.431-05:00"}
+{"dg-publish":true,"permalink":"/index/","title":"index","hide":true,"hideInGraph":true,"tags":["gardenEntry"],"created":"2024-08-07T09:02:57.000-05:00","updated":"2025-04-30T10:38:51.954-05:00"}
 ---
 
 # welcome!
@@ -51,9 +51,8 @@ title: 🗺️ places
 ---multi-column-end
 
 
-| ## 🏰 history<br>- [[02 history/Rough Timeline\|rough timeline]]<br>- [[the revelation]]<br>- [[the restoration]]<br>- [[the playlist]] for vibes<br>- [[07 miscellaneous/glossary\|vocabulary]] you might need to know<br>- [[a list of literary references]] to assist in coming up with names for things | ## 👫characters<br>- [[violet]]<br>- [[felix]]<br>- [[rose]]<br>- [[03 people/The Diminished One\|roswell the cat]]<br>- [[the ceo]]<br>- [[cid]] |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
-|                                                                                                                                                                                                                                                                                 |                                                                                                                                         |
+|  ## 🏰 history<br> - [[02 history/Rough Timeline\|rough timeline]]<br> - [[the revelation]]<br> - [[the restoration]]<br> - [[the playlist]] for vibes<br> - [[07 miscellaneous/glossary\|vocabulary]] you might need to know<br> - [[a list of literary references]] to assist in coming up with names for things   | ## 👫characters<br>- [[violet]]<br>- [[felix]]<br>- [[rose]]<br>- [[03 people/The Diminished One\|roswell the cat]]<br>- [[the ceo]]<br>- [[cid]] |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |                                                                                                                                                                                                                                                                                             |                                                                                                                                         |
 
 
 ## 📌some misc pages in which we flesh out the world
@@ -68,7 +67,7 @@ title: 🗺️ places
 ## 📌recent pages
 | page                                                                                                  | tags      | modified time             |
 | ----------------------------------------------------------------------------------------------------- | --------- | ------------------------- |
-| [[index\|index]]                                                                                   | <ul></ul> | 10:37 AM - April 30, 2025 |
+| [[index\|index]]                                                                                   | <ul></ul> | 10:38 AM - April 30, 2025 |
 | [[05 places/franchise locations of the empire of zion\|franchise locations of the empire of zion]] | <ul></ul> | 4:53 PM - April 29, 2025  |
 | [[04 groups/the houses of zion\|the houses of zion]]                                               | <ul></ul> | 3:20 PM - April 29, 2025  |
 | [[04 groups/corporate empire of zion\|corporate empire of zion]]                                   | <ul></ul> | 1:34 PM - April 29, 2025  |
