@@ -1,16 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/index/","title":"index","hide":true,"hideInGraph":true,"tags":["gardenEntry"],"created":"2024-08-07T09:02:57.000-05:00","updated":"2025-04-30T11:36:04.150-05:00"}
+{"dg-publish":true,"permalink":"/index/","title":"index","hide":true,"hideInGraph":true,"tags":["gardenEntry"],"created":"2024-08-07T09:02:57.000-05:00","updated":"2025-04-30T11:40:56.915-05:00"}
 ---
 
 # welcome!
 wither & bloom is a post apocalyptic biopunk scientific romance written by two librarians.
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0Y85LN2fvUb18sDXcLoc1m?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0Y85LN2fvUb18sDXcLoc1m?utm_source=generator" width="50%" height="200px" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ---
 
 ```ad-history 
 title: 🏰 history
+collapse: closed
 - [[Rough Timeline|rough timeline]]
 - [[the revelation]]
 - [[the restoration]]
@@ -21,6 +21,7 @@ title: 🏰 history
 
 ```ad-characters
 title: 👫characters
+collapse: closed
 - [[violet]]
 - [[felix]]
 - [[rose]]
@@ -31,6 +32,7 @@ title: 👫characters
 
  ```ad-places
 title: 🗺️ places
+collapse: closed
 - [[the most holy city of imperial zion]]
 - [[franchise locations of the empire of zion]]
 - [[Frontier and Mute Towns]]
@@ -41,6 +43,7 @@ title: 🗺️ places
 
 ```ad-groups
 title: 🖇️ groups
+collapse: closed
 - [[acolytes of the infinite pattern]]
 - [[the brotherhood of gnosis]]
 - [[the corporate fellowship]]
@@ -57,6 +60,7 @@ title: 🖇️ groups
 
 ```ad-lore
 title: 📖 lore concepts
+collapse: closed
 - [[wither and bloom|wither/bloom]]
 - [[liquid dark]]
 - [[the forging of metals|forging metal]]
@@ -73,6 +77,7 @@ title: 📖 lore concepts
 
 ```ad-snippets
 title:  ✂️ recent snippets
+collapse: closed
 - [[00 snippets/firsts\|firsts]]
 - [[00 snippets/morning routine\|morning routine]]
 - [[00 snippets/in the beginning\|in the beginning]]
@@ -85,6 +90,7 @@ title:  ✂️ recent snippets
 
 ```ad-quote
 title: 📌some misc pages in which we flesh out the world
+collapse: closed
 | page                                             | modified time                |
 | ------------------------------------------------ | ---------------------------- |
 | [[07 miscellaneous/mugwort\|mugwort]]         | 10:03 AM - December 30, 2024 |
@@ -95,9 +101,10 @@ title: 📌some misc pages in which we flesh out the world
 
 ```ad-quote
 title: 📌recent pages
+collapse: closed
 | page                                                                                                  | tags      | modified time             |
 | ----------------------------------------------------------------------------------------------------- | --------- | ------------------------- |
-| [[index.md\|index]]                                                                                   | <ul></ul> | 11:36 AM - April 30, 2025 |
+| [[index.md\|index]]                                                                                   | <ul></ul> | 11:40 AM - April 30, 2025 |
 | [[05 places/franchise locations of the empire of zion.md\|franchise locations of the empire of zion]] | <ul></ul> | 4:53 PM - April 29, 2025  |
 | [[04 groups/the houses of zion.md\|the houses of zion]]                                               | <ul></ul> | 3:20 PM - April 29, 2025  |
 | [[04 groups/corporate empire of zion.md\|corporate empire of zion]]                                   | <ul></ul> | 1:34 PM - April 29, 2025  |
@@ -107,6 +114,7 @@ title: 📌recent pages
 
 ```ad-quote
 title: ✂️recent snippets
+collapse: closed
 - [[00 snippets/firsts.md|firsts]]
 - [[00 snippets/morning routine.md|morning routine]]
 - [[00 snippets/in the beginning.md|in the beginning]]
