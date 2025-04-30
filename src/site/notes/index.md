@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","title":"index","hide":true,"hideInGraph":true,"tags":["gardenEntry"],"created":"2024-08-07T09:02:57.000-05:00","updated":"2025-04-30T10:52:03.001-05:00"}
+{"dg-publish":true,"permalink":"/index/","title":"index","hide":true,"hideInGraph":true,"tags":["gardenEntry"],"created":"2024-08-07T09:02:57.000-05:00","updated":"2025-04-30T10:54:21.183-05:00"}
 ---
 
 # welcome!
@@ -49,17 +49,8 @@ title: 🗺️ places
 ```
 
 ---multi-column-end
+<html> <head> <style> { box-sizing: border-box; } /* Set additional styling options for the columns*/ .column { float: left; width: 50%; } .row:after { content: ""; display: table; clear: both; } </style> </head> <body> <div class="row"> <div class="column" style="background-color:#FFB695;"> <h2>Column 1</h2> <p>Data..</p> </div> <div class="column" style="background-color:#96D1CD;"> <h2>Column 2</h2> <p>Data..</p> </div> </div> </body> </html>
 
- <div class="row">
-        <div class="column" style="background-color:#FFB695;">
-            <h2>Column 1</h2>
-            <p>Data..</p>
-        </div>
-        <div class="column" style="background-color:#96D1CD;">
-            <h2>Column 2</h2>
-            <p>Data..</p>
-        </div>
-    </div>
 ## 📌some misc pages in which we flesh out the world
 | page                                             | modified time                |
 | ------------------------------------------------ | ---------------------------- |
@@ -72,7 +63,7 @@ title: 🗺️ places
 ## 📌recent pages
 | page                                                                                                  | tags      | modified time             |
 | ----------------------------------------------------------------------------------------------------- | --------- | ------------------------- |
-| [[index\|index]]                                                                                   | <ul></ul> | 10:52 AM - April 30, 2025 |
+| [[index\|index]]                                                                                   | <ul></ul> | 10:54 AM - April 30, 2025 |
 | [[05 places/franchise locations of the empire of zion\|franchise locations of the empire of zion]] | <ul></ul> | 4:53 PM - April 29, 2025  |
 | [[04 groups/the houses of zion\|the houses of zion]]                                               | <ul></ul> | 3:20 PM - April 29, 2025  |
 | [[04 groups/corporate empire of zion\|corporate empire of zion]]                                   | <ul></ul> | 1:34 PM - April 29, 2025  |
