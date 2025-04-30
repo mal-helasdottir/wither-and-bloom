@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","title":"index","hide":true,"hideInGraph":true,"tags":["gardenEntry"],"created":"2024-08-07T09:02:57.000-05:00","updated":"2025-04-30T09:26:06.633-05:00"}
+{"dg-publish":true,"permalink":"/index/","title":"index","hide":true,"hideInGraph":true,"tags":["gardenEntry"],"created":"2024-08-07T09:02:57.000-05:00","updated":"2025-04-30T10:37:07.431-05:00"}
 ---
 
 # welcome!
@@ -17,23 +17,23 @@ border: disabled
 ```ad-history 
 title: 🏰 history
 - [[Rough Timeline|rough timeline]]
-- [[the revelation]]
-- [[the restoration]]
-- [[the playlist]] for vibes
+- [[02 history/the revelation\|the revelation]]
+- [[02 history/the restoration\|the restoration]]
+- [[02 history/the playlist\|the playlist]] for vibes
 - [[glossary|vocabulary]] you might need to know
-- [[a list of literary references]] to assist in coming up with names for things
+- [[07 miscellaneous/a list of literary references\|a list of literary references]] to assist in coming up with names for things
 ``` 
 
 --- end-column ---
 
 ```ad-characters
 title: 👫characters
-- [[violet]]
-- [[felix]]
-- [[rose]]
+- [[03 people/violet\|violet]]
+- [[03 people/felix\|felix]]
+- [[03 people/rose\|rose]]
 - [[The Diminished One|roswell the cat]]
-- [[the ceo]]
-- [[cid]]
+- [[03 people/the ceo\|the ceo]]
+- [[03 people/cid\|cid]]
 ```
 
 --- end-column ---
@@ -50,6 +50,12 @@ title: 🗺️ places
 
 ---multi-column-end
 
+
+| ## 🏰 history<br>- [[02 history/Rough Timeline\|rough timeline]]<br>- [[the revelation]]<br>- [[the restoration]]<br>- [[the playlist]] for vibes<br>- [[07 miscellaneous/glossary\|vocabulary]] you might need to know<br>- [[a list of literary references]] to assist in coming up with names for things | ## 👫characters<br>- [[violet]]<br>- [[felix]]<br>- [[rose]]<br>- [[03 people/The Diminished One\|roswell the cat]]<br>- [[the ceo]]<br>- [[cid]] |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+|                                                                                                                                                                                                                                                                                 |                                                                                                                                         |
+
+
 ## 📌some misc pages in which we flesh out the world
 | page                                             | modified time                |
 | ------------------------------------------------ | ---------------------------- |
@@ -62,7 +68,7 @@ title: 🗺️ places
 ## 📌recent pages
 | page                                                                                                  | tags      | modified time             |
 | ----------------------------------------------------------------------------------------------------- | --------- | ------------------------- |
-| [[index\|index]]                                                                                   | <ul></ul> | 9:26 AM - April 30, 2025  |
+| [[index\|index]]                                                                                   | <ul></ul> | 10:37 AM - April 30, 2025 |
 | [[05 places/franchise locations of the empire of zion\|franchise locations of the empire of zion]] | <ul></ul> | 4:53 PM - April 29, 2025  |
 | [[04 groups/the houses of zion\|the houses of zion]]                                               | <ul></ul> | 3:20 PM - April 29, 2025  |
 | [[04 groups/corporate empire of zion\|corporate empire of zion]]                                   | <ul></ul> | 1:34 PM - April 29, 2025  |
