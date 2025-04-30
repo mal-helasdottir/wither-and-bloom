@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","title":"index","hide":true,"hideInGraph":true,"tags":["gardenEntry"],"created":"2024-08-07T09:02:57.000-05:00","updated":"2025-04-30T11:04:22.675-05:00"}
+{"dg-publish":true,"permalink":"/index/","title":"index","hide":true,"hideInGraph":true,"tags":["gardenEntry"],"created":"2024-08-07T09:02:57.000-05:00","updated":"2025-04-30T11:13:18.540-05:00"}
 ---
 
 # welcome!
@@ -81,6 +81,77 @@ title: 👫characters
 ```
 
 </p> </div> 
+<div class="column" style="background-color:yellow;"> 
+<p>
+
+```ad-places
+title: 🗺️ places
+- [[the most holy city of imperial zion]]
+- [[franchise locations of the empire of zion]]
+- [[Frontier and Mute Towns]]
+- [[the wilds]]
+- [[the demonwastes|the (demon)wastes]]
+- [[the gardens]]
+```
+
+</p> </div> 
+</div> 
+<div class="row"> 
+<div class="column" style="background-color:green;"> 
+<p>
+
+```ad-groups
+title: 🖇️ groups
+- [[04 groups/acolytes of the infinite pattern\|acolytes of the infinite pattern]]
+- [[04 groups/the brotherhood of gnosis\|the brotherhood of gnosis]]
+- [[04 groups/the corporate fellowship\|the corporate fellowship]]
+- [[04 groups/the eldest ones\|the eldest ones]]
+- [[04 groups/the devil princes\|the devil princes]]
+- [[04 groups/shareholders\|shareholders]]
+- [[04 groups/demons\|demons]]
+- [[04 groups/mutants\|mutants]]
+- [[04 groups/anunnaki\|anunnaki]]
+- [[04 groups/lanky boys\|lanky boys]]
+- [[04 groups/the board\|the board]]
+- [[04 groups/corporate empire of zion\|corporate empire of zion]]
+``` 
+
+</p> </div> 
+<div class="column" style="background-color:blue;"> 
+<p>
+
+```ad-lore
+title: 📖 lore concepts
+- [[06 concepts/wither and bloom\|wither/bloom]]
+- [[06 concepts/liquid dark\|liquid dark]]
+- [[06 concepts/the forging of metals\|forging metal]]
+- [[06 concepts/the prodigy project\|the prodigy project]]
+- [[06 concepts/currency and trade\|currency and trade]]
+- [[06 concepts/flesh warping\|flesh warping]]
+- [[06 concepts/powers of the flesh\|powers of the flesh]]
+- [[06 concepts/sliver of divinity\|sliver of divinity]]
+- [[06 concepts/languages\|languages]]
+- [[06 concepts/apotheosis\|apotheosis]]
+- [[06 concepts/cannibalism\|cannibalism]]
+- [[06 concepts/indentured servitude\|indentured servitude]]
+```
+
+</p> </div> 
+<div class="column" style="background-color:purple;"> 
+<p>
+
+```ad-snippets
+title:  ✂️ recent snippets
+- [[00 snippets/firsts\|firsts]]
+- [[00 snippets/morning routine\|morning routine]]
+- [[00 snippets/in the beginning\|in the beginning]]
+- [[00 snippets/terror billy\|terror billy]]
+- [[00 snippets/kiss me felix\|kiss me felix]]
+
+{ .block-language-dataview}
+```
+
+</p> </div> 
 </div> 
 </body> 
 </html>
@@ -97,7 +168,7 @@ title: 👫characters
 ## 📌recent pages
 | page                                                                                                  | tags      | modified time             |
 | ----------------------------------------------------------------------------------------------------- | --------- | ------------------------- |
-| [[index\|index]]                                                                                   | <ul></ul> | 11:04 AM - April 30, 2025 |
+| [[index\|index]]                                                                                   | <ul></ul> | 11:13 AM - April 30, 2025 |
 | [[05 places/franchise locations of the empire of zion\|franchise locations of the empire of zion]] | <ul></ul> | 4:53 PM - April 29, 2025  |
 | [[04 groups/the houses of zion\|the houses of zion]]                                               | <ul></ul> | 3:20 PM - April 29, 2025  |
 | [[04 groups/corporate empire of zion\|corporate empire of zion]]                                   | <ul></ul> | 1:34 PM - April 29, 2025  |
@@ -106,36 +177,36 @@ title: 👫characters
 { .block-language-dataview}
 
 ## ✂️recent snippets
-- [[00 snippets/firsts\|firsts]]
-- [[00 snippets/morning routine\|morning routine]]
-- [[00 snippets/in the beginning\|in the beginning]]
-- [[00 snippets/terror billy\|terror billy]]
-- [[00 snippets/kiss me felix\|kiss me felix]]
+- [[00 snippets/firsts.md|firsts]]
+- [[00 snippets/morning routine.md|morning routine]]
+- [[00 snippets/in the beginning.md|in the beginning]]
+- [[00 snippets/terror billy.md|terror billy]]
+- [[00 snippets/kiss me felix.md|kiss me felix]]
 
 { .block-language-dataview}
 ## 🖇️ groups
-- [[04 groups/acolytes of the infinite pattern\|acolytes of the infinite pattern]]
-- [[04 groups/the brotherhood of gnosis\|the brotherhood of gnosis]]
-- [[04 groups/the corporate fellowship\|the corporate fellowship]]
-- [[04 groups/the eldest ones\|the eldest ones]]
-- [[04 groups/the devil princes\|the devil princes]]
-- [[04 groups/shareholders\|shareholders]]
-- [[04 groups/demons\|demons]]
-- [[04 groups/mutants\|mutants]]
-- [[04 groups/anunnaki\|anunnaki]]
-- [[04 groups/lanky boys\|lanky boys]]
-- [[04 groups/the board\|the board]]
-- [[04 groups/corporate empire of zion\|corporate empire of zion]]
+- [[acolytes of the infinite pattern]]
+- [[the brotherhood of gnosis]]
+- [[the corporate fellowship]]
+- [[the eldest ones]]
+- [[the devil princes]]
+- [[shareholders]]
+- [[demons]]
+- [[mutants]]
+- [[anunnaki]]
+- [[lanky boys]]
+- [[the board]]
+- [[corporate empire of zion]]
 ## 📖 lore concepts
-- [[06 concepts/wither and bloom\|wither/bloom]]
-- [[06 concepts/liquid dark\|liquid dark]]
-- [[06 concepts/the forging of metals\|forging metal]]
-- [[06 concepts/the prodigy project\|the prodigy project]]
-- [[06 concepts/currency and trade\|currency and trade]]
-- [[06 concepts/flesh warping\|flesh warping]]
-- [[06 concepts/powers of the flesh\|powers of the flesh]]
-- [[06 concepts/sliver of divinity\|sliver of divinity]]
-- [[06 concepts/languages\|languages]]
-- [[06 concepts/apotheosis\|apotheosis]]
-- [[06 concepts/cannibalism\|cannibalism]]
-- [[06 concepts/indentured servitude\|indentured servitude]]
+- [[wither and bloom|wither/bloom]]
+- [[liquid dark]]
+- [[the forging of metals|forging metal]]
+- [[the prodigy project]]
+- [[currency and trade]]
+- [[flesh warping]]
+- [[powers of the flesh]]
+- [[sliver of divinity]]
+- [[languages]]
+- [[apotheosis]]
+- [[cannibalism]]
+- [[indentured servitude]]
