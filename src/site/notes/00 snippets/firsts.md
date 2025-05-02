@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-snippets/firsts/","created":"2025-04-15T11:35:15.046-05:00","updated":"2025-04-30T15:37:00.245-05:00"}
+{"dg-publish":true,"permalink":"/00-snippets/firsts/","created":"2025-04-15T11:35:15.046-05:00","updated":"2025-05-02T11:49:40.124-05:00"}
 ---
 
 # firsts
@@ -109,3 +109,31 @@ he places more kisses along the side of her throat as he waits.
 another kiss, this time to quiet her.
 
 "sure," he says, leading her by the hand away from the festival and towards the quiet of the rest park. "anythin' ya need." she pads close behind and he pauses for yet another touch of her lips on his own. he's shocked and horrified he managed to live this long without kissing violet senseless. if that can even be called *living*.  "anythin' ya want buttercup. it's yours."
+
+#### *violet* --
+
+every step closer to the winnie brings felix closer to her.
+
+it seems like he won't -- *or can't* -- keep his himself away from her, and she would give anything to ensure he never stops. his big, warm hands with their rough calluses and incongruous gentleness that she's used to seeing cook food, or pet roz, fight with her... bandage her... now trace her curves as if he wants to memorize them, categorize them. fashion her into a special relic only he has he power to build with an unfamiliar set of tools. or a poorly timed flywheel he can coax back into sweetly singing rhythm.
+
+he sets her aflame. makes her alive. settles an ache deep in her belly, a thrumming hollowness she can feel reflected in the way his breaths hitch and his fingers tremble at her kisses. she nibbles on the swell of his bottom lip and he groans, arms tightening to bring her flush to his lean form. 
+
+his lips find the fluttering pulse beneath her ear. his words burn into her skin like a tattoo. "keep on doing that an' we won't make it to a bed, girl." 
+
+she laughs and plants her own kisses along his scruffy jaw, rising up onto her toes to reach. "don't need one. i'm not used to doing this in a bed anyway."
+
+he stares, veridian gaze hard enough to etch glass, a wyrmwind focused just on her. "ya' been done wrong. up ta me to fix it, of course."
+
+suddenly he throws both arms around her, and secures her over his broad shoulder like a sack of concrete.
+
+her yelp is lost amidst his deep chuckles as she squirms, cheeks flaming. "fel--"
+
+"i never say no to a fix. or a challenge. ya can count on ol' fel."
+
+his grip is impossible to evade. no amount of wriggling gets him to relax his hold on her even one bit. if anything, it seems to embolden him as she discovers when he palms the plumpness of her backside, and finishes with a little *smack*.
+
+the heat inside her intensifies. the ache, the hollow yearning thrown further open. all protests vanish, leaving her tense, choking on a strangled moan.
+
+"yea. ol' fel can be a real gentlemute. gonna treat ya ta something special."
+
+and she knows he is absolutely not lying. not one bit. the moan tumbles the rest of the way out of her, unbidden, but she's well past embarrassment at this point. all that remains is anticipation.
