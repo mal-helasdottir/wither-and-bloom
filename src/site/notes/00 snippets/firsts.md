@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-snippets/firsts/","created":"2025-04-15T11:35:15.046-05:00","updated":"2025-05-02T11:49:40.124-05:00"}
+{"dg-publish":true,"permalink":"/00-snippets/firsts/","created":"2025-04-15T11:35:15.046-05:00","updated":"2025-05-02T12:04:32.547-05:00"}
 ---
 
 # firsts
@@ -114,7 +114,7 @@ another kiss, this time to quiet her.
 
 every step closer to the winnie brings felix closer to her.
 
-it seems like he won't -- *or can't* -- keep his himself away from her, and she would give anything to ensure he never stops. his big, warm hands with their rough calluses and incongruous gentleness that she's used to seeing cook food, or pet roz, fight with her... bandage her... now trace her curves as if he wants to memorize them, categorize them. fashion her into a special relic only he has he power to build with an unfamiliar set of tools. or a poorly timed flywheel he can coax back into sweetly singing rhythm.
+it seems like he won't -- *or can't* -- keep himself away from her, and she would give anything to ensure he never stops. his big, warm hands with their rough calluses and incongruous gentleness that she's used to seeing cook food, or pet roz, fight with her... bandage her... now trace her curves as if he wants to memorize them, categorize them. fashion her into a special relic only he has he power to build with an unfamiliar set of tools. or a poorly timed flywheel he can coax back into sweetly singing rhythm.
 
 he sets her aflame. makes her alive. settles an ache deep in her belly, a thrumming hollowness she can feel reflected in the way his breaths hitch and his fingers tremble at her kisses. she nibbles on the swell of his bottom lip and he groans, arms tightening to bring her flush to his lean form. 
 
