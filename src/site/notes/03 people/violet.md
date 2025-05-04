@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-people/violet/","created":"2024-08-08T14:04:12.276-05:00","updated":"2025-01-24T10:58:44.641-06:00"}
+{"dg-publish":true,"permalink":"/03-people/violet/","created":"2024-08-08T14:04:12.000-05:00","updated":"2025-01-24T10:58:44.641-06:00"}
 ---
 
 # violet of magdala

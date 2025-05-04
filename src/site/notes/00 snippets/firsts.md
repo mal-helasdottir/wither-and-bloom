@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-snippets/firsts/","created":"2025-04-15T11:35:15.046-05:00","updated":"2025-05-02T12:04:32.547-05:00"}
+{"dg-publish":true,"permalink":"/00-snippets/firsts/","created":"2025-04-15T11:35:15.046-05:00","updated":"2025-05-04T13:25:18.101-05:00"}
 ---
 
 # firsts
@@ -137,3 +137,18 @@ the heat inside her intensifies. the ache, the hollow yearning thrown further op
 "yea. ol' fel can be a real gentlemute. gonna treat ya ta something special."
 
 and she knows he is absolutely not lying. not one bit. the moan tumbles the rest of the way out of her, unbidden, but she's well past embarrassment at this point. all that remains is anticipation.
+
+#### *felix* --
+he could've done without smacking his head in winnie's doorway, but felix wasn't one to bother with things like *embarrassment* when pretty women had their mouth on his neck.
+
+especially not this pretty woman.
+
+now that he'd laid her on his bed, her cheeks pink and her lips swollen with his kisses, he can't hardly think about anything that *isn't* how pretty violet is.
+
+how much he wants to ruin her for anyone else. how he'd love to taste her pussy everyday for the rest of his life. fuck even the idea that he's about to discover what her pussy tastes like is about enough to make him cum his pants as if he's a damn teenager again.
+
+with him standing in winnie's aisle, just behind her driver's seat he's in the perfect position to just tilt his head a bit and then *feast*. 
+
+but he said he'd be a gentlemute, so he's gonna ask. "can i kiss you, vi?"
+
+she reaches for him, eyes bright, but he shakes his head. "not ya mouth, not right now anyway." he grins and ghosts his fingers up the insides of her thighs. "i wanna kiss all this first."
