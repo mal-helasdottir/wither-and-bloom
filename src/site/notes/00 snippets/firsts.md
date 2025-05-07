@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-snippets/firsts/","created":"2025-04-15T11:35:15.046-05:00","updated":"2025-05-07T13:55:43.661-05:00"}
+{"dg-publish":true,"permalink":"/00-snippets/firsts/","created":"2025-04-15T11:35:15.046-05:00","updated":"2025-05-07T14:22:14.382-05:00"}
 ---
 
 # firsts
@@ -153,4 +153,16 @@ but he said he'd be a gentlemute, so he's gonna ask. "can i kiss you, vi?"
 
 she reaches for him, eyes bright, but he shakes his head. "not ya mouth, not right now anyway." he grins and ghosts his fingers up the insides of her thighs. "i wanna kiss all this first."
 
-the full body shiver she gives at his words shouldn't be so gratifying, but it absolutely is, and to pile sin on top of sin he has no interest whatsoever in repenting the bright flare of lust, pride, and possession that skitters through him, tingling from the tips of his ears to the soles of his feet. he keeps watching her as he toes out of his heavy boots and tosses the duster aside
+the full body shiver she gives at his words shouldn't be so gratifying, but it absolutely is, and to pile sin on top of sin he has no interest whatsoever in repenting the bright flare of lust, pride, and possession that skitters through him, tingling from the tips of his ears to the soles of his feet. he keeps watching her as he toes out of his heavy boots and tosses the duster aside. his bracers and harness follow, as would his shirt, but she finds the buttons before he does. the top one near his throat open and replaced by her lips before he can collect himself enough to pin her by her wrists to the quilt, keeping her still with a knee between her thighs.
+
+fuck is she ever warm.
+
+beneath his palms, the suit begins to slide away, the pale gold of her skin appearing on her arms and throat.
+
+he bends, placing a kiss at the hollow of her throat before whispering, "leave it on for a bit longer."
+
+her high cheekbones and the bridge of her nose turn a becoming pink beneath the new freckles she's gained from the countless hours they've spent roaming the wastes together. she's not just pretty-- but beautiful--and it takes his fucking breath away, his stupid leaping pulse ratcheting up even faster. how he hears her soft question of *why* through the roaring in his brain he'll never know. "i've heard it's fun that way," he grins, "plus i wanna unwrap ya real slow later, like a present." 
+
+his sharp teeth graze over her suit covered breast and oh martyrs the *noise* she makes, all drawn out and helpless, breathy and moaning, her hips rolling in a slow mindless grind against his thigh. then she says his name like that too.
+
+and he has no choice but to lose his fucking mind.
