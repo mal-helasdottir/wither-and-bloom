@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-snippets/firsts/","created":"2025-04-15T11:35:15.046-05:00","updated":"2025-05-04T13:25:18.101-05:00"}
+{"dg-publish":true,"permalink":"/00-snippets/firsts/","created":"2025-04-15T11:35:15.046-05:00","updated":"2025-05-07T13:55:43.661-05:00"}
 ---
 
 # firsts
@@ -152,3 +152,5 @@ with him standing in winnie's aisle, just behind her driver's seat he's in the p
 but he said he'd be a gentlemute, so he's gonna ask. "can i kiss you, vi?"
 
 she reaches for him, eyes bright, but he shakes his head. "not ya mouth, not right now anyway." he grins and ghosts his fingers up the insides of her thighs. "i wanna kiss all this first."
+
+the full body shiver she gives at his words shouldn't be so gratifying, but it absolutely is, and to pile sin on top of sin he has no interest whatsoever in repenting the bright flare of lust, pride, and possession that skitters through him, tingling from the tips of his ears to the soles of his feet. he keeps watching her as he toes out of his heavy boots and tosses the duster aside
