@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-snippets/firsts/","created":"2025-04-15T11:35:15.046-05:00","updated":"2025-05-07T14:22:14.382-05:00"}
+{"dg-publish":true,"permalink":"/00-snippets/firsts/","created":"2025-04-15T11:35:15.046-05:00","updated":"2025-05-12T11:09:45.425-05:00"}
 ---
 
 # firsts
@@ -166,3 +166,21 @@ her high cheekbones and the bridge of her nose turn a becoming pink beneath the 
 his sharp teeth graze over her suit covered breast and oh martyrs the *noise* she makes, all drawn out and helpless, breathy and moaning, her hips rolling in a slow mindless grind against his thigh. then she says his name like that too.
 
 and he has no choice but to lose his fucking mind.
+
+#### *violet* --
+violet has been with men.
+
+violet has been with women.
+
+on one occasion violet was with a woman and a man while another man watched for a time, then joined in.
+
+violet is the culmination of hundreds of years of research. an experiment in motion. a means to an end. her body; a vessel, a receptacle, a fragile collection of meat, bone, and nerve meant to house her inferior soul until it's eventual replacement by something better and more deserving. as such, she was not one to fuss about the mundane: clothing, or privacy, or personal boundaries. 
+
+it is only a body. it is temporary. it is a privilege, and one easily rescinded at that.
+
+but then felix led her out of eden. with gentle eyes and smirking fangs he tempted her with knowledge. lured her with care and attention.
+
+and she took all he offered greedily, with both hands.
+
+violet is no innocent, but she has never experienced the soft touch of breath upon her spread thighs, with or without the suit. 
+
