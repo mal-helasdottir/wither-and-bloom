@@ -9,11 +9,11 @@ wither & bloom is a post apocalyptic biopunk scientific romance written by two l
 ## 📌recent page changes
 | page                                                                                                  | tags                                      | modified time            |
 | ----------------------------------------------------------------------------------------------------- | ----------------------------------------- | ------------------------ |
+| [[07 miscellaneous/a list of literary references\|a list of literary references]]                  | <ul></ul>                                 | 2:44 PM - May 13, 2025   |
 | [[00 snippets/firsts\|firsts]]                                                                     | <ul><li>#snippet</li><li>#waifu</li></ul> | 11:09 AM - May 12, 2025  |
 | [[index\|index]]                                                                                   | <ul></ul>                                 | 2:18 PM - April 30, 2025 |
 | [[05 places/franchise locations of the empire of zion\|franchise locations of the empire of zion]] | <ul></ul>                                 | 4:53 PM - April 29, 2025 |
 | [[04 groups/the houses of zion\|the houses of zion]]                                               | <ul></ul>                                 | 3:20 PM - April 29, 2025 |
-| [[04 groups/corporate empire of zion\|corporate empire of zion]]                                   | <ul></ul>                                 | 1:34 PM - April 29, 2025 |
 
 { .block-language-dataview}
 ## ✂️recent snippets
@@ -81,8 +81,8 @@ LIMIT 5
 ##  📌recent pages in which we flesh out the world
 | page                                                                                 | modified time                |
 | ------------------------------------------------------------------------------------ | ---------------------------- |
+| [[07 miscellaneous/a list of literary references\|a list of literary references]] | 2:44 PM - May 13, 2025       |
 | [[07 miscellaneous/glossary\|glossary]]                                           | 11:47 AM - April 29, 2025    |
-| [[07 miscellaneous/a list of literary references\|a list of literary references]] | 9:33 AM - April 09, 2025     |
 | [[07 miscellaneous/mugwort\|mugwort]]                                             | 10:03 AM - December 30, 2024 |
 | [[07 miscellaneous/lepidoptera\|lepidoptera]]                                     | 10:01 AM - December 30, 2024 |
 | [[07 miscellaneous/artemisia\|artemisia]]                                         | 10:01 AM - December 30, 2024 |
