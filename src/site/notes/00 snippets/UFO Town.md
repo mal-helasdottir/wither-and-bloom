@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-snippets/ufo-town/","created":"2025-05-15T15:05:48.966-05:00","updated":"2025-05-15T16:20:07.739-05:00"}
+{"dg-publish":true,"permalink":"/00-snippets/ufo-town/","created":"2025-05-15T15:05:48.966-05:00","updated":"2025-05-15T17:16:11.523-05:00"}
 ---
 
 # UFO Town
@@ -39,7 +39,7 @@ He cuts her off with a frustrated grunt, "I ain't takin' that chance! We need ta
 
 She throws her head back purposely looking away from this infuriating creature beside her.  Roswell who had been watching the argument with some interest from her spot in Violet's lap tilts her head in Felix's direction two of her large red eyes remain fixed on him while the third keeps close watch on the underside of Violet's chin.
 
-"Look Vi yer a fish outta water here, I just need ya to do what I tell ya so we can get this done then go about findin' yer sister."
+"Look Vi yer a *eel outta the aquifier* here, I just need ya to do what I tell ya so we can get this done then go about findin' yer sister."
 
 She stares out the window for a long moment before her shoulders relax slightly and she turns back to him.  "Fine. But once this is done we waste no more time. We go strait to these *trackers* of yours, every moment wasted is another my sister is in danger."
 
