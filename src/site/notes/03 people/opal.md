@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-people/opal/","created":"2024-12-30T10:02:15.564-06:00","updated":"2024-12-30T10:07:00.526-06:00"}
+{"dg-publish":true,"permalink":"/03-people/opal/","created":"2025-02-21T14:10:52.949-06:00","updated":"2024-12-30T10:07:00.526-06:00"}
 ---
 
 # opal

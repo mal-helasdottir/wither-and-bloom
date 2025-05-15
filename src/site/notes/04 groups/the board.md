@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-groups/the-board/","created":"2024-12-27T11:52:08.025-06:00","updated":"2025-02-21T13:34:34.758-06:00"}
+{"dg-publish":true,"permalink":"/04-groups/the-board/","created":"2025-02-21T14:10:54.273-06:00","updated":"2025-02-21T13:34:34.758-06:00"}
 ---
 
 # the board

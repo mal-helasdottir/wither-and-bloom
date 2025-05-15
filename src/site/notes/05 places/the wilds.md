@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-places/the-wilds/","created":"2024-10-28T09:20:32.039-05:00","updated":"2024-12-27T10:59:13.154-06:00"}
+{"dg-publish":true,"permalink":"/05-places/the-wilds/","created":"2025-02-21T14:10:50.937-06:00","updated":"2024-12-27T10:59:13.154-06:00"}
 ---
 
 # the wilds

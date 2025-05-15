@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-history/rough-timeline/","created":"2024-08-21T14:33:28.000-05:00","updated":"2025-03-18T14:57:44.891-05:00"}
+{"dg-publish":true,"permalink":"/02-history/rough-timeline/","created":"2025-02-21T14:10:53.030-06:00","updated":"2025-03-18T14:57:44.891-05:00"}
 ---
 
 

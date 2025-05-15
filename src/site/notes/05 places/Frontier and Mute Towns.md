@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-places/frontier-and-mute-towns/","created":"2024-08-14T14:24:29.000-05:00","updated":"2025-03-17T13:02:53.410-05:00"}
+{"dg-publish":true,"permalink":"/05-places/frontier-and-mute-towns/","created":"2025-02-21T14:10:51.172-06:00","updated":"2025-03-17T13:02:53.410-05:00"}
 ---
 
 # Frontier and [[04 groups/mutants\|Mute]] Towns

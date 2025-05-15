@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-groups/the-corporate-fellowship/","created":"2024-10-28T09:31:24.095-05:00","updated":"2025-03-18T14:57:44.896-05:00"}
+{"dg-publish":true,"permalink":"/04-groups/the-corporate-fellowship/","created":"2025-02-21T14:10:53.797-06:00","updated":"2025-03-18T14:57:44.896-05:00"}
 ---
 
 # the corporate fellowship

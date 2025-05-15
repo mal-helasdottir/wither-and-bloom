@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06-concepts/currency-and-trade/","created":"2024-10-28T09:18:27.521-05:00","updated":"2024-11-07T17:00:21.397-06:00"}
+{"dg-publish":true,"permalink":"/06-concepts/currency-and-trade/","created":"2025-02-21T14:10:50.019-06:00","updated":"2024-11-07T17:00:21.397-06:00"}
 ---
 
 # currency and trade

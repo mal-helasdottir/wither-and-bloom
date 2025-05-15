@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-miscellaneous/a-list-of-literary-references/","created":"2025-01-29T08:23:12.950-06:00","updated":"2025-05-13T14:44:59.903-05:00"}
+{"dg-publish":true,"permalink":"/07-miscellaneous/a-list-of-literary-references/","created":"2025-02-21T14:10:54.412-06:00","updated":"2025-05-13T14:44:59.903-05:00"}
 ---
 
 # a list of literary, folklore, and pop culture references

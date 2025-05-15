@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06-concepts/the-prodigy-project/","created":"2024-08-08T14:46:48.374-05:00","updated":"2024-12-27T11:32:14.627-06:00"}
+{"dg-publish":true,"permalink":"/06-concepts/the-prodigy-project/","created":"2025-02-21T14:10:51.537-06:00","updated":"2024-12-27T11:32:14.627-06:00"}
 ---
 
 # the prodigy project

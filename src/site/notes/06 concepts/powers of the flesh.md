@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06-concepts/powers-of-the-flesh/","created":"2024-08-08T14:51:16.899-05:00","updated":"2024-12-27T11:31:13.714-06:00"}
+{"dg-publish":true,"permalink":"/06-concepts/powers-of-the-flesh/","created":"2025-02-21T14:10:51.389-06:00","updated":"2024-12-27T11:31:13.714-06:00"}
 ---
 
 # powers of the flesh

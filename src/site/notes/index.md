@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","title":"index","hide":true,"hideInGraph":true,"tags":["gardenEntry"],"created":"2024-08-07T09:02:57.000-05:00","updated":"2025-04-30T14:18:53.983-05:00"}
+{"dg-publish":true,"permalink":"/index/","title":"index","hide":true,"hideInGraph":true,"tags":["gardenEntry"],"created":"2025-02-21T14:10:53.473-06:00","updated":"2025-04-30T14:18:53.983-05:00"}
 ---
 
 # welcome!
@@ -9,11 +9,11 @@ wither & bloom is a post apocalyptic biopunk scientific romance written by two l
 ## 📌recent page changes
 | page                                                                                                  | tags                                      | modified time            |
 | ----------------------------------------------------------------------------------------------------- | ----------------------------------------- | ------------------------ |
+| [[00 snippets/UFO Town\|UFO Town]]                                                                 | <ul></ul>                                 | 4:03 PM - May 15, 2025   |
 | [[07 miscellaneous/a list of literary references\|a list of literary references]]                  | <ul></ul>                                 | 2:44 PM - May 13, 2025   |
 | [[00 snippets/firsts\|firsts]]                                                                     | <ul><li>#snippet</li><li>#waifu</li></ul> | 11:09 AM - May 12, 2025  |
 | [[index\|index]]                                                                                   | <ul></ul>                                 | 2:18 PM - April 30, 2025 |
 | [[05 places/franchise locations of the empire of zion\|franchise locations of the empire of zion]] | <ul></ul>                                 | 4:53 PM - April 29, 2025 |
-| [[04 groups/the houses of zion\|the houses of zion]]                                               | <ul></ul>                                 | 3:20 PM - April 29, 2025 |
 
 { .block-language-dataview}
 ## ✂️recent snippets
