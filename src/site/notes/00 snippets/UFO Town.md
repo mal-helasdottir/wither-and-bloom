@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-snippets/ufo-town/","created":"2025-05-15T15:05:48.966-05:00","updated":"2025-05-15T17:16:11.523-05:00"}
+{"dg-publish":true,"permalink":"/00-snippets/ufo-town/","created":"2025-05-15T15:05:48.966-05:00","updated":"2025-05-16T16:27:07.049-05:00"}
 ---
 
 # UFO Town
@@ -45,4 +45,23 @@ She stares out the window for a long moment before her shoulders relax slightly 
 
 He sighs with a measure of relief.  "Deal, but I need ya to promise me you will do what I say in here."
 
-Her eyes narrow again dangerously she senses a trick but sees no other option with out wasting more time arguing.  She won't blindly follow his orders no matter what she swears or promises, but if it will get them moving towards rose she will placate him.  For now.  So, she crosses the fingers of her left hand hidden beneath her folded arms before saying, "I promise" 
+Her eyes narrow again dangerously she senses a trick but sees no other option with out wasting more time arguing.  She won't blindly follow his orders no matter what she swears or promises, but if it will get them moving towards rose she will placate him.  For now.  So, she crosses the fingers of her left hand hidden beneath her folded arms before saying, "I promise." 
+
+---
+Lanky towns never quite sat right with Felix.  The whole vibe was always just slightly... strange.  UFO town was no different.  As the car pulled off the highway and started to coast between the repurposed buildings there were no organized check points like you might find in a corpo town and no mute sherriff signaling you to pull over so he can introduce himself and tell you the way of things, but rather you were greeted with closed doors and flipped signs.  The slower folk you might catch a glimpse of as they lowered the blinds or silently beckoned in their playing children off the street, but you were more likely to see the mechanical gaze of cameras that followed your progress as you passed. 
+
+The people that lived here could almost pass as run of the mill human, but their limbs were just a little too long or their skin a little to grey.  Their eyes slightly too large and their nose too small.  The effect made their heads seem too large even when they weren't.  The more glimpse you caught of the retreating populous the more obvious it was that these people were only mostly human.  What the other part was Felix didn't quite know.  Mutes were obviously not fully human with their animalistic features; feathers, fur, claws and scales were honest in their anti-humanity. Lanky folk were sometimes uncanny valley writ large. 
+
+"I thought you said this wasn't a mutant town?" Violet asked as her eyes followed the progress of a child with a reverse set of thumbs on their hands being ushered inside by their mother.
+
+"It ain't... they aint mutes."
+
+Felix turned the car down a side street, hoping he could remember how to get to the rendezvous.  The last thing he wanted to do was to get lost in a Lanky town. 
+
+"They don't look like normal humans though... wouldn't that make them mutants?"
+
+He stopped himself from laughing at the thought of anything in the world being *normal* and settled for a toothy grin in her direction.  
+
+"Yeah they ain't human either... My boy Cid says they are called Annuks or Ankai or somethin' like that most of us call 'em the Lanky folk."
+
+He was desperately watching for signs of the way to go at this point and was worried he might have missed a turn when he finally spotted the building he was looking for.
