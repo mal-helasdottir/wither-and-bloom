@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","title":"index","hide":true,"hideInGraph":true,"tags":["gardenEntry"],"created":"2024-08-07T09:02:57.000-05:00","updated":"2025-05-16T08:56:04.146-05:00"}
+{"dg-publish":true,"permalink":"/index/","title":"index","hide":true,"hideInGraph":true,"tags":["gardenEntry"],"created":"2024-08-07T09:02:57.000-05:00","updated":"2025-05-16T09:03:02.038-05:00"}
 ---
 
 # welcome!
@@ -9,14 +9,16 @@ wither & bloom is a post apocalyptic biopunk scientific romance written by two l
 ## 📌recent page changes
 | page                                                                                 | tags                                         | modified time           |
 | ------------------------------------------------------------------------------------ | -------------------------------------------- | ----------------------- |
-| [[index\|index]]                                                                  | <ul></ul>                                    | 8:56 AM - May 16, 2025  |
+| [[index\|index]]                                                                  | <ul></ul>                                    | 9:03 AM - May 16, 2025  |
 | [[00 snippets/UFO Town\|UFO Town]]                                                | <ul><li>#snippit</li><li>#husbando</li></ul> | 5:16 PM - May 15, 2025  |
 | [[01 inbox/Untitled\|Untitled]]                                                   | <ul></ul>                                    | 4:19 PM - May 15, 2025  |
 | [[07 miscellaneous/a list of literary references\|a list of literary references]] | <ul></ul>                                    | 2:44 PM - May 13, 2025  |
 | [[00 snippets/firsts\|firsts]]                                                    | <ul><li>#snippet</li><li>#waifu</li></ul>    | 11:09 AM - May 12, 2025 |
 
 { .block-language-dataview}
+
 ---
+
 ## ✂️recent snippets
 ``` dataview
 TABLE file.tags AS "tags", file.mtime AS "modified time"
