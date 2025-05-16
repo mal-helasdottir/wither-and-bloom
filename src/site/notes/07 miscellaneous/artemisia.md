@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-miscellaneous/artemisia/","tags":["misc","plants"],"created":"2025-02-21T14:10:52.736-06:00","updated":"2024-12-30T10:01:28.895-06:00"}
+{"dg-publish":true,"permalink":"/07-miscellaneous/artemisia/","tags":["misc","plants"],"created":"2024-12-27T15:04:06.299-06:00","updated":"2024-12-30T10:01:28.895-06:00"}
 ---
 
 # artemisia

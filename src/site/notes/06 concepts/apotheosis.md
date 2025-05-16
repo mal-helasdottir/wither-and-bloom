@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06-concepts/apotheosis/","created":"2025-02-21T14:10:50.657-06:00","updated":"2024-12-26T08:30:56.919-06:00"}
+{"dg-publish":true,"permalink":"/06-concepts/apotheosis/","created":"2024-12-26T08:27:25.142-06:00","updated":"2024-12-26T08:30:56.919-06:00"}
 ---
 
 # apotheosis

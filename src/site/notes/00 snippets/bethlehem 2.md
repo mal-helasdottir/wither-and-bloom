@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-snippets/bethlehem-2/","created":"2025-02-21T14:10:47.993-06:00","updated":"2024-08-16T11:45:39.000-05:00"}
+{"dg-publish":true,"permalink":"/00-snippets/bethlehem-2/","created":"2024-08-16T11:44:13.000-05:00","updated":"2024-08-16T11:45:39.000-05:00"}
 ---
 
 # bethlehem 2 >> sequel to bethlehem

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-snippets/bethlehem-3/","created":"2025-02-21T14:10:47.854-06:00","updated":"2024-08-08T14:28:02.815-05:00"}
+{"dg-publish":true,"permalink":"/00-snippets/bethlehem-3/","created":"2024-08-08T14:26:35.911-05:00","updated":"2024-08-08T14:28:02.815-05:00"}
 ---
 
 # Bethlehem 3 >> Felix muddling about trying to find the subject in a dark, dead, experimental complex

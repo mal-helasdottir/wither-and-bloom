@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-miscellaneous/mugwort/","tags":["misc","plants","drugs"],"created":"2025-02-21T14:10:52.878-06:00","updated":"2024-12-30T10:03:14.569-06:00"}
+{"dg-publish":true,"permalink":"/07-miscellaneous/mugwort/","tags":["misc","plants","drugs"],"created":"2024-12-27T15:00:20.326-06:00","updated":"2024-12-30T10:03:14.569-06:00"}
 ---
 
 # mugwort

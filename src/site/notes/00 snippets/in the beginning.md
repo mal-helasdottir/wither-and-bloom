@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-snippets/in-the-beginning/","created":"2025-02-21T14:10:50.441-06:00","updated":"2024-12-05T15:39:10.241-06:00"}
+{"dg-publish":true,"permalink":"/00-snippets/in-the-beginning/","created":"2024-12-05T15:36:32.820-06:00","updated":"2024-12-05T15:39:10.241-06:00"}
 ---
 
 # in the beginning

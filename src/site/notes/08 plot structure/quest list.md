@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-plot-structure/quest-list/","created":"2025-02-21T14:10:53.943-06:00","updated":"2025-02-20T10:43:05.460-06:00"}
+{"dg-publish":true,"permalink":"/08-plot-structure/quest-list/","created":"2025-02-20T09:36:19.848-06:00","updated":"2025-02-20T10:43:05.460-06:00"}
 ---
 
 # quest list

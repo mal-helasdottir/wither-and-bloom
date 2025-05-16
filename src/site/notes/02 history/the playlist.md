@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-history/the-playlist/","created":"2025-02-21T14:10:53.340-06:00","updated":"2025-03-12T08:50:04.699-05:00"}
+{"dg-publish":true,"permalink":"/02-history/the-playlist/","created":"2024-12-20T15:31:49.449-06:00","updated":"2025-03-12T08:50:04.699-05:00"}
 ---
 
 # the playlist

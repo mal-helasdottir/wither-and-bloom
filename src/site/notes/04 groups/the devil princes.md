@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-groups/the-devil-princes/","created":"2025-02-21T14:10:52.017-06:00","updated":"2025-03-19T14:56:31.419-05:00"}
+{"dg-publish":true,"permalink":"/04-groups/the-devil-princes/","created":"2024-10-28T09:22:56.084-05:00","updated":"2025-03-19T14:56:31.419-05:00"}
 ---
 
 # the devil princes

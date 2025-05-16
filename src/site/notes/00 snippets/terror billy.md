@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-snippets/terror-billy/","created":"2025-02-21T14:10:48.210-06:00","updated":"2024-10-28T10:00:27.981-05:00"}
+{"dg-publish":true,"permalink":"/00-snippets/terror-billy/","created":"2024-10-28T09:59:29.691-05:00","updated":"2024-10-28T10:00:27.981-05:00"}
 ---
 
 # terror billy
