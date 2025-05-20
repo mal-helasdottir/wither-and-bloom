@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-snippets/ufo-town/","created":"2025-05-15T15:05:48.966-05:00","updated":"2025-05-16T16:27:07.049-05:00"}
+{"dg-publish":true,"permalink":"/00-snippets/ufo-town/","created":"2025-05-15T15:05:48.966-05:00","updated":"2025-05-20T12:51:23.555-05:00"}
 ---
 
 # UFO Town
@@ -48,7 +48,7 @@ He sighs with a measure of relief.  "Deal, but I need ya to promise me you will 
 Her eyes narrow again dangerously she senses a trick but sees no other option with out wasting more time arguing.  She won't blindly follow his orders no matter what she swears or promises, but if it will get them moving towards rose she will placate him.  For now.  So, she crosses the fingers of her left hand hidden beneath her folded arms before saying, "I promise." 
 
 ---
-Lanky towns never quite sat right with Felix.  The whole vibe was always just slightly... strange.  UFO town was no different.  As the car pulled off the highway and started to coast between the repurposed buildings there were no organized check points like you might find in a corpo town and no mute sherriff signaling you to pull over so he can introduce himself and tell you the way of things, but rather you were greeted with closed doors and flipped signs.  The slower folk you might catch a glimpse of as they lowered the blinds or silently beckoned in their playing children off the street, but you were more likely to see the mechanical gaze of cameras that followed your progress as you passed. 
+Lanky towns have never quite sat right with Felix.  The whole vibe was always just slightly... strange.  UFO town was no different.  As the car pulled off the highway and started to coast between the repurposed buildings there were no organized check points like you might find in a corpo town and no mute sherriff signaling you to pull over so he can introduce himself and tell you the way of things, but rather you were greeted with closed doors and flipped signs.  The slower folk you might catch a glimpse of as they lowered the blinds or silently beckoned in their playing children off the street, but you were more likely to see the mechanical gaze of cameras that followed your progress as you passed. 
 
 The people that lived here could almost pass as run of the mill human, but their limbs were just a little too long or their skin a little to grey.  Their eyes slightly too large and their nose too small.  The effect made their heads seem too large even when they weren't.  The more glimpse you caught of the retreating populous the more obvious it was that these people were only mostly human.  What the other part was Felix didn't quite know.  Mutes were obviously not fully human with their animalistic features; feathers, fur, claws and scales were honest in their anti-humanity. Lanky folk were sometimes uncanny valley writ large. 
 
@@ -62,6 +62,26 @@ Felix turned the car down a side street, hoping he could remember how to get to 
 
 He stopped himself from laughing at the thought of anything in the world being *normal* and settled for a toothy grin in her direction.  
 
-"Yeah they ain't human either... My boy Cid says they are called Annuks or Ankai or somethin' like that most of us call 'em the Lanky folk."
+"Yeah they ain't human either... My boy Cid says they are called Annuks... or Ankai or somethin' like that. Most of us call 'em the Lanky folk."
 
-He was desperately watching for signs of the way to go at this point and was worried he might have missed a turn when he finally spotted the building he was looking for.
+She purses her lips and taps a slender finger to them unsure of what to think of this.  They must be mutants if they aren't human.  What else could they be?  She opens her mouth to object then stops as Felix pulls the car over next to a row of squat derelict buildings.  The street ahead ends in a T intersection and the facade on the building there reads "UFO Museum" or it used to.  the e and one of the m's has gone missing so it is now the "UFO Mus u ".
+
+He turns and looks at her with a serious expression.  
+
+"OK this is the place. Put yer cloak on and keep the hood up"
+
+Annoying.  Unnecessary.  But easy enough to do really.  she debates arguing it anyways but decides its best to let him think she is still being a *good girl* and obeying his commands.  
+
+She begins pulling on the cloak and tying it in place as he turns and starts rummaging through the piles of assorted junk in the back seat.   He tosses things aside and ends up having to lean further in to really reach down into floor beneath the rear seats to find whatever it is he is seeking.
+
+"Imagine," she says as she ties the clasps of her cloak off while pulling up and adjusting its hood into place, "organizing things in any sort of way that makes sense."
+
+He mumbles to himself as he continues his hunt and eventually finds what he is looking for and exclaims as such, and in his hurry to return upright with his prize ends up knocking his head against the butt of the overlarge spear that had been haphazardly tossed about in the search.  He holds his price in one hand and rubs the back of his head in the other as he glares at the offending weapon.  Its a small cylindrical object wrapped in a length of cloth, concealing its true identity from her.  
+
+"What's that?" she asks looking at the mystery package.
+
+"Huh?" he says remembering her suddenly.  "Oh its the payload."  He quickly tucks it into an interior pocked of his duster.
+
+"The.. Payload?"  she raises a hooded eyebrow. 
+
+"yeah its what they hired me ta bring em'."  He replies as though that answers her question, and before she raise it again he is examining her and reaches to make a minute adjustment to her hood. She reflexively pulls back and bats at his hand with annoyance. "Good he says. keep that up and I need ya to wait here in the car I wont be long."
