@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-snippets/ufo-town/","created":"2025-05-15T15:05:48.966-05:00","updated":"2025-05-21T13:16:04.682-05:00"}
+{"dg-publish":true,"permalink":"/00-snippets/ufo-town/","created":"2025-05-15T15:05:48.966-05:00","updated":"2025-05-21T15:31:34.853-05:00"}
 ---
 
 # UFO Town
@@ -106,7 +106,7 @@ He makes a frustrated noise through gritted sharp teeth then and thinks how much
 
 She moves suddenly and with a quickness he didn't expect, her face inches from his own cutting him off with a hissed "No!" Her narrowed eyes lock his in place, "If I hear one more time that I don't know what I'm talking about I will show you how dangerous *I* am."  
 
-He reads the challenge in her eyes and he knows this argument is lost to him. With her face so close to his he can smell the sweetness on her breath from the extra honey she added to her morning's oatcakes.  Her cheeks flushed pink with heat and anger and her lips, though drawn in a defiant line were oh so close to his own.  He'd be lying to himself if he didn't find this all more than a little enticing.  
+He reads the challenge in her eyes and he knows this argument is lost to him. With her face so close to his he can smell the sweetness on her breath from the extra honey she added to her morning's oatcakes.  Her cheeks flushed pink with heat and anger and her lips, though drawn in a defiant line were oh so close to his own. He could hear the accelerated rhythm of her pulse as her adrenaline surged.  He'd be lying to himself if he didn't find this all more than a little enticing.  
 
 He wondered briefly how she would react if he kissed her then, would she fall into it like they do in the old John Hughes films of another era? Her clenched fists giving way to fumbling hands and hastily discarded clothing? Probably not.  Unfortunate really.  Oh well.  Time for plan B.
 
@@ -115,3 +115,41 @@ He allowed his customary smirk to draw upon his lips then, and his eyes sparkled
 "All right buttercup.  You win." he says attempting to inject as much frustrating charm as he is able. "You can come with."  
 
 She doesn't trust it at first, not one bit, but she does lean back into her seat again her posture untensing slightly.   
+
+"But these lanky boys got a way of unsettlin' folk."  He unbuckles his own seatbelt.  "Some people lose time talkin' to em.  Cid says it's somethin' ta do with psychic somethin' er other... mind fuckery."  He waggles a finger in a circle next to his head while crossing his eyes.  
+
+She looks at him with an incredulous expression.  "You won't scare me into not going."
+
+"Scare ya nothin';  preparin' ya.  Try ta keep yer head strait.  Cid told me it helps him ta do math or number magic or somethin' in his head while talkin to em."
+
+"You keep mentioning this Cid like its someone I should know."
+
+"Oh yeah.  Cid's a brother of Gnosis, so 'es real smart.  Shitty at Street Fighter two though.  But he will kick yer ass at pong... which is a boring game anyways." 
+
+She stares at him blankly, "That doesn't really explain... ya know what it doesn't matter. Does doing math in your head work for you?" 
+
+He laughs suddenly but forces himself to stop when her eyes narrow again as she feels he may be mocking her, and he just grins at her instead, "Na girl, I don't do math in my head or anywhere else unless I want a head ache."
+
+"Then how do you fight the... *Mind fuckery?*"
+
+He shrugs, "It just don't work well on me really.  I feel when they do it, things get a little buzzy like I had a nip or two of booze, but nothin' more than that.  Cid says it's either cuz of my mutation or cuz I'm too dumb to be affected by it." He grins pointedly at her and taps the side of his head. "Could be either if I'm bein' honest."
+
+She rolls her eyes and quickly turns away from him hoping he didn't notice the smallest of smiles that had come unbidden across her lips in response to his latest grin.  He clocked it of course, but didn't mention it for her sake.     
+
+"Anything else?" she asked.
+
+"Yeah.  Just be ready. If shit starts ta look rusty follow my lead.  And just ta be safe I'd start doin that math in yer head now."
+
+She nods.  Her earlier defiance and anger replaced with determination.  He can see her focus on him, but the slight furrow in her brow tells him she is following his advice and probably thinking of whatever kind of math they taught her in that bunker she grew up in.  
+
+"Aight," he says, "let me get yer door it sticks."  With out waiting he leaned over her purposely passing close by her, his neck just inches from her so she can smell his scent that reminded her of all the wild things that frequented the fairy tales she was fond of as a child.  
+
+She could feel the heavy muscles of his form press against her for a mere moment.  She hadn't expected the sudden proximity and the surge of electricity that course through her her body at the sudden touch caught her breath for a moment, but then she sensed an opportunity and took it, a deft hand and slender fingers removing something from an inner coat pocket  to squirrel it away under her cloak.  A small victory and internal celebration that is just as quickly shattered and ruined when she hears the sudden clicking sounds and feels the cold steel close against her other wrist.
+
+Her head snaps down to see the cuff and chain securing her right arm to the car door interior hand hold.  She grasps the cuffed wrist with her free hand tests the chain, which holds fast against the car door.  She tugs at it several more times understanding turning to rage as she hears the drivers side door open and feels the shifting as Felix steps out of the vehicle.  She turns too late and tries to grasp at him her claws only finding empty air as her new tether prevents her reaching his retreating leg as he steps out of the car.
+
+She seethes looking at her chained arm then back at him as he leans down to look back in at her from outside the car door.
+
+"Sorry Vi.  It's too dangerous I can't let them know about ya."
+
+She stairs mouth agape  unable to respond right away and then she starts to scream with frustration and rage, and he quickly shuts the car door on her to muffle her outside the vehicle, which shakes as she tugs and pulls at the cuffed arm.  
