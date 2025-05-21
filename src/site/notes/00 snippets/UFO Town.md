@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-snippets/ufo-town/","created":"2025-05-15T15:05:48.966-05:00","updated":"2025-05-20T12:51:23.555-05:00"}
+{"dg-publish":true,"permalink":"/00-snippets/ufo-town/","created":"2025-05-15T15:05:48.966-05:00","updated":"2025-05-21T13:16:04.682-05:00"}
 ---
 
 # UFO Town
@@ -43,7 +43,7 @@ She throws her head back purposely looking away from this infuriating creature b
 
 She stares out the window for a long moment before her shoulders relax slightly and she turns back to him.  "Fine. But once this is done we waste no more time. We go strait to these *trackers* of yours, every moment wasted is another my sister is in danger."
 
-He sighs with a measure of relief.  "Deal, but I need ya to promise me you will do what I say in here."
+He sighs with a measure of relief.  "Deal, but I need ya to promise me you will listen ta me in here."
 
 Her eyes narrow again dangerously she senses a trick but sees no other option with out wasting more time arguing.  She won't blindly follow his orders no matter what she swears or promises, but if it will get them moving towards rose she will placate him.  For now.  So, she crosses the fingers of her left hand hidden beneath her folded arms before saying, "I promise." 
 
@@ -85,3 +85,33 @@ He mumbles to himself as he continues his hunt and eventually finds what he is l
 "The.. Payload?"  she raises a hooded eyebrow. 
 
 "yeah its what they hired me ta bring em'."  He replies as though that answers her question, and before she raise it again he is examining her and reaches to make a minute adjustment to her hood. She reflexively pulls back and bats at his hand with annoyance. "Good he says. keep that up and I need ya to wait here in the car I wont be long."
+
+Her eyes widen then narrow dangerously; her lips form a thin unamused line and the subtle way her jaw shifts suggest the grinding of teeth beneath them. He braces himself the impact as the tide of her defiance begins to swell and threaten to break over the levies of reason.  He leans back and throws up his hands in a placating gesture. 
+
+"I won't be long and I need ya ta stay here these people are dangerous Vi."
+
+"No." her reply is several octaves lower and many decibels quieter than he was expecting, but the stubborn defiance and finality is there none the less,  "I'll wear your stupid cloak, but I refuse to be left behind while you blunder about and waste time."  She unclicks her seatbelt then folds her arms across her chest staring at him with a resolute finality.
+
+He takes a moment and chokes back his own frustration and exhales a long breath struggling to hold onto calm reason hoping against odds it can win out in the end.  
+
+"Vi..." he stretches out her name as though it might reach her better if he spoke slowly and deliberately.. he locks his mismatched eyes with her own the pleading, borderline desperate appeal writ large on his features, "Vi you promised you'd listen and I mean it when I say its not safe.  I need ya ta stay here." 
+
+His seemingly sincere plea catches her off guard, she too had braced for another fight, but this look of his, so at odds with usual smarmy self, gave her a moments pause, and in that sweetest of moments he thought he had reached her maybe, he had won out and she would listen, but it quickly passed and she turned her head away from him with a huff.
+
+"I promised I'd *listen*, not that I'd follow all your orders. And I *will not* sit around waiting for you to solve all my problems like some helpless maiden."  She tilts her head back imperiously pointing her nose towards the heavens her hood falling back with the motion.  "I can handle my self better than you ever could, so not taking me with you to meet these *dangerous people* is putting an unnecessary risk upon your self *mutant*, not *me*.  And I refuse to let you compromise *my* chances to find Rose."
+
+He makes a frustrated noise through gritted sharp teeth then and thinks how much easier it would have been had he just left her in that god forsaken bunker.
+
+"You don't know what yer talkin' about Vi, these guys ain't like yer normal.."
+
+She moves suddenly and with a quickness he didn't expect, her face inches from his own cutting him off with a hissed "No!" Her narrowed eyes lock his in place, "If I hear one more time that I don't know what I'm talking about I will show you how dangerous *I* am."  
+
+He reads the challenge in her eyes and he knows this argument is lost to him. With her face so close to his he can smell the sweetness on her breath from the extra honey she added to her morning's oatcakes.  Her cheeks flushed pink with heat and anger and her lips, though drawn in a defiant line were oh so close to his own.  He'd be lying to himself if he didn't find this all more than a little enticing.  
+
+He wondered briefly how she would react if he kissed her then, would she fall into it like they do in the old John Hughes films of another era? Her clenched fists giving way to fumbling hands and hastily discarded clothing? Probably not.  Unfortunate really.  Oh well.  Time for plan B.
+
+He allowed his customary smirk to draw upon his lips then, and his eyes sparkled as he lean back far enough so that his head bumped against the car's window holding both hands out palms up so she can read his retreating expression.  
+
+"All right buttercup.  You win." he says attempting to inject as much frustrating charm as he is able. "You can come with."  
+
+She doesn't trust it at first, not one bit, but she does lean back into her seat again her posture untensing slightly.   
