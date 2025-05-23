@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-snippets/ufo-town/","created":"2025-05-15T15:05:48.966-05:00","updated":"2025-05-21T15:31:34.853-05:00"}
+{"dg-publish":true,"permalink":"/00-snippets/ufo-town/","created":"2025-05-15T15:05:48.966-05:00","updated":"2025-05-23T16:11:04.827-05:00"}
 ---
 
 # UFO Town
@@ -104,7 +104,11 @@ He makes a frustrated noise through gritted sharp teeth then and thinks how much
 
 "You don't know what yer talkin' about Vi, these guys ain't like yer normal.."
 
-She moves suddenly and with a quickness he didn't expect, her face inches from his own cutting him off with a hissed "No!" Her narrowed eyes lock his in place, "If I hear one more time that I don't know what I'm talking about I will show you how dangerous *I* am."  
+She moves suddenly and with a quickness neither he nor the lazing Roswell in her lap expected. She lunged forward one knee resting on the console between them and positioned her face inches from his own cutting him off with a hissed "No!" 
+
+Roswell, ejected from her perch suddenly, retreated into the cavern of junk in the backseat of the car.  Three lamplight eyes could be seen reflecting out from it's recesses. 
+
+Violet narrowed her eyes to lock Felix's in place, "If I hear one more time that I don't know what I'm talking about I will show you how dangerous *I* am."  
 
 He reads the challenge in her eyes and he knows this argument is lost to him. With her face so close to his he can smell the sweetness on her breath from the extra honey she added to her morning's oatcakes.  Her cheeks flushed pink with heat and anger and her lips, though drawn in a defiant line were oh so close to his own. He could hear the accelerated rhythm of her pulse as her adrenaline surged.  He'd be lying to himself if he didn't find this all more than a little enticing.  
 
@@ -153,3 +157,60 @@ She seethes looking at her chained arm then back at him as he leans down to look
 "Sorry Vi.  It's too dangerous I can't let them know about ya."
 
 She stairs mouth agape  unable to respond right away and then she starts to scream with frustration and rage, and he quickly shuts the car door on her to muffle her outside the vehicle, which shakes as she tugs and pulls at the cuffed arm.  
+
+___
+The UFO museum was a boxy unassuming building for the most part, its most distinguishing feature being the faded blue sign labeling it and what remained of the eponymous UFO flying saucer model that had degraded to little more than an odd circular frame.  Like most of the other buildings in downtown UFO town the place looked abandoned.  Several of its windows were boarded over and it was impossible to see past the gloom inside those that weren't.
+
+As Felix approached the buildings front doors he found them to be chained shut. He stood there for a moment and scratched the back of his head.
+
+"Shit" he muttered.
+
+Had he gotten the wrong place. No this is where they said to go.  He glanced back down the road and saw the car had stopped shaking, so Violet must have calmed some, but the last thing we wanted to do was get back in the car and have to tell her he had the wrong address or some shit.  He grabbed the door handles and with a quick rattling shake he found the doors to be locked in addition to very securely chained.
+
+He leaned in then wiped a layer of grime from the glass door and attempted to peer past the gloom inside.  He could make out the vague forms of an empty reception area with ticket counters and gift stands and make out some rotting t-shirts with cartoonish big headed grey men on them, but no signs of movement or anything.
+
+He swore again and decided to knock.  Nothing happened.  He considered taking a chunk of the nearby crumbling asphalt and smashing his way in, but decided that if the lanky's were in there they might consider that an attack.  Maybe he was supposed to go the back door.  They could have told him that. He wasn't lying when he told Violet that talking to them could be disorienting, and even though it didn't seem to affect him as bad as others it did still muddy the sewage. 
+
+He looked back once more towards the car.  The sun was starting to level with and dip below the tops of the buildings and it would be dusk soon.  He wanted to be out of here before dark.
+
+He moved away from the door then intending to follow around the sides of the buildings to its rear when there was a blinding flash of white light from inside.  His eyes squinted to slits and he reflexively threw an arm up against the flash.  He heard the chains on the door unwind themselves and caught a faint whiff of what smelled like burning paper followed by something sickly sweet like a piece of fruit on the edge of rotting. The blinding flash faded slowly and he heard the old doors scrape open then close again before he could properly see. 
+
+Felix blinked several times waiting for the white after image of the sudden flash to fade and he felt their presence before he could clearly see them, the back of his head already starting to buzz and ache.  There were two of them standing before the door, which was chained shut again behind them.  
+
+They were both tall with skin so pale it was almost as white as the light they seemingly emerged from.  They wore crisp black suits cleaned and pressed, completely incongruous with the dirty and broken down environment.  They were nearly identical in appearance; with eyes slightly too big; a nose nearly too small; and their lips were little more than thin lines. To say they were bald was an understatement.  In addition to have no hair on their heads of faces they also had no eyebrows or even eyelashes.  Their limbs, in contrast to their facial features were all just slightly too long.
+
+Only a few things set them apart from one another. One had noticeably bigger ears, which were still too small, while the others ears were so small that they were almost just holes on the side of their head. Their eyes also varied.  One had watery blue eyes that seemed pale against their dark sclera, and others eyes were a darker color over all a rich amber color.  They also each word different black hats.  Blue eyes sported a fedora atop his bald head and the other a bowler style cap.
+
+Fedora spoke first. His voice was deadpan and serious, but there was somethin behind it that almost made it seem as though the air rippled.
+
+"You are the thief. The one called Felix."
+
+Before Felix could respond bowler added in his own buzzing monotone, "I am Mr. Squid and this one is Mr. Athens.  Did you see inside the Garden? Did you go beneath the dirt?"
+
+Mr. Athens nodded, "You are late. You took longer than expected."
+
+Felix blinked again and shook his head in an attempt to clear the sudden wobbly feeling He looked at Athens.  "Yeah, the only thing was rusty from the start.  Everyone in that place was dead... till the corpos showed up that is..." 
+
+Mr. Fish and Mr. Athens both tilted their head simultaneously as they took in his words.  The buzzing in his brain intensified for a moment and Felix choked on his words for a second which caused his words to catch for a moment before he added, "It slowed everything down is all."
+
+Mr. Fish spoke first this time, "Did the death unsettle you? How deep did you dig?"
+
+Mr. Athens followed instantly with, "You retrieved the spine. You completed your part. They weren't all dead."
+
+Mr. Fish, "Why did you say they were all dead? Do lies bring you comfort?"
+
+A bead of sweat rolls into Felix's eye and he wipes it away, taking the opportunity to rube the sides of his temples as well.  Of course they knew about Violet.  Idiot he thinks someone in the town must be reporting to them.  He should have left her in Winnie.  
+
+"The details don't matter.  I got yer spine.  I just want my bolts and you lot will never have ta see my again."
+
+Mr. Athens, "The details matter. We have questions for you both."
+
+Mr. Fish, "Would the bolts set you at ease? Would they help you speak the truth? What else was in the garden?"
+
+Mr. Athens, "The details are important. We will retrieve the spine from your vehicle."
+
+"No, no you don't need ta do that I got it right here."  He pats the interior pocket when he had placed the strange device he was hired to procure for them, and found it flat and empty. "wait.."  He pulls open the coat and sticks his hand in the pocket.  Empty.  He beings desperately checking his other pockets turning them inside out one by one, dropping nothing but lint and empty bullet casings in the process.  "shit its right here."  He cranes his neck rechecking his pockets.. "fuck."
+
+Mr. Fish, "Does the truth frighten you?"
+
+Mr. Athens, "We are retrieving the spine and the other one now.  We are not fools"
