@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/00-snippets/ufo-town/","created":"2025-05-15T15:05:48.966-05:00","updated":"2025-05-23T16:11:04.827-05:00"}
+{"dg-publish":true,"permalink":"/00-snippets/ufo-town/","created":"2025-05-15T15:05:48.966-05:00","updated":"2025-05-27T08:56:33.877-05:00"}
 ---
 
 # UFO Town
-#snippit #husbando
+#snippet #husbando
 
 
 There was next to nothing to see in the badlands.  They had left Winne behind at a place Felix called Cas Apach; when she asked what that meant he shrugged and pointed to the remains of a sign marking the entrance to the joint.  Most of the letters had fallen from it so that only “Cas” and “Apach” remained.
@@ -201,7 +201,7 @@ Mr. Fish, "Why did you say they were all dead? Do lies bring you comfort?"
 
 A bead of sweat rolls into Felix's eye and he wipes it away, taking the opportunity to rube the sides of his temples as well.  Of course they knew about Violet.  Idiot he thinks someone in the town must be reporting to them.  He should have left her in Winnie.  
 
-"The details don't matter.  I got yer spine.  I just want my bolts and you lot will never have ta see my again."
+"The details don't matter.  I got yer *Spine*.  I just want my bolts and you lot will never have ta see my again."
 
 Mr. Athens, "The details matter. We have questions for you both."
 
@@ -209,8 +209,8 @@ Mr. Fish, "Would the bolts set you at ease? Would they help you speak the truth?
 
 Mr. Athens, "The details are important. We will retrieve the spine from your vehicle."
 
-"No, no you don't need ta do that I got it right here."  He pats the interior pocket when he had placed the strange device he was hired to procure for them, and found it flat and empty. "wait.."  He pulls open the coat and sticks his hand in the pocket.  Empty.  He beings desperately checking his other pockets turning them inside out one by one, dropping nothing but lint and empty bullet casings in the process.  "shit its right here."  He cranes his neck rechecking his pockets.. "fuck."
+"No, no you don't need ta do that I got it right here."  He pats the interior pocket when he had placed the strange device he was hired to procure for them, and found it flat and empty. "wait.."  He pulls open the coat and sticks his hand in the pocket.  Empty.  He beings desperately checking his other pockets turning them inside out one by one, dropping nothing but lint and empty bullet casings in the process.  "shit.. its right here."  He cranes his neck rechecking his pockets.. "fuck."
 
 Mr. Fish, "Does the truth frighten you?"
 
-Mr. Athens, "We are retrieving the spine and the other one now.  We are not fools"
+Mr. Athens, "We are retrieving the Spine and the other one now.  We are not fools."

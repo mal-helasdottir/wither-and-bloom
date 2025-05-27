@@ -7,13 +7,13 @@ wither & bloom is a post apocalyptic biopunk scientific romance written by two l
 
 ---
 ## 📌recent page changes
-| page                                                                                 | tags                                         | modified time           |
-| ------------------------------------------------------------------------------------ | -------------------------------------------- | ----------------------- |
-| [[00 snippets/UFO Town\|UFO Town]]                                                | <ul><li>#snippit</li><li>#husbando</li></ul> | 12:51 PM - May 20, 2025 |
-| [[index\|index]]                                                                  | <ul></ul>                                    | 9:03 AM - May 16, 2025  |
-| [[01 inbox/Untitled\|Untitled]]                                                   | <ul></ul>                                    | 4:19 PM - May 15, 2025  |
-| [[07 miscellaneous/a list of literary references\|a list of literary references]] | <ul></ul>                                    | 2:44 PM - May 13, 2025  |
-| [[00 snippets/firsts\|firsts]]                                                    | <ul><li>#snippet</li><li>#waifu</li></ul>    | 11:09 AM - May 12, 2025 |
+| page                                                                                 | tags                                         | modified time          |
+| ------------------------------------------------------------------------------------ | -------------------------------------------- | ---------------------- |
+| [[00 snippets/UFO Town\|UFO Town]]                                                | <ul><li>#snippet</li><li>#husbando</li></ul> | 8:56 AM - May 27, 2025 |
+| [[04 groups/the brotherhood of gnosis\|the brotherhood of gnosis]]                | <ul></ul>                                    | 9:28 AM - May 23, 2025 |
+| [[index\|index]]                                                                  | <ul></ul>                                    | 9:03 AM - May 16, 2025 |
+| [[01 inbox/Untitled\|Untitled]]                                                   | <ul></ul>                                    | 4:19 PM - May 15, 2025 |
+| [[07 miscellaneous/a list of literary references\|a list of literary references]] | <ul></ul>                                    | 2:44 PM - May 13, 2025 |
 
 { .block-language-dataview}
 
