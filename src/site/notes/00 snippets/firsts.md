@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-snippets/firsts/","created":"2025-04-15T11:35:15.046-05:00","updated":"2025-05-29T12:51:06.575-05:00"}
+{"dg-publish":true,"permalink":"/00-snippets/firsts/","created":"2025-04-15T11:35:15.046-05:00","updated":"2025-05-29T14:19:42.682-05:00"}
 ---
 
 # firsts
@@ -192,4 +192,4 @@ she draws tight and tense, as if in anticipation, though for what she knows not.
 
 his hands and lips are all over her, claiming every inch of flesh he's just brought to a screaming peak. "mine" he growls again.
 
-she'd hard at work on the buttons of his shirt, her suit shrinking away to nothingness. she needs to feel him, skin on skin, heat on heat, the scent and taste of him a permanent part of her being.
+she's hard at work on the buttons of his shirt, her suit shrinking away to nothingness. she needs to feel him, skin on skin, heat on heat, the scent and taste of him a permanent part of her being.
