@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-snippets/firsts/","created":"2025-04-15T11:35:15.046-05:00","updated":"2025-05-12T11:09:45.425-05:00"}
+{"dg-publish":true,"permalink":"/00-snippets/firsts/","created":"2025-04-15T11:35:15.046-05:00","updated":"2025-05-29T12:51:06.575-05:00"}
 ---
 
 # firsts
@@ -182,5 +182,14 @@ but then felix led her out of eden. with gentle eyes and smirking fangs he tempt
 
 and she took all he offered greedily, with both hands.
 
-violet is no innocent, but she has never experienced the soft touch of breath upon her spread thighs, with or without the suit. 
+violet is no innocent, but she has never experienced the soft touch of breath upon her spread thighs, with or without the suit. it's intoxicating.
 
+he drags her down, noses her cleft apart, and closes his lips over *something* that sets her ablaze inside and out. she jerks in surprise, hips grinding harder against the beautiful pressure of his mouth, and he responds by locking his arms around her thighs and filling his palms with breasts and ass, tilting her pelvis *just so*. everything throbs, everything burns, she exists only as a heartbeat and an endless spiraling ember directly beneath his kiss.
+
+her fingers are tangling in his hair, then dancing beneath the open collar of his shirt, down his back to skate along lean muscle and puckered scarring. it's less a conscious act and more of a desperate hunt for an anchor against the rising tide within her but felix seems to enjoy it nonetheless. he growls possessively into the heat of her cunt, mouthing her through her suit as if he's starving and she's a banquet.
+
+she draws tight and tense, as if in anticipation, though for what she knows not. she trembles head to toes, as though afraid, but of what? in the end its the vibrations of his growl that shatter her, his throat and lips pressed tight to the very center of that pleasure she'd never known, never experienced. she unravels hard, warmth and release flooding over and through her, insides clenching down on nothing, crying out his name and already greedy for more of this heaven she'd been ignorant of.
+
+his hands and lips are all over her, claiming every inch of flesh he's just brought to a screaming peak. "mine" he growls again.
+
+she'd hard at work on the buttons of his shirt, her suit shrinking away to nothingness. she needs to feel him, skin on skin, heat on heat, the scent and taste of him a permanent part of her being.
