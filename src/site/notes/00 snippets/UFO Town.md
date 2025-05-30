@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-snippets/ufo-town/","created":"2025-05-15T15:05:48.966-05:00","updated":"2025-05-27T08:56:33.877-05:00"}
+{"dg-publish":true,"permalink":"/00-snippets/ufo-town/","created":"2025-05-15T15:05:48.966-05:00","updated":"2025-05-30T10:07:43.922-05:00"}
 ---
 
 # UFO Town
@@ -185,32 +185,57 @@ Fedora spoke first. His voice was deadpan and serious, but there was somethin be
 
 "You are the thief. The one called Felix."
 
-Before Felix could respond bowler added in his own buzzing monotone, "I am Mr. Squid and this one is Mr. Athens.  Did you see inside the Garden? Did you go beneath the dirt?"
+Before Felix could respond bowler added in his own buzzing monotone, "I am Mr. Fish and this one is Mr. Athens.  Did you see inside the Garden? Did you go beneath the dirt?"
 
 Mr. Athens nodded, "You are late. You took longer than expected."
 
-Felix blinked again and shook his head in an attempt to clear the sudden wobbly feeling He looked at Athens.  "Yeah, the only thing was rusty from the start.  Everyone in that place was dead... till the corpos showed up that is..." 
+Felix blinked again and shook his head in an attempt to clear the sudden wobbly feeling He looked at Athens.  "Yeah, the whole thing was rusty from the start.  Everyone in that place was dead... till Corsec showed up that is..." 
 
-Mr. Fish and Mr. Athens both tilted their head simultaneously as they took in his words.  The buzzing in his brain intensified for a moment and Felix choked on his words for a second which caused his words to catch for a moment before he added, "It slowed everything down is all."
+Mr. Fish and Mr. Athens both tilted their head simultaneously as they took in his words.  The buzzing in his brain intensified for a moment and Felix choked on his words for a for a moment before he forced out, "It slowed everything down is all."
 
 Mr. Fish spoke first this time, "Did the death unsettle you? How deep did you dig?"
 
-Mr. Athens followed instantly with, "You retrieved the spine. You completed your part. They weren't all dead."
+Mr. Athens followed instantly with, "You retrieved the Spine. You completed your part. They weren't all dead."
 
 Mr. Fish, "Why did you say they were all dead? Do lies bring you comfort?"
 
-A bead of sweat rolls into Felix's eye and he wipes it away, taking the opportunity to rube the sides of his temples as well.  Of course they knew about Violet.  Idiot he thinks someone in the town must be reporting to them.  He should have left her in Winnie.  
+A bead of sweat rolls into Felix's eye and he wipes it away, taking the opportunity to rub the sides of his temples as well.  Of course they knew about Violet.  Idiot he thinks someone in the town must be reporting to them.  He should have left her in Winnie.  
 
 "The details don't matter.  I got yer *Spine*.  I just want my bolts and you lot will never have ta see my again."
 
 Mr. Athens, "The details matter. We have questions for you both."
 
-Mr. Fish, "Would the bolts set you at ease? Would they help you speak the truth? What else was in the garden?"
+Mr. Fish, "Would the bolts set you at ease? Would they help you speak the truth? What else was in the Garden?"
 
-Mr. Athens, "The details are important. We will retrieve the spine from your vehicle."
+Mr. Athens, "The details are important. We will retrieve the Spine from your vehicle."
 
-"No, no you don't need ta do that I got it right here."  He pats the interior pocket when he had placed the strange device he was hired to procure for them, and found it flat and empty. "wait.."  He pulls open the coat and sticks his hand in the pocket.  Empty.  He beings desperately checking his other pockets turning them inside out one by one, dropping nothing but lint and empty bullet casings in the process.  "shit.. its right here."  He cranes his neck rechecking his pockets.. "fuck."
+"No, no you don't need ta do that I got it right here."  He pats the interior pocket where he had placed the strange device he was hired to procure for them, and found it flat and empty. "wait.."  He pulls open the coat and sticks his hand in the pocket.  Empty.  He desperately checks his other pockets turning them inside out one by one, dropping nothing but lint and ceramic bullet casings in the process.  "shit.. its right here."  He cranes his neck rechecking his pockets.. "fuck."
+
+An intense pain the back of his mind and a sudden dizziness causes him to stagger and lose all focus on his frantic search, he looks back up at the lanky boys, their expressionless stairs boring into him.  Mr. Athen's lips move but sound comes from his partner. 
 
 Mr. Fish, "Does the truth frighten you?"
 
-Mr. Athens, "We are retrieving the Spine and the other one now.  We are not fools."
+ Felix's brain continues to skip like a scratched record as Mr. Fish's mouth now moves but he hears Mr. Athens, "We are retrieving the Spine and the survivor now.  We are not fools."
+ 
+ "Fuck." He mutters again.  He starts to turn back towards the car.  The stench of overripe fruit intensifies then and his head explodes with throbbing waves of pain causing him to stumble and lose his footing. His ears fill with a prolonged ring as his knees hit the dirty concrete he catches a glimpse of the shadowed forms surrounding the car before things go suddenly black.
+ 
+ ---
+ Violet's wrist had started to bleed from her pulling and thrashing at the cuffs.  This finally caused the suit to react.  It covered her exposed flesh protecting it from the *plasteel* loop binding it while also numbing and sewing the wound shut.  If she had full control she could have escaped this frustrating vehicle in a number of ways.  The suit could easily swell around her wrist expanding until the cuff broke, or form into miniscule tendrils and manipulate the tumblers inside the locking mechanism.  Picking locks has been one of Rose's favorite past times in the Garden, and when they discovered the suit could be used to do it easier than grown finger nails or hair pins could there was nary a lock that could prevent them access.
+ 
+ The numbing sensation in her wrist calmed her momentarily, and she stopped her thrashing and she tried to slow her breathing.  She tried once again to will the suit to expand around her injured wrist or form into a protective bone covering, but it failed to heed her.  The skin suit would only act as the Spine saw fit, no neural commands or reasonings would influence it locked down as it was. 
+
+She screamed then in frustration and thrashed against her cuffs again with renewed vigor.  The fit was short lived this time, and because her wrist and most of her left hand was now covered by the suit, it not longer even hurt her to struggle, which made the whole thing feel even more pointless.
+
+Stop.  She focuses on slowing her breath and closes her eyes remembering the calming techniques Dr. Elliston insisted she practice.  She counted down from ten slow, each number a breath.  By the time she reached one her breathing was slow and steady.  She opened her eyes determined.  She remembered the package she stole from Felix and pulled it from beneath her cloak. It was fist size bundle wrapped in a well used grease towel.  It had some heft to it and she could feel sharp edges trying to poke out beneath the fabric.
+
+Unwrapping it nearly threw her into another rageful fit of thrashing.  He was a fucking rat and a thief.  He had a stolen a Spine.  It was offline and wrapped neatly into a ball looking like a curled pill bug made of gold and plasteel.  She could see the small glass windows at each section filled with the black skin that would form the suit once the Spine was grafted to it's host.  
+
+This was the proprietary technology of The Holy Empire of Zion.  A prototype lovingly crafted and developed for the patrons and employees of Zion and those who could one day hope to afford it's luxury, and he had pilfered it.  He wanted to trade it, probably to some rival corporation's spies no less, for something as banal as *bolts*?  Not even credits or scrip?  He was also an idiot.  And he would pay for his transgressions when she was free.
+
+Free.  She looked down at the cuffs again, testing them once more and hissing like a feral cat.  She didn't lose herself again though and instead took stock.
+
+She had three small seeds safely held in a hidden pocket at the base of her neck in the suit.  If she withered all three she could gain enough strength to break the cuffs, but then she would have no reserves.  This is a last resort.  There must be something in this car she could use...
+
+A subtle shifting sound and movement caught her attention she looked back and saw that the not cat thing... Roswell he had called it had relocated itself to atop a pile of old blankets and junk behind the driver's seat.  It had lifted one of his six hind legs high and strait behind its head and was cleaning itself. 
+
+This was her answer.  If she could reach the not-cat she could wither it and and escape and probably still have plenty of strength leftover for when she confronted Felix and the rival corporate spies he was meeting.  She would probably kill the creature in the process, a thought that gave her a slight pause, but not a big enough one to sway her path.  
