@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-snippets/ufo-town/","created":"2025-05-15T15:05:48.966-05:00","updated":"2025-05-30T10:07:43.922-05:00"}
+{"dg-publish":true,"permalink":"/00-snippets/ufo-town/","created":"2025-05-15T15:05:48.966-05:00","updated":"2025-05-30T13:10:46.643-05:00"}
 ---
 
 # UFO Town
@@ -234,8 +234,40 @@ This was the proprietary technology of The Holy Empire of Zion.  A prototype lov
 
 Free.  She looked down at the cuffs again, testing them once more and hissing like a feral cat.  She didn't lose herself again though and instead took stock.
 
-She had three small seeds safely held in a hidden pocket at the base of her neck in the suit.  If she withered all three she could gain enough strength to break the cuffs, but then she would have no reserves.  This is a last resort.  There must be something in this car she could use...
+She had three small seeds safely held in a hidden pocket at the base of her neck in the suit.  If she Withered all three she could gain enough strength to break the cuffs, but then she would have no reserves.  This is a last resort.  There must be something in this car she could use...
 
 A subtle shifting sound and movement caught her attention she looked back and saw that the not cat thing... Roswell he had called it had relocated itself to atop a pile of old blankets and junk behind the driver's seat.  It had lifted one of his six hind legs high and strait behind its head and was cleaning itself. 
 
-This was her answer.  If she could reach the not-cat she could wither it and and escape and probably still have plenty of strength leftover for when she confronted Felix and the rival corporate spies he was meeting.  She would probably kill the creature in the process, a thought that gave her a slight pause, but not a big enough one to sway her path.  
+This was her answer.  If she could reach the not-cat she could Wither it and and escape and probably still have plenty of strength leftover for when she confronted Felix and the rival corporate spies he was meeting.  She would probably kill the creature in the process, a thought that gave her a slight pause, but not a big enough one to sway her path.  
+
+She reached for the not-cat suddenly thinking speed and surprise her ally in this instant.  Her bonds saw that it wasn't she snapped to the end of her tether her finger tips barely grazing the soft fur of one leg and her right arm banging and grazing against the junk between herself and the creature.  Something clattered to the floor dislodged and a few other suddenly loose objects follow it with a tumbling glee.  The ecosystem of this rear seat was fragile and prone to shifting.  
+
+For its part Roswell barely reacted to the sudden movement, deeming it necessary to only turn one pair of ears towards Violet as it continued to clean it's nether regions.  The rhythmic lapping of tongue against fur returning once the junk resettled.  Violet stretched her fingers pulling against the bonds hard. She could feel the suit react in protest by thickening slightly around her wrist to prevent the cuff biting in again and undoing its hard work.  The tips of her fingers felt fur again.  The not-cat was tantalizingly close, but she couldn't quite touch it's flesh, which she needed to do in order to attempt to Wither it. The light brushing of fur must of have annoyed the creature because it paused its cleaning to shift back a millimeter putting even its black fur out of reach.  It resumed cleaning it self, moving on to one of its middle leg haunches.  Three ears now pointed in Violet's direction.
+
+She grunted with frustration and leaned back into her seat.  If speed and surprise failed her she would have to try subterfuge.  This was always Rose's forte, but how difficult could it be to trick a dumb beast such as this?  She sat forward and took a deep breath putting on the sweetest of looks she could muster.  She held her right hand out then palm up in a supplicating gesture.  
+
+"Roswell, come please."  she rubbed her fingers together then and did her best to recreate the *pss pss* noise she had heard Felix would make before feeding her.  
+
+A small smile of triumph crossed her face when the not-cat paused its cleaning to lift its head in her direction.  Two of its three lamplight eyes, one yellow the other blue at the moment looked her in the eyes and slowly blinked.  The third eye atop its forehead remained closed for now.  
+
+"Come on.  come see me." she maintained a sing-song voice as she spoke to the beast feeling her triumph at hand.
+
+It blinked again, but didn't move.
+
+She rubbed her thumb and fingers together again making the same *pss pss* noise.
+
+"Come on you stupid thing" she sang her teeth gritting together with growing impatience now.
+
+Roswell simply tilted its head and bleped out its tongue at her in a gesture she found quite foolish and would have ridiculed if she weren't so desperate.
+
+"Come here you idiot... please come here," desperation and frustration filtered through her gritted teeth and inter her voice the sing song quality gone.  Roswell blinked again then tilted its head further so that it was disturbingly almost completely upside down.  It's too long tongue still hanging from its mouth flipped upside down as well revealing an underside repleat with small succors not unlike an octopus's tentacles
+
+She cringed pulling back instinctively with a revolted grunt.  "What are you!  You are not a cat!" She exclaimed.
+
+Subterfuge would obviously not work.  So instead she would use something to pull the creature closer to her.  She put her hand on the haft of the bone spear that laid across the back of the seat thinking she could either manuever it close enough for her to grab or, skewer the damn thing and bring it before her like a cut of synthmeat steak on the end of a really long fork. 
+
+Roswell's head swiveled suddenly back upright though and its third eye, the crimson one, shot open.   Had it somehow intuited her intent?  She noticed too then that an eye on the right forearm of he suit had opened as well, it was looking past her towards the pasenger side window behind her and she was suddenly flooded with warning.  The not-cat thing disappeared then, slinking somewhere into the junk piled in the back seat completely out of sight.
+
+"no no no no no... Shit!" She swore then forgetting the warning eye and tried to shift some more of the junk aside hoping to spot black fur again.  
+
+She muttered and cursed more shifting junk and half finished devices aside until there was a sharp knock at the window behind her.
