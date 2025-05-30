@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-snippets/ufo-town/","created":"2025-05-15T15:05:48.966-05:00","updated":"2025-05-30T13:10:46.643-05:00"}
+{"dg-publish":true,"permalink":"/00-snippets/ufo-town/","created":"2025-05-15T15:05:48.966-05:00","updated":"2025-05-30T13:12:13.958-05:00"}
 ---
 
 # UFO Town
@@ -264,7 +264,7 @@ Roswell simply tilted its head and bleped out its tongue at her in a gesture she
 
 She cringed pulling back instinctively with a revolted grunt.  "What are you!  You are not a cat!" She exclaimed.
 
-Subterfuge would obviously not work.  So instead she would use something to pull the creature closer to her.  She put her hand on the haft of the bone spear that laid across the back of the seat thinking she could either manuever it close enough for her to grab or, skewer the damn thing and bring it before her like a cut of synthmeat steak on the end of a really long fork. 
+Subterfuge would obviously not work.  So instead she would use something to pull the creature closer to her.  She put her hand on the haft of the bone spear that laid across the back of the seat thinking she could either maneuver it close enough for her to grab or, skewer the damn thing and bring it before her like a cut of synthmeat steak on the end of a really long fork. 
 
 Roswell's head swiveled suddenly back upright though and its third eye, the crimson one, shot open.   Had it somehow intuited her intent?  She noticed too then that an eye on the right forearm of he suit had opened as well, it was looking past her towards the pasenger side window behind her and she was suddenly flooded with warning.  The not-cat thing disappeared then, slinking somewhere into the junk piled in the back seat completely out of sight.
 
