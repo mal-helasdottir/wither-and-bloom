@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-snippets/firsts/","created":"2025-04-15T11:35:15.046-05:00","updated":"2025-05-30T14:40:40.211-05:00"}
+{"dg-publish":true,"permalink":"/00-snippets/firsts/","created":"2025-04-15T11:35:15.046-05:00","updated":"2025-05-30T16:40:42.175-05:00"}
 ---
 
 # firsts
@@ -195,3 +195,6 @@ his hands and lips are all over her, claiming every inch of flesh he's just brou
 she's hard at work on the buttons of his shirt, her suit shrinking away to nothingness. she needs to feel him, skin on skin, heat on heat, the scent and taste of him a permanent part of her being.
 
 #### *felix* --
+gentle tugs bring him back up onto the bed beside her and small gentle fingers push his shirt off his shoulders. he holds her close, she fits against him perfectly. as if they were forged by the gods as one being, which was then split into two. 
+
+she traces softly over his chest and he shivers, but never takes his mouth from her skin. skin now delightfully bare beneath his own hands, the silk of her flesh rasping beneath ragged calluses as he races to claim what is now his by touch and taste. he pulls away as his thumbs circle the stiffened peaks of her breasts, a mouthwatering shade of caramel against the gold.
