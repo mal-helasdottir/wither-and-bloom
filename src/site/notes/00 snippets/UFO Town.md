@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-snippets/ufo-town/","created":"2025-05-15T15:05:48.966-05:00","updated":"2025-05-30T13:12:13.958-05:00"}
+{"dg-publish":true,"permalink":"/00-snippets/ufo-town/","created":"2025-05-15T15:05:48.966-05:00","updated":"2025-06-12T12:04:09.033-05:00"}
 ---
 
 # UFO Town
@@ -271,3 +271,21 @@ Roswell's head swiveled suddenly back upright though and its third eye, the crim
 "no no no no no... Shit!" She swore then forgetting the warning eye and tried to shift some more of the junk aside hoping to spot black fur again.  
 
 She muttered and cursed more shifting junk and half finished devices aside until there was a sharp knock at the window behind her.
+
+She froze then, She felt an eye in the suit open at the back of her neck.  The stupid poncho that idiot mutant made her wear insured it was covered and thus blind to whoever was at the car's window.  The knock rang out again and she jumped and then sild back into her seat the taught chain of the cuffs relaxing as she turned to look out. 
+
+A tall slender person had peered over to look through the window, their eyes just a little too wide and a little too black, greyish white only bleeding from the black at their very edges and corners.  They reflected funnily through the glass.  She, or at least Violet thought she looked mostly like a she, blinked and tilted her head.  She was bald but the dome of her pallid skull was covered by a black wide brimmed hat.  Her nose was to small and so upturned she could clearly see up the nostrils.  \
+
+Her thin pallid lips parted and violet heard, "This one introduces themself as  Ms. Smile."  
+
+The lips then took on the vague approximation of a *smile* as though it was punctuating the thought.  It was really a formation lost somewhere between a grimace and a smile though and gesture never touched those black eyes.  Rather than reassure it sent a cold shiver down violet's back.  
+
+"Who does this one have the pleasure of speaking with?"  As the words reached Violet she noticed the *smile* never left the lips of Ms. Smile. and despite speaking through a closed door and window the voice was clear and unmuffled as though Ms. Smile was speaking directly into her mind. A dull ring accompanied the words and Violet felt as though she was viewing things through a sudden fog.  She should answer Ms. Smile.  She wanted to but her tongue was suddenly thick and dry like she had stuffed her mouth full of cotton.  She tried to speak her name but mumbled thickly.
+
+"Ms. Violet.  That is a pretty name.  You should come with me now."
+
+The ringing intensified and she found herself fumbling with the door.  She dimly remembered talk of math and distractions but it slipped away.  She dumbly pulled at the door handle which did nothing.  She had to get the door open though she couldn't keep Ms. Smile waiting.  She tried pressing buttons unaware of the others now standing around the car.  A trickle of blood runs from each nose and both ears.
+
+There is a sudden a jolt in her spine.  The suit sensing the intrusion finally reacted.  The fog cleared momentarily with the sudden pain and the black flesh covering her expanded wrapping her bare feet and hands and finally her entire head. After a moment boney protrusions formed a skull like mask similar to that of a jack rabbit over her face.  She stared out through the empty sockets her mind clearing and she is able to fully take in her surroundings.  There were three other figures around the car now, similar in look to Ms. Smile  They all wore back suits, were bald and wearing black hats of varying styles.
+
+Ms. Smile continues to *smile*. "This one Ms. Violet wears the flesh.  Interesting."  Ms. Smile straitens then, no longer leaning to look into the window, and the others do the same.  The glass of the windows and windshield begins vibrating and hums and then then all at once all the glass in the car explodes inward shattering into a million shards.
