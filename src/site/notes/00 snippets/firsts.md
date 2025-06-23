@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-snippets/firsts/","created":"2025-04-15T11:35:15.046-05:00","updated":"2025-06-23T10:37:44.528-05:00"}
+{"dg-publish":true,"permalink":"/00-snippets/firsts/","created":"2025-04-15T11:35:15.046-05:00","updated":"2025-06-23T13:10:04.344-05:00"}
 ---
 
 # firsts
@@ -199,4 +199,8 @@ gentle tugs bring him back up onto the bed beside her and small gentle fingers p
 
 she traces softly over his chest and he shivers, but never takes his mouth from her skin. skin now delightfully bare beneath his own hands, the silk of her flesh rasping beneath ragged calluses as he races to claim what is now his by touch and taste. he pulls away as his thumbs circle the stiffened peaks of her breasts, a mouthwatering shade of caramel against the gold.
 
-he trails lower with kisses and licks, starving for another taste, another touch. his tongue flickers over the thin skin of her hipbone, cements his intent his gentle teeth, then soothes with a soft kiss. her breathing turns ragged, shallow, and she arches up against his mouth, nails sliding over his scalp and sending tremors straight to his aching cock.
+her fingers slide further, down the line of dark hair on his belly, searching. she fumbles with the fastenings of his trousers when he closes his lips on one nipple to lave it with his tongue. "felix," she whimpers, working hard enough at the buttons that he briefly wonders if she'll just pop them right off, but at that moment they give way. the heavy heat of him in her soft hands, the full length caressed and stroked and he's so fucking maddeningly close already.
+
+"vi," he grunts in warning, distracting her by trailing lower with kisses and licks, starving for another taste, another touch. his tongue flickers over the thin skin of her hipbone, cements his intent his gentle teeth, then soothes with a soft kiss. her breathing turns ragged, shallow, and she arches up against his mouth, nails sliding over his scalp and sending tremors straight to his neglected, aching cock.
+
+he flips them. settling her sweet thighs against his ears, pressing her cunt flush to his lips, he draws his long tongue shamelessly over all the hot wetness he finds at her core. over delicate folds, back and forth across her sensitive apex, dipping inside her before circling back around to that throbbing little clit and tracing mindless shapes.
