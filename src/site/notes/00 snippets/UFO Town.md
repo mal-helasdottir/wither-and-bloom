@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-snippets/ufo-town/","created":"2025-05-15T15:05:48.966-05:00","updated":"2025-06-12T14:22:28.077-05:00"}
+{"dg-publish":true,"permalink":"/00-snippets/ufo-town/","created":"2025-05-15T15:05:48.966-05:00","updated":"2025-06-23T17:51:11.627-05:00"}
 ---
 
 # UFO Town
@@ -289,3 +289,47 @@ The ringing intensified and she found herself fumbling with the door.  She dimly
 There is a sudden a jolt in her spine.  The suit sensing the intrusion finally reacted.  The fog cleared momentarily with the sudden pain and the black flesh covering her expanded wrapping her bare feet and hands and finally her entire head. After a moment boney protrusions formed a mask similar to that of a jack rabbit's skull over her face.  She stared out through the empty sockets her mind clearing and she is able to fully take in her surroundings.  There were three other figures around the car now, similar in look to Ms. Smile  They all wore back suits, were bald and wearing black hats of varying styles.
 
 Ms. Smile continues to *smile*. "This one Ms. Violet wears the flesh.  Interesting."  Ms. Smile straitens then, no longer leaning to look into the window, and the others do the same.  The car windows and windshield begins vibrating and hums and then then all at once all the glass explodes inward shattering into a million shards.
+
+---
+
+Felix grasp at his consciousness like a toddler reaches for a favorite toy placed just out of reach.  The tips of his fingers brush against it causing swirls of color and intense pain to break up the lulling black.  In these moments his brain feels as though it is being crushed into a fine paste and extruded out through every hole in his head.  It would be easier to just accept the black.  That won't happen though.  He's too stubborn for it.  He can't remember exactly why he needs to be awake at the moment but once he does remember, he is sure he will be pissed about it. 
+
+Colors dance again and the brain crushing feeling stars to slacken for a moment.  A long enough moment for his eyes to flutter open slightly his head is against the road, coppery blood from his nose, eyes, and ears mixing with gravel and dirt.  His awareness is still fuzzy and the eyes flutter closed again.  He needs to refocus.  He needs something to pull him the rest of the way. He finds he can work his jaw some now and so he does shifting it about against the road until he feels his teeth part enough to allow his tongue to slip between them.  He bites down then his razer sharp fangs easily puncturing and tearing through the fleshy tongue filling his mouth with pain and blood.  
+
+Delightful physical pain, it snaps his sense back into place.  He fog lifts and  his eyes open. He remembers Vi and the trap laid by the lankys.  He was pissed.  
+
+He he doesn't move yet though, he squints his eyes open enough in time to see the dress shoes of Mr. Athens or Mr. Fish lift from the pavement before him to step over his prone form.  The throbbing in his head has reduced to a dull ache.  They seem to think they've got him in hand and are probably now going to go help the others that were surrounding his car and violet.  He waits until he hears the crunch of their receding foot steps before he moves to stand.
+
+He wipes the blood and dirt from his face smearing it more than cleaning anything then he loudly hawks and spits out a gob of blood.  
+
+Mr. Fish noticed the sound and turned back around to face Felix.  He tilts his head and Felix hears the question pass through his tormented brain even though the tall man's lips never part.
+
+"How are you still standing?"
+
+His injured tongue is swollen throbbing in his mouth.  He is pretty sure he swallowed part of it, but Felix grins anyways revealing sharp bloodied teeth.
+
+"Thaths' nuthphin, "  he stumbles over his on injured tongue.  "ith'll thake more than fath ta puth down ole Thel."  
+
+Mr. Athen turns around as well then. Felix can see past them to the others surrounding his car.  Three of them at least.  One of them seems to be looking in the front passenger side window.  Probably and Violet.  
+
+"You're certainly a resilient sort.  More than we would have expected of a mutant thief.  We will have to study you."
+
+"Fucth you" He spits again and starts forward.
+
+The black clad men don't react, they simply stare at him as though he were little more than a petulant child.  He feel their attack on his mind renew, but he is ready for it this time.  As he continues to close the distance between himself and the two lanky boys he suddenly and violently slams his right fist against his own skull.  The men in black flinch and he stumbles forward hazy more from his own self inflicted blow than their mental assault, which has once again abated with their confusion.  
+
+Felix stumbles and staggers into Mr. Athens and the tall man is forced to stead him to prevent them both tumbling to the ground.  A quick and clever hand finds itself inside the man's jacket. A hand closing around a holstered side arm hidden beneath it.  He pull it out.  The small sleek pistol feels way too light and he worries the damn thing isn't loaded, but the dice are cast now and if they come up snake eyes there is no stopping it now.  
+
+Before Athens can react or realize what is going on the nose of the gun is pressed beneath his chin.  "Sthuda justh given me my bolths" Felix pulls the trigger.  
+
+He expected a deafening bang, and to be covered in Athen's blood, but instead there was a much more subtle thwhiping noise and the smell of burnt flesh and ozone.  A clean hole is burned through the front of Athen's face as the blasting bolt of emerald energy sails away into the sky.  The lanky then collapses at Felix's feet.
+
+Mr. Fish, perhaps stunned by the sudden turn of events doesn't react as Felix turns the strange pistol towards him pulling the trigger three times in quick succession; green bolts lit the air between them burning three holes into the tall man's chest.  He falls down beside Mr. Athens not moving.
+
+Felix then tilts the small pistol towards himself admiring its sleek curved design and shined metal whose surface seemed to shine with iridescence colors almost as he tilted it back and forth in the setting sun.  He also marveled at how impossibly light it was again.  He'd have thought it a child's toy if it hadn't just done what it did.  
+
+"Well Shith"
+
+The admiration of his new favorite side arm is interrupted when he hears all the glass on his car suddenly Shatter.
+
+---
