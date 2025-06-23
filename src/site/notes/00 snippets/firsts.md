@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-snippets/firsts/","created":"2025-04-15T11:35:15.046-05:00","updated":"2025-05-30T16:40:42.175-05:00"}
+{"dg-publish":true,"permalink":"/00-snippets/firsts/","created":"2025-04-15T11:35:15.046-05:00","updated":"2025-06-23T10:37:44.528-05:00"}
 ---
 
 # firsts
@@ -161,7 +161,7 @@ beneath his palms, the suit begins to slide away, the pale gold of her skin appe
 
 he bends, placing a kiss at the hollow of her throat before whispering, "leave it on for a bit longer."
 
-her high cheekbones and the bridge of her nose turn a becoming pink beneath the new freckles she's gained from the countless hours they've spent roaming the wastes together. she's not just pretty-- but beautiful--and it takes his fucking breath away, his stupid leaping pulse ratcheting up even faster. how he hears her soft question of *why* through the roaring in his brain he'll never know. "i've heard it's fun that way," he grins, "plus i wanna unwrap ya real slow later, like a present." 
+her high cheekbones and the bridge of her nose turn a becoming pink beneath the new freckles she's gained from the countless hours they've spent roaming the wastes together. she's not just pretty--but beautiful--and it takes his fucking breath away, his stupid leaping pulse ratcheting up even faster. how he hears her soft question of *why* through the roaring in his brain he'll never know. "i've heard it's fun that way," he grins, "plus i wanna unwrap ya real slow later, like a present." 
 
 his sharp teeth graze over her suit covered breast and oh martyrs the *noise* she makes, all drawn out and helpless, breathy and moaning, her hips rolling in a slow mindless grind against his thigh. then she says his name like that too.
 
@@ -198,3 +198,5 @@ she's hard at work on the buttons of his shirt, her suit shrinking away to nothi
 gentle tugs bring him back up onto the bed beside her and small gentle fingers push his shirt off his shoulders. he holds her close, she fits against him perfectly. as if they were forged by the gods as one being, which was then split into two. 
 
 she traces softly over his chest and he shivers, but never takes his mouth from her skin. skin now delightfully bare beneath his own hands, the silk of her flesh rasping beneath ragged calluses as he races to claim what is now his by touch and taste. he pulls away as his thumbs circle the stiffened peaks of her breasts, a mouthwatering shade of caramel against the gold.
+
+he trails lower with kisses and licks, starving for another taste, another touch. his tongue flickers over the thin skin of her hipbone, cements his intent his gentle teeth, then soothes with a soft kiss. her breathing turns ragged, shallow, and she arches up against his mouth, nails sliding over his scalp and sending tremors straight to his aching cock.

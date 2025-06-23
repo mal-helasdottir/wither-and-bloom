@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-snippets/ufo-town/","created":"2025-05-15T15:05:48.966-05:00","updated":"2025-06-12T12:05:10.027-05:00"}
+{"dg-publish":true,"permalink":"/00-snippets/ufo-town/","created":"2025-05-15T15:05:48.966-05:00","updated":"2025-06-12T14:22:28.077-05:00"}
 ---
 
 # UFO Town
@@ -284,8 +284,8 @@ The lips then took on the vague approximation of a *smile* as though it was punc
 
 "Ms. Violet.  That is a pretty name.  You should come with me now."
 
-The ringing intensified and she found herself fumbling with the door.  She dimly remembered talk of math and distractions but it slipped away.  She dumbly pulled at the door handle which did nothing.  She had to get the door open though she couldn't keep Ms. Smile waiting.  She tried pressing buttons unaware of the others now standing around the car.  A trickle of blood runs from each nose and both ears.
+The ringing intensified and she found herself fumbling with the door.  She dimly remembered talk of math and distractions but it slipped away.  She dumbly pulled at the door handle which did nothing.  She had to get the door open though she couldn't keep Ms. Smile waiting.  She tried pressing buttons unaware of the others now standing around the car.  A trickle of blood runs from each of her nostrils and both ears.
 
 There is a sudden a jolt in her spine.  The suit sensing the intrusion finally reacted.  The fog cleared momentarily with the sudden pain and the black flesh covering her expanded wrapping her bare feet and hands and finally her entire head. After a moment boney protrusions formed a mask similar to that of a jack rabbit's skull over her face.  She stared out through the empty sockets her mind clearing and she is able to fully take in her surroundings.  There were three other figures around the car now, similar in look to Ms. Smile  They all wore back suits, were bald and wearing black hats of varying styles.
 
-Ms. Smile continues to *smile*. "This one Ms. Violet wears the flesh.  Interesting."  Ms. Smile straitens then, no longer leaning to look into the window, and the others do the same.  The glass of the windows and windshield begins vibrating and hums and then then all at once all the glass in the car explodes inward shattering into a million shards.
+Ms. Smile continues to *smile*. "This one Ms. Violet wears the flesh.  Interesting."  Ms. Smile straitens then, no longer leaning to look into the window, and the others do the same.  The car windows and windshield begins vibrating and hums and then then all at once all the glass explodes inward shattering into a million shards.
