@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-snippets/ufo-town/","created":"2025-05-15T15:05:48.966-05:00","updated":"2025-06-23T17:53:07.652-05:00"}
+{"dg-publish":true,"permalink":"/00-snippets/ufo-town/","created":"2025-05-15T15:05:48.966-05:00","updated":"2025-06-23T17:54:08.214-05:00"}
 ---
 
 # UFO Town
@@ -308,7 +308,7 @@ Mr. Fish noticed the sound and turned back around to face Felix.  He tilts his h
 
 His injured tongue is swollen throbbing in his mouth.  He is pretty sure he swallowed part of it, but Felix grins anyways revealing sharp bloodied teeth.
 
-"Thaths' nuthphin, "  he stumbles over his on injured tongue.  "ith'll thake more than fath ta puth down ole Thel."  
+"Thaths' nuthphin, "  he stumbles over his injured tongue.  "ith'll thake more than fath ta puth down ole Thel."  
 
 Mr. Athen turns around as well then. Felix can see past them to the others surrounding his car.  Three of them at least.  One of them seems to be looking in the front passenger side window.  Probably and Violet.  
 
