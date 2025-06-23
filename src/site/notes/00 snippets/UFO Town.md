@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-snippets/ufo-town/","created":"2025-05-15T15:05:48.966-05:00","updated":"2025-06-23T17:51:11.627-05:00"}
+{"dg-publish":true,"permalink":"/00-snippets/ufo-town/","created":"2025-05-15T15:05:48.966-05:00","updated":"2025-06-23T17:53:07.652-05:00"}
 ---
 
 # UFO Town
@@ -296,7 +296,7 @@ Felix grasp at his consciousness like a toddler reaches for a favorite toy place
 
 Colors dance again and the brain crushing feeling stars to slacken for a moment.  A long enough moment for his eyes to flutter open slightly his head is against the road, coppery blood from his nose, eyes, and ears mixing with gravel and dirt.  His awareness is still fuzzy and the eyes flutter closed again.  He needs to refocus.  He needs something to pull him the rest of the way. He finds he can work his jaw some now and so he does shifting it about against the road until he feels his teeth part enough to allow his tongue to slip between them.  He bites down then his razer sharp fangs easily puncturing and tearing through the fleshy tongue filling his mouth with pain and blood.  
 
-Delightful physical pain, it snaps his sense back into place.  He fog lifts and  his eyes open. He remembers Vi and the trap laid by the lankys.  He was pissed.  
+Delightful physical pain, it snaps his senses back into place.  The fog lifts and  his shattered memories reform themselves. He remembers Vi and the trap laid by the lankys.  He was pissed.  
 
 He he doesn't move yet though, he squints his eyes open enough in time to see the dress shoes of Mr. Athens or Mr. Fish lift from the pavement before him to step over his prone form.  The throbbing in his head has reduced to a dull ache.  They seem to think they've got him in hand and are probably now going to go help the others that were surrounding his car and violet.  He waits until he hears the crunch of their receding foot steps before he moves to stand.
 
