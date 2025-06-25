@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-groups/shareholders/","created":"2024-10-28T09:12:50.000-05:00","updated":"2024-12-27T12:02:41.261-06:00"}
+{"dg-publish":true,"permalink":"/04-groups/shareholders/","created":"2024-10-28T09:12:50.605-05:00","updated":"2024-12-27T12:02:41.261-06:00"}
 ---
 
 # shareholders

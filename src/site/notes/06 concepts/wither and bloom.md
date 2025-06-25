@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06-concepts/wither-and-bloom/","created":"2024-10-28T08:53:06.000-05:00","updated":"2024-12-27T11:07:54.856-06:00"}
+{"dg-publish":true,"permalink":"/06-concepts/wither-and-bloom/","created":"2024-10-28T08:53:06.683-05:00","updated":"2024-12-27T11:07:54.856-06:00"}
 ---
 
 # wither & bloom
