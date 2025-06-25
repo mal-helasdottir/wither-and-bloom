@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-snippets/ufo-town/","created":"2025-05-15T15:05:48.966-05:00","updated":"2025-06-25T15:45:27.656-05:00"}
+{"dg-publish":true,"permalink":"/00-snippets/ufo-town/","created":"2025-05-15T15:05:48.966-05:00","updated":"2025-06-25T16:33:45.667-05:00"}
 ---
 
 # UFO Town
@@ -387,7 +387,16 @@ He considers firing blindly in that direction to maybe force the lanky back or d
 
 He looks down the alley way for a solution.  The alley ends in a solid brick wall, so no back way out.  The only thing of potential use is an ancient decaying dumpster.  It's more rust than steel at this point, but its all he has at hand. The sudden frustrated scream from Violet hastens his decision.
 
-He moves behind the dumpster and leans his shoulder into it and being pushing it towards the edge of the alleyway It scrapes and screeches in protest, chunks of it flaking and falling off as it skids along. 
+He moves to the dumpster.  One of the short walls of the thing looks to be somewhat intact as it was protected from the elements by the brick wall beside it.  He kicks at the rust bits around it till a chunk of it breaks free.  He is able to slide his arm through what was once a metal side loader and hoist the thing up like an impromptu shield.   
 
-The Lanky outside keeps his gun trained on the alley way and moves around towards the front of the car keeping low but trying to get a better angle to see what's going on inside.  The car jolts and Violet screams, but it doesn't let it distract him, he will help Ms. Smile when the thief i
+He sprints for the edge of the alley way holding the green steel between himself and the shooter.  The thwip of green bolts light up the air around him. A few thud into his makeshift shield. The Lanky shooter had begun to edge around the car at this point leaving him more exposed than he was at the rear of the car. Felix waits for the initial shots to stop then drops the green steel as he leaps into a diving roll, coming up in a crouched position directly facing the Lanky his cover now lost.  
 
+Felix fires three quick shots at the shooter and lanky gets one more off in his direction as well.  That bolt scorches a hole through the left side of Felix's coat and shirt grazing his left flank leaving him scorched but not seriously injured.  The lanky on the other hand looks down to see three new burning holes in its chest.  The gun drops from lifeless fingers as it clatters to the ground.
+
+Felix stands and straightens with a wincing groan at the burning pain in his side.  He can't stop to examine it though as the lanky woman is still struggling with Violet in through the car window.  
+
+As he starts the limp towards he raises the pistol towards the female lanky when there is a flash of white light behind him and the smell of burning paper fills the air.  Suddenly he feel as though a rope or hand is grasped around his ankles and they are yanked out from under him.  His head smacks into the pavement  and he loses his grip on the silver gun as his world goes fuzzy and is then flipped upside down as some invisible force is dangling him  upside down by his legs.  
+
+His vision clears and he can see the lanky that appeared behind him with the flash it is holding one hand out and up as the other one draws its gun and starts to level it towards the dangling Felix.  He tries to kick and wave his arms to no avail.  The dropped silver pistol is out of reach. 
+
+The Lanky takes its time

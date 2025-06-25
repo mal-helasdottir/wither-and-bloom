@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-snippets/firsts/","created":"2025-04-15T11:35:15.046-05:00","updated":"2025-06-25T15:44:36.171-05:00"}
+{"dg-publish":true,"permalink":"/00-snippets/firsts/","created":"2025-04-15T11:35:15.046-05:00","updated":"2025-06-25T16:32:54.225-05:00"}
 ---
 
 # firsts
@@ -226,7 +226,7 @@ she pulls away, locking eyes with him, lower lip caught between her teeth and he
 
 his breathing begins to slow, but his eyes never leave hers. she straddles his hips, pressing the still semi-hard curve of him against her bottom. curious, she gathers his cum on her fingers and puts it in her mouth without preamble.
 
-the length of him *throbs* against her ass, eyes almost rolling up in his head as he pulls air in through his teeth, "fuck, vi. the things you do to me girl--"
+the length of him *throbs* against her ass, his eyes almost rolling up in his head as he pulls air in through clenched fangs, "fuck, vi. the things you do to me girl--"
 
 she cuts him off, moving backward, still cleaning his spend off her body with one hand while the other lines him up with her hungry, soaked entrance and beginning to sink down.
 
