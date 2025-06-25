@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-snippets/ufo-town/","created":"2025-05-15T15:05:48.966-05:00","updated":"2025-06-23T17:54:59.097-05:00"}
+{"dg-publish":true,"permalink":"/00-snippets/ufo-town/","created":"2025-05-15T15:05:48.966-05:00","updated":"2025-06-23T18:01:28.420-05:00"}
 ---
 
 # UFO Town
@@ -316,13 +316,13 @@ Mr. Athen turns around as well then. Felix can see past them to the others surro
 
 "Fucth you" He spits again and starts forward.
 
-The black clad men don't react, they simply stare at him as though he were little more than a petulant child.  He feel their attack on his mind renew, but he is ready for it this time.  As he continues to close the distance between himself and the two lanky boys he suddenly and violently slams his right fist against his own skull.  The men in black flinch and he stumbles forward hazy more from his own self inflicted blow than their mental assault, which has once again abated with their confusion.  
+The black clad men don't react, they simply stare at him as though he were little more than a petulant child.  He feel their attack on his mind renew, but he is ready for it this time.  As he continues to close the distance between himself and the two lanky boys he suddenly and violently slams his right fist against his own skull.  The men in black flinch and Felix stumbles forward his mind once again hazy, but this time more from his own self inflicted blow rather than their combined mental assault.  An attack which has once again abated either from their sudden confusion or his own self-inflicted pain didn't really matter.  
 
-Felix stumbles and staggers into Mr. Athens and the tall man is forced to stead him to prevent them both tumbling to the ground.  A quick and clever hand finds itself inside the man's jacket. A hand closing around a holstered side arm hidden beneath it.  He pull it out.  The small sleek pistol feels way too light and he worries the damn thing isn't loaded, but the dice are cast now and if they come up snake eyes there is no stopping it now.  
+Felix stumbles and then staggers into Mr. Athens and the tall man is forced to grab and steady him to prevent them both from tumbling to the ground.  A quick and clever hand finds itself inside the man's jacket. A hand closing around a holstered side arm hidden beneath it.  He pull it out.  The small sleek pistol feels way too light and he worries the damn thing isn't loaded, but the dice are cast now and if they come up snake eyes there is no stopping it now.  
 
 Before Athens can react or realize what is going on the nose of the gun is pressed beneath his chin.  "Sthuda justh given me my bolths" Felix pulls the trigger.  
 
-He expected a deafening bang, and to be covered in Athen's blood, but instead there was a much more subtle thwhiping noise and the smell of burnt flesh and ozone.  A clean hole is burned through the front of Athen's face as the blasting bolt of emerald energy sails away into the sky.  The lanky then collapses at Felix's feet.
+He expected a deafening bang, and to be covered in Athen's blood, but instead there was a much more subtle thwhiping noise and the smell of burnt flesh and ozone.  A clean hole is burned through the front of Athen's face as a blasting bolt of emerald energy sails away into the sky.  The lanky then collapses at Felix's feet.
 
 Mr. Fish, perhaps stunned by the sudden turn of events doesn't react as Felix turns the strange pistol towards him pulling the trigger three times in quick succession; green bolts lit the air between them burning three holes into the tall man's chest.  He falls down beside Mr. Athens not moving.
 

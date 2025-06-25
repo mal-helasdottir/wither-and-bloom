@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-snippets/firsts/","created":"2025-04-15T11:35:15.046-05:00","updated":"2025-06-23T13:10:04.344-05:00"}
+{"dg-publish":true,"permalink":"/00-snippets/firsts/","created":"2025-04-15T11:35:15.046-05:00","updated":"2025-06-25T10:52:09.786-05:00"}
 ---
 
 # firsts
@@ -203,4 +203,4 @@ her fingers slide further, down the line of dark hair on his belly, searching. s
 
 "vi," he grunts in warning, distracting her by trailing lower with kisses and licks, starving for another taste, another touch. his tongue flickers over the thin skin of her hipbone, cements his intent his gentle teeth, then soothes with a soft kiss. her breathing turns ragged, shallow, and she arches up against his mouth, nails sliding over his scalp and sending tremors straight to his neglected, aching cock.
 
-he flips them. settling her sweet thighs against his ears, pressing her cunt flush to his lips, he draws his long tongue shamelessly over all the hot wetness he finds at her core. over delicate folds, back and forth across her sensitive apex, dipping inside her before circling back around to that throbbing little clit and tracing mindless shapes.
+he flips them. settling her sweet thighs against his ears, pressing her cunt flush to his lips, he draws his long tongue shamelessly over all the hot wetness he finds at her core. over delicate folds, back and forth across her sensitive apex, dipping inside her before circling back around to that throbbing little clit and tracing mindless shapes. she trembles as though with fever, so wild he's forced to grip her hips hard enough to bruise. her taste, her scent, the broken moan she lets out when he captures the little bud and sucks on it.
