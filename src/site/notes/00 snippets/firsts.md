@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-snippets/firsts/","created":"2025-04-15T11:35:15.046-05:00","updated":"2025-06-25T14:01:21.571-05:00"}
+{"dg-publish":true,"permalink":"/00-snippets/firsts/","created":"2025-04-15T11:35:15.046-05:00","updated":"2025-06-25T14:55:54.029-05:00"}
 ---
 
 # firsts
@@ -217,3 +217,5 @@ she pulls away from the delights of his mouth, spots upon her hips aching at the
 in a lustful haze, she runs her tongue along the path the pre cum took, bottom to top, sac to head, tickling the flesh where his foreskin has pulled back with the very tip of her tongue. dimly, she registers a mangled approximation of "sweets" finding its way out of his mouth, the gentle pet name causing a new rush of slick heat between her folds. 
 
 he tastes amazing, hot salty musk, thick as cream, and delicious spreading across her taste buds, sparking a craving for more. starved, she takes the whole of him into her mouth and explores him with lips, tongue, and throat. by the time she has to release him, he's dissolved into a glorious mess--panting, trembling, one fist tightly wound in her braid, the other hand gentle at the base of her neck.
+
+another lick from balls to head, thrilled when his sac tightens further at the brush of her breathing. she uses her hands this time marveling at how thick he is, how heavy, mesmerised by the rhythm of his ridges sliding beneath her palms.

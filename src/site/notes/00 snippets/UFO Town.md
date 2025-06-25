@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-snippets/ufo-town/","created":"2025-05-15T15:05:48.966-05:00","updated":"2025-06-25T13:18:26.500-05:00"}
+{"dg-publish":true,"permalink":"/00-snippets/ufo-town/","created":"2025-05-15T15:05:48.966-05:00","updated":"2025-06-25T14:56:37.364-05:00"}
 ---
 
 # UFO Town
@@ -364,3 +364,7 @@ Ms. Smile continues to futilely pull at violet's hand in a panic her attempts gr
 Violet blooms the gathered strength into herself.  Yanking hard at her bound wrist easily snapping the plasteel chain as though it were made from paper. She plants both feet against the car door again and kicks it hard so that it flies off its hinges and crashes into the wall of the building next to it.  She stands up and out of the car, kicking what remained of Ms. Smile aside as though it were liter in her path.  She finds the car is now surrounded by a dozen or more tall men and women in black suits.
 
 ---
+
+There are three of them around the car.  One starts to reach inside and tries to open the door, but the car shakes and the door snaps shut again. The stubborn girl is still awake and resisting them.  He finds a note of admiration at seeing her tenacity focused on someone other than himself for a change and grins.  He cast the warmth aside though knowing she will do better with his aid than with out it.  He curses himself for locking her to the door though, and finds the swear he speaks is no longer stuffed with cotton.  His tongue no longer swollen with pain.  
+
+The healing is always fast for him, but it always takes its toll later, but this isn't later its now, and now he has to fix his fuck up.
