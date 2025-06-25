@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-snippets/ufo-town/","created":"2025-05-15T15:05:48.966-05:00","updated":"2025-06-25T16:33:45.667-05:00"}
+{"dg-publish":true,"permalink":"/00-snippets/ufo-town/","created":"2025-05-15T15:05:48.966-05:00","updated":"2025-06-25T16:51:48.612-05:00"}
 ---
 
 # UFO Town
@@ -395,8 +395,16 @@ Felix fires three quick shots at the shooter and lanky gets one more off in his 
 
 Felix stands and straightens with a wincing groan at the burning pain in his side.  He can't stop to examine it though as the lanky woman is still struggling with Violet in through the car window.  
 
-As he starts the limp towards he raises the pistol towards the female lanky when there is a flash of white light behind him and the smell of burning paper fills the air.  Suddenly he feel as though a rope or hand is grasped around his ankles and they are yanked out from under him.  His head smacks into the pavement  and he loses his grip on the silver gun as his world goes fuzzy and is then flipped upside down as some invisible force is dangling him  upside down by his legs.  
+As he starts the limp towards he raises the pistol towards the female lanky when there is a flash of white light behind him and the smell of burning paper fills the air.  Suddenly he feel as though a rope or hand is grasped around his ankles and they are yanked out from under him.  His head smacks into the pavement  and he loses his grip on the silver gun as his world goes fuzzy and is then flipped upside down as some invisible force is dangling him  upside down by his legs like a trapped animal.  
 
-His vision clears and he can see the lanky that appeared behind him with the flash it is holding one hand out and up as the other one draws its gun and starts to level it towards the dangling Felix.  He tries to kick and wave his arms to no avail.  The dropped silver pistol is out of reach. 
+His vision clears and he can see the upside down lanky that had appeared behind him.  This one is wearing an over large black cowboy hat.  it is holding one hand out and up in the direction of Felix's legs as the other hand draws out its sidearm and starts to level it dangerously towards Felix. 
 
-The Lanky takes its time
+Felix tries to kick and wave his arms to no avail.  He is stuck. He spots the dropped silver pistol and reaches for it, clawing at the asphalt but the gun is well out of reach. 
+
+The Cowboy takes its time leveling and aiming its weapon. Felix can tell the thing is concentrating on holding him up... somehow.  "You fucks are magic now or somthin' too?"  The Lanky tilts its head seemingly bemused.  It's finger finds the trigger and starts to squeeze.
+
+A sudden piercing scream issues from the car.  It's the ankai Violet is fighting off.  Felix dips suddenly crashing most of the way to the ground has his attackers concentration monetarily fumbles, Its attention drawn to the struggle at the car.   
+
+The cowboy lanky recovers quickly though pulling Felix back up by his ankles again, but it wasn't quite quick enough.  When the lanky turns his full attention back to the telekinetically snared thief he is surprised to find the hunk of broken broken blacktop Felix managed to grab when he fell flying straight into his face. 
+
+  
