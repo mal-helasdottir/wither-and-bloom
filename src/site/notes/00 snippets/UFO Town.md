@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-snippets/ufo-town/","created":"2025-05-15T15:05:48.966-05:00","updated":"2025-06-25T15:36:28.984-05:00"}
+{"dg-publish":true,"permalink":"/00-snippets/ufo-town/","created":"2025-05-15T15:05:48.966-05:00","updated":"2025-06-25T15:45:27.656-05:00"}
 ---
 
 # UFO Town
@@ -385,5 +385,9 @@ He flattens himself against  the wall, silver gun held up and ready.  He tries t
 
 He considers firing blindly in that direction to maybe force the lanky back or down, but quickly cast the notion aside fearing he might accidently hit Violet in the process.  
 
-He looks down the alley way for a solution.  The alley ends in a solid brick wall, so no back way out.  The only thing of potential use is an ancient decaying dumpster.  It's more rust than steel at this point, 
+He looks down the alley way for a solution.  The alley ends in a solid brick wall, so no back way out.  The only thing of potential use is an ancient decaying dumpster.  It's more rust than steel at this point, but its all he has at hand. The sudden frustrated scream from Violet hastens his decision.
+
+He moves behind the dumpster and leans his shoulder into it and being pushing it towards the edge of the alleyway It scrapes and screeches in protest, chunks of it flaking and falling off as it skids along. 
+
+The Lanky outside keeps his gun trained on the alley way and moves around towards the front of the car keeping low but trying to get a better angle to see what's going on inside.  The car jolts and Violet screams, but it doesn't let it distract him, he will help Ms. Smile when the thief i
 
