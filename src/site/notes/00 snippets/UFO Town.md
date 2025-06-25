@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-snippets/ufo-town/","created":"2025-05-15T15:05:48.966-05:00","updated":"2025-06-23T18:01:28.420-05:00"}
+{"dg-publish":true,"permalink":"/00-snippets/ufo-town/","created":"2025-05-15T15:05:48.966-05:00","updated":"2025-06-25T12:45:55.009-05:00"}
 ---
 
 # UFO Town
@@ -274,7 +274,7 @@ She muttered and cursed more shifting junk and half finished devices aside until
 
 She froze then, She felt an eye in the suit open at the back of her neck.  The stupid poncho that idiot mutant made her wear insured it was covered and thus blind to whoever was at the car's window.  The knock rang out again and she jumped and then sild back into her seat the taught chain of the cuffs relaxing as she turned to look out. 
 
-A tall slender person had peered over to look through the window, their eyes just a little too wide and a little too black, greyish white only bleeding from the black at their very edges and corners.  They reflected funnily through the glass.  She, or at least Violet thought she looked mostly like a she, blinked and tilted her head.  She was bald but the dome of her pallid skull was covered by a black wide brimmed hat.  Her nose was to small and so upturned she could clearly see up the nostrils.  \
+A tall slender person had peered over to look through the window, their eyes just a little too wide and a little too black, greyish white only bleeding from the black at their very edges and corners.  They reflected funnily through the glass.  She, or at least Violet thought she looked mostly like a she, blinked and tilted her head.  She was bald but the dome of her pallid skull was covered by a black wide brimmed hat.  Her nose was to small and so upturned she could clearly see up the nostrils.  
 
 Her thin pallid lips parted and violet heard, "This one introduces themself as  Ms. Smile."  
 
@@ -333,3 +333,30 @@ Felix then tilts the small pistol towards himself admiring its sleek curved desi
 The admiration of his new favorite side arm is interrupted when he hears all the glass on his car suddenly Shatter.
 
 ---
+Shards of glass tinkle and crash into Violet.  The Skin protects her from any harm; sharp edges forming lines along her right arm and tearing fresh holes in to her cloak.  
+
+Ms. Smile reaches inside and unlatches the door.  She attempts to pull it open but Violet simply pulls he bonds tight int he other direction forcing the cuff to snap the door shut.  She smells the over ripe fruit scent strongly now and is aware of the rear doors and the hatch of the car being pulled open.  
+
+"This one is bound to the door.  Curious."  Her black eyes then spot the curled Spine unit resting in Violets lap.  "Ah the device.  The Spine."  She casually reaches through the window towards intent to simply pluck it up and away.  
+
+Violet grits her teeth beneath her rabbit's mask and grabs the strange woman's wrist with her left hand and pulls it up and away from the Spine.  "No."
+
+Ms. Smile's thin lips turn downward and she leans into the car further and both women fail to notice the two green bolts that briefly light up the sky behind her.  She grabs Violet's hand with her free one and begins to pry at violet's fingers to release her grip.  Violet tries to join her right hand into the struggle but is quickly reminded of her tether as the cuff is once again pulled taught. 
+
+She curses and struggles to twist and attempts to put her legs between herself and Ms. Smile, but that puts the Spine closer to her, so she releases her grasp on Violet's fingers and attempts to snatch it.  Violet responds by spreading her legs apart which causes the Spine to clatter down to the floor board beneath her.  Ms. Smile grunts in frustration turning her attention back to Violet who continues to hold her.  Rather try and pry herself loose again she holds her hand up palm open towards Violet's face.  She expects her to slap or punch her, but instead feels an invisible force begin to press against her forcing her head to turn and bend painfully backwards.  
+
+Violet struggles against it with a defiant scream.  The telekinetic force increases but she refuses to let go of Ms. Smile's wrist.  She then lifts her right arm upwards as far she can so that it smacks into  the side of Ms. Smile.  Some of the glass shards imbedded into the skin are no stuck into Ms. Smile's side blood that's more pink than red seeps out from the new holes. Ms. Smile grunts with the sudden sharp pain and loses her focus for a moment the invisible force away long enough for Violet to thrust her head forward so that the bone of her skull's mask smacks into Ms. Smile's too small nose with the satisfying crunch of cartilage and a spray of more pink blood.
+
+Ms. Smile grabs her broken nose with her free hand and screams an inhuman scream that sets Violet's ears ringing.  The world outside the car is filled with several flashes of white light and the air smells heavily of burning paper and hot metal.  Ms. Smile's hand shoots back towards Violet and the telekinetic force returns great this time forcing Violet's head back and causing the whole car to vibrate wildly.  The pain in her neck is excruciating.  Violet feels her neck will snap if the pressure doesn't stop.  She has one last option.  The skin, which has covered her completely as a defense mechanism is resistant to Violet's mental urges to uncover her left hand.  She forces all her will into the spine urging it to comply.  It stubbornly refuses.  
+
+It's programmed only to protect her right now, not follow her orders.  She lets out her own frustrated scream and tries a different approach.  She plants her feet against the car door and pushes against it pulling her cuff so tightly that it bites through the Skin and inter own pink flesh.  Sensing the new danger The Spine moves to thicken the Skin around that wrist, it finally acquiesces to Violet's request pulling skin back from the left hand to better protect her right wrist.  
+
+The tips of Violet's fingers are uncovered.  Her bare skin touches the pallid skin of Ms. Smile.  Violet's neck bends back further threatening to snap.  She begins to wither Ms. Smile.
+
+Power.  Strength floods into Violet as it leeches out of her attacker, the pressure against violet's face and neck abates slowly, and the rageful look on the Ankai's face falters and becomes on of concern as the arm Violet clutches begins to shrivel and shrink like a prune.  
+
+"What is this one doing?"  She asks fear creeping into the edges of the voice.  "Stop... Stop!"  She begs as she drops the telekinetic force all together and instead desperately tries to pry at Violet's fingers again.  Touching Violet's bare fingers proves to be a mistake as that hand begins to shrivel and waste as well.  
+
+Ms. Smile continues to futilely pull at violet's hand in a panic her attempts growing weaker and more feeble with every passing moment until she can barely hold her head up.  She looks the part of a frail old woman now a near desiccated corpse with the faintest flicker of life left in her.  She stops struggling and falls limp all fight gone.  Violet releases her hold on her then and Ms. Smile slips and falls like a sack of bones out the car window clattering to the ground.
+
+Violet blooms the gathered strength into herself.  Yanking hard at her bound wrist easily snapping the plasteel chain as though it were made from paper. She plants both feet against the car door again and kicks it hard so that it flies off its hinges and crashes into the wall of the building next to it.  She stands up and out of the car, kicking what remained of 

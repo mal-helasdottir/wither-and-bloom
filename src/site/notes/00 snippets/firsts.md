@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-snippets/firsts/","created":"2025-04-15T11:35:15.046-05:00","updated":"2025-06-25T10:53:08.771-05:00"}
+{"dg-publish":true,"permalink":"/00-snippets/firsts/","created":"2025-04-15T11:35:15.046-05:00","updated":"2025-06-25T12:43:45.293-05:00"}
 ---
 
 # firsts
@@ -204,3 +204,17 @@ her fingers slide further, down the line of dark hair on his belly, searching. s
 "vi," he grunts in warning, distracting her by trailing lower with kisses and licks, starving for another taste, another touch. his tongue flickers over the thin skin of her hipbone, cements his intent his gentle teeth, then soothes with a soft kiss. her breathing turns ragged, shallow, and she arches up against his mouth, nails sliding over his scalp and sending tremors straight to his neglected, aching cock.
 
 he flips them. settling her sweet thighs against his ears, pressing her cunt flush to his lips, he draws his long tongue shamelessly over all the hot wetness he finds at her core. over delicate folds, back and forth across her sensitive apex, dipping inside her before circling back around to that throbbing little clit and tracing mindless shapes. she trembles as though with fever, so wild he's forced to grip her hips hard enough to bruise. her taste, her scent, the broken moan she lets out when he captures the little bud and sucks on it, he decides he'd die happy if he could have this everyday of his life.
+
+but somehow she eludes him, contorting out of his hold and taking a new position down between his legs.
+
+#### *violet* --
+it bothers her slightly to be worshipped, while that enticing cock just bobs there, neglected, out of reach, pearl of pre cum beading up at the tip then gliding down past delightful looking ridges and veins to nestle in the dark hair and tightly drawn sac at the base.
+
+he makes her feel so good. if she can't make him feel good as well; if she can't taste that cock right at this moment, she might die.
+
+she pulls away from the delights of his mouth, spots upon her hips aching at the loss of pressure from his strong fingers.
+
+in a lustful haze, she runs her tongue along the path the pre cum took, bottom to top, sac to head, tickling the flesh where his foreskin has pulled back with the very tip of her tongue. dimly, she registers a mangled approximation of "sweets" finding its way out of his mouth, the gentle pet name causing a new rush of slick heat between her folds. 
+
+he tastes amazing, hot salty musk, thick as cream, and delicious spreading across her taste buds, sparking a craving for more. starved, she takes the whole of him into her mouth and explores him with lips, tongue, and throat. 
+
