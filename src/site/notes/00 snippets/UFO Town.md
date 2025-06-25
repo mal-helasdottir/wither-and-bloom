@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-snippets/ufo-town/","created":"2025-05-15T15:05:48.966-05:00","updated":"2025-06-25T14:56:37.364-05:00"}
+{"dg-publish":true,"permalink":"/00-snippets/ufo-town/","created":"2025-05-15T15:05:48.966-05:00","updated":"2025-06-25T15:30:03.140-05:00"}
 ---
 
 # UFO Town
@@ -368,3 +368,17 @@ Violet blooms the gathered strength into herself.  Yanking hard at her bound wri
 There are three of them around the car.  One starts to reach inside and tries to open the door, but the car shakes and the door snaps shut again. The stubborn girl is still awake and resisting them.  He finds a note of admiration at seeing her tenacity focused on someone other than himself for a change and grins.  He cast the warmth aside though knowing she will do better with his aid than with out it.  He curses himself for locking her to the door though, and finds the swear he speaks is no longer stuffed with cotton.  His tongue no longer swollen with pain.  
 
 The healing is always fast for him, but it always takes its toll later, but this isn't later its now, and now he has to fix his fuck up.
+
+He moves forward raising the pistol up.  The one at Vi's window leans inside and based on the way she moves is struggling with the girl.  The lanky by the rear passenger door unlocks it and throws it open looking as though he is moving to help the female one struggling with Violet.
+
+Felix squeezes the trigger on the gun twice, thwip thwip! Two green bolts sail forward, one goes wide and the other smacks the lanky in their right shoulder pushing him back from the car door and causing him to stagger to its knees with a grunt.  That arm hangs limp and it holds its left hand over the wound.  
+
+Felix notices for the first time that these Ankai or whatever they are called have an extra thumb one on each side of their hand.  Odd.  "An' I thought I was a freak." he mutters under his breath.
+
+The injured lanky attempts to push the door open further with its good shoulder and tries to slide behind it for cover.  Felix fires another shot at it but misses as the creature scrambles out of the way loose gravel scrapping against its shoes  as it goes prone and starts to push itself under the car for even greater cover.
+
+"'Ey! Get yer kung fu grip off my car ya baster..."
+
+He is cut off by a sudden flurry of thwipping noises as the third lanky on the driver side begins firing a flurry its own green bolts in his direction.  Felix is forced to duck and dart half crouched for a nearby alley and he smells burning hair as a green bolt singes the tuft of fuzz at the end of one of his pointed ears. 
+
+He flattens himself against  the wall, silver gun held up and ready.  He tries to peer around the corner and is met by another barrage of green plasma that burns scorching chucks out of the corner of the concrete wall.  Pinned.  Not good.  He considers firing blindly in that direction to maybe force the lanky back or down, but quickly cast the notion aside fearing he might accidently hit Violet in the process.  
