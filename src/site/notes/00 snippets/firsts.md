@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-snippets/firsts/","created":"2025-04-15T11:35:15.046-05:00","updated":"2025-06-25T15:29:15.808-05:00"}
+{"dg-publish":true,"permalink":"/00-snippets/firsts/","created":"2025-04-15T11:35:15.046-05:00","updated":"2025-06-25T15:37:29.891-05:00"}
 ---
 
 # firsts
@@ -218,7 +218,7 @@ in a lustful haze, she runs her tongue along the path the pre cum took, bottom t
 
 he tastes amazing, hot salty musk, thick as cream, and delicious spreading across her taste buds, sparking a craving for more. starved, she takes the whole of him into her mouth and explores him with lips, tongue, and throat. by the time she has to release him, he's dissolved into a glorious mess--panting, trembling, one fist tightly wound in her braid, the other hand gentle at the base of her neck.
 
-another lick from balls to head, thrilled when his sac tightens further at the brush of her breathing. she uses her hands this time marveling at how thick he is, how heavy, mesmerized by the rhythm of his ridges sliding beneath her palms. he says her name, over and over again, in varying volumes and in varying states of completion, as though he is reciting hymns to a goddess. his tail curls possessively around her thigh, creeping up to caress her hips and under her breasts. the brush at the end swipes over her nipple and she whines, the length of him deep in her throat, she catches it with one hand and traps it, pulling gently but firmly.
+another lick from balls to head, thrilled when his sac tightens further at the brush of her breathing. she uses her hands this time marveling at how thick he is, how heavy, mesmerized by the rhythm of his ridges sliding beneath her palms. he says her name, over and over again, in varying volumes and in varying states of completion, as though he is reciting hymns to a goddess. his tail curls possessively around her thigh, creeping up to caress her hips and under her breasts. the brush at the end swipes over her nipple and she whines, the length of him deep in her throat, she catches his tail with one hand and traps it, pulling gently but firmly.
 
 "oh--fuck! oh fu--" fel convulses hard, fingers and toes curling, hips jerking as his cock begins to pulse between her lips.
 

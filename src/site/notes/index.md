@@ -9,8 +9,8 @@ wither & bloom is a post apocalyptic biopunk scientific romance written by two l
 ## 📌recent page changes
 | page                                                                  | tags                                         | modified time           |
 | --------------------------------------------------------------------- | -------------------------------------------- | ----------------------- |
-| [[00 snippets/UFO Town\|UFO Town]]                                 | <ul><li>#snippet</li><li>#husbando</li></ul> | 3:31 PM - June 25, 2025 |
-| [[00 snippets/firsts\|firsts]]                                     | <ul><li>#snippet</li><li>#waifu</li></ul>    | 3:29 PM - June 25, 2025 |
+| [[00 snippets/firsts\|firsts]]                                     | <ul><li>#snippet</li><li>#waifu</li></ul>    | 3:37 PM - June 25, 2025 |
+| [[00 snippets/UFO Town\|UFO Town]]                                 | <ul><li>#snippet</li><li>#husbando</li></ul> | 3:36 PM - June 25, 2025 |
 | [[04 groups/the brotherhood of gnosis\|the brotherhood of gnosis]] | <ul></ul>                                    | 9:28 AM - May 23, 2025  |
 | [[index\|index]]                                                   | <ul></ul>                                    | 9:03 AM - May 16, 2025  |
 | [[01 inbox/Untitled\|Untitled]]                                    | <ul></ul>                                    | 4:19 PM - May 15, 2025  |

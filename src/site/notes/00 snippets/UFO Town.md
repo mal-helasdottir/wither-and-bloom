@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-snippets/ufo-town/","created":"2025-05-15T15:05:48.966-05:00","updated":"2025-06-25T15:31:49.431-05:00"}
+{"dg-publish":true,"permalink":"/00-snippets/ufo-town/","created":"2025-05-15T15:05:48.966-05:00","updated":"2025-06-25T15:36:28.984-05:00"}
 ---
 
 # UFO Town
@@ -381,6 +381,9 @@ The injured lanky attempts to push the door open further with its good shoulder 
 
 He is cut off by a sudden flurry of thwipping noises as the third lanky on the driver side begins firing a a barrage of its own green bolts in his direction.  Felix is forced to duck and dart half crouched for a nearby alley and he smells burning hair as a green bolt singes the tuft of fuzz at the end of one of his pointed ears. 
 
-He flattens himself against  the wall, silver gun held up and ready.  He tries to peer around the corner and is met by another volley of green plasma and is forced to duck back that burns scorching chucks out of the corner of the concrete wall.  Pinned.  Not good.  He considers firing blindly in that direction to maybe force the lanky back or down, but quickly cast the notion aside fearing he might accidently hit Violet in the process.  
+He flattens himself against  the wall, silver gun held up and ready.  He tries to peer around the corner and is met by another volley of green plasma and is forced to duck back as it burns scorching chucks out of the corner of the concrete wall.  Pinned.  Not good.  
 
+He considers firing blindly in that direction to maybe force the lanky back or down, but quickly cast the notion aside fearing he might accidently hit Violet in the process.  
+
+He looks down the alley way for a solution.  The alley ends in a solid brick wall, so no back way out.  The only thing of potential use is an ancient decaying dumpster.  It's more rust than steel at this point, 
 
