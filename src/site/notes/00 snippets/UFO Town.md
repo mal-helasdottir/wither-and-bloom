@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-snippets/ufo-town/","created":"2025-05-15T15:05:48.966-05:00","updated":"2025-06-25T16:51:48.612-05:00"}
+{"dg-publish":true,"permalink":"/00-snippets/ufo-town/","created":"2025-05-15T15:05:48.966-05:00","updated":"2025-06-25T16:57:41.634-05:00"}
 ---
 
 # UFO Town
@@ -403,7 +403,7 @@ Felix tries to kick and wave his arms to no avail.  He is stuck. He spots the dr
 
 The Cowboy takes its time leveling and aiming its weapon. Felix can tell the thing is concentrating on holding him up... somehow.  "You fucks are magic now or somthin' too?"  The Lanky tilts its head seemingly bemused.  It's finger finds the trigger and starts to squeeze.
 
-A sudden piercing scream issues from the car.  It's the ankai Violet is fighting off.  Felix dips suddenly crashing most of the way to the ground has his attackers concentration monetarily fumbles, Its attention drawn to the struggle at the car.   
+A sudden piercing scream issues from the car.  It's the ankai Violet is fighting off.  Felix dips suddenly crashing most of the way to the ground has his attackers concentration monetarily fumbles, Its attention drawn to the struggle in the car.   
 
 The cowboy lanky recovers quickly though pulling Felix back up by his ankles again, but it wasn't quite quick enough.  When the lanky turns his full attention back to the telekinetically snared thief he is surprised to find the hunk of broken broken blacktop Felix managed to grab when he fell flying straight into his face. 
 
