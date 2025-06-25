@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-snippets/ufo-town/","created":"2025-05-15T15:05:48.966-05:00","updated":"2025-06-25T12:45:55.009-05:00"}
+{"dg-publish":true,"permalink":"/00-snippets/ufo-town/","created":"2025-05-15T15:05:48.966-05:00","updated":"2025-06-25T12:47:24.721-05:00"}
 ---
 
 # UFO Town
@@ -359,4 +359,6 @@ Power.  Strength floods into Violet as it leeches out of her attacker, the press
 
 Ms. Smile continues to futilely pull at violet's hand in a panic her attempts growing weaker and more feeble with every passing moment until she can barely hold her head up.  She looks the part of a frail old woman now a near desiccated corpse with the faintest flicker of life left in her.  She stops struggling and falls limp all fight gone.  Violet releases her hold on her then and Ms. Smile slips and falls like a sack of bones out the car window clattering to the ground.
 
-Violet blooms the gathered strength into herself.  Yanking hard at her bound wrist easily snapping the plasteel chain as though it were made from paper. She plants both feet against the car door again and kicks it hard so that it flies off its hinges and crashes into the wall of the building next to it.  She stands up and out of the car, kicking what remained of 
+Violet blooms the gathered strength into herself.  Yanking hard at her bound wrist easily snapping the plasteel chain as though it were made from paper. She plants both feet against the car door again and kicks it hard so that it flies off its hinges and crashes into the wall of the building next to it.  She stands up and out of the car, kicking what remained of Ms. Smile aside as though it were liter in her path.  She finds the car is now surrounded by a dozen or more tall men and women in black suits.
+
+---
