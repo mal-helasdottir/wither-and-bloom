@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-snippets/ufo-town/","created":"2025-05-15T15:05:48.966-05:00","updated":"2025-06-25T16:57:41.634-05:00"}
+{"dg-publish":true,"permalink":"/00-snippets/ufo-town/","created":"2025-05-15T15:05:48.966-05:00","updated":"2025-06-26T12:28:53.819-05:00"}
 ---
 
 # UFO Town
@@ -389,22 +389,51 @@ He looks down the alley way for a solution.  The alley ends in a solid brick wal
 
 He moves to the dumpster.  One of the short walls of the thing looks to be somewhat intact as it was protected from the elements by the brick wall beside it.  He kicks at the rust bits around it till a chunk of it breaks free.  He is able to slide his arm through what was once a metal side loader and hoist the thing up like an impromptu shield.   
 
-He sprints for the edge of the alley way holding the green steel between himself and the shooter.  The thwip of green bolts light up the air around him. A few thud into his makeshift shield. The Lanky shooter had begun to edge around the car at this point leaving him more exposed than he was at the rear of the car. Felix waits for the initial shots to stop then drops the green steel as he leaps into a diving roll, coming up in a crouched position directly facing the Lanky his cover now lost.  
+He sprints for the edge of the alley way holding the green steel between himself and the shooter.  The thwip of green bolts light up the air around him. A few thud into his makeshift shield. 
 
-Felix fires three quick shots at the shooter and lanky gets one more off in his direction as well.  That bolt scorches a hole through the left side of Felix's coat and shirt grazing his left flank leaving him scorched but not seriously injured.  The lanky on the other hand looks down to see three new burning holes in its chest.  The gun drops from lifeless fingers as it clatters to the ground.
+The Lanky shooter had begun to edge around the car at this point leaving him more exposed than he was in his previous position. Felix waits for the initial shots to stop then drops the green steel as he leaps into a diving roll, coming up in a crouched position directly facing the Lanky his cover now completely lost.  
+
+Felix fires three quick shots at the shooter and lanky gets one more off in his direction as well.  That bolt scorches a hole through the left side of Felix's coat and shirt grazing his left flank leaving him scorched but not seriously injured.  The lanky on the other hand looks down to see three new burning holes in its chest.  The gun drops from lifeless fingers and it clatters to the ground.  The Lanky follows shortly after.
 
 Felix stands and straightens with a wincing groan at the burning pain in his side.  He can't stop to examine it though as the lanky woman is still struggling with Violet in through the car window.  
 
-As he starts the limp towards he raises the pistol towards the female lanky when there is a flash of white light behind him and the smell of burning paper fills the air.  Suddenly he feel as though a rope or hand is grasped around his ankles and they are yanked out from under him.  His head smacks into the pavement  and he loses his grip on the silver gun as his world goes fuzzy and is then flipped upside down as some invisible force is dangling him  upside down by his legs like a trapped animal.  
+As he starts the limp towards he raises the pistol towards the female lanky when there is a flash of white light behind him and the smell of burning paper fills the air.  Suddenly he feel as though a rope is lassoed around his ankles and they are yanked out from under him.  His head smacks into the pavement  and he loses his grip on the silver gun as his world goes fuzzy and is then flipped upside down as some invisible force is now dangling by his legs like a snared deer.  
 
-His vision clears and he can see the upside down lanky that had appeared behind him.  This one is wearing an over large black cowboy hat.  it is holding one hand out and up in the direction of Felix's legs as the other hand draws out its sidearm and starts to level it dangerously towards Felix. 
+His vision clears and he can sees an upside down lanky.  This one is wearing an over large black cowboy hat.  It is holding one hand out and up in the direction of Felix's legs as the other hand draws out its sidearm and starts to level it dangerously towards Felix. 
 
 Felix tries to kick and wave his arms to no avail.  He is stuck. He spots the dropped silver pistol and reaches for it, clawing at the asphalt but the gun is well out of reach. 
 
-The Cowboy takes its time leveling and aiming its weapon. Felix can tell the thing is concentrating on holding him up... somehow.  "You fucks are magic now or somthin' too?"  The Lanky tilts its head seemingly bemused.  It's finger finds the trigger and starts to squeeze.
+The Cowboy takes its time leveling and aiming its weapon. Felix can tell the thing is concentrating on holding him up... somehow.  
 
-A sudden piercing scream issues from the car.  It's the ankai Violet is fighting off.  Felix dips suddenly crashing most of the way to the ground has his attackers concentration monetarily fumbles, Its attention drawn to the struggle in the car.   
+"You fucks are magic now or somthin' too?"  The Lanky tilts its head seemingly bemused.  It's finger finds the trigger and starts to squeeze.
 
-The cowboy lanky recovers quickly though pulling Felix back up by his ankles again, but it wasn't quite quick enough.  When the lanky turns his full attention back to the telekinetically snared thief he is surprised to find the hunk of broken broken blacktop Felix managed to grab when he fell flying straight into his face. 
+A sudden unnatural scream issues from the car.  It's the Ankai Violet is fighting off.  Felix dips suddenly crashing most of the way to the ground has his attackers concentration monetarily fumbles, Its attention drawn to the struggle in the car.   
 
+The cowboy lanky recovers quickly though pulling Felix back up by his ankles again, but it wasn't quite quick enough.  When the lanky turns his full attention back to the telekinetically snared thief he is surprised to find the hunk of broken broken blacktop Felix managed to grasp when he hit the street flying straight into it's face. 
+
+The cowboy's hat flies off as his head and is thrown back with a bloody crunch as the stone hits the thing's left eye.  Felix is released to the ground again and scrambles for the pistol.  
+
+Clutching its injured face with one hand the cowboy fires wildly at the spot Felix scurries across the ground.  Green bolts sending chunks of black top flying.  
+
+Fel grabs the gun and rolls onto his back sitting up quickly and fires back at the  cowboy.  He strikes the Ankai's leg and it crumples to the ground clutching at both its leg and head now the fight is out of this one.  
+
+Felix stands and starts to move towards the car.  He raises the gun intent on shooting the half of the female sticking out of the vehicle.  When he pulls the trigger though nothing happens.  He pulls it again.  Nothing.  he holds up the weapon and looks at it.  other than a few scuffs from being dropped it seems fine  he smacks the side of it and shakes it.   He pull the trigger again pointed upward this time.  Still nothing.  
+
+"Fuck."
+
+He almost chucks the weapon aside but decides to pocket it inside his coat instead.  He'll have to deal with her the old fashioned way.  
+
+He starts forward again but stops when he smells that burning paper again.  A white flash to his left in one of the nearby apartment buildings.  Then another to his right.  Then several more in quick succession all around him.  The smell of paper gives way to heated metal as the dark windows of each building nearby are rapidly illuminated by a myriad of flashes. 
+
+After a moment the flashing stop.  The only sound is the struggling women in the car, and that too starts to quiet as the movements of the Ankai leaning in the window begin to slow.  Then the doors of several buildings all start to slam open and the street is filled with dozens of Ankai.  They bear silver rifles and pistols most of which become trained instantly on Felix standing in the middle of the road.
+
+"Rust."  he curses as he throws his hands up.
+
+A circle starts to close in on him, and another group turns and moves to surround the car.  
+
+"Don't suppose one 'o you guys 'ave my bolts eh?'"
+
+They respond by hitting him with a nauseating wave of their mind fuckery.  He doubles over, which aggravates his burned side sending a fresh wave of pain up his torso.  The pain lets him shake the mind fucking just long enough for him to look up and see the butt of a silver rifle smack into his forehead.  There is flash of colors that dance across his vision before things go fuzzy and black once again.
   
+---
+
