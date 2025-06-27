@@ -7,13 +7,13 @@ wither & bloom is a post apocalyptic biopunk scientific romance written by two l
 
 ---
 ## 📌recent page changes
-| page                                                                  | tags                                         | modified time           |
-| --------------------------------------------------------------------- | -------------------------------------------- | ----------------------- |
-| [[00 snippets/UFO Town\|UFO Town]]                                 | <ul><li>#snippet</li><li>#husbando</li></ul> | 4:57 PM - June 25, 2025 |
-| [[00 snippets/firsts\|firsts]]                                     | <ul><li>#snippet</li><li>#waifu</li></ul>    | 4:32 PM - June 25, 2025 |
-| [[04 groups/the brotherhood of gnosis\|the brotherhood of gnosis]] | <ul></ul>                                    | 9:28 AM - May 23, 2025  |
-| [[index\|index]]                                                   | <ul></ul>                                    | 9:03 AM - May 16, 2025  |
-| [[01 inbox/Untitled\|Untitled]]                                    | <ul></ul>                                    | 4:19 PM - May 15, 2025  |
+| page                                                                  | tags                                         | modified time            |
+| --------------------------------------------------------------------- | -------------------------------------------- | ------------------------ |
+| [[04 groups/the houses of zion\|the houses of zion]]               | <ul></ul>                                    | 4:30 PM - June 27, 2025  |
+| [[01 inbox/The CEO's Prophecies\|The CEO's Prophecies]]            | <ul></ul>                                    | 4:30 PM - June 27, 2025  |
+| [[00 snippets/UFO Town\|UFO Town]]                                 | <ul><li>#snippet</li><li>#husbando</li></ul> | 12:31 PM - June 26, 2025 |
+| [[00 snippets/firsts\|firsts]]                                     | <ul><li>#snippet</li><li>#waifu</li></ul>    | 4:32 PM - June 25, 2025  |
+| [[04 groups/the brotherhood of gnosis\|the brotherhood of gnosis]] | <ul></ul>                                    | 9:28 AM - May 23, 2025   |
 
 { .block-language-dataview}
 

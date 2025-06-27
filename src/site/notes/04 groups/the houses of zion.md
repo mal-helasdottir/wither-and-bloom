@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-groups/the-houses-of-zion/","created":"2025-03-18T14:57:52.152-05:00","updated":"2025-04-29T15:20:33.611-05:00"}
+{"dg-publish":true,"permalink":"/04-groups/the-houses-of-zion/","created":"2025-03-18T14:57:52.152-05:00","updated":"2025-06-27T16:30:44.982-05:00"}
 ---
 
 # [[04 groups/the houses of zion\|the houses of zion]]
@@ -66,3 +66,4 @@ you can be a member of more than one house
 	- the financial house
 	- debt and asset tracking, wages (or lack thereof), time remaining on indent contracts, perks for the fellowship and some higher ranked shareholders, banking, financing, loans, accounting, and paying for all of the aforementioned. whether with coin or other concepts of value
 		- yes, they are also in the flesh trade
+

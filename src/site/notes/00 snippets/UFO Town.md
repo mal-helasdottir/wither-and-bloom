@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-snippets/ufo-town/","created":"2025-05-15T15:05:48.966-05:00","updated":"2025-06-26T12:28:53.819-05:00"}
+{"dg-publish":true,"permalink":"/00-snippets/ufo-town/","created":"2025-05-15T15:05:48.966-05:00","updated":"2025-06-26T12:31:03.667-05:00"}
 ---
 
 # UFO Town
@@ -425,7 +425,7 @@ He almost chucks the weapon aside but decides to pocket it inside his coat inste
 
 He starts forward again but stops when he smells that burning paper again.  A white flash to his left in one of the nearby apartment buildings.  Then another to his right.  Then several more in quick succession all around him.  The smell of paper gives way to heated metal as the dark windows of each building nearby are rapidly illuminated by a myriad of flashes. 
 
-After a moment the flashing stop.  The only sound is the struggling women in the car, and that too starts to quiet as the movements of the Ankai leaning in the window begin to slow.  Then the doors of several buildings all start to slam open and the street is filled with dozens of Ankai.  They bear silver rifles and pistols most of which become trained instantly on Felix standing in the middle of the road.
+After a moment the flashing stop.  The only sound is the struggling women in the car, and that too starts to quiet as the movements of the Ankai leaning in the window begin to slow.  Then the doors of several buildings all start to slam open and the street is filled with dozens of lankys.  They bear silver rifles and pistols most of which become trained instantly on Felix standing in the middle of the road.
 
 "Rust."  he curses as he throws his hands up.
 
