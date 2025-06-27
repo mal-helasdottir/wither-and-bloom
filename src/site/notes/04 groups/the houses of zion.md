@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-groups/the-houses-of-zion/","created":"2025-03-18T14:57:52.152-05:00","updated":"2025-06-27T16:30:44.982-05:00"}
+{"dg-publish":true,"permalink":"/04-groups/the-houses-of-zion/","created":"2025-03-18T14:57:52.152-05:00","updated":"2025-06-27T16:31:59.633-05:00"}
 ---
 
 # [[04 groups/the houses of zion\|the houses of zion]]
@@ -67,3 +67,5 @@ you can be a member of more than one house
 	- debt and asset tracking, wages (or lack thereof), time remaining on indent contracts, perks for the fellowship and some higher ranked shareholders, banking, financing, loans, accounting, and paying for all of the aforementioned. whether with coin or other concepts of value
 		- yes, they are also in the flesh trade
 
+## the fallen house
+- by tradition the house which opposed the rule of the lord most high, chosen of the invisible hand, in the time following the [[02 history/the revelation\|revelation]]

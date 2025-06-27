@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06-concepts/powers-of-the-flesh/","created":"2024-08-08T14:51:16.899-05:00","updated":"2024-12-27T11:31:13.714-06:00"}
+{"dg-publish":true,"permalink":"/06-concepts/powers-of-the-flesh/","created":"2024-08-08T14:51:16.899-05:00","updated":"2025-06-27T16:33:39.494-05:00"}
 ---
 
 # powers of the flesh
@@ -28,7 +28,7 @@ Demons can't do this.  Devils can control [[04 groups/demons\|Demons]], maybe li
 
 I think the ability to manipulate minds allows [[03 people/the ceo\|the ceo]] and stronger Demons some limited Telepathy and mind reading as well.
 
-## Haruspex
+## [[01 inbox/The CEO's Prophecies\|Haruspex]]
 
 The ability to divine the future through reading organs is how [[03 people/the ceo\|the ceo]] prophesied [[03 people/felix\|the Whistleblower]] saga.  I think some Devils can do this too so we can have fun witchy ones.  This is a candidate for one of Violets "lesser" powers as well since its like awful and something she wouldn't want to do and they can do accidently
 

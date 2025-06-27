@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-inbox/the-ceo-s-prophecies/","created":"2025-05-15T16:19:00.491-05:00","updated":"2025-06-27T16:30:22.562-05:00"}
+{"dg-publish":true,"permalink":"/01-inbox/the-ceo-s-prophecies/","created":"2025-05-15T16:19:00.491-05:00","updated":"2025-06-27T16:32:31.073-05:00"}
 ---
 
 # [[01 inbox/The CEO's Prophecies\|The CEO's Prophecies]]
