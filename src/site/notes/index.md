@@ -1,19 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/index/","title":"index","hide":true,"hideInGraph":true,"tags":["gardenEntry"],"created":"2024-08-07T09:02:57.000-05:00","updated":"2025-05-16T09:03:02.038-05:00"}
+{"dg-publish":true,"permalink":"/index/","title":"index","hide":true,"hideInGraph":true,"tags":["gardenEntry"],"created":"2024-08-07T09:02:57.000-05:00","updated":"2025-07-22T08:50:28.923-05:00"}
 ---
 
 # welcome!
 wither & bloom is a post apocalyptic biopunk scientific romance written by two librarians.
 
+[[01 inbox/wack\|the wack ideas storehouse]]
+
 ---
 ## 📌recent page changes
-| page                                                        | tags      | modified time           |
-| ----------------------------------------------------------- | --------- | ----------------------- |
-| [[06 concepts/powers of the flesh\|powers of the flesh]] | <ul></ul> | 4:33 PM - June 27, 2025 |
-| [[01 inbox/The CEO's Prophecies\|The CEO's Prophecies]]  | <ul></ul> | 4:32 PM - June 27, 2025 |
-| [[02 history/the restoration\|the restoration]]          | <ul></ul> | 4:32 PM - June 27, 2025 |
-| [[02 history/the revelation\|the revelation]]            | <ul></ul> | 4:32 PM - June 27, 2025 |
-| [[04 groups/the houses of zion\|the houses of zion]]     | <ul></ul> | 4:31 PM - June 27, 2025 |
+| page                                                        | tags      | modified time            |
+| ----------------------------------------------------------- | --------- | ------------------------ |
+| [[index\|index]]                                         | <ul></ul> | 8:50 AM - July 22, 2025  |
+| [[01 inbox/wack\|wack]]                                  | <ul></ul> | 8:49 AM - July 22, 2025  |
+| [[01 inbox/The CEO's Prophecies\|The CEO's Prophecies]]  | <ul></ul> | 11:22 AM - June 30, 2025 |
+| [[06 concepts/powers of the flesh\|powers of the flesh]] | <ul></ul> | 4:33 PM - June 27, 2025  |
+| [[02 history/the restoration\|the restoration]]          | <ul></ul> | 4:32 PM - June 27, 2025  |
 
 { .block-language-dataview}
 
