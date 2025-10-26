@@ -9,13 +9,13 @@ wither & bloom is a post apocalyptic biopunk scientific romance written by two l
 
 ---
 ## 📌recent page changes
-| page                                                                                            | tags      | modified time               |
-| ----------------------------------------------------------------------------------------------- | --------- | --------------------------- |
-| [[06 concepts/liquid dark\|liquid dark]]                                                     | <ul></ul> | 6:02 PM - October 26, 2025  |
-| [[08 plot structure/b01a03s99 - attack on battery city\|b01a03s99 - attack on battery city]] | <ul></ul> | 5:42 PM - October 26, 2025  |
-| [[06 concepts/wither and bloom\|wither and bloom]]                                           | <ul></ul> | 5:04 PM - October 26, 2025  |
-| [[06 concepts/cannibalism\|cannibalism]]                                                     | <ul></ul> | 5:02 PM - October 26, 2025  |
-| [[04 groups/acolytes of the infinite pattern\|acolytes of the infinite pattern]]             | <ul></ul> | 10:59 PM - October 25, 2025 |
+| page                                                                                            | tags      | modified time              |
+| ----------------------------------------------------------------------------------------------- | --------- | -------------------------- |
+| [[03 people/felix\|felix]]                                                                   | <ul></ul> | 6:11 PM - October 26, 2025 |
+| [[06 concepts/liquid dark\|liquid dark]]                                                     | <ul></ul> | 6:02 PM - October 26, 2025 |
+| [[08 plot structure/b01a03s99 - attack on battery city\|b01a03s99 - attack on battery city]] | <ul></ul> | 5:42 PM - October 26, 2025 |
+| [[06 concepts/wither and bloom\|wither and bloom]]                                           | <ul></ul> | 5:04 PM - October 26, 2025 |
+| [[06 concepts/cannibalism\|cannibalism]]                                                     | <ul></ul> | 5:02 PM - October 26, 2025 |
 
 { .block-language-dataview}
 
