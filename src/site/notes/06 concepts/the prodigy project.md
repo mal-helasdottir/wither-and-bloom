@@ -1,20 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/06-concepts/the-prodigy-project/","created":"2024-08-08T14:46:48.374-05:00","updated":"2024-12-27T11:32:14.627-06:00"}
+{"dg-publish":true,"permalink":"/06-concepts/the-prodigy-project/","created":"2024-08-08T14:46:48.000-05:00","updated":"2025-10-25T20:38:17.110-05:00"}
 ---
 
 # the prodigy project
 
-The Prodigy Project was designed to create a living human capable of hosting the full might of [[03 people/the fallen flesh\|the fallen flesh]] with out destroying itself. 
+The Prodigy Project was designed to create a living human capable of hosting the full might of [[03 people/The Fallen Flesh\|The Fallen Flesh]] with out destroying itself. 
 
-This was done using [[03 people/the ceo\|the ceo]]'s DNA (this part was pure hubris, any human DNA would work Joshua's DNA is NOT special at all), [[03 people/the fallen flesh\|The Flesh]], genetic science and animal/plant Biology to create  this perfect host.  
+This was done using [[03 people/the ceo\|the ceo]]'s DNA (this part was pure hubris, any human DNA would work Joshua's DNA is NOT special at all), [[03 people/The Fallen Flesh\|The Flesh]], genetic science and animal/plant Biology to create  this perfect host.  
 
-Joshua's plan was to create this perfect host (that he named the Prodigy) and then have them [[06 concepts/cannibalism\|consume]] him bodily in a manner similar to how he consumed the vestiges of [[03 people/the fallen flesh\|the fallen flesh]] to become [[03 people/the ceo\|Adam]]. [[03 people/the ceo\|Adam]] would simultaneously consume the Prodigy.  This would result in the two bodies merging to become one at which point [[03 people/the ceo\|Adam]] would be truly born to his full potential.  
+Joshua's plan was to create this perfect host (that he named the Prodigy) and then have them [[06 concepts/cannibalism\|consume]] him bodily in a manner similar to how he consumed the vestiges of [[03 people/The Fallen Flesh\|The Fallen Flesh]] to become [[03 people/the ceo\|Adam]]. [[03 people/the ceo\|Adam]] would simultaneously consume the Prodigy.  This would result in the two bodies merging to become one at which point [[03 people/the ceo\|Adam]] would be truly born to his full potential.  
 
 Joshua truly believes that if this plan comes to fruition he will finally be the god he was always destined to be.   The reality probably is if this did happen, and the [[06 concepts/flesh warping\|Flesh Warper]]'s  power was held stably in a living body the god would re-awaken fully and go back to doing what it wants and both Joshua and the Prodigy would cease to exist.
 
 The project has been going on for nearly a century or maybe several decades (open to suggestion here) I think by the time the story starts.  There have been a number of failures.  it takes along time grow and raise children even those born from tubes. 
 
- So each Attempt featured 4 children.  Two boys and Two Girls.  (we should figure out what happened to the boys in [[03 people/violet\|violet]]'s [[05 places/the gardens\|Garden]].  killed by [[03 people/rose\|rose]]?  if so maybe their bodies have been puppeted too?  They were less stable than [[03 people/rose\|rose]] but were they still stable? hmmm worth thinking about).  
+ So each Attempt featured 4 children.  Two boys and Two Girls.  (we should figure out what happened to the boys in [[01 inbox/violet\|01 inbox/violet]]'s [[05 places/the gardens\|Garden]].  killed by [[03 people/rose\|rose]]?  if so maybe their bodies have been puppeted too?  They were less stable than [[03 people/rose\|rose]] but were they still stable? hmmm worth thinking about).  
 
 They are all raised and subjected to various experiments (we can think about details)  Their ability to hold Flesh and injest Im sure is one,  can they use the powers with out like any adverse affects.  do they start to mutate or warp at all?  etc. 
 

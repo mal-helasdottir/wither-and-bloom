@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-people/rose/","created":"2024-08-15T11:45:30.678-05:00","updated":"2024-11-08T12:45:45.854-06:00"}
+{"dg-publish":true,"permalink":"/03-people/rose/","created":"2024-08-15T11:45:30.000-05:00","updated":"2025-10-25T20:35:03.067-05:00"}
 ---
 
 # rose of jericho
@@ -12,7 +12,7 @@ height::
 weight::
 status:: dead, possessed
 ## birth & youth
-decanted at the greenhouse facility in [[05 places/franchise locations of the empire of zion#jericho\|jericho]]. paired within a few days to [[09 dynamics/rose x violet\|her 'twin']] [[03 people/violet\|violet]] and both sent to the nursery facility at [[05 places/franchise locations of the empire of zion#bethlehem\|bethlehem]]
+decanted at the greenhouse facility in [[05 places/franchise locations of the empire of zion#jericho\|jericho]]. paired within a few days to [[09 dynamics/rose x violet\|her 'twin']] [[01 inbox/violet\|01 inbox/violet]] and both sent to the nursery facility at [[05 places/franchise locations of the empire of zion#bethlehem\|bethlehem]]
 
 ## prodigy subject and testing
 

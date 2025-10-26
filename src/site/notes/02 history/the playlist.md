@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-history/the-playlist/","created":"2024-12-20T15:31:49.449-06:00","updated":"2025-03-12T08:50:04.699-05:00"}
+{"dg-publish":true,"permalink":"/02-history/the-playlist/","created":"2024-12-20T15:31:49.000-06:00","updated":"2025-10-25T20:38:24.608-05:00"}
 ---
 
 # the playlist
@@ -63,12 +63,12 @@
 	- this place is a fucking police state purely to make corpses and prisoners but nobody fucking cares. we hate that. t
 ---
 ## the gods 
-### [[03 people/the fallen flesh\|the flesh]]
+### [[03 people/The Fallen Flesh\|the flesh]]
 - *body*, mother mother
 	- the way the flesh is offered up and consumed by lesser beings after his power, [[03 people/the ceo\|the ceo]]'s mirroring of these actions as he creates minions, the cannibalistic nature of [[04 groups/demons\|demons]] and devils and a little tongue and cheek reference to catholic eucharist. t
 - *vore*, sleep token
 	- this entire song is fucking peak flesh and its very hard to choose a bit to focus on but i think it's worth mentioning there's just as much material here for the [[02 history/the playlist#the ceo\|ceo]] as there is for the flesh. i think the ceo has always felt lonely and misunderstood. power as a way to get attention and validation and in a way the flesh is the same? *your viscera welcome me in, welcome me in. my life is torn, my bones, they bleed. my metaphors fall short in the end. your flesh and bone welcome me in, welcome me in. are you in pain like I am?* perhaps becoming a horrible tetsuo-like fleshgamation is a comfort to both of them--pity they chose violence after that tho. t
-### [[03 people/the infinite pattern\|the pattern]]
+### [[03 people/The Infinite Pattern\|the pattern]]
 - *starman*, david bowie
 	- extremely innocent take on the infinite pattern, making her seem gentle, interested, positive, etc. she's not any of those things but *let the children boogie*, as they say. t
 - *hypnosis*, sleep token
@@ -97,7 +97,7 @@
 - *modern day cain*, i don't know how but they found me
 - *pet*, a perfect circle
 	- *put your head down go to sleep to the rhythm of the war drum*. if daddy warbucks was both an actual war criminal and a daddy. which is pretty much what the ceo is. t
-## [[03 people/violet\|violet]]
+## [[01 inbox/violet\|01 inbox/violet]]
 - *anything like me*, poppy
 	- [[09 dynamics/rose x violet\|rose x violet]]
 	- *i feel her heart beating in me. get her out of me.* the experience of having [[03 people/rose\|rose]] for a sister and then absorbing part of her, who isn't impressed with violet trying to take her place or abandoning the whole thing. *i'm everything she never was now everyone's out for my blood. stop you're making a scene. you're coming at me with blood in your teeth*. t
@@ -108,7 +108,7 @@
 	- yes it's a song about a stripper or prostitute and that usually what violet/stel is but hear me out. it's also an explicit reference to mary of [[05 places/franchise locations of the empire of zion#magdala\|magdala]] (was she a prostitute or the favorite disciple? to the asshole men who wrote and translated the bible what's even the difference?), who violet is specifically modeled after in w&b. further it's about giving anything beyond reason in service of earthly pleasure, which violet has had done to her and engaged in herself--greed is her worst sin. *i'd sell my soul, my self-esteem, a dollar at a time. one chance, one kiss, one taste of you my magdalena*. t
 - *comfortably numb*, pink floyd
 	- the quintessential stelmaria/violet song. she doesn't do emotions, ever. she'll use any method necessary to cushion herself from them and provide the distance required for her to keep fillings her lungs with air. drugs, booze, diq, food, and in this particular case--heavy dissociation--anytime a touchy topic/memory/altercation goes down. *okay just a little pinprick. there'll be no more {**ahhhh ahhhh ahhhh**} but you may feel a little sick*. dealing with rose's death means not actually dealing with it at all. zoning out, hearing static, denial denial denial will all work and do. *there is no pain, you are receding. a distant ship, smoke on the horizon. you are only coming through in waves. your lips move but i cant hear what you're saying.* t
-## [[03 people/felix\|felix]]
+## [[01 inbox/felix\|01 inbox/felix]]
 - *i wanna be yours*, arctic monkeys
 	- *secrets i have held in my heart are harder to hide than i thought*. bro wants to be her electric meter and her ford cortina because he won't ever rust. particularly cute because the prevalence of [[06 concepts/the forging of metals\|rust]] in this universe makes him never doing as such particularly valuable. t
 - *sugar*, sleep token

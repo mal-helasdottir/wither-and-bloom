@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/index/","title":"index","hide":true,"hideInGraph":true,"tags":["gardenEntry"],"created":"2024-08-07T09:02:57.000-05:00","updated":"2025-07-22T08:50:28.923-05:00"}
+{"dg-publish":true,"permalink":"/index/","title":"index","hide":true,"hideInGraph":true,"tags":["gardenEntry"],"created":"2024-08-07T09:02:57.000-05:00","updated":"2025-10-25T20:39:01.664-05:00"}
 ---
 
 # welcome!
 wither & bloom is a post apocalyptic biopunk scientific romance written by two librarians.
 
-[[01 inbox/wack\|the wack ideas storehouse]]
+[[07 miscellaneous/wack\|the wack ideas storehouse]]
 
 ---
 ## 📌recent page changes
-| page                                                        | tags      | modified time            |
-| ----------------------------------------------------------- | --------- | ------------------------ |
-| [[index\|index]]                                         | <ul></ul> | 8:50 AM - July 22, 2025  |
-| [[01 inbox/wack\|wack]]                                  | <ul></ul> | 8:49 AM - July 22, 2025  |
-| [[01 inbox/The CEO's Prophecies\|The CEO's Prophecies]]  | <ul></ul> | 11:22 AM - June 30, 2025 |
-| [[06 concepts/powers of the flesh\|powers of the flesh]] | <ul></ul> | 4:33 PM - June 27, 2025  |
-| [[02 history/the restoration\|the restoration]]          | <ul></ul> | 4:32 PM - June 27, 2025  |
+| page                                                           | tags      | modified time              |
+| -------------------------------------------------------------- | --------- | -------------------------- |
+| [[04 groups/The Eldest Ones\|The Eldest Ones]]              | <ul></ul> | 8:39 PM - October 25, 2025 |
+| [[03 people/The Infinite Pattern\|The Infinite Pattern]]    | <ul></ul> | 8:39 PM - October 25, 2025 |
+| [[03 people/The Fallen Flesh\|The Fallen Flesh]]            | <ul></ul> | 8:39 PM - October 25, 2025 |
+| [[03 people/The Diminished One\|The Diminished One]]        | <ul></ul> | 8:39 PM - October 25, 2025 |
+| [[01 inbox/the infinite pattern 1\|the infinite pattern 1]] | <ul></ul> | 8:39 PM - October 25, 2025 |
 
 { .block-language-dataview}
 
@@ -39,8 +39,8 @@ LIMIT 5
 >- [[07 miscellaneous/a list of literary references\|a list of literary references]] to assist in coming up with names for things
 
 >[!starred-orange]- 👫 people
->- [[03 people/violet\|violet]]
->- [[03 people/felix\|felix]]
+>- [[01 inbox/violet\|01 inbox/violet]]
+>- [[01 inbox/felix\|01 inbox/felix]]
 >- [[03 people/rose\|rose]]
 >- [[03 people/The Diminished One\|roswell the cat]]
 >- [[03 people/the ceo\|the ceo]]
@@ -58,7 +58,7 @@ LIMIT 5
 > - [[04 groups/acolytes of the infinite pattern\|acolytes of the infinite pattern]]
 >- [[04 groups/the brotherhood of gnosis\|the brotherhood of gnosis]]
 >- [[04 groups/the corporate fellowship\|the corporate fellowship]]
->- [[04 groups/the eldest ones\|the eldest ones]]
+>- [[04 groups/The Eldest Ones\|The Eldest Ones]]
 >- [[04 groups/the devil princes\|the devil princes]]
 >- [[04 groups/shareholders\|shareholders]]
 >- [[04 groups/demons\|demons]]
@@ -86,10 +86,10 @@ LIMIT 5
 ##  📌recent pages in which we flesh out the world
 | page                                                                                 | modified time                |
 | ------------------------------------------------------------------------------------ | ---------------------------- |
+| [[07 miscellaneous/wack\|wack]]                                                   | 3:38 PM - July 23, 2025      |
 | [[07 miscellaneous/a list of literary references\|a list of literary references]] | 2:44 PM - May 13, 2025       |
 | [[07 miscellaneous/glossary\|glossary]]                                           | 11:47 AM - April 29, 2025    |
 | [[07 miscellaneous/mugwort\|mugwort]]                                             | 10:03 AM - December 30, 2024 |
 | [[07 miscellaneous/lepidoptera\|lepidoptera]]                                     | 10:01 AM - December 30, 2024 |
-| [[07 miscellaneous/artemisia\|artemisia]]                                         | 10:01 AM - December 30, 2024 |
 
 { .block-language-dataview}

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-history/the-restoration/","created":"2024-12-27T08:36:59.615-06:00","updated":"2025-06-27T16:32:18.734-05:00"}
+{"dg-publish":true,"permalink":"/02-history/the-restoration/","created":"2024-12-27T08:36:59.615-06:00","updated":"2025-10-25T20:37:58.138-05:00"}
 ---
 
 # the restoration

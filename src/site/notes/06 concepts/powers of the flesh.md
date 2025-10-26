@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/06-concepts/powers-of-the-flesh/","created":"2024-08-08T14:51:16.899-05:00","updated":"2025-06-27T16:33:39.494-05:00"}
+{"dg-publish":true,"permalink":"/06-concepts/powers-of-the-flesh/","created":"2024-08-08T14:51:16.000-05:00","updated":"2025-10-25T20:38:24.642-05:00"}
 ---
 
 # powers of the flesh
 
-### The primary power of [[03 people/the fallen flesh\|the Flesh]] is Flesh Warping. 
+### The primary power of [[03 people/The Fallen Flesh\|the Flesh]] is Flesh Warping. 
 
 Most of the other powers stem from this one. 
 
@@ -12,7 +12,7 @@ The forms  and functions of the flesh are mutable to the [[06 concepts/flesh war
 
 This power is the providence of [[03 people/the ceo\|the ceo]], who can flesh warp anything with with flesh with but a thought.  
 
-Most [[04 groups/demons\|Demons]] are limited to [[06 concepts/flesh warping\|Fleshwarping]] only their own flesh, and it usually requires them to have recently fed to do so.  Feeding on [[03 people/the fallen flesh\|the Flesh]] makes his power stronger than feeding on like an animal or a human though they can get some power from that.
+Most [[04 groups/demons\|Demons]] are limited to [[06 concepts/flesh warping\|Fleshwarping]] only their own flesh, and it usually requires them to have recently fed to do so.  Feeding on [[03 people/The Fallen Flesh\|the Flesh]] makes his power stronger than feeding on like an animal or a human though they can get some power from that.
 
 Some Devils can flesh warp other demons or like flesh of the land (their fields which are covered in Flesh), but I don't think any of them can flesh warp normal people unless maybe they injest a bunch of Flesh first.
 
@@ -28,16 +28,16 @@ Demons can't do this.  Devils can control [[04 groups/demons\|Demons]], maybe li
 
 I think the ability to manipulate minds allows [[03 people/the ceo\|the ceo]] and stronger Demons some limited Telepathy and mind reading as well.
 
-## [[01 inbox/The CEO's Prophecies\|Haruspex]]
+## [[06 concepts/The CEO's Prophecies\|Haruspex]]
 
-The ability to divine the future through reading organs is how [[03 people/the ceo\|the ceo]] prophesied [[03 people/felix\|the Whistleblower]] saga.  I think some Devils can do this too so we can have fun witchy ones.  This is a candidate for one of Violets "lesser" powers as well since its like awful and something she wouldn't want to do and they can do accidently
+The ability to divine the future through reading organs is how [[03 people/the ceo\|the ceo]] prophesied [[01 inbox/felix\|the Whistleblower]] saga.  I think some Devils can do this too so we can have fun witchy ones.  This is a candidate for one of Violets "lesser" powers as well since its like awful and something she wouldn't want to do and they can do accidently
 
 ## Telekinetic powers 
 
-limited to Organic Flesh. Fleshnetic? Basically the ability to telekentically manipulate the flesh by throwing it, lifting it, crushing it, moving it with a thought, etc.   This is in part why [[03 people/the fallen flesh\|the Flesh]] hates metal and inorganic materials and moves towards having everything made form flesh so it can be controlled by him.  
+limited to Organic Flesh. Fleshnetic? Basically the ability to telekentically manipulate the flesh by throwing it, lifting it, crushing it, moving it with a thought, etc.   This is in part why [[03 people/The Fallen Flesh\|the Flesh]] hates metal and inorganic materials and moves towards having everything made form flesh so it can be controlled by him.  
 
 Some Devils and stronger [[04 groups/demons\|Demons]] can do this, but probably require to have recently ingested Flesh.  
 
-[[03 people/violet\|violet]] can do this after [[06 concepts/wither and bloom\|withering]] something.
+[[01 inbox/violet\|01 inbox/violet]] can do this after [[06 concepts/wither and bloom\|withering]] something.
 
-I think [[03 people/the infinite pattern\|the Pattern]] would use lots of robots and tech to fight the Flesh in their war to counter act this.  This is the real reason smithing and metal working has died out.  Flesh could easily be burned hot enough to smelt, but [[03 people/the ceo\|the ceo]] doesn't allow it.  This is probably another reason [[06 concepts/currency and trade\|nuts and bolts]] are currency, they can't be manipulated by [[03 people/the ceo\|the ceo]] and Devils.  A metal Sword would be a powerful relic in this world (potential thing to find in the story??? or maybe the monks like smith one with their knowledge!)
+I think [[03 people/The Infinite Pattern\|the Pattern]] would use lots of robots and tech to fight the Flesh in their war to counter act this.  This is the real reason smithing and metal working has died out.  Flesh could easily be burned hot enough to smelt, but [[03 people/the ceo\|the ceo]] doesn't allow it.  This is probably another reason [[06 concepts/currency and trade\|nuts and bolts]] are currency, they can't be manipulated by [[03 people/the ceo\|the ceo]] and Devils.  A metal Sword would be a powerful relic in this world (potential thing to find in the story??? or maybe the monks like smith one with their knowledge!)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-places/battery-city/","created":"2025-03-17T10:45:46.665-05:00","updated":"2025-03-20T17:10:59.755-05:00"}
+{"dg-publish":true,"permalink":"/05-places/battery-city/","created":"2025-03-17T10:45:46.665-05:00","updated":"2025-10-25T20:33:53.238-05:00"}
 ---
 
 # [[05 places/battery city\|battery city]]
@@ -91,7 +91,7 @@ skin color, ethnic background, and so on matter little to most modern mutants be
 
 ### related people
 ---
-- [[03 people/felix\|felix]]
+- [[01 inbox/felix\|01 inbox/felix]]
 - [[03 people/opal\|opal]]
 ### footnotes
 

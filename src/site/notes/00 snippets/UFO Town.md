@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/00-snippets/ufo-town/","created":"2025-05-15T15:05:48.966-05:00","updated":"2025-06-26T12:31:03.667-05:00"}
+{"dg-publish":true,"permalink":"/00-snippets/ufo-town/","created":"2025-05-15T15:05:48.966-05:00","updated":"2025-08-27T14:28:47.342-05:00"}
 ---
 
 # UFO Town
-#snippet #husbando
+#snippet #husbando #waifu
 
 
 There was next to nothing to see in the badlands.  They had left Winne behind at a place Felix called Cas Apach; when she asked what that meant he shrugged and pointed to the remains of a sign marking the entrance to the joint.  Most of the letters had fallen from it so that only “Cas” and “Apach” remained.
@@ -20,8 +20,7 @@ Felix cut the engine.  He sat silent for several seconds the only sound being th
 
 “When we get into to town I’m goin’ ta need ya to do what I tell ya.  This ain’t a Mute town and It certainly ain’t no Corpo town.  The people here are… odd. An I wouldn’t be comin’ here if I didn’t need these bolts I’m owed.”
 
-She wasn’t sure what he meant fully but bristled at the idea of taking more of his orders, and this obsession with ‘bolts’ was working her nerves.  
-“I thought we were going some place to get help with finding rose…” She folds her arms across her chest, her lips forming a defiant thin line.
+She wasn’t sure what he meant fully but bristled at the idea of taking more of his orders, and this obsession with ‘bolts’ was working her nerves.  “I thought we were going some place to get help with finding rose…” She folds her arms across her chest, her lips forming a defiant thin line.
 
 “We are goin ta do that, I told ya we would, but after I get my bolts.  We will need em ta hire trackers a# titlend ta squeeze the info brokers.”
 
