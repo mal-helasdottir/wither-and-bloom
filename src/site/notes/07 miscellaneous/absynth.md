@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-miscellaneous/absynth/","tags":["#misc","#richpeople","#drinks","#drugs","#plants"],"created":"2024-12-27T14:47:01.869-06:00","updated":"2024-12-30T10:01:09.655-06:00"}
+{"dg-publish":true,"permalink":"/07-miscellaneous/absynth/","tags":["misc","richpeople","drinks","drugs","plants"],"created":"2024-12-27T14:47:01.869-06:00","updated":"2024-12-30T10:01:09.655-06:00"}
 ---
 
 # absynth

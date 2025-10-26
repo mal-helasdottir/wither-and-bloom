@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-snippets/ufo-town/","tags":["#snippet","#husbando","#waifu"],"created":"2025-05-15T15:05:48.966-05:00","updated":"2025-08-27T14:28:47.342-05:00"}
+{"dg-publish":true,"permalink":"/00-snippets/ufo-town/","created":"2025-05-15T15:05:48.966-05:00","updated":"2025-08-27T14:28:47.342-05:00"}
 ---
 
 # UFO Town

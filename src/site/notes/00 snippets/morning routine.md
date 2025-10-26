@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-snippets/morning-routine/","tags":["#snippet","#waifu"],"created":"2025-03-20T14:09:40.795-05:00","updated":"2025-03-20T16:42:00.229-05:00"}
+{"dg-publish":true,"permalink":"/00-snippets/morning-routine/","created":"2025-03-20T14:09:40.795-05:00","updated":"2025-03-20T16:42:00.229-05:00"}
 ---
 
 # morning routine
