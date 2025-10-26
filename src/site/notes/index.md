@@ -9,13 +9,13 @@ wither & bloom is a post apocalyptic biopunk scientific romance written by two l
 
 ---
 ## 📌recent page changes
-| page                                                        | tags      | modified time              |
-| ----------------------------------------------------------- | --------- | -------------------------- |
-| [[03 people/felix\|felix]]                               | <ul></ul> | 9:23 PM - October 25, 2025 |
-| [[04 groups/The Eldest Ones\|The Eldest Ones]]           | <ul></ul> | 9:21 PM - October 25, 2025 |
-| [[03 people/The Infinite Pattern\|The Infinite Pattern]] | <ul></ul> | 9:21 PM - October 25, 2025 |
-| [[06 concepts/wither and bloom\|wither and bloom]]       | <ul></ul> | 9:19 PM - October 25, 2025 |
-| [[04 groups/anunnaki\|anunnaki]]                         | <ul></ul> | 9:18 PM - October 25, 2025 |
+| page                                                           | tags      | modified time              |
+| -------------------------------------------------------------- | --------- | -------------------------- |
+| [[01 inbox/violet\|violet]]                                 | <ul></ul> | 9:24 PM - October 25, 2025 |
+| [[01 inbox/the infinite pattern 1\|the infinite pattern 1]] | <ul></ul> | 9:24 PM - October 25, 2025 |
+| [[01 inbox/the fallen flesh 1\|the fallen flesh 1]]         | <ul></ul> | 9:24 PM - October 25, 2025 |
+| [[01 inbox/the eldest ones 1\|the eldest ones 1]]           | <ul></ul> | 9:24 PM - October 25, 2025 |
+| [[01 inbox/The Diminished One 1\|The Diminished One 1]]     | <ul></ul> | 9:24 PM - October 25, 2025 |
 
 { .block-language-dataview}
 
