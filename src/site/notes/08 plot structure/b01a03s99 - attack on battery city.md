@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-plot-structure/b01a03s99-attack-on-battery-city/","created":"2025-10-26T17:40:50.600-05:00","updated":"2025-10-26T17:42:54.621-05:00"}
+{"dg-publish":true,"permalink":"/08-plot-structure/b01a03s99-attack-on-battery-city/","created":"2025-10-26T17:40:50.600-05:00","updated":"2025-10-26T18:22:56.607-05:00"}
 ---
 
 # Arc: Attack on Battery City  
@@ -11,10 +11,10 @@
 
 ## ⛰️ SETTING
 
-- **Location:** Battery City, an underground müte stronghold.
-- **Proximity:** Felix and Violet are in Winne — Felix’s mobile base, part Winnebago, part 18-wheeler, parked near or just outside the city itself.
-- **Tone:** Post-coital stillness following the “Firsts” scene — intimate, quiet, peaceful. The last moment of safety before total collapse.
-- **Narrative Purpose:** To shatter the illusion of sanctuary, reintroduce Rose as antagonist, sever the emotional tether between Violet and her past, and remove Felix from the board via capture.
+- **Location:** [[05 places/battery city\|battery city]], an underground müte stronghold.
+- **Proximity:** [[03 people/felix\|felix]] and [[03 people/violet\|violet]] are in Winne — Felix’s mobile base, part Winnebago, part 18-wheeler, parked near or just outside the city itself.
+- **Tone:** Post-coital stillness following the “[[00 snippets/firsts\|firsts]]” scene — intimate, quiet, peaceful. The last moment of safety before total collapse.
+- **Narrative Purpose:** To shatter the illusion of sanctuary, reintroduce [[03 people/rose\|rose]] as antagonist, sever the emotional tether between Violet and her past, and remove Felix from the board via capture.
 
 ---
 
