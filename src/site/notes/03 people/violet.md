@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-people/violet/","created":"2024-08-08T14:04:12.276-05:00","updated":"2025-10-25T21:39:36.452-05:00"}
+{"dg-publish":true,"permalink":"/03-people/violet/","created":"2024-08-08T14:04:12.276-05:00","updated":"2025-10-26T18:17:22.458-05:00"}
 ---
 
 # Violet of Magdala
@@ -14,17 +14,17 @@
 - **Age**: Early 20s (approximate)
 - **Appearance**: Pale olive skin, black hair, heterochromia (one purple eye, one black)
 - **Height**: 5'6"
-- **Origin**: Grown in the Garden of Magdala (CEO's divine battery project)
+- **Origin**: Grown and decanted in the Garden of Magdala (CEO's divine battery project)
 - **Affiliation**: None officially; allied with [[03 people/the diminished one\|Roz]] and rebel elements
-- **Sexuality**: Queer; romantically and sexually bonded with [[03 people/felix\|Felix]] of Jericho
+- **Sexuality**: Queer; romantically and sexually bonded with [[03 people/felix\|felix]] of Jericho
 
 ---
 
 ## 🧬 Creation & Experimental Context
 
-- Violet was **not born but grown** by the CEO as part of a divine interface program. Her creation was part of a second wave of **Prodigies** meant to serve as vessels for divine energy (specifically the essence of the **Fallen Flesh**).
+- Violet was **not born but grown** by [[03 people/the ceo\|the ceo]] as part of a divine interface program. Her creation was part of a second wave of [[06 concepts/the prodigy project\|prodigies]] meant to serve as vessels for divine energy (specifically the essence of the **Fallen Flesh**).
 - She is considered the **first stable product** of the program, though she is not without flaws from the CEO’s perspective.
-- Her "sister" Rose is a twin in genetic and metaphysical terms, though they ultimately diverge in power, allegiance, and transformation.
+- Her "sister" [[03 people/rose\|rose]] is a twin in genetic and metaphysical terms, though they ultimately diverge in power, allegiance, and transformation.
 - Violet is not merely a vessel. She has **agency**, **independent thought**, and a resistance to full indoctrination by [[03 people/the infinite pattern\|the Pattern]] or [[03 people/the fallen flesh\|the Flesh]].
 - Her ability to resist and redirect divine energy is believed to stem from the influence of **Roz**, who bestowed her the capacity for *Wither and Bloom*.
 
@@ -42,7 +42,7 @@
 
 ## 🌀 Powers & Divine Mechanics
 
-### Wither and Bloom (Roz’s Gift)
+### [[06 concepts/wither and bloom\|wither and bloom]] (Roz’s Gift)
 - Violet can **drain** energy from the living (Wither) and **release** it into others or the world (Bloom).
 - This gift is **not derived from the Flesh** or Pattern but is instead Roz’s personal intervention—intended or not, given as an act of chaos, resistance, or curiosity.
 - She must **touch** to activate either side of the ability. Internal energy can be stored but becomes volatile if unbalanced.
@@ -59,7 +59,7 @@
 
 ## ❤️ Key Relationships
 
-### [[03 people/felix\|Felix of Jericho]]
+### [[03 people/felix\|felix of jericho]]
 - Her equal, her contrast, her opposite, her partner.
 - They start as strangers in a warzone and end as twin orbiting stars—always pulled toward one another.
 - He is the **first person to treat Violet’s body as *hers***—not as property, not as a weapon, not as a sacred object.
@@ -67,12 +67,12 @@
 - Felix sees Violet’s pain and never flinches. He holds her while she breaks and never asks her to be anything other than what she is.
 - He is not afraid of her power—he is in love with her because of it.
 
-### Roz
+### [[03 people/the diminished one\|roz]]
 - Roz protects her—not out of benevolence, but amusement and anti-Pattern alignment.
 - Gifted her the power of Wither and Bloom, possibly as a joke or test of entropy.
 - May see Violet as a favored agent, a walking contradiction, or the final proof that chaos is superior to recursion and flesh.
 
-### Rose
+### [[03 people/rose\|rose]]
 - Twin, mirror, tragedy. Rose did not resist the CEO’s programming.
 - Their fates are entwined by design and sabotage.
 - Violet mourns what Rose became, and that grief never fully leaves her.
@@ -95,7 +95,7 @@
 - She is the only one known to successfully stabilize both *Wither* and *Bloom* without mutating.
 
 
-# violet of magdala (old note)[[]]
+# violet of magdala (old note)
 
 ## stats
 hair:: black
