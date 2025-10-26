@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/07-miscellaneous/glossary/","created":"2025-01-24T11:39:11.295-06:00","updated":"2025-04-29T11:47:01.842-05:00"}
+{"dg-publish":true,"permalink":"/07-miscellaneous/glossary/","created":"2025-01-24T11:39:11.295-06:00","updated":"2025-05-01T08:22:28.166-05:00"}
 ---
 
 # glossary
