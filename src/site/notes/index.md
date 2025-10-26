@@ -9,13 +9,13 @@ wither & bloom is a post apocalyptic biopunk scientific romance written by two l
 
 ---
 ## 📌recent page changes
-| page                                                           | tags      | modified time              |
-| -------------------------------------------------------------- | --------- | -------------------------- |
-| [[04 groups/The Eldest Ones\|The Eldest Ones]]              | <ul></ul> | 8:39 PM - October 25, 2025 |
-| [[03 people/The Infinite Pattern\|The Infinite Pattern]]    | <ul></ul> | 8:39 PM - October 25, 2025 |
-| [[03 people/The Fallen Flesh\|The Fallen Flesh]]            | <ul></ul> | 8:39 PM - October 25, 2025 |
-| [[03 people/The Diminished One\|The Diminished One]]        | <ul></ul> | 8:39 PM - October 25, 2025 |
-| [[01 inbox/the infinite pattern 1\|the infinite pattern 1]] | <ul></ul> | 8:39 PM - October 25, 2025 |
+| page                                                        | tags      | modified time              |
+| ----------------------------------------------------------- | --------- | -------------------------- |
+| [[03 people/felix\|felix]]                               | <ul></ul> | 9:23 PM - October 25, 2025 |
+| [[04 groups/The Eldest Ones\|The Eldest Ones]]           | <ul></ul> | 9:21 PM - October 25, 2025 |
+| [[03 people/The Infinite Pattern\|The Infinite Pattern]] | <ul></ul> | 9:21 PM - October 25, 2025 |
+| [[06 concepts/wither and bloom\|wither and bloom]]       | <ul></ul> | 9:19 PM - October 25, 2025 |
+| [[04 groups/anunnaki\|anunnaki]]                         | <ul></ul> | 9:18 PM - October 25, 2025 |
 
 { .block-language-dataview}
 
@@ -86,7 +86,7 @@ LIMIT 5
 ##  📌recent pages in which we flesh out the world
 | page                                                                                 | modified time                |
 | ------------------------------------------------------------------------------------ | ---------------------------- |
-| [[07 miscellaneous/wack\|wack]]                                                   | 3:38 PM - July 23, 2025      |
+| [[07 miscellaneous/wack\|wack]]                                                   | 9:02 PM - October 25, 2025   |
 | [[07 miscellaneous/a list of literary references\|a list of literary references]] | 2:44 PM - May 13, 2025       |
 | [[07 miscellaneous/glossary\|glossary]]                                           | 11:47 AM - April 29, 2025    |
 | [[07 miscellaneous/mugwort\|mugwort]]                                             | 10:03 AM - December 30, 2024 |

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-people/felix/","created":"2025-10-25T19:25:34.122-05:00","updated":"2025-10-25T20:33:27.784-05:00"}
+{"dg-publish":true,"permalink":"/03-people/felix/","created":"2025-10-25T19:25:34.122-05:00","updated":"2025-10-25T21:23:37.757-05:00"}
 ---
 
 # Felix of Jericho

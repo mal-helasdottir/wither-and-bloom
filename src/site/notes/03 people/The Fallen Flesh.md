@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/03-people/the-fallen-flesh/","created":"2025-10-25T17:55:11.849-05:00","updated":"2025-10-25T20:39:33.595-05:00"}
+{"dg-publish":true,"permalink":"/03-people/the-fallen-flesh/","created":"2025-10-25T17:55:11.849-05:00","updated":"2025-10-25T21:06:55.825-05:00"}
 ---
 
 
 # The Fallen Flesh
 
-The Flesh — also called the Flesh Warper or the Fallen Flesh — is one of the Three Eldest gods, a primordial force of growth, consumption, and unstoppable adaptation. Unlike the Pattern or Chaos, it has no interest in meaning or recursion. It simply **devours, spreads, and becomes**.
+The Flesh — also called the Flesh Warper or the Fallen Flesh — is one of the Three Eldest gods, a primordial force of growth, consumption, and unstoppable adaptation. Unlike [[03 people/The Infinite Pattern\|the Pattern]] or Chaos, it has no interest in meaning or recursion. It simply **devours, spreads, and becomes**.
 
 ---
 

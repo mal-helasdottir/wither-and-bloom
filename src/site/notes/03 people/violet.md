@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-people/violet/","created":"2025-10-25T18:31:42.562-05:00","updated":"2025-10-25T20:34:49.574-05:00"}
+{"dg-publish":true,"permalink":"/03-people/violet/","created":"2025-10-25T18:31:42.562-05:00","updated":"2025-10-25T21:17:23.676-05:00"}
 ---
 
 # Violet of Magdala
@@ -9,13 +9,13 @@
 ## ✅ Identity
 
 - **Name**: Violet
-- **Aliases**: The Prodigy, Second Prodigy, Black Sheep, The Diminished One (informal)
+- **Aliases**: The Prodigy, Second Prodigy, Black Sheep
 - **Status**: Alive
 - **Age**: Early 20s (approximate)
 - **Appearance**: Pale olive skin, black hair, heterochromia (one purple eye, one black)
 - **Height**: 5'6"
 - **Origin**: Grown in the Garden of Magdala (CEO's divine battery project)
-- **Affiliation**: None officially; allied with Roz and rebel elements
+- **Affiliation**: None officially; allied with [[03 people/The Diminished One\|Roz]] and rebel elements
 - **Sexuality**: Queer; romantically and sexually bonded with Felix of Jericho
 
 ---
@@ -25,7 +25,7 @@
 - Violet was **not born but grown** by the CEO as part of a divine interface program. Her creation was part of a second wave of **Prodigies** meant to serve as vessels for divine energy (specifically the essence of the **Fallen Flesh**).
 - She is considered the **first stable product** of the program, though she is not without flaws from the CEO’s perspective.
 - Her "sister" Rose is a twin in genetic and metaphysical terms, though they ultimately diverge in power, allegiance, and transformation.
-- Violet is not merely a vessel. She has **agency**, **independent thought**, and a resistance to full indoctrination by the Pattern or the Flesh.
+- Violet is not merely a vessel. She has **agency**, **independent thought**, and a resistance to full indoctrination by [[03 people/The Infinite Pattern\|the Pattern]] or [[03 people/The Fallen Flesh\|the Flesh]].
 - Her ability to resist and redirect divine energy is believed to stem from the influence of **Roz**, who bestowed her the capacity for *Wither and Bloom*.
 
 ---

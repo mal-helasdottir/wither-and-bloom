@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/03-people/the-diminished-one/","created":"2025-10-25T16:23:16.316-05:00","updated":"2025-10-25T20:39:20.440-05:00"}
+{"dg-publish":true,"permalink":"/03-people/the-diminished-one/","created":"2025-10-25T16:23:16.316-05:00","updated":"2025-10-25T21:07:53.022-05:00"}
 ---
 
 
 # The Diminished One
 
-The Diminished One is one of the three ancient, primordial gods in the Wither & Bloom cosmology—alongside the Pattern and the Flesh. It was once a singular force of unfathomable chaos, capable of reshaping reality, language, memory, and form. Today, it exists in two parts: one remnant known as Roz (or Roswell), and one hidden, vast and unknowable half that still waits beyond the stars.
+The Diminished One is one of the three ancient, primordial gods in the Wither & Bloom cosmology—alongside [[03 people/The Infinite Pattern\|the Pattern]] and [[03 people/The Fallen Flesh\|the Flesh]]. It was once a singular force of unfathomable chaos, capable of reshaping reality, language, memory, and form. Today, it exists in two parts: one remnant known as Roz (or Roswell), and one hidden, vast and unknowable half that still waits beyond the stars.
 
 ---
 
