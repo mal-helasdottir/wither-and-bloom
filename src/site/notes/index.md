@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","title":"index","hide":true,"hideInGraph":true,"tags":["gardenEntry"],"created":"2024-08-07T09:02:57.000-05:00","updated":"2025-10-25T20:39:01.664-05:00"}
+{"dg-publish":true,"permalink":"/index/","title":"index","hide":true,"hideInGraph":true,"tags":["gardenEntry"],"created":"2024-08-07T09:02:57.000-05:00","updated":"2025-10-25T21:30:43.732-05:00"}
 ---
 
 # welcome!
@@ -9,13 +9,13 @@ wither & bloom is a post apocalyptic biopunk scientific romance written by two l
 
 ---
 ## 📌recent page changes
-| page                                                           | tags      | modified time              |
-| -------------------------------------------------------------- | --------- | -------------------------- |
-| [[01 inbox/wither and bloom 1\|wither and bloom 1]]         | <ul></ul> | 9:25 PM - October 25, 2025 |
-| [[01 inbox/violet\|violet]]                                 | <ul></ul> | 9:24 PM - October 25, 2025 |
-| [[01 inbox/the infinite pattern 1\|the infinite pattern 1]] | <ul></ul> | 9:24 PM - October 25, 2025 |
-| [[01 inbox/the fallen flesh 1\|the fallen flesh 1]]         | <ul></ul> | 9:24 PM - October 25, 2025 |
-| [[01 inbox/the eldest ones 1\|the eldest ones 1]]           | <ul></ul> | 9:24 PM - October 25, 2025 |
+| page                                                        | tags      | modified time               |
+| ----------------------------------------------------------- | --------- | --------------------------- |
+| [[01 inbox/wither and bloom 1\|wither and bloom 1]]      | <ul></ul> | 10:06 PM - October 25, 2025 |
+| [[06 concepts/the prodigy project\|the prodigy project]] | <ul></ul> | 10:05 PM - October 25, 2025 |
+| [[03 people/rose\|rose]]                                 | <ul></ul> | 10:05 PM - October 25, 2025 |
+| [[06 concepts/powers of the flesh\|powers of the flesh]] | <ul></ul> | 10:05 PM - October 25, 2025 |
+| [[02 history/the playlist\|the playlist]]                | <ul></ul> | 10:05 PM - October 25, 2025 |
 
 { .block-language-dataview}
 
@@ -42,7 +42,7 @@ LIMIT 5
 >- [[01 inbox/violet\|01 inbox/violet]]
 >- [[01 inbox/felix\|01 inbox/felix]]
 >- [[03 people/rose\|rose]]
->- [[03 people/The Diminished One\|roswell the cat]]
+>- [[03 people/the diminished one\|roswell the cat]]
 >- [[03 people/the ceo\|the ceo]]
 >- [[03 people/cid\|cid]]
 
@@ -86,7 +86,7 @@ LIMIT 5
 ##  📌recent pages in which we flesh out the world
 | page                                                                                 | modified time                |
 | ------------------------------------------------------------------------------------ | ---------------------------- |
-| [[07 miscellaneous/wack\|wack]]                                                   | 9:02 PM - October 25, 2025   |
+| [[07 miscellaneous/wack\|wack]]                                                   | 9:43 PM - October 25, 2025   |
 | [[07 miscellaneous/a list of literary references\|a list of literary references]] | 2:44 PM - May 13, 2025       |
 | [[07 miscellaneous/glossary\|glossary]]                                           | 11:47 AM - April 29, 2025    |
 | [[07 miscellaneous/mugwort\|mugwort]]                                             | 10:03 AM - December 30, 2024 |

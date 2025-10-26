@@ -1,16 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/06-concepts/wither-and-bloom/","created":"2025-10-25T18:13:35.576-05:00","updated":"2025-10-25T21:19:04.223-05:00"}
+{"dg-publish":true,"permalink":"/06-concepts/wither-and-bloom/","created":"2024-10-28T08:53:06.683-05:00","updated":"2025-10-25T21:43:29.792-05:00"}
 ---
 
 # Wither and Bloom
 
-*A unique energy transference ability — rooted in chaos, born from [[03 people/The Diminished One\|Roz]], wielded by Violet.*
+*A unique energy transference ability — rooted in chaos, born from [[03 people/the diminished one\|Roz]], wielded by [[03 people/violet\|Violet]].*
 
 ---
 
 ## 1. Origin, Function, and Ground Rules
 
-**Wither and Bloom** is not a mutation of [[03 people/The Fallen Flesh\|the Flesh]] nor a standard deviant ability. It is a **gift from Roz**, [[03 people/The Diminished One\|the Diminished One]], passed uniquely into Violet. This power functions as a chaotic, non-flesh-derived energy exchange: Violet draws life-force from others (Wither), and may later restore, redirect, or weaponize it (Bloom).
+**Wither and Bloom** is not a mutation of [[03 people/the fallen flesh\|the Flesh]] nor a standard deviant ability. It is a **gift from Roz**, [[03 people/the diminished one\|the diminished one]], passed uniquely into [[03 people/violet\|Violet]]. This power functions as a chaotic, non-flesh-derived energy exchange: Violet draws life-force from others (Wither), and may later restore, redirect, or weaponize it (Bloom).
 
 It is a consequence of Violet’s **deliberate genetic engineering**—she was designed to absorb and store divine or god-corrupted energy **without warping or dying** like her experimental siblings. This capacity makes her **a living battery**, but it is **Roz**, not the Empire or the Flesh, who grants her the *power* to reroute and repurpose that energy.
 
@@ -63,5 +63,5 @@ Violet first discovers she can bloom **outwardly** during a crisis — attemptin
 
 - *Wither and Bloom* remains a signature ability tied to Violet alone.
 - The balance between withering and blooming reflects her arc: survival vs. sacrifice, destruction vs. nurture.
-- Roz’s role in granting this power remains mysterious, but it is clearly **outside [[03 people/The Infinite Pattern\|the Pattern]]’s logic** and **antithetical to [[03 people/The Fallen Flesh\|the Flesh]]’s hunger**.
+- Roz’s role in granting this power remains mysterious, but it is clearly **outside [[03 people/the infinite pattern\|the Pattern]]’s logic** and **antithetical to [[03 people/the fallen flesh\|the Flesh]]’s hunger**.
 

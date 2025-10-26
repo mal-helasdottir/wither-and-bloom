@@ -1,18 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/08-plot-structure/quest-list/","created":"2025-02-20T09:36:19.848-06:00","updated":"2025-10-25T21:07:27.457-05:00"}
+{"dg-publish":true,"permalink":"/08-plot-structure/quest-list/","created":"2025-02-20T09:36:19.848-06:00","updated":"2025-10-25T21:40:10.331-05:00"}
 ---
 
 # quest list
 1. defeat the eldest triumvirate
-	1. defeat [[03 people/The Fallen Flesh\|the flesh]]
+	1. defeat [[03 people/the fallen flesh\|the flesh]]
 		1. defeat the ceo
 			1. assemble the starmetal sword
 			2. shonen manga the devil princes
-				1. jailbreak violet's suit in jericho
-	2. defeat [[03 people/The Infinite Pattern\|the pattern]]
-		1. find [[03 people/The Fallen Flesh\|the flesh]]'s failsafe weapon against [[03 people/The Infinite Pattern\|the pattern]]
+				1. jailbreak [[03 people/violet\|violet]]'s suit in jericho
+	2. defeat [[03 people/the infinite pattern\|the pattern]]
+		1. find [[03 people/the fallen flesh\|the flesh]]'s failsafe weapon against [[03 people/the infinite pattern\|the pattern]]
 	3. defeat chaos
-		1. create vulnerability via [[03 people/The Diminished One\|the diminished]] piece
+		1. create vulnerability via [[03 people/the diminished one\|the diminished]] piece
 2. destroy the holy empire of zion
 	1. defeat the ceo
 	2. defeat the board

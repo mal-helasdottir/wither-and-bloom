@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-groups/anunnaki/","created":"2024-12-27T11:21:19.154-06:00","updated":"2025-10-25T21:18:32.224-05:00"}
+{"dg-publish":true,"permalink":"/04-groups/anunnaki/","created":"2024-12-27T11:21:19.154-06:00","updated":"2025-10-25T21:30:36.324-05:00"}
 ---
 
 # anunnaki
@@ -16,8 +16,8 @@
 	- They are not very physically strong, but rather rely heavily on their telekinetic abilities to augment their strength.
 	- Their home world has much lower gravity than the earth, so they are better suited for lower G environments, and those that do live on or visit the earth are reliant on cybernetic augmentations and/or their telekinesis to move.
 	
-- they are the original servants of [[03 people/The Infinite Pattern\|The Infinite Pattern]]
-- As a race they strive to transcend their physical forms and become a part of [[03 people/The Infinite Pattern\|the pattern]].  
+- they are the original servants of [[03 people/the infinite pattern\|the infinite pattern]]
+- As a race they strive to transcend their physical forms and become a part of [[03 people/the infinite pattern\|the pattern]].  
 - interbred extensively with "lower" forms of life and created the race known pejoratively as "[[04 groups/lanky boys\|lanky boys]]"
 - tend of hold the highest positions of authority within the command structure of the [[04 groups/acolytes of the infinite pattern\|acolytes of the infinite pattern]]
 - 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-places/the-gardens/","created":"2024-10-28T09:35:42.000-05:00","updated":"2025-04-17T12:17:16.434-05:00"}
+{"dg-publish":true,"permalink":"/05-places/the-gardens/","created":"2024-10-28T09:35:42.859-05:00","updated":"2025-04-17T12:17:16.434-05:00"}
 ---
 
 # the gardens

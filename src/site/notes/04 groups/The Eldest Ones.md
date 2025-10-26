@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/04-groups/the-eldest-ones/","created":"2025-10-25T18:00:48.739-05:00","updated":"2025-10-25T21:21:15.200-05:00"}
+{"dg-publish":true,"permalink":"/04-groups/the-eldest-ones/","created":"2025-10-25T18:00:48.739-05:00","updated":"2025-10-25T21:30:43.786-05:00"}
 ---
 
 
 # The Eldest Ones
 
-The three primal gods—**[[03 people/The Infinite Pattern\|The Infinite Pattern]]**, **[[03 people/The Fallen Flesh\|The Fallen Flesh]]**, and **[[03 people/The Diminished One\|The Diminished One]]** (Roz)—form the oldest and most powerful forces in the Wither & Bloom cosmology. They are not worshipped equally, nor do they desire it. Their relationships with each other are defined by betrayal, opposition, recursion, and strange alliances.
+The three primal gods—**[[03 people/the infinite pattern\|the infinite pattern]]**, **[[03 people/the fallen flesh\|the fallen flesh]]**, and **[[03 people/the diminished one\|the diminished one]]** (Roz)—form the oldest and most powerful forces in the Wither & Bloom cosmology. They are not worshipped equally, nor do they desire it. Their relationships with each other are defined by betrayal, opposition, recursion, and strange alliances.
 
 ---
 
