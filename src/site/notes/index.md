@@ -9,13 +9,13 @@ wither & bloom is a post apocalyptic biopunk scientific romance written by two l
 
 ---
 ## 📌recent page changes
-| page                                                                                       | tags                                                        | modified time               |
-| ------------------------------------------------------------------------------------------ | ----------------------------------------------------------- | --------------------------- |
-| [[03 people/cid\|cid]]                                                                  | <ul></ul>                                                   | 3:40 PM - October 27, 2025  |
-| [[01 inbox/wither-and-bloom 1261364869043585114\|wither-and-bloom 1261364869043585114]] | <ul><li>#COMPANYNAMEHERE</li><li>#📚-werk-chat</li></ul>    | 12:53 PM - October 27, 2025 |
-| [[05 places/the demonwastes\|the demonwastes]]                                          | <ul></ul>                                                   | 12:41 PM - October 27, 2025 |
-| [[08 plot structure/book one - basic outline\|book one - basic outline]]                | <ul><li>#meta</li></ul>                                     | 11:38 AM - October 27, 2025 |
-| [[00 snippets/UFO Town\|UFO Town]]                                                      | <ul><li>#snippet</li><li>#husbando</li><li>#waifu</li></ul> | 9:02 AM - October 27, 2025  |
+| page                                                                                       | tags                                                     | modified time               |
+| ------------------------------------------------------------------------------------------ | -------------------------------------------------------- | --------------------------- |
+| [[03 people/opal\|opal]]                                                                | <ul></ul>                                                | 3:44 PM - October 27, 2025  |
+| [[03 people/cid\|cid]]                                                                  | <ul></ul>                                                | 3:40 PM - October 27, 2025  |
+| [[01 inbox/wither-and-bloom 1261364869043585114\|wither-and-bloom 1261364869043585114]] | <ul><li>#COMPANYNAMEHERE</li><li>#📚-werk-chat</li></ul> | 12:53 PM - October 27, 2025 |
+| [[05 places/the demonwastes\|the demonwastes]]                                          | <ul></ul>                                                | 12:41 PM - October 27, 2025 |
+| [[08 plot structure/book one - basic outline\|book one - basic outline]]                | <ul><li>#meta</li></ul>                                  | 11:38 AM - October 27, 2025 |
 
 { .block-language-dataview}
 
