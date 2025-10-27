@@ -11,11 +11,11 @@ wither & bloom is a post apocalyptic biopunk scientific romance written by two l
 ## 📌recent page changes
 | page                                                                                            | tags      | modified time              |
 | ----------------------------------------------------------------------------------------------- | --------- | -------------------------- |
+| [[06 concepts/apotheosis\|apotheosis]]                                                       | <ul></ul> | 9:59 PM - October 26, 2025 |
 | [[index\|index]]                                                                             | <ul></ul> | 9:15 PM - October 26, 2025 |
 | [[08 plot structure/b02a01s00 - interlude\|b02a01s00 - interlude]]                           | <ul></ul> | 9:07 PM - October 26, 2025 |
 | [[08 plot structure/b01a03s99 - attack on battery city\|b01a03s99 - attack on battery city]] | <ul></ul> | 6:22 PM - October 26, 2025 |
 | [[03 people/violet\|violet]]                                                                 | <ul></ul> | 6:17 PM - October 26, 2025 |
-| [[03 people/felix\|felix]]                                                                   | <ul></ul> | 6:11 PM - October 26, 2025 |
 
 { .block-language-dataview}
 
