@@ -11,11 +11,11 @@ wither & bloom is a post apocalyptic biopunk scientific romance written by two l
 ## 📌recent page changes
 | page                                                                                            | tags      | modified time              |
 | ----------------------------------------------------------------------------------------------- | --------- | -------------------------- |
+| [[08 plot structure/b02a01s00 - interlude\|b02a01s00 - interlude]]                           | <ul></ul> | 9:07 PM - October 26, 2025 |
 | [[08 plot structure/b01a03s99 - attack on battery city\|b01a03s99 - attack on battery city]] | <ul></ul> | 6:22 PM - October 26, 2025 |
 | [[03 people/violet\|violet]]                                                                 | <ul></ul> | 6:17 PM - October 26, 2025 |
 | [[03 people/felix\|felix]]                                                                   | <ul></ul> | 6:11 PM - October 26, 2025 |
 | [[06 concepts/liquid dark\|liquid dark]]                                                     | <ul></ul> | 6:02 PM - October 26, 2025 |
-| [[06 concepts/wither and bloom\|wither and bloom]]                                           | <ul></ul> | 5:04 PM - October 26, 2025 |
 
 { .block-language-dataview}
 
@@ -88,7 +88,7 @@ LIMIT 5
 | ------------------------------------------------------------------------------------ | ---------------------------- |
 | [[07 miscellaneous/wack\|wack]]                                                   | 9:43 PM - October 25, 2025   |
 | [[07 miscellaneous/a list of literary references\|a list of literary references]] | 2:44 PM - May 13, 2025       |
-| [[07 miscellaneous/glossary\|glossary]]                                           | 8:22 AM - May 01, 2025       |
+| [[07 miscellaneous/glossary\|glossary]]                                           | 11:47 AM - April 29, 2025    |
 | [[07 miscellaneous/mugwort\|mugwort]]                                             | 10:03 AM - December 30, 2024 |
 | [[07 miscellaneous/lepidoptera\|lepidoptera]]                                     | 10:01 AM - December 30, 2024 |
 
