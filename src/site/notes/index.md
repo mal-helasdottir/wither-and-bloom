@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","title":"index","hide":true,"hideInGraph":true,"tags":["gardenEntry"],"created":"2024-08-07T09:02:57.000-05:00","updated":"2025-10-25T21:30:43.732-05:00"}
+{"dg-publish":true,"permalink":"/index/","title":"index","hide":true,"hideInGraph":true,"tags":["gardenEntry"],"created":"2024-08-07T09:02:57.000-05:00","updated":"2025-10-26T21:12:22.751-05:00"}
 ---
 
 # welcome!
@@ -11,25 +11,15 @@ wither & bloom is a post apocalyptic biopunk scientific romance written by two l
 ## 📌recent page changes
 | page                                                                                            | tags      | modified time              |
 | ----------------------------------------------------------------------------------------------- | --------- | -------------------------- |
+| [[index\|index]]                                                                             | <ul></ul> | 9:12 PM - October 26, 2025 |
 | [[08 plot structure/b02a01s00 - interlude\|b02a01s00 - interlude]]                           | <ul></ul> | 9:07 PM - October 26, 2025 |
 | [[08 plot structure/b01a03s99 - attack on battery city\|b01a03s99 - attack on battery city]] | <ul></ul> | 6:22 PM - October 26, 2025 |
 | [[03 people/violet\|violet]]                                                                 | <ul></ul> | 6:17 PM - October 26, 2025 |
 | [[03 people/felix\|felix]]                                                                   | <ul></ul> | 6:11 PM - October 26, 2025 |
-| [[06 concepts/liquid dark\|liquid dark]]                                                     | <ul></ul> | 6:02 PM - October 26, 2025 |
 
 { .block-language-dataview}
 
 ---
-
-## ✂️recent snippets
-``` dataview
-TABLE file.tags AS "tags", file.mtime AS "modified time"
-FROM #snippet
-SORT file.ctime DESC
-LIMIT 5 
-```
----
-
 >[!starred-red]- 🏰 a history of the world
 > - [[02 history/Rough Timeline\|rough timeline]]
 >- [[02 history/the revelation\|the revelation]]
@@ -68,6 +58,15 @@ LIMIT 5
 >- [[04 groups/the board\|the board]]
 >- [[04 groups/corporate empire of zion\|corporate empire of zion]]
 
+---
+## ✂️recent snippets
+``` dataview
+TABLE file.tags AS "tags", file.mtime AS "modified time"
+FROM #snippet
+SORT file.ctime DESC
+LIMIT 5 
+```
+---
 >[!starred-blue]- 📖 lore concepts
 >- [[06 concepts/wither and bloom\|wither/bloom]]
 >- [[06 concepts/liquid dark\|liquid dark]]
