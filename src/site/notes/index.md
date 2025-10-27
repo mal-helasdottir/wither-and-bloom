@@ -9,13 +9,13 @@ wither & bloom is a post apocalyptic biopunk scientific romance written by two l
 
 ---
 ## 📌recent page changes
-| page                                                                                            | tags      | modified time               |
-| ----------------------------------------------------------------------------------------------- | --------- | --------------------------- |
-| [[08 plot structure/b02a01s01 - felix rescue\|b02a01s01 - felix rescue]]                     | <ul></ul> | 11:38 PM - October 26, 2025 |
-| [[index\|index]]                                                                             | <ul></ul> | 11:34 PM - October 26, 2025 |
-| [[06 concepts/apotheosis\|apotheosis]]                                                       | <ul></ul> | 9:59 PM - October 26, 2025  |
-| [[08 plot structure/b02a01s00 - interlude\|b02a01s00 - interlude]]                           | <ul></ul> | 9:07 PM - October 26, 2025  |
-| [[08 plot structure/b01a03s99 - attack on battery city\|b01a03s99 - attack on battery city]] | <ul></ul> | 6:22 PM - October 26, 2025  |
+| page                                                                        | tags                                                        | modified time              |
+| --------------------------------------------------------------------------- | ----------------------------------------------------------- | -------------------------- |
+| [[00 snippets/UFO Town\|UFO Town]]                                       | <ul><li>#snippet</li><li>#husbando</li><li>#waifu</li></ul> | 9:02 AM - October 27, 2025 |
+| [[00 snippets/The Assault on Battery City\|The Assault on Battery City]] | <ul><li>#snippet</li><li>#husbando</li></ul>                | 9:01 AM - October 27, 2025 |
+| [[00 snippets/terror billy\|terror billy]]                               | <ul><li>#snippet</li><li>#waifu</li></ul>                   | 9:01 AM - October 27, 2025 |
+| [[00 snippets/morning routine\|morning routine]]                         | <ul><li>#snippet</li><li>#waifu</li></ul>                   | 9:01 AM - October 27, 2025 |
+| [[00 snippets/kiss me felix\|kiss me felix]]                             | <ul><li>#snippet</li><li>#waifu</li></ul>                   | 9:01 AM - October 27, 2025 |
 
 { .block-language-dataview}
 

@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/00-snippets/dont-get-hurt/","created":"2024-08-16T11:45:46.000-05:00","updated":"2024-08-16T11:50:50.000-05:00"}
+{"dg-publish":true,"permalink":"/00-snippets/dont-get-hurt/","tags":["#snippet","#waifu"],"created":"2024-08-16T11:45:46.000-05:00","updated":"2025-10-27T08:59:59.898-05:00"}
 ---
 
 # don't get hurt >> feelings almost come out, a vibe check
-#snippet #waifu 
 
 "I can’t afford to let you… get hurt!" 
 

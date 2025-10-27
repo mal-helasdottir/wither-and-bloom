@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/00-snippets/bethlehem-2/","created":"2024-08-16T11:44:13.000-05:00","updated":"2024-08-16T11:45:39.000-05:00"}
+{"dg-publish":true,"permalink":"/00-snippets/bethlehem-2/","tags":["#snippet","#waifu"],"created":"2024-08-16T11:44:13.000-05:00","updated":"2025-10-27T08:59:27.539-05:00"}
 ---
 
 # bethlehem 2 >> sequel to bethlehem
-#snippet #waifu 
 
 Another eternal hall. Brushed metal walls with brushed metal doors set neatly two by two as far as he can see. The drips and smears of blood and plant ash however, don’t bother adhering to any kind of order, festooned at random as they are—except for how they cluster around the first set of two doors.
 

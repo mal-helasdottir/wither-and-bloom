@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/00-snippets/terror-billy/","created":"2024-10-28T09:59:29.000-05:00","updated":"2024-10-28T10:00:27.000-05:00"}
+{"dg-publish":true,"permalink":"/00-snippets/terror-billy/","tags":["#snippet","#waifu"],"created":"2024-10-28T09:59:29.691-05:00","updated":"2025-10-27T09:01:30.542-05:00"}
 ---
 
 # terror billy
-#snippet #waifu 
 
 The screen flickers with a plastic rustle. A corner hexagon is the first to give steady illumination, and the artificial light spreads across the stack from that point as ripples in a disturbed pond.
 

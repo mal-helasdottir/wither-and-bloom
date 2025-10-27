@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/00-snippets/bethlehem/","created":"2024-08-16T11:41:35.000-05:00","updated":"2024-08-16T11:43:53.000-05:00"}
+{"dg-publish":true,"permalink":"/00-snippets/bethlehem/","tags":["#snippet","#waifu"],"created":"2024-08-16T11:41:35.000-05:00","updated":"2025-10-27T08:59:08.937-05:00"}
 ---
 
 # bethlehem >> first crack at felix entering the experimental facility 
-#snippet #waifu 
 
 The plastisteel door slid shut and Felix knew he’d been had.
 

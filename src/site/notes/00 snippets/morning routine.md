@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/00-snippets/morning-routine/","created":"2025-03-20T14:09:40.795-05:00","updated":"2025-03-20T16:42:00.229-05:00"}
+{"dg-publish":true,"permalink":"/00-snippets/morning-routine/","tags":["#snippet","#waifu"],"created":"2025-03-20T14:09:40.795-05:00","updated":"2025-10-27T09:01:18.766-05:00"}
 ---
 
 # morning routine
-#snippet #waifu
 
 a sickly sunbeam creeps into violet's eyes, slow and deliberate, as if determined to wake her in the rudest way possible. she pinches her brows, wondering who turned the light up so early and for what reason they believed they could do so without repercussions. 
 

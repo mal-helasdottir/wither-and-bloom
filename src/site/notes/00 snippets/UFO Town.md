@@ -1,10 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/00-snippets/ufo-town/","created":"2025-05-15T15:05:48.966-05:00","updated":"2025-08-27T14:28:47.342-05:00"}
+{"dg-publish":true,"permalink":"/00-snippets/ufo-town/","tags":["#snippet","#husbando","#waifu"],"created":"2025-05-15T15:05:48.966-05:00","updated":"2025-10-27T09:02:10.640-05:00"}
 ---
 
 # UFO Town
-#snippet #husbando #waifu
-
 
 There was next to nothing to see in the badlands.  They had left Winne behind at a place Felix called Cas Apach; when she asked what that meant he shrugged and pointed to the remains of a sign marking the entrance to the joint.  Most of the letters had fallen from it so that only “Cas” and “Apach” remained.
 
@@ -436,3 +434,18 @@ They respond by hitting him with a nauseating wave of their mind fuckery.  He do
   
 ---
 
+It’s fuzzy at the edges and he’s pretty sure he taste bile on the edge of his tongue, but consciousness returns to Felix more quickly than expected.  Something has pulled the Lanky attention away from him, leaving him to his renewed pain and fresh puddle of sick and blood beside him.   
+
+He places unsteady hands beneath himself and pushes them against the broken black top trying desperately to find his footing.  He is only able to push himself onto his knees at first.  His head lulls unsteadily and feels as though a nail has been driven through his temples.  He almost falls forward again but catches himself, one hand brushing against the smooth curve of the strange pistol he dropped before.  He wraps fingers around the grip holding it up as he blinks rapidly trying to steady his vision.  
+
+Something warm and stinking of ammonia splashes against his face. He wipes at it dumbly with his free hand as he manages to stagger to his feet.  His vision clears and he isn’t sure what to make of the scene around him.
+
+Lankys lay strewn about the ground looking as though they had been savaged by a beast or demon.  Their blood, which is more burgundy than red, has painted the street and buildings in spattered arcs.
+
+A group of still standing lanky's are surrounding something by his car.  He watches as something arcs through the air and one of their heads rolls free from its body thudding to the ground.  The body crumples soon after and he can see it.
+
+He thinks it is a demon at first. A Lithe dark form with a shining skull of a head.  Its hands end in six inch razor sharp talons.  It twists unaturally bending its limbs and frame in unexpected ways to dodge the green blots of energy being fired at it by the encroaching ankai.  It dips forward, suddenly extending its arms, stretching them impossibly  thin and driving those razor sharp claws through the torso of one of the lanky boys.  The creature drops dead guts falling out the newly made hole in its stomach.  
+
+Felix recognizes the form and the strange rabbit’s skull mask then.  It’s Violet.  She spins then a dervish of claws and stretched limbs dropping two more lankys.
+
+“What the fuck.”

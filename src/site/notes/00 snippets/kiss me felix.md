@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/00-snippets/kiss-me-felix/","created":"2024-08-29T11:17:28.000-05:00","updated":"2024-08-29T11:19:30.000-05:00"}
+{"dg-publish":true,"permalink":"/00-snippets/kiss-me-felix/","tags":["#snippet","#waifu"],"created":"2024-08-29T11:17:28.325-05:00","updated":"2025-10-27T09:01:04.591-05:00"}
 ---
 
 # kiss me felix
-#snippet #waifu 
 
 "Kiss me, Felix."
 

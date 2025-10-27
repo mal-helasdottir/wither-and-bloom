@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/00-snippets/the-assault-on-battery-city/","created":"2024-08-08T14:28:25.000-05:00","updated":"2024-08-08T14:30:54.000-05:00"}
+{"dg-publish":true,"permalink":"/00-snippets/the-assault-on-battery-city/","tags":["#snippet","#husbando"],"created":"2024-08-08T14:28:25.012-05:00","updated":"2025-10-27T09:01:49.117-05:00"}
 ---
 
 # The Assault on Battery City
-#snippet #husbando
 
 He kneels before her in the place he had left her.  She hadn’t moved other than to pull her knees to her chest and hold them in place with her slender arms.  The blank stare and expression on her face is one he hadn’t seen since he pulled her out of the garden.  She seems to look past him, at anywhere but at him.  Unresponsive and withdrawn into herself yet again.    
 

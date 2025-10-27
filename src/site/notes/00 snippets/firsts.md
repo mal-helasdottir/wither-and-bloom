@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/00-snippets/firsts/","created":"2025-04-15T11:35:15.046-05:00","updated":"2025-10-25T20:35:03.044-05:00"}
+{"dg-publish":true,"permalink":"/00-snippets/firsts/","tags":["#snippet","#waifu"],"created":"2025-04-15T11:35:15.046-05:00","updated":"2025-10-27T09:00:18.641-05:00"}
 ---
 
 # firsts
-#snippet #waifu
 
 **battery city, feast of the all-martyr's**
 #### *violet* --

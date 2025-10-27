@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06-concepts/liquid-dark/","created":"2024-10-28T08:55:08.000-05:00","updated":"2025-10-26T18:02:47.281-05:00"}
+{"dg-publish":true,"permalink":"/06-concepts/liquid-dark/","created":"2024-10-28T08:55:08.948-05:00","updated":"2025-10-26T18:02:47.281-05:00"}
 ---
 
 # liquid dark

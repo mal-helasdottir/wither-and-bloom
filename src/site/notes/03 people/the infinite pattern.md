@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-people/the-infinite-pattern/","created":"2025-10-25T17:43:55.797-05:00","updated":"2025-10-25T21:50:45.048-05:00"}
+{"dg-publish":true,"permalink":"/03-people/the-infinite-pattern/","created":"2024-10-25T12:02:59.659-05:00","updated":"2025-10-25T21:50:45.048-05:00"}
 ---
 
 # The Infinite Pattern
