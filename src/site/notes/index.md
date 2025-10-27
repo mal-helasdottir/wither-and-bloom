@@ -9,13 +9,13 @@ wither & bloom is a post apocalyptic biopunk scientific romance written by two l
 
 ---
 ## 📌recent page changes
-| page                                                                        | tags                                                        | modified time              |
-| --------------------------------------------------------------------------- | ----------------------------------------------------------- | -------------------------- |
-| [[00 snippets/UFO Town\|UFO Town]]                                       | <ul><li>#snippet</li><li>#husbando</li><li>#waifu</li></ul> | 9:02 AM - October 27, 2025 |
-| [[00 snippets/The Assault on Battery City\|The Assault on Battery City]] | <ul><li>#snippet</li><li>#husbando</li></ul>                | 9:01 AM - October 27, 2025 |
-| [[00 snippets/terror billy\|terror billy]]                               | <ul><li>#snippet</li><li>#waifu</li></ul>                   | 9:01 AM - October 27, 2025 |
-| [[00 snippets/morning routine\|morning routine]]                         | <ul><li>#snippet</li><li>#waifu</li></ul>                   | 9:01 AM - October 27, 2025 |
-| [[00 snippets/kiss me felix\|kiss me felix]]                             | <ul><li>#snippet</li><li>#waifu</li></ul>                   | 9:01 AM - October 27, 2025 |
+| page                                                                        | tags                                                        | modified time               |
+| --------------------------------------------------------------------------- | ----------------------------------------------------------- | --------------------------- |
+| [[08 plot structure/book one - basic outline\|book one - basic outline]] | <ul><li>#meta</li></ul>                                     | 11:38 AM - October 27, 2025 |
+| [[00 snippets/UFO Town\|UFO Town]]                                       | <ul><li>#snippet</li><li>#husbando</li><li>#waifu</li></ul> | 9:02 AM - October 27, 2025  |
+| [[00 snippets/The Assault on Battery City\|The Assault on Battery City]] | <ul><li>#snippet</li><li>#husbando</li></ul>                | 9:01 AM - October 27, 2025  |
+| [[00 snippets/terror billy\|terror billy]]                               | <ul><li>#snippet</li><li>#waifu</li></ul>                   | 9:01 AM - October 27, 2025  |
+| [[00 snippets/morning routine\|morning routine]]                         | <ul><li>#snippet</li><li>#waifu</li></ul>                   | 9:01 AM - October 27, 2025  |
 
 { .block-language-dataview}
 
@@ -87,7 +87,7 @@ LIMIT 5
 | ------------------------------------------------------------------------------------ | ---------------------------- |
 | [[07 miscellaneous/wack\|wack]]                                                   | 9:43 PM - October 25, 2025   |
 | [[07 miscellaneous/a list of literary references\|a list of literary references]] | 2:44 PM - May 13, 2025       |
-| [[07 miscellaneous/glossary\|glossary]]                                           | 11:47 AM - April 29, 2025    |
+| [[07 miscellaneous/glossary\|glossary]]                                           | 8:22 AM - May 01, 2025       |
 | [[07 miscellaneous/mugwort\|mugwort]]                                             | 10:03 AM - December 30, 2024 |
 | [[07 miscellaneous/lepidoptera\|lepidoptera]]                                     | 10:01 AM - December 30, 2024 |
 
