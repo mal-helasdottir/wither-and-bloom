@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-places/the-demonwastes/","created":"2024-10-28T09:20:59.178-05:00","updated":"2025-02-20T16:10:28.549-06:00"}
+{"dg-publish":true,"permalink":"/05-places/the-demonwastes/","created":"2024-10-28T09:20:59.178-05:00","updated":"2025-10-27T12:27:29.578-05:00"}
 ---
 
 # the demonwastes
@@ -19,8 +19,32 @@
 ## gluttony
 *location*: outside el paso, texas ([[05 places/franchise locations of the empire of zion#bethlehem\|bethlehem]])
 *dante's version*:
-*our vibe*: 
+*our vibe*: bodily, digestive, survival-driven, doesn't understand the concept of **not** consuming
 *prince*: [[04 groups/the devil princes\|cerberus]]
+### notes
+- **Gluttony is a good intro to demonfields**
+  - “the demons there would be more bestial and well hungry”
+  - “the Devil in charge of the field really dictates what the rest of the field as like”
+  - “this one is all beasties because the strongest creature there is a beastie and eats anything that doesn't follow suit”
+  - “all the lessers are constantly hunting, each other or anything that wonders in”
+  - “a very dangerous one but like simple to understand”
+  - “this is what most people who have never been in a field think they are all like”
+  - “others may have more subtle masters and rules”
+
+- **Environmental and thematic features**
+  - “like a very hungry hungry caterpillar but eldritch. with rules. but also bodily. like the field is a stomach. but the stomach of a concept.”
+  - “the rule might be: eat or be eaten. or worse. eat and be eaten. gluttony isn't about hunger. it's about never stopping”
+
+- **Behavior of Gluttony even when liberated**
+  - “gluttony would get liberated right and not give a fuck and still try to Eat Violet and Felix”
+
+- **Placement in narrative**
+  - “or do we think the destoryed base and finding violet kinda out of it and him decdeing to take her with him is enough, but then why do they go into Gluttoney? does he emerge from the garden and there are troops on the surface then he runs?”
+
+- **Contrast with other fields**
+  - “it’s the one that teaches you that demonfields are not all like this, even if this is what people think they are all like”
+
+---
 ## greed/avarice
 *location*:
 *dante's version*:
