@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-places/the-demonwastes/","created":"2024-10-28T09:20:59.178-05:00","updated":"2025-10-27T12:27:29.578-05:00"}
+{"dg-publish":true,"permalink":"/05-places/the-demonwastes/","created":"2024-10-28T09:20:59.178-05:00","updated":"2025-10-27T12:41:45.773-05:00"}
 ---
 
 # the demonwastes
@@ -11,11 +11,21 @@
 				- the citadel, where unbaptized infants and virtuous pagans who lived before the birth of christ dwell until the judgment day, when they will be redeemed (possibly)
 *our vibe*: somewhere everyone has to wait for an indeterminate amount of time at least once in their lives: a doctor's office, a moving elevator, a theme park ride queue, a moving sidewalk, the dmv, that bakery in seinfeld with the chocolate babka. the demon answer to taking a ticket and waiting to be served... except it will never happen.
 *prince*: [[04 groups/the devil princes\|baba yaga]]
-## lust
-*location*: 
-*dante's version*: 
-*our vibe*: 
-*prince*: 
+
+---
+## limbo  
+*location*: between Battery City and its nearest corpo town  
+*dante's version*: the edge of hell; those denied entry to both damnation and salvation  
+*our vibe*: weak field used as buffer zone and dumping ground for mutants oversaturated with Liquid Night  
+*prince*: not named  
+### notes  
+- "Limbo might be a smaller field that is between Battery City and its closest corpo town"  
+- "they use it 1 as a buffer and two as a place to quietly dump mutants who have used too much Liquid Night in service of the rebellion"  
+- "as a result some of the demons and the devil there can be reasoned with"  
+- discussed in same thread as Gluttony; framed as contrast  
+- implies that not all demonfields are hostile or chaotic — some are political or passive  
+
+---
 ## gluttony
 *location*: outside el paso, texas ([[05 places/franchise locations of the empire of zion#bethlehem\|bethlehem]])
 *dante's version*:
