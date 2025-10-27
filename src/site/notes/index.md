@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/index/","title":"index","hide":true,"hideInGraph":true,"tags":["gardenEntry"],"created":"2024-08-07T09:02:57.000-05:00","updated":"2025-10-26T21:12:22.751-05:00"}
+{"dg-publish":true,"permalink":"/index/","title":"index","hide":true,"hideInGraph":true,"tags":["gardenEntry"],"created":"2024-08-07T09:02:57.000-05:00","updated":"2025-10-26T21:15:14.815-05:00"}
 ---
 
-# welcome!
+# 🥀 welcome!
 wither & bloom is a post apocalyptic biopunk scientific romance written by two librarians.
 
 [[07 miscellaneous/wack\|the wack ideas storehouse]]
@@ -11,7 +11,7 @@ wither & bloom is a post apocalyptic biopunk scientific romance written by two l
 ## 📌recent page changes
 | page                                                                                            | tags      | modified time              |
 | ----------------------------------------------------------------------------------------------- | --------- | -------------------------- |
-| [[index\|index]]                                                                             | <ul></ul> | 9:12 PM - October 26, 2025 |
+| [[index\|index]]                                                                             | <ul></ul> | 9:15 PM - October 26, 2025 |
 | [[08 plot structure/b02a01s00 - interlude\|b02a01s00 - interlude]]                           | <ul></ul> | 9:07 PM - October 26, 2025 |
 | [[08 plot structure/b01a03s99 - attack on battery city\|b01a03s99 - attack on battery city]] | <ul></ul> | 6:22 PM - October 26, 2025 |
 | [[03 people/violet\|violet]]                                                                 | <ul></ul> | 6:17 PM - October 26, 2025 |
