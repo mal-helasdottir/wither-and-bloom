@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-snippets/firsts/","tags":["#snippet","#waifu"],"created":"2025-04-15T11:35:15.046-05:00","updated":"2025-10-27T09:00:18.641-05:00"}
+{"dg-publish":true,"permalink":"/00-snippets/firsts/","tags":["snippet","waifu"],"created":"2025-04-15T11:35:15.046-05:00","updated":"2025-10-27T09:00:18.641-05:00"}
 ---
 
 # firsts

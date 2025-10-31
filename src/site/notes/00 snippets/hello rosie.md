@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-snippets/hello-rosie/","tags":["#snippet","#waifu"],"created":"2024-08-16T11:51:04.000-05:00","updated":"2025-10-27T09:00:34.232-05:00"}
+{"dg-publish":true,"permalink":"/00-snippets/hello-rosie/","tags":["snippet","waifu"],"created":"2024-08-16T11:51:04.000-05:00","updated":"2025-10-27T09:00:34.232-05:00"}
 ---
 
 # hello rosie >> sneaky rosie is very sneaky and stealing meaty

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-snippets/in-the-beginning/","tags":["#snippet","#waifu"],"created":"2024-12-05T15:36:32.820-06:00","updated":"2025-10-27T09:00:49.397-05:00"}
+{"dg-publish":true,"permalink":"/00-snippets/in-the-beginning/","tags":["snippet","waifu"],"created":"2024-12-05T15:36:32.820-06:00","updated":"2025-10-27T09:00:49.397-05:00"}
 ---
 
 # in the beginning

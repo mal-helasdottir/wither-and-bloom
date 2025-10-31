@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-people/the-diminished-one/","created":"2024-08-08T20:24:01.000-05:00","updated":"2025-10-25T21:50:01.649-05:00"}
+{"dg-publish":true,"permalink":"/03-people/the-diminished-one/","created":"2024-08-08T20:24:01.000-05:00","updated":"2025-10-30T07:06:52.045-05:00"}
 ---
 
 
@@ -44,7 +44,7 @@ The Diminished One is one of the three ancient, primordial gods in the Wither & 
 ## 🧬 Roz (The Little Chaos)
 
 - Roz is **alive**, physical, and present in the current timeline.
-- Commonly takes the form of **a small catlike being** who speaks, lounges, and plays.
+- Commonly takes the form of **a small catlike being** who hunts, lounges, and plays.
 - Behaviorally aligned with figures like **Loki**: mischievous, cunning, deeply dangerous, and prone to amusement at others’ expense.
 - **Gave early mutants animalistic adaptations** (tails, feathers, gills, etc.) as a way to **make them resistant** to corruption by the Flesh.
 - Is considered a **patron, progenitor, or sacred ancestor** by some müte factions.
@@ -90,7 +90,7 @@ The existence of the three gods—Pattern, Flesh, and Chaos—is **an ancient an
 - Roz’s gift is the reason Violet is a failed apotheosis candidate.
 - Roz intervened to protect mutants from the corrupting touch of the Flesh.
 - Roz is the result of the Pattern surgically excising the usable parts of Chaos.
-- Roz exists physically, speaks, and interacts.
+- Roz exists physically and interacts.
 - Roz refuses worship. Actively avoids it.
 - Roz’s motivations are **play, disruption, and long-term cosmic trolling**.
 

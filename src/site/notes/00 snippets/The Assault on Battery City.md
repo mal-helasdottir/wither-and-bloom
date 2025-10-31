@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-snippets/the-assault-on-battery-city/","tags":["#snippet","#husbando"],"created":"2024-08-08T14:28:25.012-05:00","updated":"2025-10-27T09:01:49.117-05:00"}
+{"dg-publish":true,"permalink":"/00-snippets/the-assault-on-battery-city/","tags":["snippet","husbando"],"created":"2024-08-08T14:28:25.012-05:00","updated":"2025-10-27T09:01:49.117-05:00"}
 ---
 
 # The Assault on Battery City

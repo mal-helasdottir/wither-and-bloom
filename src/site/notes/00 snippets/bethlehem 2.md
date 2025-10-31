@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-snippets/bethlehem-2/","tags":["#snippet","#waifu"],"created":"2024-08-16T11:44:13.000-05:00","updated":"2025-10-27T08:59:27.539-05:00"}
+{"dg-publish":true,"permalink":"/00-snippets/bethlehem-2/","tags":["snippet","waifu"],"created":"2024-08-16T11:44:13.000-05:00","updated":"2025-10-27T08:59:27.539-05:00"}
 ---
 
 # bethlehem 2 >> sequel to bethlehem

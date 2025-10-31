@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-plot-structure/book-one-basic-outline/","tags":["#meta"],"created":"2025-10-27T11:37:29.582-05:00","updated":"2025-10-27T11:38:51.100-05:00"}
+{"dg-publish":true,"permalink":"/08-plot-structure/book-one-basic-outline/","tags":["meta"],"created":"2025-10-27T11:37:29.582-05:00","updated":"2025-10-27T11:38:51.100-05:00"}
 ---
 
 # wither & bloom — book one outline
