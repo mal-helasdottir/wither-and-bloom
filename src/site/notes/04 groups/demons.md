@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-groups/demons/","created":"2024-10-28T09:23:22.257-05:00","updated":"2025-12-02T16:16:11.490-06:00"}
+{"dg-publish":true,"permalink":"/04-groups/demons/","created":"2024-10-28T09:23:22.257-05:00","updated":"2025-12-02T16:18:56.399-06:00"}
 ---
 
 # demons
@@ -22,9 +22,9 @@ When he consumed the [[03 people/the fallen flesh\|Fallen Flesh]] and tried to a
 
 Where the fragments landed, they grew. They consumed. They reproduced. The land beneath them warped into living meat, and from that meat, the first demons crawled.
 
-These primordial demons were not created by the [[05 places/the gardens\|Gardens]] or the [[06 concepts/the prodigy project\|Prodigy Project]]—they predate both. The Gardens were built _near_ pre-existing [[demonfields\|demonfields]] to harvest what had already spawned. Later demons may arise through other means (breeding, spontaneous generation from concentrated Flesh, corruption of humans or animals), but the original population traces back to the CEO's moment of weakness.
+These primordial demons were not created by the [[05 places/the gardens\|Gardens]] or the [[06 concepts/the prodigy project\|Prodigy Project]]—they predate both. The Gardens were built _near_ pre-existing [[05 places/the demonfields\|demonfields]] to harvest what had already spawned. Later demons may arise through other means (breeding, spontaneous generation from concentrated Flesh, corruption of humans or animals), but the original population traces back to the CEO's moment of weakness.
 
-The prophecy states they will "consume and grow and reproduce unchecked" until the CEO achieves true godhood. Until then, his control over them remains fickle at best.
+The [[06 concepts/The CEO's Prophecies#^10ba11\|prophecy]] states they will "consume and grow and reproduce unchecked" until the CEO achieves true godhood. Until then, his control over them remains fickle at best.
 
 ---
 
@@ -66,7 +66,7 @@ Eat something with better claws, gain better claws. Eat something that knew the 
 
 Demons are not merely monsters—they're terraformers.
 
-The concentrated Flesh in the [[demonfields\|demonfields]] produces massive atmospheric disturbances called **[[05 places/the demonwastes#the wyrmwinds\|Wyrmwinds]]**. These storms roll out across the [[05 places/the demonwastes\|wastes]] and reshape the atmosphere into something better suited for what the Flesh considers "perfect evolution."
+The concentrated Flesh in the [[05 places/the demonfields\|demonfields]] produces massive atmospheric disturbances called **[[05 places/the demonwastes#the wyrmwinds\|Wyrmwinds]]**. These storms roll out across the [[05 places/the demonwastes\|wastes]] and reshape the atmosphere into something better suited for what the Flesh considers "perfect evolution."
 
 Demons are part of this system. Their endless consumption, their constant fleshwarping, their very existence contributes to the slow transformation of the world. They're not just leftover chaos from the CEO's apotheosis—they're an engine of change, working to remake reality whether anyone wants them to or not.
 

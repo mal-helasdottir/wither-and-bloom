@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-places/the-demonwastes/","created":"2025-12-02T15:01:49.586-06:00","updated":"2025-12-02T15:15:29.432-06:00"}
+{"dg-publish":true,"permalink":"/05-places/the-demonwastes/","created":"2025-12-02T15:01:49.586-06:00","updated":"2025-12-02T16:20:12.064-06:00"}
 ---
 
 # the demonwastes
@@ -12,7 +12,7 @@ The **Demonwastes** are the vast stretches of middle America rendered uninhabita
 
 The wastes are distinct from [[05 places/the wilds\|the wilds]]—while the wilds are merely lawless and dangerous, the wastes are _wrong_. The land itself resists human presence. Those who travel through do so quickly, quietly, and with full awareness that they may not emerge.
 
-Within the broader wastes lie the [[demonfields\|demonfields]]: nine concentrated zones where the [[03 people/the fallen flesh\|Fallen Flesh]] has taken root and spread, saturating the land until the earth itself becomes meat. These are the domains of [[04 groups/demons\|demons]] and [[04 groups/the devil princes\|Devils]], and they are the source of everything that makes the wastes deadly.
+Within the broader wastes lie the [[05 places/the demonfields\|demonfields]]: nine concentrated zones where the [[03 people/the fallen flesh\|Fallen Flesh]] has taken root and spread, saturating the land until the earth itself becomes meat. These are the domains of [[04 groups/demons\|demons]] and [[04 groups/the devil princes\|Devils]], and they are the source of everything that makes the wastes deadly.
 
 ---
 
@@ -32,7 +32,7 @@ The [[03 people/the ceo\|CEO]]'s own prophecies refer to these spawn as "rogue F
 
 The wastes are not passive. They _breathe_.
 
-The concentrated Flesh in the [[demonfields\|demonfields]] produces massive atmospheric disturbances called **Wyrmwinds**—storms of unknown composition that roll out across the wastes and beyond. These storms are actively terraforming the world, reshaping the atmosphere into something better suited for what the Flesh considers "perfect evolution."
+The concentrated Flesh in the [[05 places/the demonfields\|demonfields]] produces massive atmospheric disturbances called **Wyrmwinds**—storms of unknown composition that roll out across the wastes and beyond. These storms are actively terraforming the world, reshaping the atmosphere into something better suited for what the Flesh considers "perfect evolution."
 
 For those caught in a Wyrmwind without shelter, the results vary from mutation to dissolution to worse things that don't have names.
 
@@ -65,7 +65,7 @@ For those caught in a Wyrmwind without shelter, the results vary from mutation t
 
 The [[04 groups/corporate empire of zion\|corporate empire of zion]] views the Demonwastes as a managed buffer rather than territory worth reclaiming.
 
-**Strategic value**: [[05 places/the gardens\|Gardens]] are deliberately built at the edges of the wastes, near [[demonfields\|demonfields]], for easy access to demons (test subjects), raw Flesh (materials), and a convenient dumping ground for failed experiments. The wastes themselves serve as a natural barrier—no army is marching through that.
+**Strategic value**: [[05 places/the gardens\|Gardens]] are deliberately built at the edges of the wastes, near [[05 places/the demonfields\|demonfields]], for easy access to demons (test subjects), raw Flesh (materials), and a convenient dumping ground for failed experiments. The wastes themselves serve as a natural barrier—no army is marching through that.
 
 **Propaganda**: The official line frames the wastes as land stained by "the Sins of the old world." Only the CEO can call the demons to heel and eventually cleanse the corruption. The masses are taught to fear the wastes and trust the empire's protection.
 
@@ -86,7 +86,7 @@ The [[04 groups/corporate empire of zion\|corporate empire of zion]] views the D
 
 ## see also
 
-- [[demonfields\|demonfields]] — the nine concentrated Flesh-zones within the wastes
+- [[05 places/the demonfields\|the demonfields]] — the nine concentrated Flesh-zones within the wastes
 - [[04 groups/demons\|demons]] — the creatures spawned from the Flesh
 - [[04 groups/the devil princes\|the devil princes]] — the rulers of the fields
 - [[05 places/the gardens\|the gardens]] — facilities built at the wastes' edges
