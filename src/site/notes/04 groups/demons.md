@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-groups/demons/","created":"2024-10-28T09:23:22.257-05:00","updated":"2025-12-02T15:33:22.330-06:00"}
+{"dg-publish":true,"permalink":"/04-groups/demons/","created":"2024-10-28T09:23:22.257-05:00","updated":"2025-12-02T16:16:11.490-06:00"}
 ---
 
 # demons
@@ -129,4 +129,4 @@ The greater concern is always the Devil behind the swarm—demons don't organize
 - [[05 places/the demonwastes\|the demonwastes]] — where demons dwell
 - [[06 concepts/flesh warping\|flesh warping]] — the signature power of Flesh creatures
 - [[06 concepts/cannibalism\|cannibalism]] — the economy of power among the fallen
-- [[06 concepts/languages#screwtape\|languages#screwtape]] — demon tongue
+- [[06 concepts/languages#screwtape\|screwtape]] — demon tongue
