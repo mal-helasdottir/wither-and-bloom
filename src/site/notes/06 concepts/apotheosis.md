@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/06-concepts/apotheosis/","created":"2024-12-26T08:27:25.142-06:00","updated":"2025-10-26T21:59:18.274-05:00"}
+{"dg-publish":true,"permalink":"/06-concepts/apotheosis/","created":"2024-12-26T08:27:25.142-06:00","updated":"2025-12-02T15:04:39.978-06:00"}
 ---
 
 # apotheosis
 
-the [[06 concepts/cannibalism\|consumption]] of god parts or whole gods in order to become a god (i.e. a being of similar power level and abilities as an [[04 groups/The Eldest Ones\|elder]])
+the [[06 concepts/cannibalism\|consumption]] of god parts or whole gods in order to become a god (i.e. a being of similar power level and abilities as an [[04 groups/the eldest ones\|elder]])
 
 ## what is *apotheosis*?
 
@@ -41,7 +41,7 @@ If the candidate **fails** apotheosis:
 
 - Their body mutates into something monstrous, unstable, and powerful
 - Their mind often fractures, breaks, or is replaced entirely
-- They are designated a [[04 groups/the devil princes\|devil prince]] and deployed to govern a [[05 places/the demonwastes\|demonfield]]
+- They are designated a [[04 groups/the devil princes\|devil prince]] and deployed to govern a [[05 places/the demonfields\|demonfield]]
 
 These failures are not discarded — they are weaponized.
 

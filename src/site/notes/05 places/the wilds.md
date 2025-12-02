@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-places/the-wilds/","created":"2024-10-28T09:20:32.039-05:00","updated":"2024-12-27T10:59:13.155-06:00"}
+{"dg-publish":true,"permalink":"/05-places/the-wilds/","created":"2024-10-28T09:20:32.039-05:00","updated":"2025-12-02T14:56:25.153-06:00"}
 ---
 
 # the wilds
@@ -10,4 +10,4 @@ the large stretches of the former continental united states that are *not*
 - [[05 places/the most holy city of imperial zion\|the most holy city of imperial zion]] itself
 - [[04 groups/mutants\|mutant]] strongholds
 - [[05 places/the gardens\|gardens]]
-- [[05 places/the demonwastes\|demonwastes]]
+- [[05 places/the demonfields\|demonwastes]]

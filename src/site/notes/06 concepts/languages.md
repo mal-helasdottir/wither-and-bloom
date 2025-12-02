@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06-concepts/languages/","created":"2024-11-12T10:17:23.000-06:00","updated":"2025-10-25T20:39:01.657-05:00"}
+{"dg-publish":true,"permalink":"/06-concepts/languages/","created":"2024-11-12T10:17:23.000-06:00","updated":"2025-12-02T15:04:39.985-06:00"}
 ---
 
 # languages
@@ -25,7 +25,7 @@
 
 ---
 ## enochian
-*the sacred language of the [[04 groups/The Eldest Ones\|elder]] ones*
+*the sacred language of the [[04 groups/the eldest ones\|elder]] ones*
 - totally alien method of communication consisting of unpronounceable syllables and mental imaging
 - the pool of speakers is limited to the eldest three and [[03 people/the ceo\|the ceo]]
 

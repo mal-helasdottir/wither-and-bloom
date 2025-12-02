@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","title":"index","hide":true,"hideInGraph":true,"tags":["gardenEntry"],"created":"2024-08-07T09:02:57.000-05:00","updated":"2025-10-26T23:34:32.120-05:00"}
+{"dg-publish":true,"permalink":"/index/","title":"index","hide":true,"hideInGraph":true,"tags":["gardenEntry"],"created":"2024-08-07T09:02:57.000-05:00","updated":"2025-12-02T15:04:39.996-06:00"}
 ---
 
 # 🥀 welcome!
@@ -9,13 +9,13 @@ wither & bloom is a post apocalyptic biopunk scientific romance written by two l
 
 ---
 ## 📌recent page changes
-| page                                                       | tags      | modified time                |
-| ---------------------------------------------------------- | --------- | ---------------------------- |
-| [[04 groups/mutants\|mutants]]                          | <ul></ul> | 2:35 PM - December 02, 2025  |
-| [[03 people/polly\|polly]]                              | <ul></ul> | 10:08 AM - December 02, 2025 |
-| [[03 people/kal\|kal]]                                  | <ul></ul> | 9:35 AM - December 02, 2025  |
-| [[03 people/the diminished one\|the diminished one]]    | <ul></ul> | 7:06 AM - October 30, 2025   |
-| [[01 inbox/semi-canon-fragments\|semi-canon-fragments]] | <ul></ul> | 4:02 PM - October 27, 2025   |
+| page                                              | tags      | modified time               |
+| ------------------------------------------------- | --------- | --------------------------- |
+| [[05 places/the demonfields\|the demonfields]] | <ul></ul> | 3:34 PM - December 02, 2025 |
+| [[04 groups/demons\|demons]]                   | <ul></ul> | 3:33 PM - December 02, 2025 |
+| [[05 places/the demonwastes\|the demonwastes]] | <ul></ul> | 3:15 PM - December 02, 2025 |
+| [[index\|index]]                               | <ul></ul> | 3:04 PM - December 02, 2025 |
+| [[06 concepts/languages\|languages]]           | <ul></ul> | 3:04 PM - December 02, 2025 |
 
 { .block-language-dataview}
 
@@ -41,14 +41,14 @@ wither & bloom is a post apocalyptic biopunk scientific romance written by two l
 >- [[05 places/franchise locations of the empire of zion\|franchise locations of the empire of zion]]
 >- [[05 places/Frontier and Mute Towns\|Frontier and Mute Towns]]
 >- [[05 places/the wilds\|the wilds]]
->- [[05 places/the demonwastes\|the (demon)wastes]]
+>- [[05 places/the demonfields\|the (demon)wastes]]
 >- [[05 places/the gardens\|the gardens]]
 
 >[!starred-green]- 🖇️ groups
 > - [[04 groups/acolytes of the infinite pattern\|acolytes of the infinite pattern]]
 >- [[04 groups/the brotherhood of gnosis\|the brotherhood of gnosis]]
 >- [[04 groups/the corporate fellowship\|the corporate fellowship]]
->- [[04 groups/The Eldest Ones\|The Eldest Ones]]
+>- [[04 groups/the eldest ones\|the eldest ones]]
 >- [[04 groups/the devil princes\|the devil princes]]
 >- [[04 groups/shareholders\|shareholders]]
 >- [[04 groups/demons\|demons]]
@@ -60,12 +60,15 @@ wither & bloom is a post apocalyptic biopunk scientific romance written by two l
 
 ---
 ## ✂️recent snippets
-``` dataview
-TABLE file.tags AS "tags", file.mtime AS "modified time"
-FROM #snippet
-SORT file.ctime DESC
-LIMIT 5 
-```
+| page                                                  | tags                                                        | modified time              |
+| ----------------------------------------------------- | ----------------------------------------------------------- | -------------------------- |
+| [[00 snippets/UFO Town\|UFO Town]]                 | <ul><li>#snippet</li><li>#husbando</li><li>#waifu</li></ul> | 9:02 AM - October 27, 2025 |
+| [[00 snippets/firsts\|firsts]]                     | <ul><li>#snippet</li><li>#waifu</li></ul>                   | 9:00 AM - October 27, 2025 |
+| [[00 snippets/morning routine\|morning routine]]   | <ul><li>#snippet</li><li>#waifu</li></ul>                   | 9:01 AM - October 27, 2025 |
+| [[00 snippets/in the beginning\|in the beginning]] | <ul><li>#snippet</li><li>#waifu</li></ul>                   | 9:00 AM - October 27, 2025 |
+| [[00 snippets/terror billy\|terror billy]]         | <ul><li>#snippet</li><li>#waifu</li></ul>                   | 9:01 AM - October 27, 2025 |
+
+{ .block-language-dataview}
 ---
 >[!starred-blue]- 📖 lore concepts
 >- [[06 concepts/wither and bloom\|wither/bloom]]
