@@ -9,13 +9,13 @@ wither & bloom is a post apocalyptic biopunk scientific romance written by two l
 
 ---
 ## 📌recent page changes
-| page                                                                                       | tags                                                     | modified time               |
-| ------------------------------------------------------------------------------------------ | -------------------------------------------------------- | --------------------------- |
-| [[03 people/the diminished one\|the diminished one]]                                    | <ul></ul>                                                | 7:06 AM - October 30, 2025  |
-| [[01 inbox/semi-canon-fragments\|semi-canon-fragments]]                                 | <ul></ul>                                                | 4:02 PM - October 27, 2025  |
-| [[03 people/opal\|opal]]                                                                | <ul></ul>                                                | 3:44 PM - October 27, 2025  |
-| [[03 people/cid\|cid]]                                                                  | <ul></ul>                                                | 3:40 PM - October 27, 2025  |
-| [[01 inbox/wither-and-bloom 1261364869043585114\|wither-and-bloom 1261364869043585114]] | <ul><li>#COMPANYNAMEHERE</li><li>#📚-werk-chat</li></ul> | 12:53 PM - October 27, 2025 |
+| page                                                       | tags      | modified time                |
+| ---------------------------------------------------------- | --------- | ---------------------------- |
+| [[04 groups/mutants\|mutants]]                          | <ul></ul> | 2:35 PM - December 02, 2025  |
+| [[03 people/polly\|polly]]                              | <ul></ul> | 10:08 AM - December 02, 2025 |
+| [[03 people/kal\|kal]]                                  | <ul></ul> | 9:35 AM - December 02, 2025  |
+| [[03 people/the diminished one\|the diminished one]]    | <ul></ul> | 7:06 AM - October 30, 2025   |
+| [[01 inbox/semi-canon-fragments\|semi-canon-fragments]] | <ul></ul> | 4:02 PM - October 27, 2025   |
 
 { .block-language-dataview}
 
@@ -87,7 +87,7 @@ LIMIT 5
 | ------------------------------------------------------------------------------------ | ---------------------------- |
 | [[07 miscellaneous/wack\|wack]]                                                   | 9:43 PM - October 25, 2025   |
 | [[07 miscellaneous/a list of literary references\|a list of literary references]] | 2:44 PM - May 13, 2025       |
-| [[07 miscellaneous/glossary\|glossary]]                                           | 8:22 AM - May 01, 2025       |
+| [[07 miscellaneous/glossary\|glossary]]                                           | 11:47 AM - April 29, 2025    |
 | [[07 miscellaneous/mugwort\|mugwort]]                                             | 10:03 AM - December 30, 2024 |
 | [[07 miscellaneous/lepidoptera\|lepidoptera]]                                     | 10:01 AM - December 30, 2024 |
 
