@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/06-concepts/apotheosis/","created":"2024-12-26T08:27:25.142-06:00","updated":"2025-12-02T15:04:39.978-06:00"}
+{"dg-publish":true,"permalink":"/06-concepts/apotheosis/","created":"2024-12-26T08:27:25.142-06:00","updated":"2025-12-03T13:53:11.517-06:00"}
 ---
 
 # apotheosis
@@ -41,7 +41,7 @@ If the candidate **fails** apotheosis:
 
 - Their body mutates into something monstrous, unstable, and powerful
 - Their mind often fractures, breaks, or is replaced entirely
-- They are designated a [[04 groups/the devil princes\|devil prince]] and deployed to govern a [[05 places/the demonfields\|demonfield]]
+- They are designated a [[04 groups/the devil princes\|devil prince]] and deployed to govern a [[05 places/demonfields\|demonfield]]
 
 These failures are not discarded — they are weaponized.
 

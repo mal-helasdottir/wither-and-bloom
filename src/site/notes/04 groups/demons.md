@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-groups/demons/","created":"2024-10-28T09:23:22.257-05:00","updated":"2025-12-02T16:18:56.399-06:00"}
+{"dg-publish":true,"permalink":"/04-groups/demons/","created":"2024-10-28T09:23:22.257-05:00","updated":"2025-12-03T14:03:28.392-06:00"}
 ---
 
 # demons
@@ -22,7 +22,7 @@ When he consumed the [[03 people/the fallen flesh\|Fallen Flesh]] and tried to a
 
 Where the fragments landed, they grew. They consumed. They reproduced. The land beneath them warped into living meat, and from that meat, the first demons crawled.
 
-These primordial demons were not created by the [[05 places/the gardens\|Gardens]] or the [[06 concepts/the prodigy project\|Prodigy Project]]—they predate both. The Gardens were built _near_ pre-existing [[05 places/the demonfields\|demonfields]] to harvest what had already spawned. Later demons may arise through other means (breeding, spontaneous generation from concentrated Flesh, corruption of humans or animals), but the original population traces back to the CEO's moment of weakness.
+These primordial demons were not created by the [[05 places/the gardens\|Gardens]] or the [[06 concepts/the prodigy project\|Prodigy Project]]—they predate both. The Gardens were built _near_ pre-existing [[05 places/demonfields\|demonfields]] to harvest what had already spawned. Later demons may arise through other means (breeding, spontaneous generation from concentrated Flesh, corruption of humans or animals), but the original population traces back to the CEO's moment of weakness.
 
 The [[06 concepts/The CEO's Prophecies#^10ba11\|prophecy]] states they will "consume and grow and reproduce unchecked" until the CEO achieves true godhood. Until then, his control over them remains fickle at best.
 
@@ -66,7 +66,7 @@ Eat something with better claws, gain better claws. Eat something that knew the 
 
 Demons are not merely monsters—they're terraformers.
 
-The concentrated Flesh in the [[05 places/the demonfields\|demonfields]] produces massive atmospheric disturbances called **[[05 places/the demonwastes#the wyrmwinds\|Wyrmwinds]]**. These storms roll out across the [[05 places/the demonwastes\|wastes]] and reshape the atmosphere into something better suited for what the Flesh considers "perfect evolution."
+The concentrated Flesh in the [[05 places/demonfields\|demonfields]] produces massive atmospheric disturbances called **wrymwinds**. These storms roll out across [[05 places/the wastes\|the wastes]] and reshape the atmosphere into something better suited for what the Flesh considers "perfect evolution."
 
 Demons are part of this system. Their endless consumption, their constant fleshwarping, their very existence contributes to the slow transformation of the world. They're not just leftover chaos from the CEO's apotheosis—they're an engine of change, working to remake reality whether anyone wants them to or not.
 
@@ -74,7 +74,7 @@ Demons are part of this system. Their endless consumption, their constant fleshw
 
 ## society (such as it is)
 
-Demons do not build civilizations. They cluster in [[05 places/the demonwastes\|Demon Fields]]—regions so saturated with Flesh that the land itself has become meat, pulsing and alive. These fields are typically ruled by a [[04 groups/the devil princes\|Devil]], though the degree of control varies enormously.
+Demons do not build civilizations. They cluster in [[05 places/demonfields\|demonfields]]—regions so saturated with Flesh that the land itself has become meat, pulsing and alive. These fields are typically ruled by a [[04 groups/the devil princes\|Devil]], though the degree of control varies enormously.
 
 Some Devils treat their demons as subjects or soldiers, organizing them into something resembling armies. Others simply let them run wild, enjoying the chaos of constant demon-on-demon slaughter as a kind of entertainment or natural selection.
 
@@ -126,7 +126,7 @@ The greater concern is always the Devil behind the swarm—demons don't organize
 ## see also
 
 - [[04 groups/the devil princes\|the devil princes]] — the apex predators of the Flesh hierarchy
-- [[05 places/the demonwastes\|the demonwastes]] — where demons dwell
+- [[05 places/demonfields\|demonfields]] — where demons dwell
 - [[06 concepts/flesh warping\|flesh warping]] — the signature power of Flesh creatures
 - [[06 concepts/cannibalism\|cannibalism]] — the economy of power among the fallen
 - [[06 concepts/languages#screwtape\|screwtape]] — demon tongue

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-people/the-ceo/","created":"2024-08-08T14:56:38.000-05:00","updated":"2025-12-02T14:56:24.995-06:00"}
+{"dg-publish":true,"permalink":"/03-people/the-ceo/","created":"2024-08-08T14:56:38.000-05:00","updated":"2025-12-03T13:53:11.401-06:00"}
 ---
 
 # the ceo
@@ -20,7 +20,7 @@ The [[04 groups/acolytes of the infinite pattern\|Acolytes of the Pattern]] deci
 
 This is also when David returns to the public eye declaring himself Adam the first human and soon to be god.  He then begins the ritual he learned through his madness by ingesting the eyes and attempting to become the Avatar of [[03 people/the fallen flesh\|the fallen flesh]].  He does this atop his skyscraper in Austin
 
-A human body is not made to hold a god, and so as soon as the ritual finishes it starts going bad.  Adam’s form begins to flesh warp spontaneously and threats to tear itself apart. Several gobs of Flesh fly free from his form and land in various parts of the US which would eventually grow to become the [[05 places/the demonfields\|Demon Fields]].  He manages to regain control but only buy devoting nearly all of his godly power to holding himself together. He must use 98% of his divine power to keep himself held together in a “Mostly” human form… one forever altered though.  2% of a gods power is more than anyone else on the planet has though, so he figures it is enough until he is able to devise a way to stabilize himself.
+A human body is not made to hold a god, and so as soon as the ritual finishes it starts going bad.  Adam’s form begins to flesh warp spontaneously and threats to tear itself apart. Several gobs of Flesh fly free from his form and land in various parts of the US which would eventually grow to become the [[05 places/demonfields\|Demon Fields]].  He manages to regain control but only buy devoting nearly all of his godly power to holding himself together. He must use 98% of his divine power to keep himself held together in a “Mostly” human form… one forever altered though.  2% of a gods power is more than anyone else on the planet has though, so he figures it is enough until he is able to devise a way to stabilize himself.
 
 The [[04 groups/acolytes of the infinite pattern\|acolytes of the pattern]], who ware watching via satellite  waits until the ritual nearly finishes to act.  They had hoped with our fail, but when Adam starts to regain control they fire two nukes.  One at the trench the the Gulf, and another at the Eden Energy Headquarters in Austin. 
 
@@ -43,7 +43,7 @@ Well he has been at it a while. and each time has gotten a little better. As he 
 
 A piece of his own flesh that contains a portion of [[03 people/the fallen flesh\|the fallen flesh]]'s direct power, which he refers to as a "[[06 concepts/sliver of divinity\|Sliver of Divinity]]."
 
-Until [[03 people/rose\|rose]], every one of his children who consumed this [[06 concepts/sliver of divinity\|Sliver of Divinity]] would either immediately or very quickly Flesh Warp into a monster; no longer human. A failure in the CEO's eyes. They often experienced fits of insanity as well and tended to kill most inhabitants in the [[05 places/the gardens\|Garden]] before they could be expelled into a [[05 places/the demonfields\|Demon Field]] (This is one of various reasons why [[05 places/the gardens\|Gardens]] of built near DFs in addition to having access to [[04 groups/demons\|demons]] to study etc).
+Until [[03 people/rose\|rose]], every one of his children who consumed this [[06 concepts/sliver of divinity\|Sliver of Divinity]] would either immediately or very quickly Flesh Warp into a monster; no longer human. A failure in the CEO's eyes. They often experienced fits of insanity as well and tended to kill most inhabitants in the [[05 places/the gardens\|Garden]] before they could be expelled into a [[05 places/demonfields\|Demon Field]] (This is one of various reasons why [[05 places/the gardens\|Gardens]] of built near DFs in addition to having access to [[04 groups/demons\|demons]] to study etc).
 
 These Children became the Devils of those fields at this point. some of the later versions fleshwarped less and might still look closer to human, other regain some of their sanity and can be spoken to and reasoned with. the earlier ones (like Cerberus) remain mostly unfeeling rage beast like many [[04 groups/demons\|demons]] are but way stronger and more powerful because they have a part of god inside them.
 

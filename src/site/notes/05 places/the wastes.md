@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-places/the-wastes/","created":"2024-10-28T09:20:32.039-05:00","updated":"2025-12-03T13:32:49.343-06:00"}
+{"dg-publish":true,"permalink":"/05-places/the-wastes/","created":"2024-10-28T09:20:32.039-05:00","updated":"2025-12-03T14:05:28.505-06:00"}
 ---
 
 # the wastes
@@ -10,7 +10,7 @@ the large stretches of the former continental united states that are *not*
 - [[05 places/the most holy city of imperial zion\|the most holy city of imperial zion]] itself
 - [[04 groups/mutants\|mutant]] strongholds
 - [[05 places/the gardens\|gardens]]
-- [[05 places/the demonfields\|the demonfields]]
+- [[05 places/demonfields\|demonfields]]
 
 ---
 
@@ -37,7 +37,7 @@ the habitable world has shrunk considerably since [[02 history/the revelation\|t
 ### the western wastes
 
 - the primary setting of the story. stretches from the rocky mountains to the pacific coast, from the northern reaches of old canada down through mexico.
-- dotted with [[05 places/the demonfields\|demonfields]]—patches of land where the Flesh is raw and uncontrolled, where the atmosphere is thick enough to kill, where flora and fauna have twisted into demons. green skies everywhere, but in the fields it's _green_, dense and choking.
+- dotted with [[05 places/demonfields\|demonfields]]—patches of land where the Flesh is raw and uncontrolled, where the atmosphere is thick enough to kill, where flora and fauna have twisted into demons. green skies everywhere, but in the fields it's _green_, dense and choking.
 - between the demonfields: irradiated desert, scrubland, rusting ruins. still green-skied, still corrosive, but survivable with preparation. this is where the [[04 groups/corporate empire of zion\|empire's]] franchises sit, where [[05 places/battery city\|battery city]]'s tunnels run, where waster settlements scratch out survival.
 - traversable with the right gear. deadly without it. but people live here. people have always lived here.
 
@@ -65,7 +65,7 @@ the habitable world has shrunk considerably since [[02 history/the revelation\|t
 ### the empire
 
 - corpo citizens know what the empire tells them, which is almost nothing.
-- official curriculum doesn't acknowledge the old world in detail. history begins with [[02 history/the revelation\|the revelation]]. geography begins with zion. everything outside the walls is "the wilds"—a vague, threatening outside that exists only to make citizens grateful for the walls.
+- official curriculum doesn't acknowledge the old world in detail. history begins with [[02 history/the revelation\|the revelation]]. geography begins with zion. everything outside the walls is "[[05 places/the wastes\|the wilds]]"—a vague, threatening outside that exists only to make citizens grateful for the walls.
 - if the drowned east is mentioned at all, it's in religious terms. the sinful cities. the wicked who were punished. sodom and gomorrah made literal. a cautionary tale about what happens to those who lived outside the CEO's grace.
 - more practically: "eastern reclamation projects" occasionally appear in workforce allocation reports. voluntary transfers. good pay. no one comes back to complain about the conditions.
 - the most effective propaganda is silence. kids born in zion have no reason to know new york ever existed. you can't miss what you never knew was there.

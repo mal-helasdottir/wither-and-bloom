@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-history/rough-timeline/","created":"2024-08-21T14:33:28.000-05:00","updated":"2025-12-02T15:04:39.961-06:00"}
+{"dg-publish":true,"permalink":"/02-history/rough-timeline/","created":"2024-08-21T14:33:28.000-05:00","updated":"2025-12-03T13:53:11.337-06:00"}
 ---
 
 
@@ -35,7 +35,7 @@
 
 ## [[02 history/the revelation\|The Revelation]]
 - 9/9/1991 [[03 people/the ceo\|The CEO]] consumes the last intact eye of [[03 people/the fallen flesh\|the fallen flesh]] in an [[06 concepts/apotheosis\|apotheosis]] ritual.  
-	- The ritual is imperfect  Flesh begins to grow and multiply and shoot off of the CEO, spreading patches of it around the Western United States, these patches will eventually become the [[05 places/the demonfields\|Demonfields]] as Flora and Fauna in these areas begin to undergo transformations of [[03 people/the fallen flesh\|the Flesh]].
+	- The ritual is imperfect  Flesh begins to grow and multiply and shoot off of the CEO, spreading patches of it around the Western United States, these patches will eventually become the [[05 places/demonfields\|Demonfields]] as Flora and Fauna in these areas begin to undergo transformations of [[03 people/the fallen flesh\|the Flesh]].
 	- The CEO's form begins to fleshwarp wildly as well, as [[03 people/the fallen flesh\|the fallen flesh]] takes root, a human body is an unsuitable vessel for the Fleshwarper.  The CEO feels himself beginning to unravel.
 	- The CEO, in a desperate bid to hold on to divinity is forced to use nearly 99% of his power to hold himself together and manages to somewhat stabilize his form and halt the uncontrolled flesh warping. 
 - The Anunnaki, recognizing [[03 people/the fallen flesh\|the fallen flesh]] is reawakening before their lord is able to return fall back on a contingency plan it is one meant to delay more than anything.  They drop several nuclear bombs on the Gulf of Mexico and several Key Cities in the Mid Western United States, including Austin.
@@ -53,7 +53,7 @@
 	- Humans probably were awful to their mutant children at first.  many were probably killed shortly after birth until it became obvious the problem wasn't going away.
 - ~3-4 years ATD [[04 groups/demons\|Demons]] are thriving in the areas covered by the Flesh during the CEO's Apotheosis.  The sky around these areas bein to warp and change turning green as the atmosphere shifts to favor that of the Flesh.  Winds begin blowing Chlorine Storms about, deadly to non-mutants and highly oxidizing to metal, these storms are usually preceded by the sky turning Green before a thick burning mist rolls in.  **we need a colloquial name for these storms**  
 - There are early attempts at reestablishing the US Government and old Cities or States as well, but they all fail to war or rebellion. Eventually new Cities, and sometime city-states will rise and fall during this time period. Some of the larger Cities doe have some longer term success where infrastructure was still mostly intact.
-	- Cities closest to [[05 places/the demonfields\|Demon Fields]] tend to be overrun by demons
+	- Cities closest to [[05 places/demonfields\|Demon Fields]] tend to be overrun by demons
 	- Its not unheard of for a thriving City to get hit with a bad fall out or chlorine storm wiping it out or severely setting back any progress
 	- The world had become mostly reliant on LN products prior to [[02 history/the revelation\|the Revelation]], so not having ready access to new sources (while LN power is long lasting it is still very finite outside of Zion) while the dome is closed causes lots of problems, some of the settlements are able to make use of other sources of power (dams, wind, etc.)  but these tend to be especially susceptible to the storms.
 	- Inter-settlement wars, and large bandit groups also serve to stagnate technological advances and slow the reformation of a united society outside of Zion as well.
@@ -64,7 +64,7 @@
 	- The Anunnaki tend to ignore the plights of humans and mutants in the waste considering it their priority is to observe and study until word is received from [[03 people/the infinite pattern\|the pattern]] these settlements are very insular as a result and unwelcoming of most outsiders.  
 - ~100 years ATD the mutant population is roughly equal to the human population in the waste.  They are becoming less shunned and more accepted as part of life in the new world.  Mutant run or mutant majority communities and settlements begin to appear along with Mutant run raiders and bandits.  
 - ~120 years ATD  a faction of Hybrid Anunnaki and Humans living in the Area begin collecting and cataloging all the remains of human history prior to the bombs dropping.  They justify this is part of their observation and recording keeping, but it is never fully sanctioned and merely tolerated as long as it doesn't interfere with the true works.  
-	- This faction eventually begins reaching out to non-anunnaki communities and venturing into ruins and even [[05 places/the demonfields\|demon fields]] in search of lost histories of the human race. Most of these expeditions are unsanctioned.
+	- This faction eventually begins reaching out to non-anunnaki communities and venturing into ruins and even [[05 places/demonfields\|demon fields]] in search of lost histories of the human race. Most of these expeditions are unsanctioned.
 	- The faction names itself [[04 groups/the brotherhood of gnosis\|the Brotherhood of Gnosis]] and after a few years most residents of the Area are either members of the brotherhood or sympathetic to their cause.  
 	- The Anunnaki grudgingly put up with the brotherhood for about a decade, but when they learn they have been recruiting members outside of the Area, including mutants and humans from non-Anunnaki settlements and bands, it is decide the faction would be made illegal.
 	- ~135 ATD there is a rebellion/coup in the Area led by [[04 groups/the brotherhood of gnosis\|the Brotherhood of Gnosis]], who declare themselves full citizens of earth, a neutral faction in the old god war and no longer Acolytes of the Pattern.  The Brotherhood is successful in expelling the remnant of the Anunnaki faithful by capturing the pureblood leader of the Area.  They are granted their freedom in exchange for their release.  They are also fully banned from other Anunnaki settlements/territories.
@@ -84,7 +84,7 @@
 	- The City, now known as Zion, sets about expanding their reach in the wastelands.
 	- Each house sends representatives out into the wastes in order to establish [[05 places/franchise locations of the empire of zion\|franchises]]
 - 4 AR Jericho is established on what remains of the San Antonio, TX becoming the military hub of the [[04 groups/corporate empire of zion\|Corporate Empire of Zion]]
-- The [[06 concepts/the prodigy project\|Prodigy]] initiative is started and the first Garden is created near to a [[05 places/the demonfields\|Demon Field]] in former Las Vegas.
+- The [[06 concepts/the prodigy project\|Prodigy]] initiative is started and the first Garden is created near to a [[05 places/demonfields\|Demon Field]] in former Las Vegas.
 ## SERIES ONE
 ### prologue book one
 (some of this may be told in flashbacks, etc.)

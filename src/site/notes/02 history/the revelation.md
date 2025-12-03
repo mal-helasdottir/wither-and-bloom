@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-history/the-revelation/","created":"2024-10-28T08:56:58.489-05:00","updated":"2025-12-03T13:27:06.942-06:00"}
+{"dg-publish":true,"permalink":"/02-history/the-revelation/","created":"2024-10-28T08:56:58.489-05:00","updated":"2025-12-03T13:53:11.351-06:00"}
 ---
 
 # the revelation
@@ -33,7 +33,7 @@ the book of revelation's title in greek is ἀποκάλυψις (apokalypsis), 
     - Within a decade, everything east of the Appalachians was either underwater, irradiated beyond survival, or both.
 - The global death toll was incalculable. Billions died in the initial strikes. Billions more in the aftermath—starvation, radiation sickness, the collapse of supply chains, the wars that followed.
 - The western United States survived in patches. Inland. Higher elevation. Far enough from primary targets to avoid immediate vaporization, close enough to catch the fallout.
-    - This is where [[05 places/the demonfields\|the demonfields]] spread—the Flesh flung from the CEO's body during his failed apotheosis found purchase in irradiated soil.
+    - This is where [[05 places/demonfields\|demonfields]] spread—the Flesh flung from the CEO's body during his failed apotheosis found purchase in irradiated soil.
     - This is where the survivors crawled out of the rubble.
     - This is where the empire would rise.
     

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-groups/the-devil-princes/","created":"2024-10-28T09:22:56.000-05:00","updated":"2025-12-02T14:56:25.138-06:00"}
+{"dg-publish":true,"permalink":"/04-groups/the-devil-princes/","created":"2024-10-28T09:22:56.000-05:00","updated":"2025-12-03T13:53:11.440-06:00"}
 ---
 
 # the devil princes
@@ -28,7 +28,7 @@ Well he has been at it a while. and each time has gotten a little better. As he 
 
 - A piece of his own flesh that contains a portion of [[03 people/the fallen flesh\|the fallen flesh]]'s direct power, which he refers to as a "[[06 concepts/sliver of divinity\|Sliver of Divinity]]."
 
-Until [[03 people/rose\|Rose]], every one of his children who consumed this [[06 concepts/sliver of divinity\|Sliver of Divinity]] would either immediately or very quickly Flesh Warp into a monster; no longer human. A failure in the CEO's eyes. They often experienced fits of insanity as well and tended to kill most inhabitants in the [[05 places/the gardens\|Garden]] before they could be expelled into a [[05 places/the demonfields\|Demon Field]] (This is one of various reasons why Gardens of built near DFs in addition to having access to demons to study etc).
+Until [[03 people/rose\|Rose]], every one of his children who consumed this [[06 concepts/sliver of divinity\|Sliver of Divinity]] would either immediately or very quickly Flesh Warp into a monster; no longer human. A failure in the CEO's eyes. They often experienced fits of insanity as well and tended to kill most inhabitants in the [[05 places/the gardens\|Garden]] before they could be expelled into a [[05 places/demonfields\|Demon Field]] (This is one of various reasons why Gardens of built near DFs in addition to having access to demons to study etc).
 
 These Children became the Devils of those fields at this point. some of the later versions fleshwarped less and might still look closer to human, other regain some of their sanity and can be spoken to and reasoned with. the earlier ones (like Cerberus) remain mostly unfeeling rage beast like many demons are but way stronger and more powerful because they have a part of god inside them.
 
