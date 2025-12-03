@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","title":"index","hide":true,"hideInGraph":true,"tags":["gardenEntry"],"created":"2024-08-07T09:02:57.000-05:00","updated":"2025-12-02T15:04:39.996-06:00"}
+{"dg-publish":true,"permalink":"/index/","title":"index","hide":true,"hideInGraph":true,"tags":["gardenEntry"],"created":"2024-08-07T09:02:57.000-05:00","updated":"2025-12-03T13:29:07.543-06:00"}
 ---
 
 # 🥀 welcome!
@@ -9,13 +9,13 @@ wither & bloom is a post apocalyptic biopunk scientific romance written by two l
 
 ---
 ## 📌recent page changes
-| page                                              | tags      | modified time                |
-| ------------------------------------------------- | --------- | ---------------------------- |
-| [[05 places/the wilds\|the wilds]]             | <ul></ul> | 12:55 PM - December 03, 2025 |
-| [[02 history/the revelation\|the revelation]]  | <ul></ul> | 12:49 PM - December 03, 2025 |
-| [[03 people/violet\|violet]]                   | <ul></ul> | 9:07 PM - December 02, 2025  |
-| [[03 people/rose\|rose]]                       | <ul></ul> | 9:06 PM - December 02, 2025  |
-| [[05 places/the demonwastes\|the demonwastes]] | <ul></ul> | 4:20 PM - December 02, 2025  |
+| page                                              | tags      | modified time               |
+| ------------------------------------------------- | --------- | --------------------------- |
+| [[05 places/the wastes\|the wastes]]           | <ul></ul> | 1:32 PM - December 03, 2025 |
+| [[index\|index]]                               | <ul></ul> | 1:29 PM - December 03, 2025 |
+| [[05 places/the demonwastes\|the demonwastes]] | <ul></ul> | 1:29 PM - December 03, 2025 |
+| [[02 history/the revelation\|the revelation]]  | <ul></ul> | 1:27 PM - December 03, 2025 |
+| [[03 people/violet\|violet]]                   | <ul></ul> | 9:07 PM - December 02, 2025 |
 
 { .block-language-dataview}
 
@@ -40,7 +40,7 @@ wither & bloom is a post apocalyptic biopunk scientific romance written by two l
 >- [[05 places/the most holy city of imperial zion\|the most holy city of imperial zion]]
 >- [[05 places/franchise locations of the empire of zion\|franchise locations of the empire of zion]]
 >- [[05 places/Frontier and Mute Towns\|Frontier and Mute Towns]]
->- [[05 places/the wilds\|the wilds]]
+>- [[05 places/the wastes\|the wastes]]
 >- [[05 places/the demonfields\|the (demon)wastes]]
 >- [[05 places/the gardens\|the gardens]]
 

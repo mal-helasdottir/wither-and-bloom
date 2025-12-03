@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-places/the-demonwastes/","created":"2025-12-02T15:01:49.586-06:00","updated":"2025-12-02T16:20:12.064-06:00"}
+{"dg-publish":true,"permalink":"/05-places/the-demonwastes/","created":"2025-12-02T15:01:49.586-06:00","updated":"2025-12-03T13:29:07.528-06:00"}
 ---
 
 # the demonwastes
@@ -10,7 +10,7 @@
 
 The **Demonwastes** are the vast stretches of middle America rendered uninhabitable during and after [[02 history/the revelation\|the revelation]]. Irradiated, poisoned, and twisted by forces beyond comprehension, these lands are avoided by anyone with sense. The environment is hostile, resources are scarce, and worse things than weather wait in the deep places.
 
-The wastes are distinct from [[05 places/the wilds\|the wilds]]—while the wilds are merely lawless and dangerous, the wastes are _wrong_. The land itself resists human presence. Those who travel through do so quickly, quietly, and with full awareness that they may not emerge.
+The wastes are distinct from [[05 places/the wastes\|the wastes]]—while the wilds are merely lawless and dangerous, the wastes are _wrong_. The land itself resists human presence. Those who travel through do so quickly, quietly, and with full awareness that they may not emerge.
 
 Within the broader wastes lie the [[05 places/the demonfields\|demonfields]]: nine concentrated zones where the [[03 people/the fallen flesh\|Fallen Flesh]] has taken root and spread, saturating the land until the earth itself becomes meat. These are the domains of [[04 groups/demons\|demons]] and [[04 groups/the devil princes\|Devils]], and they are the source of everything that makes the wastes deadly.
 
@@ -91,4 +91,4 @@ The [[04 groups/corporate empire of zion\|corporate empire of zion]] views the D
 - [[04 groups/the devil princes\|the devil princes]] — the rulers of the fields
 - [[05 places/the gardens\|the gardens]] — facilities built at the wastes' edges
 - [[06 concepts/apotheosis\|apotheosis]] — the ritual that created the wastes
-- [[05 places/the wilds\|the wilds]] — the lawless but survivable lands beyond corporate control
+- [[05 places/the wastes\|the wastes]] — the lawless but survivable lands beyond corporate control
