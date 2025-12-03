@@ -9,13 +9,13 @@ wither & bloom is a post apocalyptic biopunk scientific romance written by two l
 
 ---
 ## 📌recent page changes
-| page                                                          | tags      | modified time               |
-| ------------------------------------------------------------- | --------- | --------------------------- |
-| [[05 places/the demonwastes\|the demonwastes]]             | <ul></ul> | 4:20 PM - December 02, 2025 |
-| [[04 groups/demons\|demons]]                               | <ul></ul> | 4:18 PM - December 02, 2025 |
-| [[06 concepts/The CEO's Prophecies\|The CEO's Prophecies]] | <ul></ul> | 4:18 PM - December 02, 2025 |
-| [[05 places/the demonfields\|the demonfields]]             | <ul></ul> | 3:34 PM - December 02, 2025 |
-| [[index\|index]]                                           | <ul></ul> | 3:04 PM - December 02, 2025 |
+| page                                              | tags      | modified time                |
+| ------------------------------------------------- | --------- | ---------------------------- |
+| [[05 places/the wilds\|the wilds]]             | <ul></ul> | 12:55 PM - December 03, 2025 |
+| [[02 history/the revelation\|the revelation]]  | <ul></ul> | 12:49 PM - December 03, 2025 |
+| [[03 people/violet\|violet]]                   | <ul></ul> | 9:07 PM - December 02, 2025  |
+| [[03 people/rose\|rose]]                       | <ul></ul> | 9:06 PM - December 02, 2025  |
+| [[05 places/the demonwastes\|the demonwastes]] | <ul></ul> | 4:20 PM - December 02, 2025  |
 
 { .block-language-dataview}
 

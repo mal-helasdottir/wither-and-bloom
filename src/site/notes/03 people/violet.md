@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/03-people/violet/","created":"2024-08-08T14:04:12.276-05:00","updated":"2025-10-26T18:17:22.458-05:00"}
+{"dg-publish":true,"permalink":"/03-people/violet/","created":"2024-08-08T14:04:12.276-05:00","updated":"2025-12-02T21:07:55.504-06:00"}
 ---
 
 # Violet of Magdala
@@ -160,7 +160,7 @@ there are a number of quirks to her personality, a result of being raised as an 
 ---
 ## history
 ### birth & youth
-decanted at the greenhouse facility in [[05 places/franchise locations of the empire of zion#magdala\|magdala]]. paired within a few days to [[09 dynamics/rose x violet\|her 'twin']] [[03 people/rose\|rose]] and both sent to the nursery facility at [[05 places/franchise locations of the empire of zion#bethlehem\|bethlehem]]
+decanted at the greenhouse facility in [[05 places/franchise locations of the empire of zion#magdala\|magdala]]. paired within a few days to [[09 dynamics/rose x violet\|her 'twin']] [[03 people/rose\|rose]] and both sent to the garden facility at [[05 places/franchise locations of the empire of zion#bethlehem\|bethlehem]], [[05 places/the gardens#eden\|eden]]
 
 ### prodigy subject & testing
 

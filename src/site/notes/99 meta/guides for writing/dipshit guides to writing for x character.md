@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/99-meta/guides-for-writing/dipshit-guides-to-writing-for-x-character/","tags":["#style-guide","#meta","#hidden"],"created":"2025-10-31T10:42:03.375-05:00","updated":"2025-10-31T10:53:34.158-05:00"}
+{"dg-publish":true,"permalink":"/99-meta/guides-for-writing/dipshit-guides-to-writing-for-x-character/","tags":["style-guide","meta","hidden"],"created":"2025-10-31T10:42:03.375-05:00","updated":"2025-10-31T10:53:34.158-05:00"}
 ---
 
 # WITHER & BLOOM: THE COMPLETE DIPSHIT GUIDES
